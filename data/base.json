@@ -1,6 +1,120 @@
 {
   "articles": [
     {
+      "id": "ilon-mask-uveren-chto-spacex-uzhe-v-sleduyuschem-2026-09-15",
+      "category": "Новости",
+      "title": "Илон Маск уверен, что SpaceX уже в следующем году запустит в космос ЦОД на Nvidia Vera Rubin",
+      "excerpt": "Илон Маск уверен, что SpaceX уже в следующем году запустит в космос ЦОД на Nvidia Vera Rubin",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Илон Маск уверен, что SpaceX уже в следующем году запустит в",
+      "metaDescription": "Илон Маск уверен, что SpaceX уже в следующем году запустит в космос ЦОД на Nvidia Vera Rubin",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148508"
+    },
+    {
+      "id": "rocket-lab-oboshla-kitayskie-sanktsii-i-sozdala--2026-09-15",
+      "category": "Новости",
+      "title": "Rocket Lab обошла китайские санкции и создала солнечный элемент для космоса без дефицитного германия",
+      "excerpt": "Rocket Lab обошла китайские санкции и создала солнечный элемент для космоса без дефицитного германия",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Rocket Lab обошла китайские санкции и создала солнечный элем",
+      "metaDescription": "Rocket Lab обошла китайские санкции и создала солнечный элемент для космоса без дефицитного германия",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148507"
+    },
+    {
+      "id": "kitay-nastupaet-na-pyatki-yuzhnoy-koree-v-proizv-2026-09-15",
+      "category": "Новости",
+      "title": "Китай наступает на пятки Южной Корее в производстве памяти — отставание в HBM сократилось до трёх лет",
+      "excerpt": "Китай наступает на пятки Южной Корее в производстве памяти — отставание в HBM сократилось до трёх лет",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Китай наступает на пятки Южной Корее в производстве памяти —",
+      "metaDescription": "Китай наступает на пятки Южной Корее в производстве памяти — отставание в HBM сократилось до трёх лет",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148510"
+    },
+    {
+      "id": "kalendar-relizov-14-20-sentyabrya-marvel-s-wolve-2026-09-15",
+      "category": "Новости",
+      "title": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "excerpt": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active",
+      "metaDescription": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148455"
+    },
+    {
+      "id": "novyy-treyler-podtverdil-datu-vyhoda-the-veti-s--2026-09-15",
+      "category": "Новости",
+      "title": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "excerpt": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масш",
+      "metaDescription": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148452"
+    },
+    {
+      "id": "torgovaya-marka-rassekretila-nazvanie-sikvela-li-2026-09-15",
+      "category": "Новости",
+      "title": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "excerpt": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "date": "2026-09-14",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Торговая марка рассекретила название сиквела Lies of P — пох",
+      "metaDescription": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148458"
+    },
+    {
       "id": "sprovotsirovali-haos-sozdateli-ii-druzhno-spohva-2026-09-15",
       "category": "Новости",
       "title": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
