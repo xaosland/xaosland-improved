@@ -1,6 +1,120 @@
 {
   "articles": [
     {
+      "id": "sprovotsirovali-haos-sozdateli-ii-druzhno-spohva-2026-09-15",
+      "category": "Новости",
+      "title": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "excerpt": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что",
+      "metaDescription": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148459"
+    },
+    {
+      "id": "microsoft-ustanovila-ogranicheniya-dlya-buduschi-2026-09-15",
+      "category": "Новости",
+      "title": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "excerpt": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "date": "2026-09-14",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft установила ограничения для будущих ИИ-моделей, пок",
+      "metaDescription": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148460"
+    },
+    {
+      "id": "postapokalipticheskaya-strategiya-the-crab-is-wa-2026-09-15",
+      "category": "Новости",
+      "title": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "excerpt": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Постапокалиптическая стратегия The Crab is Walking от создат",
+      "metaDescription": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148462"
+    },
+    {
+      "id": "entuziasty-zapustili-need-for-speed-underground--2026-09-15",
+      "category": "Новости",
+      "title": "Энтузиасты запустили Need for Speed Underground 2 на Nintendo Switch, и это только начало",
+      "excerpt": "Энтузиасты запустили Need for Speed Underground 2 на Nintendo Switch, и это только начало",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Энтузиасты запустили Need for Speed Underground 2 на Nintend",
+      "metaDescription": "Энтузиасты запустили Need for Speed Underground 2 на Nintendo Switch, и это только начало",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148476"
+    },
+    {
+      "id": "google-perenesla-zaschitu-ot-ukachivaniya-s-pixe-2026-09-15",
+      "category": "Новости",
+      "title": "Google перенесла защиту от укачивания с Pixel на другие Android-смартфоны — точки будут обманывать мозг пассажира",
+      "excerpt": "Google перенесла защиту от укачивания с Pixel на другие Android-смартфоны — точки будут обманывать мозг пассажира",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Google перенесла защиту от укачивания с Pixel на другие Andr",
+      "metaDescription": "Google перенесла защиту от укачивания с Pixel на другие Android-смартфоны — точки будут обманывать мозг пассажира",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148485"
+    },
+    {
+      "id": "vlasti-ni-odnoy-iz-stran-mira-ne-gotovy-k-prishe-2026-09-15",
+      "category": "Новости",
+      "title": "Власти ни одной из стран мира не готовы к пришествию ИИ, предупредил Билл Гейтс",
+      "excerpt": "Власти ни одной из стран мира не готовы к пришествию ИИ, предупредил Билл Гейтс",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Власти ни одной из стран мира не готовы к пришествию ИИ, пре",
+      "metaDescription": "Власти ни одной из стран мира не готовы к пришествию ИИ, предупредил Билл Гейтс",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148489"
+    },
+    {
       "id": "ustroystvo-za-200-vzlamyvaet-pamyat-serverov-za--2026-09-15",
       "category": "Новости",
       "title": "Устройство за $200 взламывает память серверов за миллионы долларов — Intel и AMD не собираются ничего исправлять",
