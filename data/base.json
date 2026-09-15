@@ -1,6 +1,120 @@
 {
   "articles": [
     {
+      "id": "vodorodnaya-aviatsiya-spotknulas-o-problemu-ohla-2026-09-15",
+      "category": "Новости",
+      "title": "Водородная авиация споткнулась о проблему охлаждения — облик «зелёных» самолётов придётся пересмотреть",
+      "excerpt": "Водородная авиация споткнулась о проблему охлаждения — облик «зелёных» самолётов придётся пересмотреть",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Водородная авиация споткнулась о проблему охлаждения — облик",
+      "metaDescription": "Водородная авиация споткнулась о проблему охлаждения — облик «зелёных» самолётов придётся пересмотреть",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148512"
+    },
+    {
+      "id": "samsung-vypustila-galaxy-a18-on-stal-tolsche-i-d-2026-09-15",
+      "category": "Новости",
+      "title": "Samsung выпустила Galaxy A18 — он стал толще и дороже предшественника, а о его чипе почти ничего не известно",
+      "excerpt": "Samsung выпустила Galaxy A18 — он стал толще и дороже предшественника, а о его чипе почти ничего не известно",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Samsung выпустила Galaxy A18 — он стал толще и дороже предше",
+      "metaDescription": "Samsung выпустила Galaxy A18 — он стал толще и дороже предшественника, а о его чипе почти ничего не известно",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148518"
+    },
+    {
+      "id": "oppo-predstavit-fotoflagman-find-x10-pro-max-i-d-2026-09-15",
+      "category": "Новости",
+      "title": "Oppo представит фотофлагман Find X10 Pro Max и другие гаджеты 22 сентября",
+      "excerpt": "Oppo представит фотофлагман Find X10 Pro Max и другие гаджеты 22 сентября",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Oppo представит фотофлагман Find X10 Pro Max и другие гаджет",
+      "metaDescription": "Oppo представит фотофлагман Find X10 Pro Max и другие гаджеты 22 сентября",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148519"
+    },
+    {
+      "id": "samsung-predstavila-svoy-samyy-byudzhetnyy-smart-2026-09-15",
+      "category": "Новости",
+      "title": "Samsung представила свой самый бюджетный смартфон Galaxy A08 — он получил 4 Гбайт LPDDR5X и батарею на 6000 мА·ч",
+      "excerpt": "Samsung представила свой самый бюджетный смартфон Galaxy A08 — он получил 4 Гбайт LPDDR5X и батарею на 6000 мА·ч",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Samsung представила свой самый бюджетный смартфон Galaxy A08",
+      "metaDescription": "Samsung представила свой самый бюджетный смартфон Galaxy A08 — он получил 4 Гбайт LPDDR5X и батарею на 6000 мА·ч",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148524"
+    },
+    {
+      "id": "pogloschennyy-11-let-nazad-intel-chipmeyker-alte-2026-09-15",
+      "category": "Новости",
+      "title": "Поглощённый 11 лет назад Intel чипмейкер Altera подал конфиденциальную заявку на IPO",
+      "excerpt": "Поглощённый 11 лет назад Intel чипмейкер Altera подал конфиденциальную заявку на IPO",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Поглощённый 11 лет назад Intel чипмейкер Altera подал конфид",
+      "metaDescription": "Поглощённый 11 лет назад Intel чипмейкер Altera подал конфиденциальную заявку на IPO",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148525"
+    },
+    {
+      "id": "roboty-stroyat-robotov-ubtech-zapustila-umnyy-za-2026-09-15",
+      "category": "Новости",
+      "title": "Роботы строят роботов: UBTech запустила умный завод человекоподобных машин",
+      "excerpt": "Роботы строят роботов: UBTech запустила умный завод человекоподобных машин",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Роботы строят роботов: UBTech запустила умный завод человеко",
+      "metaDescription": "Роботы строят роботов: UBTech запустила умный завод человекоподобных машин",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148526"
+    },
+    {
       "id": "ilon-mask-uveren-chto-spacex-uzhe-v-sleduyuschem-2026-09-15",
       "category": "Новости",
       "title": "Илон Маск уверен, что SpaceX уже в следующем году запустит в космос ЦОД на Nvidia Vera Rubin",
