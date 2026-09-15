@@ -17,3 +17,5 @@ backup-before-article-logic/
 # Локальные конфиги IDE
 .idea/
 .vscode/
+rss.xml
+sitemap.xml
