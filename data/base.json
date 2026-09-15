@@ -1,6 +1,278 @@
 {
   "articles": [
     {
+      "id": "human-attacker-exploits-marimo-rce-reaches-ssh-b-2026-09-15",
+      "category": "Новости",
+      "title": "Злоумышленник использовал Marimo RCE и добрался до бастиона SSH за восемь секунд",
+      "excerpt": "Благодаря тому, что искусственный интеллект (ИИ) сокращает интервал между обнаружением и использованием уязвимостей и снижает входной барьер для злоумышленников, новые результаты Sysdig показывают, что квалифицированные операторы-люди могут действова",
+      "date": "2026-09-15",
+      "readTime": 3,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Злоумышленник использовал Marimo RCE и добрался до бастиона ",
+      "metaDescription": "Благодаря тому, что искусственный интеллект (ИИ) сокращает интервал между обнаружением и использованием уязвимостей и снижает входной барьер для злоум",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
+    },
+    {
+      "id": "dzhibuti-stala-72-m-uchastnikom-soglasheniy-arte-2026-09-15",
+      "category": "Новости",
+      "title": "Джибути стала 72-м участником «соглашений Артемиды» — космическая коалиция NASA продолжает расширяться",
+      "excerpt": "Республика Джибути присоединилась к Artemis Accords — международным принципам сотрудничества при исследовании Луны, Марса и других объектов Солнечной системы. Страна стала 72-м участником соглашений и восьмым государством Африки, подписавшим документ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Джибути стала 72-м участником «соглашений Артемиды» — космич",
+      "metaDescription": "Республика Джибути присоединилась к Artemis Accords — международным принципам сотрудничества при исследовании Луны, Марса и других объектов Солнечной ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435982-dzibuti-stala-72-m-ucastnikom-soglasenii-artemidy-kosmiceskaia-koaliciia-nasa-prodolzaet-rassiriatsia.html"
+    },
+    {
+      "id": "cisa-critical-vmware-rce-flaw-now-exploited-by-r-2026-09-15",
+      "category": "Новости",
+      "title": "CISA: критическая уязвимость VMware RCE теперь используется бандами вымогателей",
+      "excerpt": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) предупредило службы безопасности, что банды программ-вымогателей теперь присоединились к продолжающимся атакам, используя критическую уязвимость VMware vCenter, исправленную в июле.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "CISA: критическая уязвимость VMware RCE теперь используется ",
+      "metaDescription": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) предупредило службы безопасности, что банды программ-вымогателей теперь присоедин",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
+    },
+    {
+      "id": "silno-dorozhe-galaxy-a17-i-s-urezannoy-pamyatyu--2026-09-15",
+      "category": "Новости",
+      "title": "Сильно дороже Galaxy A17 и с урезанной памятью: представлен Samsung Galaxy A18 4G",
+      "excerpt": "Samsung представляет второй бюджетный смартфон за день: сначала дебютировал Galaxy A08 4G (правда, без цены), а сейчас в Европе вышел Galaxy A18 4G. Смартфон уже появился на сайтах компании во Франции, Норвегии и Швеции.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Сильно дороже Galaxy A17 и с урезанной памятью: представлен ",
+      "metaDescription": "Samsung представляет второй бюджетный смартфон за день: сначала дебютировал Galaxy A08 4G (правда, без цены), а сейчас в Европе вышел Galaxy A18 4G. С",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435986-silno-doroze-galaxy-a17-i-s-urezannoi-pamiatiu-predstavlen-samsung-galaxy-a18-4g.html"
+    },
+    {
+      "id": "ii-agenty-stali-registrirovatsya-v-sotssetyah-i--2026-09-15",
+      "category": "Новости",
+      "title": "ИИ-агенты стали регистрироваться в соцсетях и засыпать администраторов платформ спамом",
+      "excerpt": "Некая компания iLands открыла доступ в интернет агентам искусственного интеллекта, которые стали регистрироваться в соцсетях. В случае блокировки своих учётных записей они пишут на электронную почту администраторам платформ. Есть мнение, что таким об",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "ИИ-агенты стали регистрироваться в соцсетях и засыпать админ",
+      "metaDescription": "Некая компания iLands открыла доступ в интернет агентам искусственного интеллекта, которые стали регистрироваться в соцсетях. В случае блокировки свои",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148511"
+    },
+    {
+      "id": "uncensored-ai-sold-on-hacking-forum-as-alternati-2026-09-15",
+      "category": "Новости",
+      "title": "Искусственный интеллект без цензуры продается на хакерском форуме в качестве альтернативы ChatGPT и джейлбрейку Claude",
+      "excerpt": "Как обнаружила компания Sophos, на хакерском форуме рекламируется новая служба подписки на искусственный интеллект под названием Luciferus как альтернатива джейлбрейку ChatGPT или Claude. Подразделение по борьбе с угрозами (CTU) заметило 24 августа н",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Искусственный интеллект без цензуры продается на хакерском ф",
+      "metaDescription": "Как обнаружила компания Sophos, на хакерском форуме рекламируется новая служба подписки на искусственный интеллект под названием Luciferus как альтерн",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/"
+    },
+    {
+      "id": "manhattan-da-takes-down-12-ai-deepfake-porn-site-2026-09-15",
+      "category": "Новости",
+      "title": "Прокуратура Манхэттена удалила 12 порносайтов с искусственным интеллектом",
+      "excerpt": "Окружной прокурор Манхэттена Элвин Брэгг провел в понедельник пресс-конференцию, на которой рассказал об удалении сайтов, на которых размещались сгенерированные искусственным интеллектом видео с участием более 1200 человек. Сайты позволяли пользовате",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Прокуратура Манхэттена удалила 12 порносайтов с искусственны",
+      "metaDescription": "Окружной прокурор Манхэттена Элвин Брэгг провел в понедельник пресс-конференцию, на которой рассказал об удалении сайтов, на которых размещались сгене",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites"
+    },
+    {
+      "id": "openai-investigates-report-linking-ai-agents-to--2026-09-15",
+      "category": "Новости",
+      "title": "OpenAI расследует отчет о связи агентов ИИ с атакой RubyGems",
+      "excerpt": "Инцидент произошел в мае, когда сопровождающие RubyGems приостановили регистрацию новых учетных записей из-за, по всей видимости, вредоносной активности. Сообщение OpenAI Investigates Report о связи агентов ИИ с атакой RubyGems впервые появилось на S",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "OpenAI расследует отчет о связи агентов ИИ с атакой RubyGems",
+      "metaDescription": "Инцидент произошел в мае, когда сопровождающие RubyGems приостановили регистрацию новых учетных записей из-за, по всей видимости, вредоносной активнос",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/"
+    },
+    {
+      "id": "iranian-hackers-use-telegram-controlled-malware--2026-09-15",
+      "category": "Новости",
+      "title": "Иранские хакеры используют вредоносное ПО, контролируемое Telegram, для шпионажа за диссидентами и журналистами",
+      "excerpt": "Агентства кибербезопасности в США, Великобритании и Нидерландах подробно описали вредоносное ПО для Windows, которое, по их словам, иранская разведка использует для шпионажа за диссидентами, журналистами и активистами по всему миру. Вредоносная прогр",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Иранские хакеры используют вредоносное ПО, контролируемое Te",
+      "metaDescription": "Агентства кибербезопасности в США, Великобритании и Нидерландах подробно описали вредоносное ПО для Windows, которое, по их словам, иранская разведка ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html"
+    },
+    {
+      "id": "kitay-dogonyaet-gigantov-pamyati-nand-i-dram-bez-2026-09-15",
+      "category": "Новости",
+      "title": "Китай догоняет гигантов памяти NAND и DRAM без EUV-литографии: YMTC и CXMT отстают от Samsung и SK hynix всего на год-два",
+      "excerpt": "Китайские производители памяти стремительно сокращают технологическое отставание от мировых лидеров. По оценке Корейской ассоциации полупроводниковой промышленности (KSIA), сейчас Китай отстает от Южной Кореи примерно на год в производстве NAND, на д",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Китай догоняет гигантов памяти NAND и DRAM без EUV-литографи",
+      "metaDescription": "Китайские производители памяти стремительно сокращают технологическое отставание от мировых лидеров. По оценке Корейской ассоциации полупроводниковой ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436030-kitai-dogoniaet-gigantov-pamiati-nand-i-dram-bez-euv-litografii-ymtc-i-cxmt-otstaiut-ot-samsung-i-sk-hynix-vsego-na-god-dva.html"
+    },
+    {
+      "id": "sotni-lyudey-chitayut-perepiski-polzovateley-s-c-2026-09-15",
+      "category": "Новости",
+      "title": "Сотни людей читают переписки пользователей с ChatGPT — и OpenAI платит им за это от $50 в час",
+      "excerpt": "Издание 404 Media выяснило, что OpenAI нанимает через подрядчиков сотни людей для анализа огромного потока запросов пользователей к ChatGPT. Их задача — улучшить качество ответов, которые ChatGPT выдаёт пользователям: люди оценивают и анализируют сге",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Сотни людей читают переписки пользователей с ChatGPT — и Ope",
+      "metaDescription": "Издание 404 Media выяснило, что OpenAI нанимает через подрядчиков сотни людей для анализа огромного потока запросов пользователей к ChatGPT. Их задача",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148530"
+    },
+    {
+      "id": "v-sleduyuschem-pokolenii-nastolnyh-protsessorov--2026-09-15",
+      "category": "Новости",
+      "title": "В следующем поколении настольных процессоров Intel не будет моделей с очень мощным графическим ядром",
+      "excerpt": "Судя по новым данным, компания Intel передумала выпускать настольные процессоры линейки Nova Lake с мощным iGPU. Инсайдер Jaykihn сообщил, что такие модели переехали на следующее поколение CPU.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В следующем поколении настольных процессоров Intel не будет ",
+      "metaDescription": "Судя по новым данным, компания Intel передумала выпускать настольные процессоры линейки Nova Lake с мощным iGPU. Инсайдер Jaykihn сообщил, что такие м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436033-v-sleduiushhem-pokolenii-nastolnyx-processorov-intel-ne-budet-modelei-s-ocen-moshhnym-graficeskim-iadrom.html"
+    },
+    {
+      "id": "m-a-zastavit-ii-rabotat-deshevle-firmennye-uskor-2026-09-15",
+      "category": "Новости",
+      "title": "M**a заставит ИИ работать дешевле — фирменные ускорители потеснят Nvidia в ЦОД уже в 2027 году",
+      "excerpt": "M**a Platforms планирует начать использование новых ИИ-ускорителей собственной разработки в центрах обработки данных в первой половине следующего года. В компании заявили, что это позволить сэкономить денежные средства и энергию при работе с ИИ-модел",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "M**a заставит ИИ работать дешевле — фирменные ускорители пот",
+      "metaDescription": "M**a Platforms планирует начать использование новых ИИ-ускорителей собственной разработки в центрах обработки данных в первой половине следующего года",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148529"
+    },
+    {
+      "id": "rtx-5080-chtoby-poigrat-v-1440p-avtory-007-first-2026-09-15",
+      "category": "Новости",
+      "title": "RTX 5080, чтобы поиграть в 1440p. Авторы 007 First Light опубликовали требования при активации трассировки пути",
+      "excerpt": "Разработчики игры 007 First Light выпустили ранее обещанное обновление, которое, кроме прочего, приносит игре поддержку трассировки пути и DLSS 4.5 Ray Reconstruction. Заодно авторы из IO Interactive опубликовали расширенные системные требования.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "RTX 5080, чтобы поиграть в 1440p. Авторы 007 First Light опу",
+      "metaDescription": "Разработчики игры 007 First Light выпустили ранее обещанное обновление, которое, кроме прочего, приносит игре поддержку трассировки пути и DLSS 4.5 Ra",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436036-rtx-5080-ctoby-poigrat-v-1440p-avtory-007-first-light-opublikovali-trebovaniia-pri-aktivacii-trassirovki-puti.html"
+    },
+    {
       "id": "china-spy-chief-points-at-us-ai-models-in-cyber--2026-09-15",
       "category": "Новости",
       "title": "Глава китайской разведки указывает на американские модели искусственного интеллекта в предупреждении о киберугрозах",
