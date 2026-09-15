@@ -107,9 +107,9 @@ function estimateReadTime(text) {
     return Math.max(1, Math.round(words / 180));
 }
 
-async function fetchText(url) {
+async function fetchText(url, timeoutMs) {
     const res = await fetch(url, {
-        signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+        signal: AbortSignal.timeout(timeoutMs || FETCH_TIMEOUT_MS),
         headers: { 'User-Agent': 'XaosLandNewsBot/1.0 (+https://xaosland.ru)' },
         redirect: 'follow',
     });
@@ -129,22 +129,93 @@ async function fetchText(url) {
 }
 
 // ---------------- Извлечение текста статьи ----------------
-const AD_PATTERNS = /^(подпис|реклам|фото:|видео:|источник:|читайте также|смотрите также|смотрите далее|не пропустите|ранее мы|наши соцсети|комментарии|обсудить|share|advertisement|ссылка по теме|материал (редактируется|дополняется))/i;
+const AD_PATTERNS = /^(подпис|реклам|фото:|видео:|источник:|читайте также|смотрите также|смотрите далее|не пропустите|ранее мы|наши соцсети|комментарии|обсудить|share|advertisement|ссылка по теме|материал (редактируется|дополняется)|sign up|subscribe|newsletter|read more|continue reading|see also|related:|advertisement|login|log in|register|cookie|privacy policy|terms of)/i;
 const SENT_LIMIT = parseInt(process.env.NEWS_SENTENCES || '10', 10);
 const BODY_MAX_CHARS = 3500;
+// Ридер-прокси для сайтов за Cloudflare (Dark Reading и т.п.) — бесплатный, без ключей.
+const READER_PROXY = 'https://r.jina.ai/';
 
 function countSentences(text) {
     return (text.match(/[.!?…]+(?=\s|$)/g) || []).length;
 }
 
+// Извлечение абзацев из Markdown-выдачи r.jina.ai: чистые строки-абзацы,
+// выкидываем заголовки, ссылки-навигацию, кнопки и пустышки.
+function extractParagraphsFromMarkdown(md, url) {
+    const out = [];
+    const seenPar = new Set();
+    const lines = md.split('\n');
+    let buf = '';
+    const flush = () => {
+        const text = buf.replace(/\s+/g, ' ').trim();
+        buf = '';
+        if (text.length < 40) return;
+        if (AD_PATTERNS.test(text)) return;
+        // Служебная шапка ридера и навигационный мусор
+        if (/^(Title|URL Source|Markdown Content|Published Time):/i.test(text)) return;
+        if (/^[#>*\-|\[\]]|^\d+\.\s|\]\(http/.test(text)) return; // заголовки/списки/ссылки
+        if ((text.match(/\|/g) || []).length > 2) return;            // таблицы
+        if (/^(want more|follow us|read more|share this|view the|back to|skip to|sign in|home\b|copyright|©|all rights reserved|keep up with)/i.test(text)) return;
+        // Короткая строка без точки в конце — тизер-заголовок, не абзац
+        if (text.length < 80 && !/[.!?…]$/.test(text)) return;
+        const key = text.slice(0, 60);
+        if (seenPar.has(key)) return;
+        seenPar.add(key);
+        out.push(text);
+    };
+    for (const line of lines) {
+        const t = line.trim();
+        if (t === '') { flush(); continue; }
+        // Строки-изображения и прочий нерабочий мусор не попадают в абзацы
+        if (/^!\[/.test(t) || /^blob:/.test(t)) continue;
+        if (/^(Title|URL Source|Markdown Content|Published Time):/i.test(t)) continue;
+        if (/^\[[^\]]*\]\(http[^)]*\)$/.test(t)) continue; // одиночная ссылка-строка
+        buf += (buf ? ' ' : '') + t;
+    }
+    flush();
+    // Набираем до SENT_LIMIT предложений с лимитом длины
+    const picked = [];
+    let sentences = 0, total = 0;
+    for (const p of out) {
+        picked.push(p);
+        sentences += countSentences(p);
+        total += p.length;
+        if (sentences >= SENT_LIMIT || total >= BODY_MAX_CHARS) break;
+    }
+    // Контроль качества: почти ничего осмысленного — значит статьи тут нет
+    if (picked.length < 2 || sentences < 2) return [];
+    return picked;
+}
+
 async function extractArticleText(url) {
     let html;
+    let fromProxy = false;
     try {
         html = await fetchText(url);
     } catch (e) {
-        console.warn(`   ⚠️ не удалось скачать статью (${e.message})`);
-        return [];
+        // 403/503 и прочее — чаще всего Cloudflare: сразу пробуем через ридер-прокси
+        console.warn(`   ⚠️ прямой запрос не удался (${e.message}), пробую r.jina.ai`);
+        try {
+            html = await fetchText(READER_PROXY + url, 30000);
+            fromProxy = true;
+        } catch (e2) {
+            console.warn(`   ⚠️ ридер-прокси тоже не отдал статью: ${e2.message}`);
+            return [];
+        }
     }
+    // Сервер отдал 200, но это заглушка (Cloudflare-челлендж, логин и т.п.)?
+    if (!fromProxy && (/<title[^>]*>\s*(just a moment|attention required|access denied|are you a robot)/i.test(html)
+        || (html.length < 15000 && /challenge-platform|cf-chl|enable javascript/i.test(html)))) {
+        console.warn('   ⛔ Cloudflare-заглушка, пробую через r.jina.ai');
+        try {
+            html = await fetchText(READER_PROXY + url, 30000);
+            fromProxy = true;
+        } catch (e2) {
+            console.warn(`   ⚠️ ридер-прокси тоже не отдал статью: ${e2.message}`);
+            return [];
+        }
+    }
+    if (fromProxy) return extractParagraphsFromMarkdown(html, url);
     // Убираем шум до извлечения параграфов
     const cleaned = html
         .replace(/<script[\s\S]*?<\/script>/gi, ' ')
