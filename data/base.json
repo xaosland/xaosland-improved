@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "kitay-zapustil-podzemnuyu-superbatareyu-na-700-m-2026-09-15",
+      "category": "Новости",
+      "title": "Китай запустил подземную «супербатарею» на 700 МВт — воздух закачивают на глубину 1 км. Расчётный КПД превышает 70%",
+      "excerpt": "Китай завершил полный запуск двух энергоблоков второй очереди хранилища сжатого воздуха Huaneng Jintan в провинции Цзянсу. Два блока по 350 МВт дают системе суммарную мощность 700 МВт, а подземные соляные каверны находятся на глубине почти 1 км. Прое",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Китай запустил подземную «супербатарею» на 700 МВт — воздух ",
+      "metaDescription": "Китай завершил полный запуск двух энергоблоков второй очереди хранилища сжатого воздуха Huaneng Jintan в провинции Цзянсу. Два блока по 350 МВт дают с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436002-kitai-zapustil-podzemnuiu-superbatareiu-na-700-mvt-vozdux-zakacivaiut-na-glubinu-1-km-rascetnyi-kpd-prevysaet-70.html"
+    },
+    {
+      "id": "za-pyat-dney-v-rannem-dostupe-steam-prodazhi-war-2026-09-15",
+      "category": "Новости",
+      "title": "За пять дней в раннем доступе Steam продажи Wardogs превысили два миллиона копий — успех игры защитит разработчиков от увольнений",
+      "excerpt": "Разработчики из британской студии Bulkhead (Battalion 1944) при поддержке издательства Team17 отчитались о новом успехе находящегося в раннем доступе мультиплеерного тактического шутера Wardogs. Источник изображений: Team17",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "За пять дней в раннем доступе Steam продажи Wardogs превысил",
+      "metaDescription": "Разработчики из британской студии Bulkhead (Battalion 1944) при поддержке издательства Team17 отчитались о новом успехе находящегося в раннем доступе ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148520"
+    },
+    {
+      "id": "v-servernyh-produktah-gitlab-nashlas-uyazvimost--2026-09-15",
+      "category": "Новости",
+      "title": "В серверных продуктах GitLab нашлась уязвимость, которую эксплуатируют хакеры — рекомендовано срочно обновиться",
+      "excerpt": "Агентство по кибербезопасности и защите инфраструктуры (CISA) США внесло новую уязвимость GitLab в каталог KEV, предупредив клиентов платформы о том, что она активно эксплуатируется киберпреступниками в реальных атаках. Источник изображения: Fotis Fo",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В серверных продуктах GitLab нашлась уязвимость, которую экс",
+      "metaDescription": "Агентство по кибербезопасности и защите инфраструктуры (CISA) США внесло новую уязвимость GitLab в каталог KEV, предупредив клиентов платформы о том, ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148521"
+    },
+    {
+      "id": "36-yadernaya-platforma-apple-m5-ultra-oboshla-po-2026-09-15",
+      "category": "Новости",
+      "title": "36-ядерная платформа Apple M5 Ultra обошла по производительности 96-ядерный Ryzen Threadripper PRO 9995WX",
+      "excerpt": "Новая однокристальная система Apple M5 Ultra показала впечатляющий результат в Geekbench 7 — она опередила 96-ядерный AMD Ryzen Threadripper PRO 9995WX, причем как в однопоточном, так и в многопоточном тестах.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "36-ядерная платформа Apple M5 Ultra обошла по производительн",
+      "metaDescription": "Новая однокристальная система Apple M5 Ultra показала впечатляющий результат в Geekbench 7 — она опередила 96-ядерный AMD Ryzen Threadripper PRO 9995W",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436004-36-iadernaia-platforma-apple-m5-ultra-obosla-po-proizvoditelnosti-96-iadernyi-ryzen-threadripper-pro-9995wx.html"
+    },
+    {
+      "id": "electric-and-gas-utility-centerpoint-energy-warn-2026-09-15",
+      "category": "Новости",
+      "title": "Электрическая и газовая компания CenterPoint Energy предупреждает об утечке данных после публикации в даркнете",
+      "excerpt": "Хьюстонская компания CenterPoint Energy уведомила федеральные регулирующие органы об инциденте, в результате которого некоторые данные клиентов оказались в даркнете.",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Электрическая и газовая компания CenterPoint Energy предупре",
+      "metaDescription": "Хьюстонская компания CenterPoint Energy уведомила федеральные регулирующие органы об инциденте, в результате которого некоторые данные клиентов оказал",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/centerpoint-energy-data-breach"
+    },
+    {
+      "id": "5-9-tonn-yadernogo-topliva-v-god-na-ploschadi-11-2026-09-15",
+      "category": "Новости",
+      "title": "5,9 тонн ядерного топлива в год на площади 111 м²: США делают ставку на компактное производство HALEU",
+      "excerpt": "Американская компания Nusano получила поддержку Министерства энергетики США для разработки системы производства высокопробного низкообогащённого урана (HALEU) — топлива с содержанием урана-235 от 5% до 20%. Одна установка площадью около 111 м² должна",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "5,9 тонн ядерного топлива в год на площади 111 м²: США делаю",
+      "metaDescription": "Американская компания Nusano получила поддержку Министерства энергетики США для разработки системы производства высокопробного низкообогащённого урана",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436005-59-tonn-iadernogo-topliva-v-god-na-ploshhadi-111-m2-ssa-delaiut-stavku-na-kompaktnoe-proizvodstvo-haleu.html"
+    },
+    {
+      "id": "bepicolombo-vpervye-vklyuchil-lazernyy-altimetr--2026-09-15",
+      "category": "Новости",
+      "title": "BepiColombo впервые включил лазерный альтиметр у Меркурия — теперь аппарат сможет начать строить карту планеты",
+      "excerpt": "На борту европейско-японской межпланетной станции BepiColombo впервые включили лазерный альтиметр BELA (BepiColombo Laser Altimeter) — прибор, который будет измерять поверхность Меркурия с помощью лазерных импульсов. До недавнего времени он был закры",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "BepiColombo впервые включил лазерный альтиметр у Меркурия — ",
+      "metaDescription": "На борту европейско-японской межпланетной станции BepiColombo впервые включили лазерный альтиметр BELA (BepiColombo Laser Altimeter) — прибор, который",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436007-bepicolombo-vpervye-vkliucil-lazernyi-altimetr-u-merkuriia-teper-apparat-smozet-nacat-stroit-kartu-planety.html"
+    },
+    {
+      "id": "hackers-target-wordpress-sites-via-third-party-w-2026-09-15",
+      "category": "Новости",
+      "title": "Хакеры атакуют сайты WordPress с помощью стороннего плагина WooCommerce",
+      "excerpt": "Хакеры активно используют критическую уязвимость в премиальном плагине WooCommerce Wholesale Lead Capture для WordPress, чтобы загрузить бэкдор PHP. [...]",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Хакеры атакуют сайты WordPress с помощью стороннего плагина ",
+      "metaDescription": "Хакеры активно используют критическую уязвимость в премиальном плагине WooCommerce Wholesale Lead Capture для WordPress, чтобы загрузить бэкдор PHP. [",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
+    },
+    {
+      "id": "v-amerike-proshlo-zakrytoe-testirovanie-zagadoch-2026-09-15",
+      "category": "Новости",
+      "title": "В Америке прошло закрытое тестирование загадочного AAA-файтинга — журналисты подозревают, что это Injustice 3",
+      "excerpt": "Горячо ожидаемый супергеройский файтинг Injustice 3 от издательства Warner Bros. Games и разработчиков из американской NetherRealm Studios до сих пор официально не анонсирован, но потенциально уже проходит закулисные тестирования. Источник изображени",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В Америке прошло закрытое тестирование загадочного AAA-файти",
+      "metaDescription": "Горячо ожидаемый супергеройский файтинг Injustice 3 от издательства Warner Bros. Games и разработчиков из американской NetherRealm Studios до сих пор ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148523"
+    },
+    {
+      "id": "bambootoken-malware-controls-windows-and-linux-s-2026-09-15",
+      "category": "Новости",
+      "title": "Вредоносное ПО BambooToken контролирует системы Windows и Linux через MQTT",
+      "excerpt": "Ранее неизвестная платформа вредоносного ПО под названием BambooToken, действующая как минимум с 2023 года, теперь использует протокол телеметрии очереди сообщений (MQTT) для связи с системами Windows и Linux. [...]",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вредоносное ПО BambooToken контролирует системы Windows и Li",
+      "metaDescription": "Ранее неизвестная платформа вредоносного ПО под названием BambooToken, действующая как минимум с 2023 года, теперь использует протокол телеметрии очер",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/"
+    },
+    {
+      "id": "igry-s-ii-v-odnoy-korobke-mts-obnovlyaet-pristav-2026-09-15",
+      "category": "Новости",
+      "title": "Игры с ИИ в одной коробке: МТС обновляет приставку Fog Play для ТВ",
+      "excerpt": "Оператор МТС представил новую медиаприставку Fog Play для ТВ со встроенным голосовым ИИ-помощником. Устройство объединяет облачный гейминг, ТВ и цифровые сервисы и может подключаться к телевизору, компьютеру или проектору через HDMI. Для работы испол",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Игры с ИИ в одной коробке: МТС обновляет приставку Fog Play ",
+      "metaDescription": "Оператор МТС представил новую медиаприставку Fog Play для ТВ со встроенным голосовым ИИ-помощником. Устройство объединяет облачный гейминг, ТВ и цифро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/igry-s-ii-v-odnoi-korobke-mts-obnovliaet-pristavku-fog-play-dlia-tv.html"
+    },
+    {
+      "id": "vectrarat-can-hack-windows-enterprises-for-250-p-2026-09-15",
+      "category": "Новости",
+      "title": "VectraRAT может взломать Windows Enterprise за 250 долларов в месяц",
+      "excerpt": "Платформа с полным спектром услуг «вредоносное ПО как услуга» (MaaS) предлагает имплантацию Windows, инфраструктуру управления и контроля (C2) и панель оператора для комплексного удаленного доступа.",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "VectraRAT может взломать Windows Enterprise за 250 долларов ",
+      "metaDescription": "Платформа с полным спектром услуг «вредоносное ПО как услуга» (MaaS) предлагает имплантацию Windows, инфраструктуру управления и контроля (C2) и панел",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises"
+    },
+    {
+      "id": "novaya-realnost-geforce-rtx-5090-v-ssha-stoit-uz-2026-09-15",
+      "category": "Новости",
+      "title": "Новая реальность: GeForce RTX 5090 в США стоит уже $7000–9000",
+      "excerpt": "GeForce RTX 5090 по рекомендованной цене практически исчезла из розницы в США. Официальная РРЦ версии Founders Edition по-прежнему составляет $2000, но найти видеокарту за эти деньги едва ли реально. На маркетплейсах отдельные экземпляры уже продаютс",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новая реальность: GeForce RTX 5090 в США стоит уже $7000–900",
+      "metaDescription": "GeForce RTX 5090 по рекомендованной цене практически исчезла из розницы в США. Официальная РРЦ версии Founders Edition по-прежнему составляет $2000, н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436026-novaia-realnost-geforce-rtx-5090-v-ssa-stoit-uze-7000-9000.html"
+    },
+    {
+      "id": "uchenye-teleportirovali-izobrazhenie-srazu-po-10-2026-09-15",
+      "category": "Новости",
+      "title": "Учёные телепортировали изображение сразу по 100 квантовым каналам",
+      "excerpt": "Это звучит как научная фантастика: квантовое состояние одной системы можно перенести, или «телепортировать», в другую систему, находящуюся на значительном расстоянии. Однако если в будущем квантовые компьютеры будут обмениваться данными через крупные",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Учёные телепортировали изображение сразу по 100 квантовым ка",
+      "metaDescription": "Это звучит как научная фантастика: квантовое состояние одной системы можно перенести, или «телепортировать», в другую систему, находящуюся на значител",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082674"
+    },
+    {
+      "id": "virtual-event-building-a-secure-ai-strategy-for--2026-09-15",
+      "category": "Новости",
+      "title": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "excerpt": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "date": "2026-10-08",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "[Виртуальное мероприятие] Создание безопасной стратегии иску",
+      "metaDescription": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026"
+    },
+    {
+      "id": "virtual-event-what-every-enterprise-should-know--2026-09-15",
+      "category": "Новости",
+      "title": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "excerpt": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "date": "2026-11-12",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "[Виртуальное мероприятие] Что каждое предприятие должно знат",
+      "metaDescription": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026"
+    },
+    {
       "id": "zelensky-appoints-former-police-chief-to-lead-uk-2026-09-15",
       "category": "Новости",
       "title": "Зеленский назначил бывшего начальника полиции главой украинского киберкоординационного центра",
