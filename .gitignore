@@ -12,6 +12,7 @@ qodana.sarif.json
 .DS_Store
 Thumbs.db
 xl-*.tar.gz
+backup-before-article-logic/
 
 # Локальные конфиги IDE
 .idea/
