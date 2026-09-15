@@ -17,15 +17,24 @@ const { isSafeArticleId } = require('./utils');
 
 // ---------------- Настройки ----------------
 const MAX_HOURS = parseInt(process.env.NEWS_MAX_HOURS || '48', 10);
-const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || '12', 10);
+const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || '16', 10);
 const FETCH_TIMEOUT_MS = 15000;
 
 const FEEDS = [
-    { name: 'Habr', url: 'https://habr.com/ru/rss/news/?fl=ru', maxAge: 24 },
-    { name: 'OpenNET', url: 'https://www.opennet.ru/opennews/opennews_all.rss', maxAge: 48 },
-    { name: 'Lenta.ru', url: 'https://lenta.ru/rss/news', maxAge: 12, keywords: ['интернет', 'технолог', 'компьютер', 'программ', 'хакер', 'цифров', 'искусственный интеллект', 'сайт', 'взлом', 'уязвим'] },
-    { name: '3DNews', url: 'https://www.3dnews.ru/news/rss/', maxAge: 24 },
-    { name: 'IXBT', url: 'https://www.ixbt.com/export/news.rss', maxAge: 24 },
+    // Русскоязычные
+    { name: 'Habr', url: 'https://habr.com/ru/rss/news/?fl=ru', maxAge: 26 },
+    { name: 'OpenNET', url: 'https://www.opennet.ru/opennews/opennews_all.rss', maxAge: 26 },
+    { name: 'Lenta.ru', url: 'https://lenta.ru/rss/news', maxAge: 14, keywords: ['интернет', 'технолог', 'компьютер', 'программ', 'хакер', 'цифров', 'искусственный интеллект', 'сайт', 'взлом', 'уязвим'] },
+    { name: '3DNews', url: 'https://www.3dnews.ru/news/rss/', maxAge: 26 },
+    { name: 'IXBT', url: 'https://www.ixbt.com/export/news.rss', maxAge: 26 },
+    // Англоязычные (с cambописи автоматически переводятся на русский)
+    { name: 'The Hacker News', url: 'https://feeds.feedburner.com/TheHackersNews', maxAge: 26, lang: 'en' },
+    { name: 'BleepingComputer', url: 'https://www.bleepingcomputer.com/feed/', maxAge: 26, lang: 'en' },
+    { name: 'Krebs on Security', url: 'https://krebsonsecurity.com/feed/', maxAge: 168, lang: 'en' },
+    { name: 'Dark Reading', url: 'https://www.darkreading.com/rss.xml', maxAge: 30, lang: 'en' },
+    { name: 'SecurityWeek', url: 'https://www.securityweek.com/feed/', maxAge: 30, lang: 'en' },
+    { name: 'The Record', url: 'https://therecord.media/feed/', maxAge: 26, lang: 'en' },
+    { name: 'Help Net Security', url: 'https://www.helpnetsecurity.com/feed/', maxAge: 30, lang: 'en' },
 ];
 
 const CATEGORY = 'Новости';
@@ -44,6 +53,8 @@ function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 function stripHtml(html) {
     return String(html || '')
+        .replace(/<!\[CDATA\[/g, '')
+        .replace(/\]\]>/g, '')
         .replace(/<script[\s\S]*?<\/script>/gi, ' ')
         .replace(/<style[\s\S]*?<\/style>/gi, ' ')
         .replace(/<[^>]+>/g, ' ')
@@ -189,6 +200,54 @@ async function extractArticleText(url) {
     return trimmed;
 }
 
+// ---------------- Перевод en→ru ----------------
+// Google-эндпоинт clients5 (dict-chrome-ex) — без ключей, стабильный JSON.
+// Fallback: api.mymemory.translated.net. При неудаче оставляем оригинал.
+const TRANS_DELAY_MS = 400;
+let lastTransAt = 0;
+const transCache = new Map();
+
+async function pacedDelay() {
+    const wait = lastTransAt + TRANS_DELAY_MS - Date.now();
+    if (wait > 0) await sleep(wait);
+    lastTransAt = Date.now();
+}
+
+async function gTranslate(text) {
+    const url = 'https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=en&tl=ru&q=' + encodeURIComponent(text);
+    const res = await fetch(url, {
+        signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    // Форматы ответа: ["текст"] или [["текст","en"],...]
+    if (Array.isArray(data)) {
+        if (typeof data[0] === 'string') return data.join('');
+        if (Array.isArray(data[0])) return data.map(x => (Array.isArray(x) ? x[0] : x)).join('');
+    }
+    throw new Error('неожиданный формат ответа');
+}
+
+async function translateText(text) {
+    if (!text) return text;
+    const key = text.slice(0, 120);
+    if (transCache.has(key)) return transCache.get(key);
+    let out = text;
+    for (let attempt = 0; attempt < 2; attempt++) {
+        try {
+            await pacedDelay();
+            out = await gTranslate(text.slice(0, 1800));
+            break;
+        } catch (e) {
+            if (attempt === 1) console.warn(`   ⚠️ перевод не удался, оставляю оригинал: ${e.message}`);
+            else await sleep(700);
+        }
+    }
+    transCache.set(key, out);
+    return out;
+}
+
 // ---------------- Парсинг RSS ----------------
 function parseRss(xml) {
     const items = [];
@@ -279,7 +338,7 @@ async function main() {
             const kw = feed.keywords || null;
 
             for (const item of items) {
-                if (articles.length + stats.added >= MAX_PER_RUN) break;
+                if (stats.added >= MAX_PER_RUN) break;
                 const seenKey = `${feed.name}|${item.link}`;
                 if (state.seen[seenKey]) continue;
                 const ts = parseDate(item.pubDate) || now;
@@ -300,6 +359,20 @@ async function main() {
                 // Качаем текст статьи и достаём до ~10 предложений
                 enriched.articleParagraphs = await extractArticleText(item.link);
 
+                // Англоязычные источники: переводим заголовок, описание и текст
+                if (feed.lang === 'en') {
+                    enriched.title = await translateText(item.title);
+                    enriched.description = item.description ? await translateText(item.description) : enriched.title;
+                    enriched.tagHint = 'безопасность';
+                    if (enriched.articleParagraphs && enriched.articleParagraphs.length) {
+                        const translated = [];
+                        for (const p of enriched.articleParagraphs) {
+                            translated.push(await translateText(p));
+                        }
+                        enriched.articleParagraphs = translated;
+                    }
+                }
+
                 const bodyText = (enriched.articleParagraphs || []).join(' ') || stripHtml(item.bodyHtml) || item.description || item.title;
                 enriched.readTime = estimateReadTime(bodyText);
 
@@ -309,16 +382,18 @@ async function main() {
                 const article = {
                     id,
                     category: 'Новости',
-                    title: item.title,
-                    excerpt: (item.description || item.title).slice(0, 250),
+                    title: enriched.title || item.title,
+                    excerpt: (enriched.description || item.description || item.title).slice(0, 250),
                     date,
                     readTime: enriched.readTime,
-                    tags: ['новости', feed.name.toLowerCase()],
+                    tags: feed.lang === 'en'
+                        ? ['новости', 'безопасность', feed.name.toLowerCase()]
+                        : ['новости', feed.name.toLowerCase()],
                     featured: false,
                     popular: false,
                     image: '',
-                    metaTitle: item.title.slice(0, 60),
-                    metaDescription: (item.description || item.title).slice(0, 150),
+                    metaTitle: (enriched.title || item.title).slice(0, 60),
+                    metaDescription: (enriched.description || item.description || item.title).slice(0, 150),
                     source: feed.name,
                     sourceUrl: item.link,
                 };
