@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "build-rss": "node scripts/generate-rss.js",
+    "build-sitemap": "node scripts/generate-sitemap.js",
+    "build-pages": "node scripts/generate-pages.js",
+    "add:article": "node scripts/add-article.js",
+    "fetch-news": "node scripts/fetch-news.js",
+    "news": "npm run fetch-news && npm run build",
+    "deploy": "bash scripts/deploy.sh",
+    "build": "npm run validate && npm run build-rss && npm run build-sitemap && npm run build-pages",
+    "dev": "npx http-server -c-1 . -p 3000",
+    "start": "npm run build && npx http-server dist -c-1 -p 3000",
+    "validate": "node scripts/validate-project.js"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "marked": "^12.0.0"
+  },
+  "name": "xaosland-improved",
+  "version": "1.0.0",
+  "main": "add-article.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

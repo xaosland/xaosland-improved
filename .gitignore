@@ -1,0 +1,18 @@
+# Зависимости и сборка
+node_modules/
+dist/
+
+# Runtime-состояние парсера новостей
+data/news-state.json
+
+# Артефакты и мусор
+qodana.sarif.json
+*.log
+*.tar.gz
+.DS_Store
+Thumbs.db
+xl-*.tar.gz
+
+# Локальные конфиги IDE
+.idea/
+.vscode/

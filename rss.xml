@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>XaosLand IT-блог</title>
+        <link>https://xaosland.ru</link>
+        <description>Новые статьи о технологиях, программах, играх и безопасности</description>
+        <language>ru</language>
+        <lastBuildDate>Tue, 15 Sep 2026 10:25:54 GMT</lastBuildDate>
+        <atom:link href="https://xaosland.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+        <title>������ �������������� KeyCut 1.0</title>
+        <link>https://xaosland.ru/news/keycut-1-0-2026-09-14/</link>
+        <description>����������� ����� �������������� KeyCut 1.0, ���������������� ������� ��� ������� � ���������� ����� ��� ��������������� �����������. ������� �������������� ������ �� �������� ������ � ��� �������� ����������� ������ �����, ������� �������� �������� </description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/keycut-1-0-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>������ FUSE-������ BTFS 3.3 ��� ������������ torrent-������ ��� ��</title>
+        <link>https://xaosland.ru/news/fuse-btfs-3-3-torrent-2026-09-14/</link>
+        <description>����������� ������ FUSE-������ BTFS 3.3 (BitTorrent FileSystem), ������������ ����������� torrent-����� ��� magnet-������ � ����� �������� ������� � �������� � �� �������� ��� � ������� �����������, ��������� ������ ��� ������. �� ���� ��������� � ��</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/fuse-btfs-3-3-torrent-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>Ubuntu 26.10 ��������� ������ģ� �� Rust Coreutils</title>
+        <link>https://xaosland.ru/news/ubuntu-26-10-rust-coreutils-2026-09-14/</link>
+        <description>� �������� ���� ������������ Ubuntu 26.10, ����� �������� ������� �� 15 �������, ��������̣� ������ ������� �� �������������� uutils coreutils (Rust Coreutils), ���������� �� ����� Rust. ������� �� ������� Rust Coreutils ��������� �������� ��� �������</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/ubuntu-26-10-rust-coreutils-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>113 ������� � Void Linux �������� ��� ������������� ��-�� ���������� � ��������� ������������� AI</title>
+        <link>https://xaosland.ru/news/113-void-linux-ai-2026-09-14/</link>
+        <description>������ ����������� (Andrea Brancaleoni) ��������� ������������� 113 ������� � ������������ Void Linux � ����� �� ������������ ���������� AI-������������ ��� ������� ��������� � ���������� �������� �����. ��� ������������� �������� ����� ������, ��� a</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/113-void-linux-ai-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>������� ������������ ����� Ubuntu 24.04.5 LTS ��� ����������� x86-64</title>
+        <link>https://xaosland.ru/news/ubuntu-24-04-5-lts-x86-64-2026-09-14/</link>
+        <description>�������� Canonical ���������� ��������������� ������������� iso-������ Ubuntu Desktop 24.04.5 LTS ��� ����������� x86-64 (ubuntu-24.04.4-desktop-amd64.iso) ��-�� ��������� ����, ����������� � ���������� ���������� ������������. �������� ����������� �</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/ubuntu-24-04-5-lts-x86-64-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>���������� ��������� ���� CudaText 1.236.0</title>
+        <link>https://xaosland.ru/news/cudatext-1-236-0-2026-09-14/</link>
+        <description>����������� ������ ������������������� ���������� ��������� ���� CudaText 1.236.0, ����������� � �������������� Free Pascal � Lazarus. �������� ������������ ���������� �� Python, � ����� ��� ����������� ��� Sublime Text. ������������ ��������� ������</description>
+        <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/news/cudatext-1-236-0-2026-09-14/</guid>
+    </item>
+    <item>
+        <title>Моя новая статья</title>
+        <link>https://xaosland.ru/articles/my-article/</link>
+        <description>Краткое описание статьи для карточки</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/my-article/</guid>
+    </item>
+    <item>
+        <title>Обзор внешнего SSD-накопителя</title>
+        <link>https://xaosland.ru/ozon/external-ssd-review/</link>
+        <description>Подробный обзор внешнего SSD на 1 ТБ от Samsung: скорость, дизайн, надёжность, стоимость и отзывы с Ozon.</description>
+        <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/ozon/external-ssd-review/</guid>
+    </item>
+    <item>
+        <title>Обзор Cyberpunk 2077 после патчей</title>
+        <link>https://xaosland.ru/games/cyberpunk-2077-review/</link>
+        <description>Состояние игры в 2024 году: исправленные баги, улучшенный геймплей, новые DLC и оценка производительности.</description>
+        <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/games/cyberpunk-2077-review/</guid>
+    </item>
+    <item>
+        <title>Автоматизация бэкапов с помощью скрипта</title>
+        <link>https://xaosland.ru/github/backup-automation-script/</link>
+        <description>Готовый bash-скрипт для автоматического резервного копирования папок с архивацией и отправкой на внешний диск или облако.</description>
+        <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/github/backup-automation-script/</guid>
+    </item>
+    <item>
+        <title>Офисные пакеты: сравнение LibreOffice и Microsoft Office</title>
+        <link>https://xaosland.ru/programs/office-comparison/</link>
+        <description>Детальное сравнение функционала, совместимости и производительности двух популярных офисных пакетов.</description>
+        <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/programs/office-comparison/</guid>
+    </item>
+    <item>
+        <title>Как защитить свой Wi-Fi от взлома</title>
+        <link>https://xaosland.ru/articles/wifi-security-guide/</link>
+        <description>Пошаговое руководство по настройке безопасности домашней Wi-Fi сети: смена пароля, шифрование, фильтрация MAC-адресов и отключение WPS.</description>
+        <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/wifi-security-guide/</guid>
+    </item>
+    <item>
+        <title>Как улучшить производительность в играх на слабом ПК</title>
+        <link>https://xaosland.ru/games/low-end-pc-performance/</link>
+        <description>Практические советы: настройка графики, отключение визуальных эффектов, использование оптимизаторов, разгон.</description>
+        <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/games/low-end-pc-performance/</guid>
+    </item>
+    <item>
+        <title>Беспроводная зарядка для телефона</title>
+        <link>https://xaosland.ru/ozon/wireless-charger-review/</link>
+        <description>Обзор беспроводной зарядки от Xiaomi: мощность, совместимость, дизайн и реальные отзывы покупателей.</description>
+        <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/ozon/wireless-charger-review/</guid>
+    </item>
+    <item>
+        <title>Лучшие программы для записи дисков</title>
+        <link>https://xaosland.ru/programs/disc-burning-software/</link>
+        <description>Обзор приложений для записи CD/DVD: ImgBurn, CDBurnerXP, Ashampoo Burning Studio. Особенности и настройки.</description>
+        <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/programs/disc-burning-software/</guid>
+    </item>
+    <item>
+        <title>Утилита для мониторинга сети</title>
+        <link>https://xaosland.ru/github/network-monitor-tool/</link>
+        <description>Простая программа на Python для отслеживания активных соединений, скорости интернета и уведомлений о сбоях.</description>
+        <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/github/network-monitor-tool/</guid>
+    </item>
+    <item>
+        <title>Настройка брандмауэра Windows для максимальной безопасности</title>
+        <link>https://xaosland.ru/articles/windows-firewall-setup/</link>
+        <description>Подробный гайд по настройке встроенного брандмауэра Windows: создание правил, блокировка портов, интеграция с антивирусом.</description>
+        <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/windows-firewall-setup/</guid>
+    </item>
+    <item>
+        <title>Лучшие инди-игры 2024</title>
+        <link>https://xaosland.ru/games/best-indie-games-2024/</link>
+        <description>Подборка самых интересных инди-проектов за последний год: Hades II, Hollow Knight: Silksong, Stardew Valley и новинки.</description>
+        <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/games/best-indie-games-2024/</guid>
+    </item>
+    <item>
+        <title>Механическая клавиатура для геймеров</title>
+        <link>https://xaosland.ru/ozon/mechanical-keyboard-review/</link>
+        <description>Обзор механической клавиатуры с подсветкой и красными свитчами: удобство, отклик, шум, цена и отзывы.</description>
+        <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/ozon/mechanical-keyboard-review/</guid>
+    </item>
+    <item>
+        <title>Утилиты для очистки системы: CCleaner, PrivaZer и др.</title>
+        <link>https://xaosland.ru/programs/system-cleaners-review/</link>
+        <description>Сравнение популярных чистильщиков системы, их возможности и влияние на производительность.</description>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/programs/system-cleaners-review/</guid>
+    </item>
+    <item>
+        <title>Генератор паролей на Python</title>
+        <link>https://xaosland.ru/github/password-generator-python/</link>
+        <description>Скрипт для генерации надёжных паролей с настройкой длины и сложности, с выводом в консоль или сохранением в файл.</description>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/github/password-generator-python/</guid>
+    </item>
+    <item>
+        <title>Настройка геймпада для ПК</title>
+        <link>https://xaosland.ru/games/gamepad-setup-guide/</link>
+        <description>Как подключить и настроить геймпад Xbox, PlayStation или сторонний контроллер для игр на Windows, Steam и эмуляторах.</description>
+        <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/games/gamepad-setup-guide/</guid>
+    </item>
+    <item>
+        <title>Набор инструментов для ремонта ПК</title>
+        <link>https://xaosland.ru/ozon/pc-repair-toolset/</link>
+        <description>Обзор универсального набора отвёрток, пинцетов и других инструментов для сборки и ремонта компьютера.</description>
+        <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/ozon/pc-repair-toolset/</guid>
+    </item>
+    <item>
+        <title>Использование VPN для анонимности в сети</title>
+        <link>https://xaosland.ru/articles/vpn-anonymity-guide/</link>
+        <description>Обзор лучших VPN-сервисов, настройка OpenVPN, WireGuard, и советы по сохранению анонимности в интернете.</description>
+        <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/vpn-anonymity-guide/</guid>
+    </item>
+    <item>
+        <title>Бот для Telegram на Python</title>
+        <link>https://xaosland.ru/github/telegram-bot-python/</link>
+        <description>Как написать простого бота для Telegram с использованием библиотеки python-telegram-bot: команды, клавиатуры, рассылка.</description>
+        <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/github/telegram-bot-python/</guid>
+    </item>
+    <item>
+        <title>Программы для создания резервных копий</title>
+        <link>https://xaosland.ru/programs/backup-software-guide/</link>
+        <description>Обзор лучших решений для бэкапа: Acronis True Image, Macrium Reflect, Veeam. Инструкция по настройке автоматического бэкапа.</description>
+        <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/programs/backup-software-guide/</guid>
+    </item>
+    <item>
+        <title>Умная колонка с Алисой</title>
+        <link>https://xaosland.ru/ozon/smart-speaker-review/</link>
+        <description>Обзор умной колонки Яндекс Станция Мини: функции, голосовой помощник, качество звука, интеграция с умным домом.</description>
+        <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/ozon/smart-speaker-review/</guid>
+    </item>
+    <item>
+        <title>Обзор игровых сервисов: Steam, Epic, GOG</title>
+        <link>https://xaosland.ru/games/game-services-comparison/</link>
+        <description>Сравнение цифровых магазинов игр: цены, DRM, библиотеки, эксклюзивы и удобство использования.</description>
+        <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/games/game-services-comparison/</guid>
+    </item>
+    <item>
+        <title>Как создать загрузочную флешку с несколькими ОС</title>
+        <link>https://xaosland.ru/articles/multiboot-usb-guide/</link>
+        <description>Инструкция по созданию мультизагрузочной флешки с Windows, Linux и утилитами восстановления с помощью Ventoy и Easy2Boot.</description>
+        <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/multiboot-usb-guide/</guid>
+    </item>
+    <item>
+        <title>Скрипт для автоматической установки программ после переустановки Windows</title>
+        <link>https://xaosland.ru/github/auto-install-script-windows/</link>
+        <description>Скрипт на PowerShell, который автоматически устанавливает популярные программы (браузеры, офис, утилиты) через Chocolatey или Winget.</description>
+        <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/github/auto-install-script-windows/</guid>
+    </item>
+    <item>
+        <title>Менеджеры паролей: какой выбрать</title>
+        <link>https://xaosland.ru/programs/password-managers-review/</link>
+        <description>Сравнение популярных менеджеров паролей: KeePass, LastPass, Bitdefender, 1Password. Критерии выбора и настройка.</description>
+        <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/programs/password-managers-review/</guid>
+    </item>
+    <item>
+        <title>Обзор лучших антивирусов 2024</title>
+        <link>https://xaosland.ru/articles/antivirus-review-2024/</link>
+        <description>Сравнение платных и бесплатных антивирусов: Kaspersky, Bitdefender, Avast, Windows Defender. Тесты и рекомендации.</description>
+        <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">https://xaosland.ru/articles/antivirus-review-2024/</guid>
+    </item>
+    </channel>
+</rss>

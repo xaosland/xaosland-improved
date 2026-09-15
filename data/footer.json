@@ -1,0 +1,102 @@
+{
+  "social": {
+    "title": "Сообщество",
+    "subtitle": "Присоединяйтесь к нашему IT-сообществу",
+    "links": [
+      {
+        "icon": "fab fa-github",
+        "url": "https://github.com/xaosland",
+        "label": "GitHub"
+      },
+      {
+        "icon": "fas fa-rss",
+        "url": "/rss.xml",
+        "label": "RSS"
+      }
+    ]
+  },
+  "columns": [
+    {
+      "title": "Windows",
+      "icon": "fab fa-windows",
+      "links": [
+        {
+          "icon": "fas fa-cogs",
+          "text": "Оптимизация",
+          "url": "/windows/?tag=оптимизация"
+        },
+        {
+          "icon": "fas fa-wrench",
+          "text": "Решения проблем",
+          "url": "/windows/?tag=решения-проблем"
+        },
+        {
+          "icon": "fas fa-palette",
+          "text": "Темы и оформление",
+          "url": "/windows/?tag=темы"
+        },
+        {
+          "icon": "fas fa-magic",
+          "text": "Твики Windows",
+          "url": "/windows/?tag=твики"
+        }
+      ]
+    },
+    {
+      "title": "Программы",
+      "icon": "fas fa-desktop",
+      "links": [
+        {
+          "icon": "fas fa-download",
+          "text": "Сборки и подборки",
+          "url": "/programs/"
+        },
+        {
+          "icon": "fas fa-portrait",
+          "text": "Portable версии",
+          "url": "/programs/?tag=portable"
+        },
+        {
+          "icon": "fas fa-key",
+          "text": "Лицензирование",
+          "url": "/programs/?tag=лицензирование"
+        },
+        {
+          "icon": "fas fa-tools",
+          "text": "Утилиты",
+          "url": "/programs/?tag=утилиты"
+        }
+      ]
+    },
+    {
+      "title": "Обучение",
+      "icon": "fas fa-graduation-cap",
+      "links": [
+        {
+          "icon": "fas fa-book-open",
+          "text": "Курсы",
+          "url": "/learning/?tag=курсы"
+        },
+        {
+          "icon": "fas fa-video",
+          "text": "Видео",
+          "url": "/learning/?tag=видео"
+        },
+        {
+          "icon": "fas fa-tasks",
+          "text": "CTF",
+          "url": "/learning/?tag=ctf"
+        },
+        {
+          "icon": "fas fa-certificate",
+          "text": "Сертификация",
+          "url": "/learning/?tag=сертификация"
+        }
+      ]
+    }
+  ],
+  "copyright": {
+    "text": "© 1998-{year} XaosLand | IT-блог о технологиях",
+    "note": "Все материалы представлены в образовательных целях"
+  }
+}

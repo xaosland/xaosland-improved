@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "url": "/", "icon": "fas fa-home", "label": "Главная", "active": true },
+    { "url": "/news/", "icon": "fas fa-bolt", "label": "Новости", "active": false },
+    { "url": "/articles/", "icon": "fas fa-newspaper", "label": "Статьи", "active": false },
+    { "url": "/programs/", "icon": "fas fa-robot", "label": "Программы", "active": false },
+    { "url": "/games/", "icon": "fas fa-gamepad", "label": "Игры", "active": false },
+    { "url": "/github/", "icon": "fas fa-code", "label": "GitHub проекты", "active": false },
+    { "url": "/ozon/", "icon": "fas fa-shopping-bag", "label": "Ozon находки", "active": false }
+  ]
+}

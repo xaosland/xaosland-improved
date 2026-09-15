@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IT-блог о программах, Windows, играх и кибербезопасности. Гайды, скрипты, оптимизация и полезные инструменты.">
+    <title>XaosLand | IT-блог</title>
+
+    <!-- Open Graph / Social -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="XaosLand | IT-блог">
+    <meta property="og:description" content="IT-блог о программах, Windows, играх и кибербезопасности.">
+    <meta property="og:url" content="https://xaosland.ru/">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style" href="/css/style.css">
+    <link rel="preload" as="font" type="font/woff2" href="/webfonts/fa-solid-900.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/webfonts/fa-brands-400.woff2" crossorigin>
+
+    <!-- Основные стили -->
+    <link rel="stylesheet" href="/css/style.css">
+
+    <!-- Font Awesome -->
+    <link rel="preload" href="/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="/css/all.min.css">
+    </noscript>
+
+
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#0a0a0a">
+    <link rel="apple-touch-icon" href="/icons/icon-192.png">
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22><tspan fill=%22%2393FF00%22>{</tspan><tspan fill=%22%2300BFFF%22>/</tspan><tspan fill=%22%23FF00FF%22>}</tspan></text></svg>">
+
+    <!-- JSON-LD Schema.org (главная) -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Blog",
+            "name": "XaosLand",
+            "url": "https://xaosland.ru/",
+            "description": "IT-блог о программах, Windows, играх и кибербезопасности."
+        }
+    </script>
+</head>
+<body>
+
+<!-- Контейнер для уведомлений -->
+<div id="notification-container" aria-live="polite"></div>
+
+<!-- Оверлей для мобильного меню -->
+<div id="overlay" class="overlay"></div>
+
+<!-- Прогресс чтения -->
+<div id="reading-progress" class="reading-progress"></div>
+
+<!-- Header -->
+<header>
+    <div class="container header-container">
+        <a href="/" class="logo" aria-label="Главная страница XaosLand">
+            <span class="hacker-terminal"><span class="text">ACCESS DENIED...</span></span>
+        </a>
+
+        <button class="burger-btn" aria-label="Меню" aria-expanded="false" aria-controls="nav-list">
+            <span class="burger-line"></span>
+            <span class="burger-line"></span>
+            <span class="burger-line"></span>
+        </button>
+
+        <nav class="nav-menu" aria-label="Основная навигация">
+            <ul class="nav-list" id="nav-list">
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="quick-filters container">
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Поиск статей..." aria-label="Поиск" autocomplete="off">
+        <button id="search-btn" aria-label="Начать поиск"><i class="fas fa-search"></i></button>
+        <div id="search-suggestions" class="search-suggestions"></div>
+    </div>
+    <div class="breadcrumb nav-link" aria-label="Хлебные крошки"></div>
+    <div class="filter-tags" role="group" aria-label="Фильтры по тегам"></div>
+</div>
+
+<!-- Main Content -->
+<main class="container">
+    <div class="blog-layout">
+        <div class="main-column">
+        <div class="main-articles" role="main"></div>
+        <!-- Пагинация сразу после статей -->
+        <div id="pagination-container" class="pagination-wrapper"></div>
+        </div>
+        <aside class="sidebar" aria-label="Боковая панель">
+            <div class="sidebar-section">
+                <h3 class="sidebar-title"><i class="fas fa-fire"></i> Популярное</h3>
+                <ul class="sidebar-links" aria-label="Популярные статьи"></ul>
+            </div>
+            <div class="sidebar-section">
+                <h3 class="sidebar-title"><i class="fas fa-folder"></i> Категории</h3>
+                <ul class="sidebar-links category-links" aria-label="Категории"></ul>
+            </div>
+            <!-- Облако тегов -->
+            <div class="sidebar-section">
+                <h3 class="sidebar-title"><i class="fas fa-tags"></i> Теги</h3>
+                <div class="tag-cloud" id="tag-cloud"></div>
+            </div>
+            <!-- Избранное -->
+            <div class="sidebar-section">
+                <h3 class="sidebar-title"><i class="fas fa-star"></i> Избранное</h3>
+                <ul class="sidebar-links" id="favorites-list" aria-label="Избранные статьи"></ul>
+            </div>
+            <div class="sidebar-section">
+                <h3 class="sidebar-title"><i class="fas fa-download"></i> Скачать</h3>
+                <ul class="sidebar-links">
+                    <li><a href="#"><i class="fas fa-file-archive"></i> Сборка программ</a></li>
+                    <li><a href="#"><i class="fas fa-code"></i> Готовые скрипты</a></li>
+                    <li><a href="#"><i class="fas fa-palette"></i> Темы для Windows</a></li>
+                    <li><a href="#"><i class="fas fa-gamepad"></i> Патчи для игр</a></li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+</main>
+
+<!-- Кнопка наверх -->
+<button id="scroll-top" class="scroll-top" aria-label="Наверх"><i class="fas fa-arrow-up"></i></button>
+
+<!-- Footer -->
+<footer id="footer"></footer>
+
+<!-- Скрипты -->
+<script src="/js/app.js" defer></script>
+<!-- Markdown (marked) -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer
+        onerror="this.onerror=null;this.src='/js/marked.min.js'"></script>
+</body>
+</html>
