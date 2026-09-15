@@ -1,6 +1,120 @@
 {
   "articles": [
     {
+      "id": "kioxia-pridumala-kak-pobedit-defitsit-dram-pomog-2026-09-15",
+      "category": "Новости",
+      "title": "Kioxia придумала, как победить дефицит DRAM — помогут быстрые SSD, но не обычным ПК",
+      "excerpt": "Kioxia придумала, как победить дефицит DRAM — помогут быстрые SSD, но не обычным ПК",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Kioxia придумала, как победить дефицит DRAM — помогут быстры",
+      "metaDescription": "Kioxia придумала, как победить дефицит DRAM — помогут быстрые SSD, но не обычным ПК",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148497"
+    },
+    {
+      "id": "pochti-1000-km-na-elektrichestve-byd-predstavila-2026-09-15",
+      "category": "Новости",
+      "title": "Почти 1000 км на электричестве: BYD представила трёхрядный кроссовер Denza N8L",
+      "excerpt": "Почти 1000 км на электричестве: BYD представила трёхрядный кроссовер Denza N8L",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Почти 1000 км на электричестве: BYD представила трёхрядный к",
+      "metaDescription": "Почти 1000 км на электричестве: BYD представила трёхрядный кроссовер Denza N8L",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148498"
+    },
+    {
+      "id": "kosmicheskiy-teleskop-roman-poluchil-lishnie-12--2026-09-15",
+      "category": "Новости",
+      "title": "Космический телескоп Roman получил лишние 12 лет работы — точный манёвр позволил сэкономить топливо",
+      "excerpt": "Космический телескоп Roman получил лишние 12 лет работы — точный манёвр позволил сэкономить топливо",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Космический телескоп Roman получил лишние 12 лет работы — то",
+      "metaDescription": "Космический телескоп Roman получил лишние 12 лет работы — точный манёвр позволил сэкономить топливо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148499"
+    },
+    {
+      "id": "mediatek-nauchila-chipy-ekonomit-pamyat-smartfon-2026-09-15",
+      "category": "Новости",
+      "title": "MediaTek научила чипы экономить память смартфона — представлен 2-нм флагман Dimensity 9600 Pro",
+      "excerpt": "MediaTek научила чипы экономить память смартфона — представлен 2-нм флагман Dimensity 9600 Pro",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "MediaTek научила чипы экономить память смартфона — представл",
+      "metaDescription": "MediaTek научила чипы экономить память смартфона — представлен 2-нм флагман Dimensity 9600 Pro",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148502"
+    },
+    {
+      "id": "predstavlen-ultrakompaktnyy-fotoapparat-fujifilm-2026-09-15",
+      "category": "Новости",
+      "title": "Представлен ультракомпактный фотоаппарат Fujifilm Instax Pal 2 в ретро-стиле",
+      "excerpt": "Представлен ультракомпактный фотоаппарат Fujifilm Instax Pal 2 в ретро-стиле",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Представлен ультракомпактный фотоаппарат Fujifilm Instax Pal",
+      "metaDescription": "Представлен ультракомпактный фотоаппарат Fujifilm Instax Pal 2 в ретро-стиле",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148505"
+    },
+    {
+      "id": "medvedev-sdelal-zayavlenie-o-bystrom-sozdanii-ob-2026-09-15",
+      "category": "Новости",
+      "title": "Медведев сделал заявление о быстром создании оборонных технологий в России",
+      "excerpt": "Медведев сделал заявление о быстром создании оборонных технологий в России",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Медведев сделал заявление о быстром создании оборонных техно",
+      "metaDescription": "Медведев сделал заявление о быстром создании оборонных технологий в России",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/15/medvedev-sdelal-zayavlenie-o-bystrom-sozdanii-oboronnyh-tehnologiy-v-rossii/"
+    },
+    {
       "id": "vodorodnaya-aviatsiya-spotknulas-o-problemu-ohla-2026-09-15",
       "category": "Новости",
       "title": "Водородная авиация споткнулась о проблему охлаждения — облик «зелёных» самолётов придётся пересмотреть",
