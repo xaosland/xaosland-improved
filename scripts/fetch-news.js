@@ -320,13 +320,14 @@ async function main() {
 
     const existingIds = new Set(base.articles.map(a => a.id));
     const now = Date.now();
-    const cutoffDefault = now - MAX_HOURS * 3600 * 1000;
 
     const stats = { fetched: 0, parsed: 0, added: 0, skipped: 0 };
-    const articles = [];
+    const added = [];
 
     fs.mkdirSync(NEWS_DIR, { recursive: true });
 
+    // --- Фаза 1: собираем кандидатов со ВСЕХ лент (без обработки) ---
+    const candidates = [];
     for (const feed of FEEDS) {
         try {
             const xml = await fetchText(feed.url);
@@ -338,7 +339,6 @@ async function main() {
             const kw = feed.keywords || null;
 
             for (const item of items) {
-                if (stats.added >= MAX_PER_RUN) break;
                 const seenKey = `${feed.name}|${item.link}`;
                 if (state.seen[seenKey]) continue;
                 const ts = parseDate(item.pubDate) || now;
@@ -353,60 +353,73 @@ async function main() {
                 while (existingIds.has(id)) { id = `${makeId(feed.name, item.title)}-${n++}`; }
                 if (!isSafeArticleId(id)) { state.seen[seenKey] = ts; stats.skipped++; continue; }
 
-                const date = new Date(ts).toISOString().slice(0, 10);
-                const enriched = { ...item, id, date };
-
-                // Качаем текст статьи и достаём до ~10 предложений
-                enriched.articleParagraphs = await extractArticleText(item.link);
-
-                // Англоязычные источники: переводим заголовок, описание и текст
-                if (feed.lang === 'en') {
-                    enriched.title = await translateText(item.title);
-                    enriched.description = item.description ? await translateText(item.description) : enriched.title;
-                    enriched.tagHint = 'безопасность';
-                    if (enriched.articleParagraphs && enriched.articleParagraphs.length) {
-                        const translated = [];
-                        for (const p of enriched.articleParagraphs) {
-                            translated.push(await translateText(p));
-                        }
-                        enriched.articleParagraphs = translated;
-                    }
-                }
-
-                const bodyText = (enriched.articleParagraphs || []).join(' ') || stripHtml(item.bodyHtml) || item.description || item.title;
-                enriched.readTime = estimateReadTime(bodyText);
-
-                const md = buildMarkdown(enriched, feed.name);
-                fs.writeFileSync(path.join(NEWS_DIR, `${id}.md`), md, 'utf8');
-
-                const article = {
-                    id,
-                    category: 'Новости',
-                    title: enriched.title || item.title,
-                    excerpt: (enriched.description || item.description || item.title).slice(0, 250),
-                    date,
-                    readTime: enriched.readTime,
-                    tags: feed.lang === 'en'
-                        ? ['новости', 'безопасность', feed.name.toLowerCase()]
-                        : ['новости', feed.name.toLowerCase()],
-                    featured: false,
-                    popular: false,
-                    image: '',
-                    metaTitle: (enriched.title || item.title).slice(0, 60),
-                    metaDescription: (enriched.description || item.description || item.title).slice(0, 150),
-                    source: feed.name,
-                    sourceUrl: item.link,
-                };
-                base.articles.unshift(article);
-                existingIds.add(id);
-                state.seen[seenKey] = ts;
-                stats.added++;
-                articles.push(id);
+                candidates.push({ feed, item, ts, seenKey, id });
             }
         } catch (e) {
             console.error(`⚠️  ${feed.name}: ${e.message}`);
         }
         await sleep(500);
+    }
+
+    // --- Фаза 2: берём самые свежие (лимит общий на все ленты) ---
+    candidates.sort((a, b) => b.ts - a.ts);
+    const selected = candidates.slice(0, MAX_PER_RUN);
+    console.log(`📋 Кандидатов: ${candidates.length}, отобрано: ${selected.length} (лимит ${MAX_PER_RUN})`);
+
+    for (const { feed, item, ts, seenKey, id } of selected) {
+        try {
+            const date = new Date(ts).toISOString().slice(0, 10);
+            const enriched = { ...item, id, date };
+
+            // Качаем текст статьи и достаём до ~10 предложений
+            enriched.articleParagraphs = await extractArticleText(item.link);
+
+            // Англоязычные источники: переводим заголовок, описание и текст
+            if (feed.lang === 'en') {
+                enriched.title = await translateText(item.title);
+                enriched.description = item.description ? await translateText(item.description) : enriched.title;
+                enriched.tagHint = 'безопасность';
+                if (enriched.articleParagraphs && enriched.articleParagraphs.length) {
+                    const translated = [];
+                    for (const p of enriched.articleParagraphs) {
+                        translated.push(await translateText(p));
+                    }
+                    enriched.articleParagraphs = translated;
+                }
+            }
+
+            const bodyText = (enriched.articleParagraphs || []).join(' ') || stripHtml(item.bodyHtml) || item.description || item.title;
+            enriched.readTime = estimateReadTime(bodyText);
+
+            const md = buildMarkdown(enriched, feed.name);
+            fs.writeFileSync(path.join(NEWS_DIR, `${id}.md`), md, 'utf8');
+
+            const article = {
+                id,
+                category: 'Новости',
+                title: enriched.title || item.title,
+                excerpt: (enriched.description || item.description || item.title).slice(0, 250),
+                date,
+                readTime: enriched.readTime,
+                tags: feed.lang === 'en'
+                    ? ['новости', 'безопасность', feed.name.toLowerCase()]
+                    : ['новости', feed.name.toLowerCase()],
+                featured: false,
+                popular: false,
+                image: '',
+                metaTitle: (enriched.title || item.title).slice(0, 60),
+                metaDescription: (enriched.description || item.description || item.title).slice(0, 150),
+                source: feed.name,
+                sourceUrl: item.link,
+            };
+            base.articles.unshift(article);
+            existingIds.add(id);
+            state.seen[seenKey] = ts;
+            stats.added++;
+            added.push(id);
+        } catch (e) {
+            console.error(`⚠️  ${feed.name}/${id}: ${e.message} — пропускаю, повтор на следующем прогоне`);
+        }
     }
 
     // Чистим state — оставляем только свежие записи (не раздуваем файл)
@@ -420,7 +433,7 @@ async function main() {
 
     console.log(`✅ Лент: ${stats.fetched}/${FEEDS.length}, записей прочитано: ${stats.parsed}`);
     console.log(`📰 Новых новостей: ${stats.added}, пропущено: ${stats.skipped}`);
-    if (articles.length) console.log(`   ID: ${articles.join(', ')}`);
+    if (added.length) console.log(`   ID: ${added.join(', ')}`);
 }
 
 // Тестовый режим: NEWS_TEST_URL=<url> — скачать одну статью и показать извлечённый текст
