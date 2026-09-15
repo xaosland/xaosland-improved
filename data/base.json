@@ -1,6 +1,277 @@
 {
   "articles": [
     {
+      "id": "toyota-i-scania-gotovyat-40-vodorodnyh-fur-k-rea-2026-09-15",
+      "category": "Новости",
+      "title": "Toyota и Scania готовят 40 водородных фур к реальным маршрутам: старт в 2027 году",
+      "excerpt": "Toyota и Scania объединяются для ускорения водородной технологии в сегменте тяжёлых грузоперевозок. Toyota поставит свои топливные элементы третьего поколения для 40 грузовиков, которые выйдут на реальные логистические маршруты в рамках программы Sca",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Toyota и Scania готовят 40 водородных фур к реальным маршрут",
+      "metaDescription": "Toyota и Scania объединяются для ускорения водородной технологии в сегменте тяжёлых грузоперевозок. Toyota поставит свои топливные элементы третьего п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436042-toyota-i-scania-gotoviat-40-vodorodnyx-fur-k-realnym-marsrutam-start-v-2027-godu.html"
+    },
+    {
+      "id": "v-komplekte-so-smartfonom-budet-pismo-o-zachisle-2026-09-15",
+      "category": "Новости",
+      "title": "В комплекте со смартфоном будет письмо о зачислении в Хогвартс и билет на поезд. Появились подробности о Realme 16 Pro Harry Potter Edition",
+      "excerpt": "Смартфон Realme 16 Pro Harry Potter Edition показали на официальном изображении, так что теперь мы знаем, как выглядит сам аппарат, а не только его комплектный чемодан.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В комплекте со смартфоном будет письмо о зачислении в Хогвар",
+      "metaDescription": "Смартфон Realme 16 Pro Harry Potter Edition показали на официальном изображении, так что теперь мы знаем, как выглядит сам аппарат, а не только его ко",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436044-v-komplekte-so-smartfonom-budet-pismo-o-zacislenii-v-xogvarts-i-bilet-na-poezd-poiavilis-podrobnosti-o-realme-16-pro-harry-potter-edition.html"
+    },
+    {
+      "id": "renault-i-volvo-vzyali-glavnye-nagrady-iaa-trans-2026-09-15",
+      "category": "Новости",
+      "title": "Renault и Volvo взяли главные награды IAA Transportation 2026: электрический Trafic и тяжёлые электрогрузовики — лучшие в Европе",
+      "excerpt": "На выставке IAA Transportation в Ганновере электрический коммерческий транспорт взял обе главные европейские награды. Жюри из 26 стран единогласно присудило титул «Международный фургон 2027 года» новому Renault Trafic Van E-Tech electric. Электрическ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Renault и Volvo взяли главные награды IAA Transportation 202",
+      "metaDescription": "На выставке IAA Transportation в Ганновере электрический коммерческий транспорт взял обе главные европейские награды. Жюри из 26 стран единогласно при",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436043-renault-i-volvo-vziali-glavnye-nagrady-iaa-transportation-2026-elektriceskii-trafic-i-tiazelye-elektrogruzoviki-lucsie-v-evrope.html"
+    },
+    {
+      "id": "uchenye-predlozhili-iskat-sledy-inoplanetnyh-teh-2026-09-15",
+      "category": "Новости",
+      "title": "Ученые предложили искать следы инопланетных техносигнатур на Луне",
+      "excerpt": "Исследователи SETI Institute предложили необычный способ поиска следов внеземных цивилизаций — изучать лунный реголит в поисках микроскопических частиц искусственного происхождения. По их гипотезе, Луна за миллиарды лет могла накопить своеобразный ар",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Ученые предложили искать следы инопланетных техносигнатур на",
+      "metaDescription": "Исследователи SETI Institute предложили необычный способ поиска следов внеземных цивилизаций — изучать лунный реголит в поисках микроскопических части",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436046-ucenye-predlozil-iskat-sledy-inoplanetnyx-texnosignatur-na-lune.html"
+    },
+    {
+      "id": "norway-announces-investigations-into-telecom-tel-2026-09-15",
+      "category": "Новости",
+      "title": "Норвегия объявляет о расследовании сотрудничества телекоммуникационной компании Telenor с хунтой Мьянмы",
+      "excerpt": "Базирующаяся в Осло компания Telenor потенциально допускала преступления против человечности и нарушала санкции в своих отношениях с военным режимом, захватившим Мьянму в 2021 году, заявили норвежские власти.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Норвегия объявляет о расследовании сотрудничества телекоммун",
+      "metaDescription": "Базирующаяся в Осло компания Telenor потенциально допускала преступления против человечности и нарушала санкции в своих отношениях с военным режимом, ",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime"
+    },
+    {
+      "id": "opublikovana-biblioteka-openapv-1-s-etalonnoy-re-2026-09-15",
+      "category": "Новости",
+      "title": "Опубликована библиотека OpenAPV 1 с эталонной реализацией видеокодека APV",
+      "excerpt": "Состоялся выпуск библиотеки OpenAPV 1.1.1.0, предоставляющей эталонную реализацию видеокодека APV (Advanced Professional Video), предназначенного для профессиональной записи и обработки видео без различимой потери качества. Версия OpenAPV 1.1.1.0 отм",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Опубликована библиотека OpenAPV 1 с эталонной реализацией ви",
+      "metaDescription": "Состоялся выпуск библиотеки OpenAPV 1.1.1.0, предоставляющей эталонную реализацию видеокодека APV (Advanced Professional Video), предназначенного для ",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66282"
+    },
+    {
+      "id": "microsoft-issues-emergency-fixes-after-massive-p-2026-09-15",
+      "category": "Новости",
+      "title": "Microsoft выпускает экстренные исправления после массового обновления во вторник",
+      "excerpt": "Вы не можете приготовить омлет, не разбив несколько яиц, и вы не можете исправить почти 1000 CVE без нескольких сбоев.",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft выпускает экстренные исправления после массового о",
+      "metaDescription": "Вы не можете приготовить омлет, не разбив несколько яиц, и вы не можете исправить почти 1000 CVE без нескольких сбоев.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
+    },
+    {
+      "id": "microsoft-commits-to-sweeping-ai-privacy-rules-f-2026-09-15",
+      "category": "Новости",
+      "title": "Microsoft обязуется ввести более строгие правила конфиденциальности ИИ для студентов. Последуют ли за ним другие технологические гиганты?",
+      "excerpt": "Microsoft согласилась принять стандарты защиты и конфиденциальности для своего ИИ в школах, как было согласовано с Американской федерацией учителей. Сообщение Microsoft обязуется усовершенствовать правила конфиденциальности ИИ для студентов. Последую",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft обязуется ввести более строгие правила конфиденциа",
+      "metaDescription": "Microsoft согласилась принять стандарты защиты и конфиденциальности для своего ИИ в школах, как было согласовано с Американской федерацией учителей. С",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/"
+    },
+    {
+      "id": "malcious-admin-menu-editor-pro-plugin-backdoors--2026-09-15",
+      "category": "Новости",
+      "title": "Бэкдоры плагина Malcious Admin Menu Editor Pro 1500 сайтов WordPress",
+      "excerpt": "Вредоносные версии плагина Admin Menu Editor Pro для WordPress были распространены среди более чем 200 клиентов после того, как злоумышленник скомпрометировал веб-сайт сопровождающего и разместил обновления, в результате которых была создана скрытая ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Бэкдоры плагина Malcious Admin Menu Editor Pro 1500 сайтов W",
+      "metaDescription": "Вредоносные версии плагина Admin Menu Editor Pro для WordPress были распространены среди более чем 200 клиентов после того, как злоумышленник скомпром",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
+    },
+    {
+      "id": "reliz-firefox-156-2026-09-15",
+      "category": "Новости",
+      "title": "Релиз Firefox 156",
+      "excerpt": "Состоялся релиз web-браузера Firefox 156 и сформированы обновления прошлых веток с длительным сроком поддержки - 153.3.0, 140.16.0 и 115.41.0. В рамках нового двухнедельного цикла формирования релизов на стадию бета-тестирования переведена ветка Fire",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз Firefox 156",
+      "metaDescription": "Состоялся релиз web-браузера Firefox 156 и сформированы обновления прошлых веток с длительным сроком поддержки - 153.3.0, 140.16.0 и 115.41.0. В рамка",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66284"
+    },
+    {
+      "id": "novaya-statya-obzor-smartfona-google-pixel-11-pr-2026-09-15",
+      "category": "Новости",
+      "title": "Новая статья: Обзор смартфона Google Pixel 11 Pro: когда надо выпустить хоть что-то",
+      "excerpt": "В ожидании, когда смартфоны окончательно станут просто интерфейсом ИИ-агента, Google все же продолжает выпускать свои «пиксели». Но уже будто бы совсем без рвения — новые гаджеты отличаются от прошлогодних какими-то совсем мелкими деталями. Но, может",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новая статья: Обзор смартфона Google Pixel 11 Pro: когда над",
+      "metaDescription": "В ожидании, когда смартфоны окончательно станут просто интерфейсом ИИ-агента, Google все же продолжает выпускать свои «пиксели». Но уже будто бы совсе",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148418"
+    },
+    {
+      "id": "hakery-vzlomali-infrastrukturu-turoperatora-tez--2026-09-15",
+      "category": "Новости",
+      "title": "Хакеры взломали инфраструктуру туроператора Tez Tour",
+      "excerpt": "15 сентября хакерская группировка DataSuckers заявила о взломе инфраструктуры туроператора Tez Tour. На главной странице компании появилось сообщение о захвате серверов и компрометации данных на дисках. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Хакеры взломали инфраструктуру туроператора Tez Tour",
+      "metaDescription": "15 сентября хакерская группировка DataSuckers заявила о взломе инфраструктуры туроператора Tez Tour. На главной странице компании появилось сообщение ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082710"
+    },
+    {
+      "id": "v-podpisku-icloud-teper-vhodyat-servisy-apple-tv-2026-09-15",
+      "category": "Новости",
+      "title": "В подписку iCloud+ теперь входят сервисы Apple TV и Apple Arcade, но не во всех странах",
+      "excerpt": "Пользователям подписки iCloud+ теперь доступны сервисы Apple TV и Apple Arcade. Они входят во все платные тарифы, включая самый дешёвый с 50 ГБ облачного хранилища. Нововведение доступно не во всех регионах. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В подписку iCloud+ теперь входят сервисы Apple TV и Apple Ar",
+      "metaDescription": "Пользователям подписки iCloud+ теперь доступны сервисы Apple TV и Apple Arcade. Они входят во все платные тарифы, включая самый дешёвый с 50 ГБ облачн",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082712"
+    },
+    {
+      "id": "acronis-warns-of-actively-exploited-flaw-in-its--2026-09-15",
+      "category": "Новости",
+      "title": "Acronis предупреждает об активно эксплуатируемой уязвимости в плагине резервного копирования cPanel",
+      "excerpt": "Acronis раскрыла серьезную уязвимость локального повышения привилегий Linux в своем плагине резервного копирования для cPanel, WebHost Manager (WHM) и Plesk, которая может быть использована в реальных условиях. [...]",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Acronis предупреждает об активно эксплуатируемой уязвимости ",
+      "metaDescription": "Acronis раскрыла серьезную уязвимость локального повышения привилегий Linux в своем плагине резервного копирования для cPanel, WebHost Manager (WHM) и",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/"
+    },
+    {
       "id": "i-thunderbolt-5-i-blok-pitaniya-na-850-vt-sonnet-2026-09-15",
       "category": "Новости",
       "title": "И Thunderbolt 5, и блок питания на 850 Вт. Sonnet представила док-станцию Breakaway Box 850 T5 для видеокарт",
