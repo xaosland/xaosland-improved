@@ -1,6 +1,320 @@
 {
   "articles": [
     {
+      "id": "zelensky-appoints-former-police-chief-to-lead-uk-2026-09-15",
+      "category": "Новости",
+      "title": "Зеленский назначил бывшего начальника полиции главой украинского киберкоординационного центра",
+      "excerpt": "Игорь Клименко, имеющий опыт работы в правоохранительных органах и на посту министра внутренних дел, будет руководить Национальным координационным центром кибербезопасности Украины.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Зеленский назначил бывшего начальника полиции главой украинс",
+      "metaDescription": "Игорь Клименко, имеющий опыт работы в правоохранительных органах и на посту министра внутренних дел, будет руководить Национальным координационным цен",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/ukraine-cyber-coordination-center-ihor-klymenko"
+    },
+    {
+      "id": "bambootoken-malware-uses-mqtt-to-control-windows-2026-09-15",
+      "category": "Новости",
+      "title": "Вредоносное ПО BambooToken использует MQTT для управления системами Windows и Linux",
+      "excerpt": "Исследователи кибербезопасности раскрыли подробности мультиплатформенной кампании, в которой протокол телеметрии очереди сообщений (MQTT) используется в качестве канала связи для управления системами Windows и Linux. По оценкам, новое семейство вредо",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вредоносное ПО BambooToken использует MQTT для управления си",
+      "metaDescription": "Исследователи кибербезопасности раскрыли подробности мультиплатформенной кампании, в которой протокол телеметрии очереди сообщений (MQTT) используется",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html"
+    },
+    {
+      "id": "texas-utility-centerpoint-energy-confirms-breach-2026-09-15",
+      "category": "Новости",
+      "title": "Техасская коммунальная компания CenterPoint Energy подтверждает взлом после утечки данных хакером",
+      "excerpt": "Хакер утверждает, что украл записи 7,5 миллионов клиентов после взлома систем компании. Сообщение Texas Utility CenterPoint Energy подтверждает взлом после утечки данных хакером впервые появилось на SecurityWeek.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Техасская коммунальная компания CenterPoint Energy подтвержд",
+      "metaDescription": "Хакер утверждает, что украл записи 7,5 миллионов клиентов после взлома систем компании. Сообщение Texas Utility CenterPoint Energy подтверждает взлом ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"
+    },
+    {
+      "id": "exein-secures-270m-at-1-7b-valuation-for-physica-2026-09-15",
+      "category": "Новости",
+      "title": "Exein получает 270 миллионов долларов при оценке в 1,7 миллиарда долларов за физическую безопасность ИИ",
+      "excerpt": "Стартап в области кибербезопасности строит собственную модель фундамента и планирует ускорить глобальную экспансию. Сообщение Exein обеспечивает 270 миллионов долларов при оценке в 1,7 миллиарда долларов за физическую безопасность ИИ впервые появилос",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Exein получает 270 миллионов долларов при оценке в 1,7 милли",
+      "metaDescription": "Стартап в области кибербезопасности строит собственную модель фундамента и планирует ускорить глобальную экспансию. Сообщение Exein обеспечивает 270 м",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/"
+    },
+    {
+      "id": "1-million-sandbox-challenge-uncovers-linux-kerne-2026-09-15",
+      "category": "Новости",
+      "title": "Конкурс «Песочница» стоимостью 1 миллион долларов раскрывает недостатки ядра Linux",
+      "excerpt": "Исследователи с помощью искусственного интеллекта завалили Vercel отчетами, вынудив компанию автоматизировать сортировку уязвимостей. Пост «Песочница стоимостью 1 миллион долларов раскрывает недостатки ядра Linux» впервые появился на SecurityWeek.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Конкурс «Песочница» стоимостью 1 миллион долларов раскрывает",
+      "metaDescription": "Исследователи с помощью искусственного интеллекта завалили Vercel отчетами, вынудив компанию автоматизировать сортировку уязвимостей. Пост «Песочница ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/"
+    },
+    {
+      "id": "zaryadka-za-25-minut-i-1-5-milliona-kilometrov-r-2026-09-15",
+      "category": "Новости",
+      "title": "Зарядка за 25 минут и 1,5 миллиона километров ресурса: CATL представила новую тяговую батарею для электротранспорта",
+      "excerpt": "Китайская CATL представила на выставке IAA Transportation 2026 в Ганновере аккумуляторную платформу TECTRANS II для электрического коммерческого транспорта. Она предназначена прежде всего для тяжелых грузовиков и рассчитана на запас хода до 1000 км и",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Зарядка за 25 минут и 1,5 миллиона километров ресурса: CATL ",
+      "metaDescription": "Китайская CATL представила на выставке IAA Transportation 2026 в Ганновере аккумуляторную платформу TECTRANS II для электрического коммерческого транс",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436012-zariadka-za-25-minut-i-15-milliona-kilometrov-resursa-catl-predstavila-novuiu-tiagovuiu-batareiu-dlia-elektrotransporta.html"
+    },
+    {
+      "id": "total-war-shogun-2-spustya-15-let-poluchit-polno-2026-09-15",
+      "category": "Новости",
+      "title": "Total War: Shogun 2 спустя 15 лет получит полное издание с новым контентом, улучшенной графикой и японской озвучкой",
+      "excerpt": "Издательство Sega и разработчики из британской студии Creative Assembly анонсировали Total War: Shogun 2 Complete Edition — полное издание своей глобальной стратегии с японским колоритом, вышедшей 15 лет назад. Источник изображений: Sega",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Total War: Shogun 2 спустя 15 лет получит полное издание с н",
+      "metaDescription": "Издательство Sega и разработчики из британской студии Creative Assembly анонсировали Total War: Shogun 2 Complete Edition — полное издание своей глоба",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148528"
+    },
+    {
+      "id": "iranian-cyber-spies-used-fake-mri-scan-results-t-2026-09-15",
+      "category": "Новости",
+      "title": "Иранские кибершпионы использовали фальшивые результаты МРТ-сканирования, чтобы взломать «врага режима»",
+      "excerpt": "По данным Национального центра кибербезопасности Великобритании (NCSC), Иран использовал эту и аналогичную кибердеятельность для «поддержки репрессий против лиц, которые рассматриваются как угроза режиму, таких как диссиденты, активисты и журналисты»",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Иранские кибершпионы использовали фальшивые результаты МРТ-с",
+      "metaDescription": "По данным Национального центра кибербезопасности Великобритании (NCSC), Иран использовал эту и аналогичную кибердеятельность для «поддержки репрессий ",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/iran-cyber-spies-use-fake-mri-scans-as-lure"
+    },
+    {
+      "id": "centerpoint-energy-confirms-customer-data-stolen-2026-09-15",
+      "category": "Новости",
+      "title": "CenterPoint Energy подтверждает, что данные клиентов были украдены в результате кибератаки",
+      "excerpt": "CenterPoint Energy сообщила о нарушении, ставящем под угрозу личную информацию некоторых клиентов после того, как злоумышленник слил данные, предположительно украденные у коммунальной компании. [...]",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "CenterPoint Energy подтверждает, что данные клиентов были ук",
+      "metaDescription": "CenterPoint Energy сообщила о нарушении, ставящем под угрозу личную информацию некоторых клиентов после того, как злоумышленник слил данные, предполож",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
+    },
+    {
+      "id": "petrosyan-anonsirovala-temu-proizvolnoy-programm-2026-09-15",
+      "category": "Новости",
+      "title": "Петросян анонсировала тему произвольной программы на новый сезон",
+      "excerpt": "Петросян анонсировала тему произвольной программы на новый сезон",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Петросян анонсировала тему произвольной программы на новый с",
+      "metaDescription": "Петросян анонсировала тему произвольной программы на новый сезон",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/15/petrosyan-anonsirovala-temu-proizvolnoy-programmy-na-novyy-sezon/"
+    },
+    {
+      "id": "vectrarat-can-hack-windows-enterprises-for-250-p-2026-09-15",
+      "category": "Новости",
+      "title": "VectraRAT может взломать Windows Enterprise за 250 долларов в месяц",
+      "excerpt": "Платформа с полным спектром услуг «вредоносное ПО как услуга» (MaaS) предлагает имплантацию Windows, инфраструктуру управления и контроля (C2) и панель оператора для комплексного удаленного доступа.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "VectraRAT может взломать Windows Enterprise за 250 долларов ",
+      "metaDescription": "Платформа с полным спектром услуг «вредоносное ПО как услуга» (MaaS) предлагает имплантацию Windows, инфраструктуру управления и контроля (C2) и панел",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises"
+    },
+    {
+      "id": "moschnyy-motor-750-vt-117-km-na-odnoy-zaryadke-a-2026-09-15",
+      "category": "Новости",
+      "title": "Мощный мотор 750 Вт, 117 км на одной зарядке, «автомат» и грузоподъемность 190 кг — всего 2 тыс. долларов. Представлен электровелосипед Segway Muxi Pro",
+      "excerpt": "Segway представила грузовой электровелосипед Muxi Pro — обновленную версию модели Muxi, выпущенной в прошлом году. Новинка предназначена для повседневных поездок по городу, перевозки покупок и небольших грузов. При установке дополнительного сиденья в",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Мощный мотор 750 Вт, 117 км на одной зарядке, «автомат» и гр",
+      "metaDescription": "Segway представила грузовой электровелосипед Muxi Pro — обновленную версию модели Muxi, выпущенной в прошлом году. Новинка предназначена для повседнев",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436015-moshhnyi-motor-750-vt-117-km-na-odnoi-zariadke-avtomat-i-gruzopodieemnost-190-kg-vsego-2-tys-dollarov-predstavlen-elektrovelosiped-segway-muxi-pro.html"
+    },
+    {
+      "id": "spacex-gotovitsya-poymat-starship-rukami-bashni--2026-09-15",
+      "category": "Новости",
+      "title": "SpaceX готовится поймать Starship «руками» башни: Илон Маск оценил шанс на успех в 50–60%",
+      "excerpt": "SpaceX готовится перейти к одному из ключевых этапов программы Starship — возвращению и захвату самого космического корабля стартовой башней. По словам Илона Маска, 14-й испытательный полет должен стать последним перед первой попыткой поймать Starshi",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "SpaceX готовится поймать Starship «руками» башни: Илон Маск ",
+      "metaDescription": "SpaceX готовится перейти к одному из ключевых этапов программы Starship — возвращению и захвату самого космического корабля стартовой башней. По слова",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436019-spacex-gotovitsia-poimat-starship-rukami-basni-ilon-mask-ocenil-sans-na-uspex-v-50-60.html"
+    },
+    {
+      "id": "glavnyy-stsenarist-the-witcher-3-wild-hunt-rassk-2026-09-15",
+      "category": "Новости",
+      "title": "Главный сценарист The Witcher 3: Wild Hunt рассказал, каким должен быть идеальный квест",
+      "excerpt": "Разработчики The Witcher 3: Wild Hunt из польской студии CD Projekt Red знают толк в историях, и главный сценарист игры Марцин Блаха (Marcin Blacha) решил поделиться с PC Gamer мудростью насчёт создания идеального квеста. Источник изображения: Steam ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Главный сценарист The Witcher 3: Wild Hunt рассказал, каким ",
+      "metaDescription": "Разработчики The Witcher 3: Wild Hunt из польской студии CD Projekt Red знают толк в историях, и главный сценарист игры Марцин Блаха (Marcin Blacha) р",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148531"
+    },
+    {
+      "id": "virtual-event-building-a-secure-ai-strategy-for--2026-09-15",
+      "category": "Новости",
+      "title": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "excerpt": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "date": "2026-10-08",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "[Виртуальное мероприятие] Создание безопасной стратегии иску",
+      "metaDescription": "[Виртуальное мероприятие] Создание безопасной стратегии искусственного интеллекта для предприятия",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026"
+    },
+    {
+      "id": "virtual-event-what-every-enterprise-should-know--2026-09-15",
+      "category": "Новости",
+      "title": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "excerpt": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "date": "2026-11-12",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "[Виртуальное мероприятие] Что каждое предприятие должно знат",
+      "metaDescription": "[Виртуальное мероприятие] Что каждое предприятие должно знать о защите облачных активов в эпоху искусственного интеллекта",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026"
+    },
+    {
       "id": "karmannyy-lora-kommunikator-thinknode-m9-s-qwert-2026-09-15",
       "category": "Новости",
       "title": "Карманный LoRa‑коммуникатор ThinkNode M9 с QWERTY‑клавиатурой",
