@@ -1,6 +1,275 @@
 {
   "articles": [
     {
+      "id": "i-thunderbolt-5-i-blok-pitaniya-na-850-vt-sonnet-2026-09-15",
+      "category": "Новости",
+      "title": "И Thunderbolt 5, и блок питания на 850 Вт. Sonnet представила док-станцию Breakaway Box 850 T5 для видеокарт",
+      "excerpt": "Компания Sonnet представила док-станцию для создания внешней видеокарты. Модель Breakaway Box 850 T5 оценена в немалые 600 долларов, но зато она комплектуется блоком питания мощностью 850 Вт.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "И Thunderbolt 5, и блок питания на 850 Вт. Sonnet представил",
+      "metaDescription": "Компания Sonnet представила док-станцию для создания внешней видеокарты. Модель Breakaway Box 850 T5 оценена в немалые 600 долларов, но зато она компл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436047-i-thunderbolt-5-i-blok-pitaniia-na-850-vt-sonnet-predstavila-dok-stanciiu-breakaway-box-850-t5-dlia-videokart.html"
+    },
+    {
+      "id": "openai-anthropic-i-google-deepmind-uzhe-davno-ta-2026-09-15",
+      "category": "Новости",
+      "title": "OpenAI, Anthropic и Google DeepMind уже давно тайно обсуждают, как не дать ИИ уничтожить человечество",
+      "excerpt": "OpenAI, Anthropic и Google DeepMind продолжают переговоры по вопросам безопасности искусственного интеллекта. Об этом сообщил журналистам Крис Лейн (Chris Lehane), глава глобальной политики OpenAI, отметив, что компании координируют усилия для снижен",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "OpenAI, Anthropic и Google DeepMind уже давно тайно обсуждаю",
+      "metaDescription": "OpenAI, Anthropic и Google DeepMind продолжают переговоры по вопросам безопасности искусственного интеллекта. Об этом сообщил журналистам Крис Лейн (C",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148532"
+    },
+    {
+      "id": "zapuschena-podpiska-m-a-one-s-rasshirennymi-ii-f-2026-09-15",
+      "category": "Новости",
+      "title": "Запущена подписка M**a One с расширенными ИИ-функциями, Muse и всеми платными функциями I*******m, WhatsApp и F******k",
+      "excerpt": "M**a запустила новую подписку M**a One, которая объединяет платные функции F******k, I*******m и WhatsApp с расширенным доступом к инструментам M**a AI. Компания предлагает несколько тарифов для обычных пользователей, авторов контента и бизнеса, при ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Запущена подписка M**a One с расширенными ИИ-функциями, Muse",
+      "metaDescription": "M**a запустила новую подписку M**a One, которая объединяет платные функции F******k, I*******m и WhatsApp с расширенным доступом к инструментам M**a A",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148533"
+    },
+    {
+      "id": "v-ios-27-nashli-vozmozhnost-podklyuchat-k-siri-s-2026-09-15",
+      "category": "Новости",
+      "title": "В iOS 27 нашли возможность подключать к Siri сторонние LLM",
+      "excerpt": "Датамайнер под никнеймом pdfu обнаружил в iOS 27 и macOS Golden Gate механизмы для интеграции Siri со сторонними языковыми моделями. В тестах ему удалось подключить к ассистенту Claude от Anthropic и заменить серверную модель Siri на GPT-5.6 Terra от",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В iOS 27 нашли возможность подключать к Siri сторонние LLM",
+      "metaDescription": "Датамайнер под никнеймом pdfu обнаружил в iOS 27 и macOS Golden Gate механизмы для интеграции Siri со сторонними языковыми моделями. В тестах ему удал",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082688"
+    },
+    {
+      "id": "kremlin-banking-malware-hijacks-chrome-and-edge--2026-09-15",
+      "category": "Новости",
+      "title": "Вредоносное ПО KREMLIN Banking взламывает Chrome и Edge для кражи учетных данных и токенов сеанса",
+      "excerpt": "Исследователи кибербезопасности пролили свет на ранее недокументированную бразильскую банковскую вредоносную операцию, которая предоставляет набор инструментов под названием KREMLIN. Elastic Security Labs отслеживает активность под ником REF9334. Дей",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вредоносное ПО KREMLIN Banking взламывает Chrome и Edge для ",
+      "metaDescription": "Исследователи кибербезопасности пролили свет на ранее недокументированную бразильскую банковскую вредоносную операцию, которая предоставляет набор инс",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
+    },
+    {
+      "id": "ssha-otmenyayut-ogranicheniya-na-vybrosy-elektro-2026-09-15",
+      "category": "Новости",
+      "title": "США отменяют ограничения на выбросы электростанций на фоне бума ИИ и дата-центров",
+      "excerpt": "14 сентября Агентство по охране окружающей среды США (EPA) окончательно отменило большую часть требований 2024 года по выбросам парниковых газов для электростанций и одновременно предложило отказаться от всех оставшихся федеральных ограничений для уг",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "США отменяют ограничения на выбросы электростанций на фоне б",
+      "metaDescription": "14 сентября Агентство по охране окружающей среды США (EPA) окончательно отменило большую часть требований 2024 года по выбросам парниковых газов для э",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436048-ssa-otmeniaiut-ograniceniia-na-vybrosy-elektrostancii-v-moment-buma-ii-i-data-centrov.html"
+    },
+    {
+      "id": "vot-eto-povorot-na-pokupku-izdatelya-mira-tankov-2026-09-15",
+      "category": "Новости",
+      "title": "Вот это поворот: на покупку издателя «Мира танков» и «Мира кораблей» нацелился бывший российский гонщик «Формулы-1»",
+      "excerpt": "Российские власти собираются продать принадлежащую государству группу компаний «Леста Игры» («Мир танков», «Мир кораблей», «Танки Blitz») «заинтересованному инвестору». Издание Forbes выяснило его личность. Источник изображения: «Леста Игры»",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вот это поворот: на покупку издателя «Мира танков» и «Мира к",
+      "metaDescription": "Российские власти собираются продать принадлежащую государству группу компаний «Леста Игры» («Мир танков», «Мир кораблей», «Танки Blitz») «заинтересов",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148534"
+    },
+    {
+      "id": "google-testiruet-vyplaty-avtoram-za-originalnyy--2026-09-15",
+      "category": "Новости",
+      "title": "Google тестирует выплаты авторам за оригинальный контент",
+      "excerpt": "Google запустил закрытый пилот: часть издателей теперь получает деньги не за трафик на сайте, а за то, что их контент существенно повлиял на ответ в Gemini, AI Overviews и AI Mode. Всё это крутится внутри Search Console — участник видит ежемесячные н",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Google тестирует выплаты авторам за оригинальный контент",
+      "metaDescription": "Google запустил закрытый пилот: часть издателей теперь получает деньги не за трафик на сайте, а за то, что их контент существенно повлиял на ответ в G",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082694"
+    },
+    {
+      "id": "spacex-za-polgoda-vypolnila-207-152-manevra-uklo-2026-09-15",
+      "category": "Новости",
+      "title": "SpaceX за полгода выполнила 207 152 манёвра уклонения от столкновений Starlink",
+      "excerpt": "Спутники Starlink 1-го и 2-го поколений за 6 месяцев выполнили 207 152 манёвра для предотвращения столкновений. Такие данные SpaceX привела в отчёте для Федеральной комиссии по связи США (FCC), однако важнее самого количества другой показатель: спутн",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "SpaceX за полгода выполнила 207 152 манёвра уклонения от сто",
+      "metaDescription": "Спутники Starlink 1-го и 2-го поколений за 6 месяцев выполнили 207 152 манёвра для предотвращения столкновений. Такие данные SpaceX привела в отчёте д",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436051-spacex-za-polgoda-vypolnila-207-152-manevra-ukloneniia-ot-stolknovenii-starlink.html"
+    },
+    {
+      "id": "black-hat-usa-2026-the-breaking-news-the-openai--2026-09-15",
+      "category": "Новости",
+      "title": "Черная шляпа США 2026 | «Срочные» новости: инцидент с OpenAI – обнимающим лицом",
+      "excerpt": "«Срочные» новости: инцидент OpenAI с Hugging Face — техническая реконструкция и ее последствия для ИИ. На докладе Black Hat USA 2026 инженеры и исследователи по безопасности OpenAI реконструируют инцидент OpenAI с Hugging Face и изучат его последстви",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Черная шляпа США 2026 | «Срочные» новости: инцидент с OpenAI",
+      "metaDescription": "«Срочные» новости: инцидент OpenAI с Hugging Face — техническая реконструкция и ее последствия для ИИ. На докладе Black Hat USA 2026 инженеры и исслед",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk"
+    },
+    {
+      "id": "we-think-the-security-control-is-working-is-no-l-2026-09-15",
+      "category": "Новости",
+      "title": "«Мы думаем, что контроль безопасности работает» уже недостаточно хорош",
+      "excerpt": "Аудит на определенный момент времени и выборочные оценки предоставляют только моментальные снимки; непрерывный мониторинг контроля обеспечивает доказательства того, что меры безопасности работают сегодня. Пост «Мы думаем, что контроль безопасности ра",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Мы думаем, что контроль безопасности работает» уже недостат",
+      "metaDescription": "Аудит на определенный момент времени и выборочные оценки предоставляют только моментальные снимки; непрерывный мониторинг контроля обеспечивает доказа",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/"
+    },
+    {
+      "id": "k-sleduyuschemu-pokoleniyu-videokart-gotovy-nach-2026-09-15",
+      "category": "Новости",
+      "title": "К следующему поколению видеокарт готовы: начались продажи кабелей HDMI 2.2 с пропускной способностью до 96 Гбит/с",
+      "excerpt": "Китайская компания Silkland начала принимать заказы на кабели стандарта HDMI 2.2 Ultra96 — судя по всему, первые подобные сертифицированные изделия, доступные для потребителей. Новая серия H96 поддерживает пропускную способность до 96 Гбит/с, что вдв",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "К следующему поколению видеокарт готовы: начались продажи ка",
+      "metaDescription": "Китайская компания Silkland начала принимать заказы на кабели стандарта HDMI 2.2 Ultra96 — судя по всему, первые подобные сертифицированные изделия, д",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148537"
+    },
+    {
+      "id": "sony-zapretila-avtoru-multipleernogo-moda-dlya-t-2026-09-15",
+      "category": "Новости",
+      "title": "Sony запретила автору мультиплеерного мода для The Last of Us Part II выпускать проект",
+      "excerpt": "Моддер под никнеймом Speclizer отменил выпуск мультиплеерного мода для ПК‑версии The Last of Us Part II. Проект находился в разработке с января и должен был выйти в релиз уже в сентябре, но разработчик получил письмо от Sony с просьбой не выпускать м",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Sony запретила автору мультиплеерного мода для The Last of U",
+      "metaDescription": "Моддер под никнеймом Speclizer отменил выпуск мультиплеерного мода для ПК‑версии The Last of Us Part II. Проект находился в разработке с января и долж",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082698"
+    },
+    {
+      "id": "ipo-openai-v-2026-godu-ne-budet-2026-09-15",
+      "category": "Новости",
+      "title": "IPO OpenAI в 2026 году не будет",
+      "excerpt": "OpenAI не планирует выходить на биржу в 2026 году. Об этом Сэм Альтман рассказал Fortune , назвав нынешний момент неподходящим для IPO на фоне растущих рисков, связанных с безопасностью ИИ. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "IPO OpenAI в 2026 году не будет",
+      "metaDescription": "OpenAI не планирует выходить на биржу в 2026 году. Об этом Сэм Альтман рассказал Fortune , назвав нынешний момент неподходящим для IPO на фоне растущи",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1082636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082636"
+    },
+    {
       "id": "human-attacker-exploits-marimo-rce-reaches-ssh-b-2026-09-15",
       "category": "Новости",
       "title": "Злоумышленник использовал Marimo RCE и добрался до бастиона SSH за восемь секунд",
