@@ -1,6 +1,310 @@
 {
   "articles": [
     {
+      "id": "karmannyy-lora-kommunikator-thinknode-m9-s-qwert-2026-09-15",
+      "category": "Новости",
+      "title": "Карманный LoRa‑коммуникатор ThinkNode M9 с QWERTY‑клавиатурой",
+      "excerpt": "Компания Elecrow выпустила ThinkNode M9 — компактный коммуникатор для обмена сообщениями без сотовой связи и доступа к интернету. Внешне устройство напоминает старые смартфоны BlackBerry: почти половину передней панели занимает физическая QWERTY-клав",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Карманный LoRa‑коммуникатор ThinkNode M9 с QWERTY‑клавиатуро",
+      "metaDescription": "Компания Elecrow выпустила ThinkNode M9 — компактный коммуникатор для обмена сообщениями без сотовой связи и доступа к интернету. Внешне устройство на",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1081888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081888"
+    },
+    {
+      "id": "openai-privlekla-sotni-storonnih-podryadchikov-k-2026-09-15",
+      "category": "Новости",
+      "title": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT",
+      "excerpt": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT для улучшения моделей искусственного интеллекта компании. Об инициативе под кодовым названием Project Lily сообщило издание 404 Media ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "OpenAI привлекла сотни сторонних подрядчиков, которые читают",
+      "metaDescription": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT для улучшения моделей искусственно",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082432"
+    },
+    {
+      "id": "generalnyy-direktor-crowdstrike-vystupil-protiv--2026-09-15",
+      "category": "Новости",
+      "title": "Генеральный директор CrowdStrike выступил против призывов замедлить развитие ИИ",
+      "excerpt": "Генеральный директор компании в сфере кибербезопасности CrowdStrike Джордж Курц выступил против призывов замедлить развитие искусственного интеллекта. По его словам, модели с открытыми весами и передовые модели уже доступны всем желающим, что делает ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Генеральный директор CrowdStrike выступил против призывов за",
+      "metaDescription": "Генеральный директор компании в сфере кибербезопасности CrowdStrike Джордж Курц выступил против призывов замедлить развитие искусственного интеллекта.",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082480"
+    },
+    {
+      "id": "windows-11-nauchilas-polnostyu-pereustanavlivat--2026-09-15",
+      "category": "Новости",
+      "title": "Windows 11 научилась полностью переустанавливать себя из облака без загрузочной флешки",
+      "excerpt": "Microsoft запустила в Windows 11 тестирование новой функции Cloud Rebuild, которая позволяет полностью переустановить операционную систему через интернет — что особенно удобно, когда установленная ОС больше не загружается. Для восстановления компьюте",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Windows 11 научилась полностью переустанавливать себя из обл",
+      "metaDescription": "Microsoft запустила в Windows 11 тестирование новой функции Cloud Rebuild, которая позволяет полностью переустановить операционную систему через интер",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1081890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081890"
+    },
+    {
+      "id": "amerikanskie-vladeltsy-playstation-proignorirova-2026-09-15",
+      "category": "Новости",
+      "title": "Американские владельцы PlayStation проигнорировали недельный бойкот консолей",
+      "excerpt": "Летом группа по сохранению игр Does It Play призывала неравнодушных пользователей консоли присоединиться к акции PlayStation Blackout. Она подразумевала не пользоваться гаджетами PlayStation и даже не заходить внутрь экосистемы на протяжении последне",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Американские владельцы PlayStation проигнорировали недельный",
+      "metaDescription": "Летом группа по сохранению игр Does It Play призывала неравнодушных пользователей консоли присоединиться к акции PlayStation Blackout. Она подразумева",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082420"
+    },
+    {
+      "id": "qa-podkast-ne-vosproizvoditsya-vozvraschaetsya-s-2026-09-15",
+      "category": "Новости",
+      "title": "QA-подкаст «Не воспроизводится» возвращается с каникул",
+      "excerpt": "Во втором сезоне Оля Шнайдер и Серёжа Атрощенков делают ставку на практику. Меньше рассуждений, больше конкретной пользы, которую можно сразу применять в работе. На повестке: процессы в QA Кажется, что можно работать в режиме «го-го-го в прод, по пут",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "QA-подкаст «Не воспроизводится» возвращается с каникул",
+      "metaDescription": "Во втором сезоне Оля Шнайдер и Серёжа Атрощенков делают ставку на практику. Меньше рассуждений, больше конкретной пользы, которую можно сразу применят",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/avito/news/1082490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082490"
+    },
+    {
+      "id": "claude-mods-anthropic-pereizobreli-huki-na-types-2026-09-15",
+      "category": "Новости",
+      "title": "Claude Mods: Anthropic переизобрели хуки на TypeScript",
+      "excerpt": "Anthropic открыли ранний доступ к Claude Mods . Это плагины с хуками на TypeScript, которые меняют поведение и интерфейс Claude Code: перехватывают вызовы инструментов, обрабатывают результаты, добавляют панели и кнопки. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Claude Mods: Anthropic переизобрели хуки на TypeScript",
+      "metaDescription": "Anthropic открыли ранний доступ к Claude Mods . Это плагины с хуками на TypeScript, которые меняют поведение и интерфейс Claude Code: перехватывают вы",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082502"
+    },
+    {
+      "id": "yandeks-poluchil-edinyy-sertifikat-iso-iec-27001-2026-09-15",
+      "category": "Новости",
+      "title": "«Яндекс» получил единый сертификат ISO/IEC 27001:2022 для «Яндекс ID», «Яндекс 360» и «Яндекс Метрики»",
+      "excerpt": "В «Яндексе» сообщили , что компания получила единый ИБ-сертификат ISO/IEC 27001:2022 для сервисов «Яндекс ID», «Яндекс 360» и «Яндекс Метрика». Документ выдан после проведения независимой аудиторской проверки и подтверждает, что система управления ин",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Яндекс» получил единый сертификат ISO/IEC 27001:2022 для «Я",
+      "metaDescription": "В «Яндексе» сообщили , что компания получила единый ИБ-сертификат ISO/IEC 27001:2022 для сервисов «Яндекс ID», «Яндекс 360» и «Яндекс Метрика». Докуме",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082512"
+    },
+    {
+      "id": "fujifilm-predstavila-kompaktnuyu-tsifrovuyu-kame-2026-09-15",
+      "category": "Новости",
+      "title": "Fujifilm представила компактную цифровую камеру Instax Pal 2",
+      "excerpt": "Японская Fujifilm представила компактную цифровую камеру Instax Pal 2, которая получила обновлённый дизайн по сравнению с первой моделью. Внешний вид новинки вдохновлён аналоговой техникой. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Fujifilm представила компактную цифровую камеру Instax Pal 2",
+      "metaDescription": "Японская Fujifilm представила компактную цифровую камеру Instax Pal 2, которая получила обновлённый дизайн по сравнению с первой моделью. Внешний вид ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082526"
+    },
+    {
+      "id": "nostalgiya-i-beznadega-vyshel-novyy-syuzhetnyy-t-2026-09-15",
+      "category": "Новости",
+      "title": "Ностальгия и безнадега: вышел новый сюжетный трейлер Gears of War: E‑Day",
+      "excerpt": "Любой фанат Gears of War помнит легендарный трейлер первой части 2006 года под щемящий сердце кавер «Mad World». Студия The Coalition решила сыграть на ностальгии и отдала дань уважения той классической рекламе в новом сюжетном трейлере Gears of War:",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Ностальгия и безнадега: вышел новый сюжетный трейлер Gears o",
+      "metaDescription": "Любой фанат Gears of War помнит легендарный трейлер первой части 2006 года под щемящий сердце кавер «Mad World». Студия The Coalition решила сыграть н",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082426"
+    },
+    {
+      "id": "reliz-firefox-156-0-2026-09-15",
+      "category": "Новости",
+      "title": "Релиз Firefox 156.0",
+      "excerpt": "15 сентября 2026 года состоялся релиз стабильной версии Firefox 156.0 (а также версии Firefox 153.3 ESR, 140.16 ESR и 115.41.0 ESR) с улучшениями и обновлениями, а также с исправлениями ошибок и багов, обнаруженных в прошлой стабильной версии. Выпуск",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз Firefox 156.0",
+      "metaDescription": "15 сентября 2026 года состоялся релиз стабильной версии Firefox 156.0 (а также версии Firefox 153.3 ESR, 140.16 ESR и 115.41.0 ESR) с улучшениями и об",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082174"
+    },
+    {
+      "id": "yaponskaya-kompaniya-gmo-ai-robotics-predstavila-2026-09-15",
+      "category": "Новости",
+      "title": "Японская компания GMO AI & Robotics представила проект для роботов GMO Humanoid Ambulance",
+      "excerpt": "Японская компания GMO AI & Robotics представила проект фургона GMO Humanoid Ambulance, предназначенного для перевозки инженеров, ремонтного оборудования, деталей и запасных человекоподобных роботов на объекты. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Японская компания GMO AI & Robotics представила проект для р",
+      "metaDescription": "Японская компания GMO AI & Robotics представила проект фургона GMO Humanoid Ambulance, предназначенного для перевозки инженеров, ремонтного оборудован",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082550"
+    },
+    {
+      "id": "novyy-reliz-security-vision-5-gibkoe-hranenie-so-2026-09-15",
+      "category": "Новости",
+      "title": "Новый релиз Security Vision 5: гибкое хранение событий, автоматизация обслуживания БД и развитие виджетов",
+      "excerpt": "Компания Security Vision представила очередное обновление платформы. Релиз расширяет возможности управления хранением и доступом к событиям, автоматизирует обслуживание базы данных, упрощает изменение типов событий и развивает сценарии работы с анали",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новый релиз Security Vision 5: гибкое хранение событий, авто",
+      "metaDescription": "Компания Security Vision представила очередное обновление платформы. Релиз расширяет возможности управления хранением и доступом к событиям, автоматиз",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/securityvison/news/1082570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082570"
+    },
+    {
+      "id": "ddos-guard-predstavlyaet-novyy-servis-dcaptcha-d-2026-09-15",
+      "category": "Новости",
+      "title": "DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ботов и спама",
+      "excerpt": "Мы развивали и использовали эту капчу три года в качестве последнего этапа проверки запроса и получали неоднократные просьбы сделать ее отдельным продуктом. Теперь это стало реальностью, и dCAPTCHA может подключить каждый . В основе dCAPTCHA лежит ме",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ",
+      "metaDescription": "Мы развивали и использовали эту капчу три года в качестве последнего этапа проверки запроса и получали неоднократные просьбы сделать ее отдельным прод",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ddosguard/news/1082574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082574"
+    },
+    {
+      "id": "elevenlabs-obnovila-generator-muzyki-do-versii-2-2026-09-15",
+      "category": "Новости",
+      "title": "ElevenLabs обновила генератор музыки до версии 2.5",
+      "excerpt": "ElevenLabs выпустила Music v2.5 для генератора ElevenMusic. Новая версия стала моделью по умолчанию, при этом предыдущая Music v2 осталась доступна в интерфейсе. Модель также появилась в API. Music v2.5 лучше справляется со сложными аранжировками, ес",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "ElevenLabs обновила генератор музыки до версии 2.5",
+      "metaDescription": "ElevenLabs выпустила Music v2.5 для генератора ElevenMusic. Новая версия стала моделью по умолчанию, при этом предыдущая Music v2 осталась доступна в ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1082604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082604"
+    },
+    {
+      "id": "kak-produktovye-komandy-ispolzuyut-ai-tri-prakti-2026-09-15",
+      "category": "Новости",
+      "title": "Как продуктовые команды используют AI: три практических кейса",
+      "excerpt": "Как перевести интерфейс на китайский и не получить «Телефон псу под хвост два ядра»? Как заставить AI-агентов считать за аналитиков? И почему одного RAG недостаточно для поддержки? Разберёмся на Fintech Product Meetup — бесплатном митапе от ЮMoney дл",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Как продуктовые команды используют AI: три практических кейс",
+      "metaDescription": "Как перевести интерфейс на китайский и не получить «Телефон псу под хвост два ядра»? Как заставить AI-агентов считать за аналитиков? И почему одного R",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/yoomoney/news/1082626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082626"
+    },
+    {
       "id": "kioxia-pridumala-kak-pobedit-defitsit-dram-pomog-2026-09-15",
       "category": "Новости",
       "title": "Kioxia придумала, как победить дефицит DRAM — помогут быстрые SSD, но не обычным ПК",
