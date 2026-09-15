@@ -445,6 +445,14 @@ async function main() {
             // Качаем текст статьи и достаём до ~10 предложений
             enriched.articleParagraphs = await extractArticleText(item.link);
 
+            // Текста нет (Cloudflare не отдал, страница-лендинг, платный контент) —
+            // не публикуем заглушку: пропускаем и попробуем на следующем прогоне
+            if (!enriched.articleParagraphs || enriched.articleParagraphs.length === 0) {
+                console.warn(`   ⛔ нет текста статьи, пропускаю: ${item.link}`);
+                stats.skipped++;
+                continue;
+            }
+
             // Англоязычные источники: переводим заголовок, описание и текст
             if (feed.lang === 'en') {
                 enriched.title = await translateText(item.title);
