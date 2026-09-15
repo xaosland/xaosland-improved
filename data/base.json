@@ -1,6 +1,280 @@
 {
   "articles": [
     {
+      "id": "china-spy-chief-points-at-us-ai-models-in-cyber--2026-09-15",
+      "category": "Новости",
+      "title": "Глава китайской разведки указывает на американские модели искусственного интеллекта в предупреждении о киберугрозах",
+      "excerpt": "Глава китайской разведки назвал Claude Mythos от Anthropic и GPT-5.5-Cyber ​​от OpenAI признаками того, что он назвал «революционным обновлением» кибервозможностей, увеличивая скорость и потенциальное использование оружия при обнаружении уязвимостей ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Глава китайской разведки указывает на американские модели ис",
+      "metaDescription": "Глава китайской разведки назвал Claude Mythos от Anthropic и GPT-5.5-Cyber ​​от OpenAI признаками того, что он назвал «революционным обновлением» кибе",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/china-spy-chief-warns-of-us-ai-models"
+    },
+    {
+      "id": "ebook-identity-first-threat-intelligence-2026-09-15",
+      "category": "Новости",
+      "title": "Электронная книга: Анализ угроз на основе личных данных",
+      "excerpt": "Злоумышленники все чаще обходят традиционную защиту, входя в систему с учетными данными, которые уже были украдены, раскрыты или проданы в даркнете. Поскольку вредоносное ПО-похититель информации ускоряет кражу учетных данных, организациям необходимо",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Электронная книга: Анализ угроз на основе личных данных",
+      "metaDescription": "Злоумышленники все чаще обходят традиционную защиту, входя в систему с учетными данными, которые уже были украдены, раскрыты или проданы в даркнете. П",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/"
+    },
+    {
+      "id": "zvezda-pochuvstvovala-vraschenie-chernoy-dyry-v--2026-09-15",
+      "category": "Новости",
+      "title": "Звезда «почувствовала» вращение чёрной дыры в центре Млечного Пути",
+      "excerpt": "Астрономы обнаружили звезду S301 на самой короткой из известных орбит вокруг сверхмассивной чёрной дыры Стрелец A* (Sagittarius A*, Sgr A*) в центре Млечного Пути. Она обращается вокруг чёрной дыры всего за 8,7 года, а в ближайшей к ней точке орбиты ",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Звезда «почувствовала» вращение чёрной дыры в центре Млечног",
+      "metaDescription": "Астрономы обнаружили звезду S301 на самой короткой из известных орбит вокруг сверхмассивной чёрной дыры Стрелец A* (Sagittarius A*, Sgr A*) в центре М",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435993-zvezda-pocuvstvovala-vrashhenie-cernoi-dyry-v-centre-mlecnogo-puti.html"
+    },
+    {
+      "id": "prostornyy-rossiyskiy-krossover-s-polnym-privodo-2026-09-15",
+      "category": "Новости",
+      "title": "Просторный российский кроссовер с полным приводом уже в базе. Tenet T9 поступил в продажу: 245 л.с. и 8-ступенчатый «автомат» — за 3,95 млн рублей",
+      "excerpt": "Российский бренд Tenet начал поставлять дилерам новый флагманский кроссовер T9. Полноразмерная пятиместная модель выпускается по полному циклу в Калужской области на мощностях автомобильного завода холдинга «АГР» и компании Defetoo. На старте доступн",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Просторный российский кроссовер с полным приводом уже в базе",
+      "metaDescription": "Российский бренд Tenet начал поставлять дилерам новый флагманский кроссовер T9. Полноразмерная пятиместная модель выпускается по полному циклу в Калуж",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435996-prostornyi-rossiiskii-krossover-s-polnym-privodom-uze-v-baze-tenet-t9-postupil-v-prodazu-245-ls-i-8-stupencatyi-avtomat-za-395-mln-rublei.html"
+    },
+    {
+      "id": "deepseek-gotovitsya-vyyti-na-birzhu-ee-novym-fin-2026-09-15",
+      "category": "Новости",
+      "title": "DeepSeek готовится выйти на биржу — её новым финансовым директором станет ветеран Уолл-стрит",
+      "excerpt": "DeepSeek планирует принять на работу партнёра венчурной фирмы GL Ventures Яня Вэньтао (Yan Wentao) на должность первого финансового директора, сообщает Reuters со ссылкой на два информированных источника. По неофициальной информации, одна из крупнейш",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "DeepSeek готовится выйти на биржу — её новым финансовым дире",
+      "metaDescription": "DeepSeek планирует принять на работу партнёра венчурной фирмы GL Ventures Яня Вэньтао (Yan Wentao) на должность первого финансового директора, сообщае",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148516"
+    },
+    {
+      "id": "net-seriynika-net-garantii-nvidia-otkazala-vlade-2026-09-15",
+      "category": "Новости",
+      "title": "Нет «серийника» — нет гарантии: Nvidia отказала владельцу GeForce RTX 5090 FE в гарантии из-за стершегося серийного номера",
+      "excerpt": "Владелец GeForce RTX 5090 Founders Edition рассказал о неожиданном отказе Nvidia в гарантийном обслуживании. По его словам, компания отклонила заявку на ремонт из-за того, что серийный номер на самой видеокарте оказался плохо читаемым (несмотря на на",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Нет «серийника» — нет гарантии: Nvidia отказала владельцу Ge",
+      "metaDescription": "Владелец GeForce RTX 5090 Founders Edition рассказал о неожиданном отказе Nvidia в гарантийном обслуживании. По его словам, компания отклонила заявку ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435991-net-seriinika-net-garantii-nvidia-otkazala-vladelcu-geforce-rtx-5090-fe-v-garantii-iz-za-stersegosia-seriinogo-nomera.html"
+    },
+    {
+      "id": "globalgig-expands-managed-security-portfolio-to--2026-09-15",
+      "category": "Новости",
+      "title": "Globalgig расширяет портфель управляемой безопасности для защиты корпоративного искусственного интеллекта",
+      "excerpt": "Globalgig расширила свой портфель управляемой безопасности, включив его в корпоративный ИИ, объединив услуги по обнаружению, оценке и защите приложений, агентов, моделей и данных ИИ, которые предприятия внедряют в производство. Услуги предоставляются",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Globalgig расширяет портфель управляемой безопасности для за",
+      "metaDescription": "Globalgig расширила свой портфель управляемой безопасности, включив его в корпоративный ИИ, объединив услуги по обнаружению, оценке и защите приложени",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/globalgig-expands-managed-security-with-ai-protection/"
+    },
+    {
+      "id": "ultraviolet-cyber-equinox-measures-detection-cov-2026-09-15",
+      "category": "Новости",
+      "title": "UltraViolet Cyber ​​Equinox измеряет охват обнаружения с помощью фреймворков MITRE",
+      "excerpt": "UltraViolet Cyber ​​объявила о запуске Equinox, своей собственной инженерной платформы обнаружения, созданной и управляемой командой Threat Intelligence & Detection Engineering (TIDE). Equinox максимизирует охват обнаружения в инструментах управления",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "UltraViolet Cyber ​​Equinox измеряет охват обнаружения с пом",
+      "metaDescription": "UltraViolet Cyber ​​объявила о запуске Equinox, своей собственной инженерной платформы обнаружения, созданной и управляемой командой Threat Intelligen",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/ultraviolet-cyber-equinox/"
+    },
+    {
+      "id": "thai-broadband-provider-hacked-via-fortinet-vuln-2026-09-15",
+      "category": "Новости",
+      "title": "Тайский провайдер широкополосного доступа взломан через уязвимость Fortinet",
+      "excerpt": "Хакеры создали множество скриптов для разведки и проверки CVE, а также утилиты грубого перебора и инструменты повышения привилегий. Сообщение Тайский широкополосный провайдер взломан через уязвимость Fortinet впервые появился на SecurityWeek.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Тайский провайдер широкополосного доступа взломан через уязв",
+      "metaDescription": "Хакеры создали множество скриптов для разведки и проверки CVE, а также утилиты грубого перебора и инструменты повышения привилегий. Сообщение Тайский ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/"
+    },
+    {
+      "id": "postman-passport-controls-api-access-without-exp-2026-09-15",
+      "category": "Новости",
+      "title": "Postman Passport контролирует доступ к API, не раскрывая учетные данные",
+      "excerpt": "Postman объявила о широкой доступности Passport от Postman, ознаменовав расширение компании в области безопасности API с помощью отдельного продукта, который дает организациям безопасный способ использования API, поскольку человеческие и нечеловеческ",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Postman Passport контролирует доступ к API, не раскрывая уче",
+      "metaDescription": "Postman объявила о широкой доступности Passport от Postman, ознаменовав расширение компании в области безопасности API с помощью отдельного продукта, ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/postman-passport/"
+    },
+    {
+      "id": "xiaomi-vypustila-svoi-pervye-televizory-rgb-mini-2026-09-15",
+      "category": "Новости",
+      "title": "Xiaomi выпустила свои первые телевизоры RGB-Mini LED: 65 дюймов за 895 долларов, 98 дюймов — дешевле 2000 долларов",
+      "excerpt": "Xiaomi начала продажи в Китае новой серии телевизоров — S Pro RGB-Mini LED 2027. Это первая линейка компании с полноцветной RGB Mini LED-подсветкой. В нее вошли модели с диагональю 65, 75, 85 и 98 дюймов.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Xiaomi выпустила свои первые телевизоры RGB-Mini LED: 65 дюй",
+      "metaDescription": "Xiaomi начала продажи в Китае новой серии телевизоров — S Pro RGB-Mini LED 2027. Это первая линейка компании с полноцветной RGB Mini LED-подсветкой. В",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435999-xiaomi-vypustila-svoi-pervye-televizory-rgb-mini-led-65-diuimov-za-895-dollarov-98-diuimov-desevle-2000-dollarov.html"
+    },
+    {
+      "id": "what-zero-day-response-should-be-in-the-post-myt-2026-09-15",
+      "category": "Новости",
+      "title": "Какой должна быть реакция нулевого дня в эпоху постмифа",
+      "excerpt": "ИИ сокращает время между раскрытием уязвимостей и их эксплуатацией, оставляя защитникам меньше времени на ожидание исправлений или публичных эксплойтов. Picus Security объясняет, как проверка возможности использования, тестирование мер безопасности и",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Какой должна быть реакция нулевого дня в эпоху постмифа",
+      "metaDescription": "ИИ сокращает время между раскрытием уязвимостей и их эксплуатацией, оставляя защитникам меньше времени на ожидание исправлений или публичных эксплойто",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/"
+    },
+    {
+      "id": "f5-bot-defense-uses-real-time-risk-scoring-to-de-2026-09-15",
+      "category": "Новости",
+      "title": "F5 Bot Defense использует оценку рисков в режиме реального времени для выявления случаев мошенничества и злоупотреблений.",
+      "excerpt": "F5 объявила об усовершенствованиях F5 Distributed Cloud Bot Defense, представив новые возможности анализа устройств и специализированную агентную защиту с использованием искусственного интеллекта. Эти возможности обеспечивают постоянный контекст устр",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "F5 Bot Defense использует оценку рисков в режиме реального в",
+      "metaDescription": "F5 объявила об усовершенствованиях F5 Distributed Cloud Bot Defense, представив новые возможности анализа устройств и специализированную агентную защи",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/f5-distributed-cloud-bot-defense-enhancements/"
+    },
+    {
+      "id": "anthropic-otpravila-claude-na-uoll-strit-ii-tepe-2026-09-15",
+      "category": "Новости",
+      "title": "Anthropic отправила Claude на Уолл-стрит — ИИ теперь анализирует портфели и готовит встречи с клиентами",
+      "excerpt": "Лаборатория искусственного интеллекта Anthropic представила набор инструментов для финансовых консультантов. Решение представляет собой интеграцию чат-бота Claude с ПО для инвестиционной аналитики и управления капиталом от BlackRock, Charles Schwab и",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Anthropic отправила Claude на Уолл-стрит — ИИ теперь анализи",
+      "metaDescription": "Лаборатория искусственного интеллекта Anthropic представила набор инструментов для финансовых консультантов. Решение представляет собой интеграцию чат",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148517"
+    },
+    {
       "id": "kitay-zapustil-podzemnuyu-superbatareyu-na-700-m-2026-09-15",
       "category": "Новости",
       "title": "Китай запустил подземную «супербатарею» на 700 МВт — воздух закачивают на глубину 1 км. Расчётный КПД превышает 70%",
