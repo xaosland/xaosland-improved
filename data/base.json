@@ -1,6 +1,293 @@
 {
   "articles": [
     {
+      "id": "cline-vypustili-desktop-versiyu-import-iz-claude-2026-09-16",
+      "category": "Новости",
+      "title": "Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99",
+      "excerpt": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Codex и выбирать модель независимо от редактора. По набору возможностей всё привычно для десктопного ко",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Cline выпустили Desktop версию: импорт из Claude и Codex, бе",
+      "metaDescription": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Cod",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082352"
+    },
+    {
+      "id": "gen-a-poluchila-oskar-dlya-startapov-2026-09-16",
+      "category": "Новости",
+      "title": "Gen‑A получила «Оскар» для стартапов",
+      "excerpt": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Команда российских программистов создала единую ИИ-платформу для комплексной обработки фото, видео и ауд",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Gen‑A получила «Оскар» для стартапов",
+      "metaDescription": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Кома",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082354"
+    },
+    {
+      "id": "akuity-gives-ai-agents-operational-context-to-sa-2026-09-16",
+      "category": "Новости",
+      "title": "Akuity предоставляет агентам ИИ оперативный контекст для безопасной доставки программного обеспечения",
+      "excerpt": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку программного обеспечения, предоставляя им операционный контекст и разрешения на действия, причем все это ",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Akuity предоставляет агентам ИИ оперативный контекст для без",
+      "metaDescription": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку прогр",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/"
+    },
+    {
+      "id": "v-clickhouse-poyavilis-funktsii-dlya-raboty-s-ii-2026-09-16",
+      "category": "Новости",
+      "title": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
+      "excerpt": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL-запросов. Теперь задачи вроде классификации текста, извлечения данных и построения RAG-сценариев мо",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
+      "metaDescription": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082364"
+    },
+    {
+      "id": "oracle-dobavila-esche-700-mln-k-zatratam-na-sokr-2026-09-16",
+      "category": "Новости",
+      "title": "Oracle добавила ещё $700 млн к затратам на сокращение штата и расторжение контрактов, одновременно тратя миллиарды на расширение инфраструктуры для ИИ",
+      "excerpt": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 млрд. Как сообщает Reuters, план включает сокращение рабочих мест, выходные пособия, расторжение конт",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Oracle добавила ещё $700 млн к затратам на сокращение штата ",
+      "metaDescription": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435932-oracle-dobavila-eshhe-700-mln-k-zatratam-na-sokrashhenie-stata-i-rastorzenie-kontraktov-odnovremenno-tratia-milliardy-na-rassirenie-infrastruktury-dlia-ii.html"
+    },
+    {
+      "id": "microsoft-confirms-kb5002914-excel-update-breaks-2026-09-16",
+      "category": "Новости",
+      "title": "Microsoft подтверждает, что обновление Excel KB5002914 нарушает копирование и вставку",
+      "excerpt": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB5002914 за сентябрь 2026 г. [...]",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft подтверждает, что обновление Excel KB5002914 наруш",
+      "metaDescription": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB50029",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/"
+    },
+    {
+      "id": "smi-rost-chisla-rabochih-mest-v-ssha-iz-za-ii-pr-2026-09-16",
+      "category": "Новости",
+      "title": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокращения",
+      "excerpt": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокраще",
+      "metaDescription": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082362"
+    },
+    {
+      "id": "vladeltsy-geforce-rtx-founders-edition-soobschil-2026-09-16",
+      "category": "Новости",
+      "title": "Владельцы GeForce RTX Founders Edition сообщили о проблемах с гарантией из-за выцветших серийных номеров",
+      "excerpt": "Владельцы дорогостоящих видеокарт Nvidia GeForce RTX Founders Edition столкнулись с неожиданным дефектом: серийные номера начали стираться и терять читаемость. Пользователи сообщают об отказах в приёме заявок на ремонт (RMA) из-за невозможности идент",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Владельцы GeForce RTX Founders Edition сообщили о проблемах ",
+      "metaDescription": "Владельцы дорогостоящих видеокарт Nvidia GeForce RTX Founders Edition столкнулись с неожиданным дефектом: серийные номера начали стираться и терять чи",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148540"
+    },
+    {
+      "id": "reliz-mozilla-thunderbird-156-0-gde-dlya-serviso-2026-09-16",
+      "category": "Новости",
+      "title": "Релиз Mozilla Thunderbird 156.0, где для сервисов «Яндекса» включён процесс входа через внешний браузер",
+      "excerpt": "15 сентября 2026 года состоялся релиз бесплатного кроссплатформенного приложения для управления электронной почтой и новостными лентами Mozilla Thunderbird 156.0. Сборки проекта доступны для Windows, macOS и Linux в разделе Thunderbird Release в кана",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз Mozilla Thunderbird 156.0, где для сервисов «Яндекса» ",
+      "metaDescription": "15 сентября 2026 года состоялся релиз бесплатного кроссплатформенного приложения для управления электронной почтой и новостными лентами Mozilla Thunde",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082186"
+    },
+    {
+      "id": "razer-predstavila-igrovuyu-garnituru-kraken-v4-x-2026-09-16",
+      "category": "Новости",
+      "title": "Razer представила игровую гарнитуру Kraken V4 X Sensa HD Haptics Edition с тактильной обратной связью",
+      "excerpt": "Компания Razer расширила ассортимент игровых гарнитур Kraken V4 новой проводной моделью Razer Kraken V4 X Sensa HD Haptics Edition. По словам компании, новинка обеспечивает эффект тактильной обратной связи. Источник изображений: Razer",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Razer представила игровую гарнитуру Kraken V4 X Sensa HD Hap",
+      "metaDescription": "Компания Razer расширила ассортимент игровых гарнитур Kraken V4 новой проводной моделью Razer Kraken V4 X Sensa HD Haptics Edition. По словам компании",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148538"
+    },
+    {
+      "id": "posle-ustraneniya-neispravnosti-rakety-soyuza-ko-2026-09-16",
+      "category": "Новости",
+      "title": "После устранения неисправности ракеты «Союза» корабль «Прогресс МС-35» отправляется к МКС",
+      "excerpt": "Запуск грузового корабля «Прогресс МС-35» к Международной космической станции запланирован на 16 сентября.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "После устранения неисправности ракеты «Союза» корабль «Прогр",
+      "metaDescription": "Запуск грузового корабля «Прогресс МС-35» к Международной космической станции запланирован на 16 сентября.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436076-posle-ustraneniia-neispravnosti-rakety-soiuza-korabl-progress-ms-35-otpravliaetsia-k-mks.html"
+    },
+    {
+      "id": "moschneyshaya-tverdotoplivnaya-raketa-gravity-1--2026-09-16",
+      "category": "Новости",
+      "title": "Мощнейшая твердотопливная ракета Gravity-1 стартовала с судна",
+      "excerpt": "Китайская аэрокосмическая компания OrienSpace успешно запустила ракету-носитель Gravity-1 с морской платформы. Старт состоялся 16 сентября в 06:00 по местному времени у побережья Шанхая. Вскоре после взлёта ракета вывела на заданную орбиту девять спу",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Мощнейшая твердотопливная ракета Gravity-1 стартовала с судн",
+      "metaDescription": "Китайская аэрокосмическая компания OrienSpace успешно запустила ракету-носитель Gravity-1 с морской платформы. Старт состоялся 16 сентября в 06:00 по ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436077-moshhneisaia-tverdotoplivnaia-raketa-gravity-1-startovala-s-sudna.html"
+    },
+    {
+      "id": "uchenye-otkryli-uzhe-pochti-8-tys-planet-2026-09-16",
+      "category": "Новости",
+      "title": "Учёные открыли уже почти 8 тыс. планет",
+      "excerpt": "Число известных науке планет уже приблизилось к 8 тыс., однако непосредственно увидеть можно лишь несколько десятков из них.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Учёные открыли уже почти 8 тыс. планет",
+      "metaDescription": "Число известных науке планет уже приблизилось к 8 тыс., однако непосредственно увидеть можно лишь несколько десятков из них.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436079-ucenye-otkryli-uze-pocti-8-tys-planet.html"
+    },
+    {
+      "id": "posle-2030-goda-magnitnye-buri-prekratyatsya-na--2026-09-16",
+      "category": "Новости",
+      "title": "После 2030 года магнитные бури прекратятся на несколько лет",
+      "excerpt": "После 2030 года начнётся минимум солнечной активности, и в течение нескольких лет магнитные бури почти перестанут беспокоить жителей России. Об этом заявила Ксения Капорцева, научный сотрудник лаборатории космофизических исследований НИИ ядерной физи",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "После 2030 года магнитные бури прекратятся на несколько лет",
+      "metaDescription": "После 2030 года начнётся минимум солнечной активности, и в течение нескольких лет магнитные бури почти перестанут беспокоить жителей России. Об этом з",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436081-posle-2030-goda-magnitnye-buri-prekratiatsia-na-neskolko-let.html"
+    },
+    {
+      "id": "spros-na-rossiyskoe-oborudovanie-wi-fi-v-rossii--2026-09-16",
+      "category": "Новости",
+      "title": "Спрос на российское оборудование Wi-Fi в России взлетел",
+      "excerpt": "Объём государственных закупок Wi-Fi-оборудования в России в январе–июне 2026 года достиг 4,64 млрд руб. Это на 23% больше, чем за аналогичный период прошлого года, подсчитал сервис «Контур.Закупки» для «Ведомостей». Представители телекоммуникационных",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Спрос на российское оборудование Wi-Fi в России взлетел",
+      "metaDescription": "Объём государственных закупок Wi-Fi-оборудования в России в январе–июне 2026 года достиг 4,64 млрд руб. Это на 23% больше, чем за аналогичный период п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436085-spros-na-rossiiskoe-oborudovanie-wi-fi-v-rossii-vzletel.html"
+    },
+    {
       "id": "volgi-novogo-pokoleniya-nachali-sobirat-po-polno-2026-09-16",
       "category": "Новости",
       "title": "«Волги» нового поколения начали собирать по полному циклу со сваркой и окраской. В 2028 запустят производство двигателей и трансмиссий",
