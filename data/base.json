@@ -1,6 +1,336 @@
 {
   "articles": [
     {
+      "id": "internet-archive-okazalsya-pod-atakoy-botov-i-st-2026-09-16",
+      "category": "Новости",
+      "title": "Internet Archive оказался под атакой ботов и стал блокировать обычных пользователей",
+      "excerpt": "Сервис Wayback Machine, позволяющий проследить, как с течением времени менялись сайты и веб-страницы, перестал открываться у части пользователей. Владеющая сервисом платформа Internet Archive откликнулась на жалобы пользователей, объяснив неполадки н",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/internet-archive-okazalsya-pod-atakoy-botov-i-st-2026-09-16.webp",
+      "metaTitle": "Internet Archive оказался под атакой ботов и стал блокироват",
+      "metaDescription": "Сервис Wayback Machine, позволяющий проследить, как с течением времени менялись сайты и веб-страницы, перестал открываться у части пользователей. Влад",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148595"
+    },
+    {
+      "id": "vypusk-sredy-rabochego-stola-gnome-51-2026-09-16",
+      "category": "Новости",
+      "title": "Выпуск среды рабочего стола GNOME 51",
+      "excerpt": "После шести месяцев разработки опубликован выпуск среды рабочего стола GNOME 51. Для быстрой оценки возможностей GNOME 50 предложены специализированные Live-сборки на основе openSUSE и установочной образ, подготовленный в рамках инициативы GNOME OS. ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск среды рабочего стола GNOME 51",
+      "metaDescription": "После шести месяцев разработки опубликован выпуск среды рабочего стола GNOME 51. Для быстрой оценки возможностей GNOME 50 предложены специализированны",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66292"
+    },
+    {
+      "id": "nazvany-pobediteli-premii-vnedorozhnik-goda-2026-2026-09-16",
+      "category": "Новости",
+      "title": "Названы победители премии «Внедорожник года — 2026»",
+      "excerpt": "В Москве состоялась XXI церемония вручения премии «Внедорожник года. Традиционно лауреатов определяли два жюри: экспертное и большое, в котором своё мнение высказали участники народного голосования. Победителей выбрали в десяти основных автомобильных",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nazvany-pobediteli-premii-vnedorozhnik-goda-2026-2026-09-16.webp",
+      "metaTitle": "Названы победители премии «Внедорожник года — 2026»",
+      "metaDescription": "В Москве состоялась XXI церемония вручения премии «Внедорожник года. Традиционно лауреатов определяли два жюри: экспертное и большое, в котором своё м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436257-nazvany-pobediteli-premii-vnedoroznik-goda-2026.html"
+    },
+    {
+      "id": "zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16-2",
+      "category": "Новости",
+      "title": "Zero Parades: For Dead Spies скоро получит режиссёрскую версию и выйдет на PS5 — детали последнего обновления RPG от студии в ответе за Disco Elysium",
+      "excerpt": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролевой игры Zero Parades: For Dead Spies. Источник изображений: ZA/UM",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16-2.webp",
+      "metaTitle": "Zero Parades: For Dead Spies скоро получит режиссёрскую верс",
+      "metaDescription": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролево",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148596"
+    },
+    {
+      "id": "first-agentic-ai-data-breach-reported-to-spanish-2026-09-16-2",
+      "category": "Новости",
+      "title": "В испанский регулятор поступило сообщение о первой утечке данных агентов ИИ",
+      "excerpt": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным, что может стать потенциальной вехой для автономных кибератак. Сообщение о первой утечке данных аге",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/first-agentic-ai-data-breach-reported-to-spanish-2026-09-16-2.webp",
+      "metaTitle": "В испанский регулятор поступило сообщение о первой утечке да",
+      "metaDescription": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
+    },
+    {
+      "id": "bragjack-attack-can-turn-a-browser-s-agentic-ai--2026-09-16-2",
+      "category": "Новости",
+      "title": "Атака BragJack может настроить против него агентный искусственный интеллект браузера",
+      "excerpt": "Новый тип атаки использует ИИ-помощник, встроенный непосредственно в различные браузеры, для доступа к конфиденциальной информации, выполнения вредоносных действий и кражи данных.",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Атака BragJack может настроить против него агентный искусств",
+      "metaDescription": "Новый тип атаки использует ИИ-помощник, встроенный непосредственно в различные браузеры, для доступа к конфиденциальной информации, выполнения вредоно",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
+    },
+    {
+      "id": "spain-s-data-agency-gets-first-report-of-ai-powe-2026-09-16",
+      "category": "Новости",
+      "title": "Информационное агентство Испании получило первый отчет об утечке данных с помощью искусственного интеллекта",
+      "excerpt": "Испанское агентство по защите данных (AEPD) было уведомлено об атаке, предположительно осуществленной с помощью ИИ-агента, работающего на основе известной модели большого языка (LLM). [...]",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spain-s-data-agency-gets-first-report-of-ai-powe-2026-09-16.webp",
+      "metaTitle": "Информационное агентство Испании получило первый отчет об ут",
+      "metaDescription": "Испанское агентство по защите данных (AEPD) было уведомлено об атаке, предположительно осуществленной с помощью ИИ-агента, работающего на основе извес",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
+    },
+    {
+      "id": "plany-maska-po-samorastuschemu-gorodu-na-lune-uz-2026-09-16",
+      "category": "Новости",
+      "title": "Планы Маска по «саморастущему городу» на Луне уже упираются в физический предел",
+      "excerpt": "Пока Илон Маск обещает построить «саморастущий город» на Луне менее чем за 10 лет, группа из Смитсоновской астрофизической обсерватории подсчитала, сколько воды может дать Луна поселенцам, — и пришла к выводу, что город-миллионник при самой жёсткой э",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/plany-maska-po-samorastuschemu-gorodu-na-lune-uz-2026-09-16.webp",
+      "metaTitle": "Планы Маска по «саморастущему городу» на Луне уже упираются ",
+      "metaDescription": "Пока Илон Маск обещает построить «саморастущий город» на Луне менее чем за 10 лет, группа из Смитсоновской астрофизической обсерватории подсчитала, ск",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436269-plany-maska-po-samorastushhemu-gorodu-na-lune-uze-upiraiutsia-v-fiziceskii-predel.html"
+    },
+    {
+      "id": "samsung-namerena-snova-povysit-tseny-na-pamyat-n-2026-09-16",
+      "category": "Новости",
+      "title": "Samsung намерена снова повысить цены на память NAND и DRAM для производителей смартфонов",
+      "excerpt": "Ресурс Sisa Journal сообщает, что Samsung Electronics планирует в очередной раз повысить цены на память. На сей раз речь идёт о памяти DRAM и NAND для смартфонов и росте цен на 7-10%.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-namerena-snova-povysit-tseny-na-pamyat-n-2026-09-16.webp",
+      "metaTitle": "Samsung намерена снова повысить цены на память NAND и DRAM д",
+      "metaDescription": "Ресурс Sisa Journal сообщает, что Samsung Electronics планирует в очередной раз повысить цены на память. На сей раз речь идёт о памяти DRAM и NAND для",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436271-samsung-namerena-snova-povysit-ceny-na-pamiat-nand-i-dram-dlia-proizvoditelei-smartfonov.html"
+    },
+    {
+      "id": "proizvodstvo-rossiyskoy-mikroelektroniki-osnasty-2026-09-16",
+      "category": "Новости",
+      "title": "Производство российской микроэлектроники оснастят импортными установками — отечественных аналогов в реестре нет",
+      "excerpt": "Подведомственное Минпромторгу предприятие НПП «Гамма» объявило аукцион на закупку оборудования для сборки и тестирования микроэлектроники. Начальная стоимость контракта составляет 732,1 млн рублей, поставить, смонтировать и запустить всю технику необ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/proizvodstvo-rossiyskoy-mikroelektroniki-osnasty-2026-09-16.webp",
+      "metaTitle": "Производство российской микроэлектроники оснастят импортными",
+      "metaDescription": "Подведомственное Минпромторгу предприятие НПП «Гамма» объявило аукцион на закупку оборудования для сборки и тестирования микроэлектроники. Начальная с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436273-proizvodstvo-rossiiskoi-mikroelektroniki-osnastiat-importnymi-ustanovkami-otecestvennyx-analogov-v-reestre-net.html"
+    },
+    {
+      "id": "u-amd-budet-svoya-tehnologiya-neyronnogo-renderi-2026-09-16",
+      "category": "Новости",
+      "title": "У AMD будет своя технология нейронного рендеринга, как ответ на Nvidia DLSS 5",
+      "excerpt": "Согласно данным инсайдера Kepler_L2, компания AMD готовит ответ на нейронный рендеринг Nvidia DLSS 5. То есть компания тоже будет использовать эту технологию.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-amd-budet-svoya-tehnologiya-neyronnogo-renderi-2026-09-16.webp",
+      "metaTitle": "У AMD будет своя технология нейронного рендеринга, как ответ",
+      "metaDescription": "Согласно данным инсайдера Kepler_L2, компания AMD готовит ответ на нейронный рендеринг Nvidia DLSS 5. То есть компания тоже будет использовать эту тех",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436274-u-amd-budet-svoia-texnologiia-neironnogo-renderinga-kak-otvet-na-nvidia-dlss-5.html"
+    },
+    {
+      "id": "veduschie-sozdateli-igr-dlya-roblox-zarabotali-z-2026-09-16",
+      "category": "Новости",
+      "title": "Ведущие создатели игр для Roblox заработали за год по 65 миллионов долларов, а большинство получает по полторы тысячи",
+      "excerpt": "Доходы разработчиков игр на популярной среди детей и подростков платформе Roblox от американской компании Roblox Corporation стремительно растут, однако деньги распределяются неравномерно. Источник изображений: Roblox Corporation",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/veduschie-sozdateli-igr-dlya-roblox-zarabotali-z-2026-09-16.webp",
+      "metaTitle": "Ведущие создатели игр для Roblox заработали за год по 65 мил",
+      "metaDescription": "Доходы разработчиков игр на популярной среди детей и подростков платформе Roblox от американской компании Roblox Corporation стремительно растут, одна",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148599"
+    },
+    {
+      "id": "glava-ii-podrazdeleniya-microsoft-antropomorfizm-2026-09-16",
+      "category": "Новости",
+      "title": "Глава ИИ-подразделения Microsoft: антропоморфизм в отношении ИИ недопустим",
+      "excerpt": "Руководитель подразделения искусственного интеллекта Microsoft Мустафа Сулейман (Mustafa Suleyman) предупредил о высоких рисках наделения инструментов ИИ, подобных Claude от Anthropic, человекоподобными характеристиками. По его мнению, антропоморфизм",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/glava-ii-podrazdeleniya-microsoft-antropomorfizm-2026-09-16.webp",
+      "metaTitle": "Глава ИИ-подразделения Microsoft: антропоморфизм в отношении",
+      "metaDescription": "Руководитель подразделения искусственного интеллекта Microsoft Мустафа Сулейман (Mustafa Suleyman) предупредил о высоких рисках наделения инструментов",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148598"
+    },
+    {
+      "id": "v-ssha-mogut-vvesti-mehanizm-blokirovki-zarubezh-2026-09-16",
+      "category": "Новости",
+      "title": "В США могут ввести механизм блокировки зарубежных сайтов на уровне DNS",
+      "excerpt": "В Конгрессе США представили новый законопроект American Copyright Protection Act (ACPA), который предусматривает создание механизма блокировки зарубежных сайтов за нарушение авторских прав. Если документ примут, американских интернет-провайдеров и DN",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-ssha-mogut-vvesti-mehanizm-blokirovki-zarubezh-2026-09-16.webp",
+      "metaTitle": "В США могут ввести механизм блокировки зарубежных сайтов на ",
+      "metaDescription": "В Конгрессе США представили новый законопроект American Copyright Protection Act (ACPA), который предусматривает создание механизма блокировки зарубеж",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436276-v-ssa-mogut-vvesti-mexanizm-blokirovki-zarubeznyx-saitov-na-urovne-dns.html"
+    },
+    {
+      "id": "videokarty-geforce-i-radeon-novogo-pokoleniya-vy-2026-09-16",
+      "category": "Новости",
+      "title": "Видеокарты GeForce и Radeon нового поколения выйдут лишь в 2028 году, хотя одна карта AMD всё же выйдет в 2027",
+      "excerpt": "Видеокарты Nvidia и AMD следующего поколения действительно могут выйти только в 2028 году. Как минимум инсайдер Kepler_L2 уверенно говорит именно об этом, хотя есть одна оговорка.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/videokarty-geforce-i-radeon-novogo-pokoleniya-vy-2026-09-16.webp",
+      "metaTitle": "Видеокарты GeForce и Radeon нового поколения выйдут лишь в 2",
+      "metaDescription": "Видеокарты Nvidia и AMD следующего поколения действительно могут выйти только в 2028 году. Как минимум инсайдер Kepler_L2 уверенно говорит именно об э",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436277-videokarty-geforce-i-radeon-novogo-pokoleniia-vyidut-lis-v-2028-godu-xotia-odna-karta-amd-vse-ze-vyidet-v-2027.html"
+    },
+    {
+      "id": "gruzovik-progress-ms-36-poletit-k-mks-v-noyabre--2026-09-16",
+      "category": "Новости",
+      "title": "Грузовик «Прогресс МС-36» полетит к МКС в ноябре и повезёт робота «Теледроид»",
+      "excerpt": "Как сообщили в трансляции Роскосмоса к запуску грузового корабля «Прогресс МС-35», следующий космический грузовик «Прогресс МС-36» отправится к Международной космической станции (МКС) в ноябре 2026 года. «Прогресс МС-35», запуск которого к МКС состоя",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gruzovik-progress-ms-36-poletit-k-mks-v-noyabre--2026-09-16.webp",
+      "metaTitle": "Грузовик «Прогресс МС-36» полетит к МКС в ноябре и повезёт р",
+      "metaDescription": "Как сообщили в трансляции Роскосмоса к запуску грузового корабля «Прогресс МС-35», следующий космический грузовик «Прогресс МС-36» отправится к Междун",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436275-gruzovik-progress-ms-36-poletit-k-mks-v-noiabre-i-povezet-robota-teledroid.html"
+    },
+    {
       "id": "digest-2026-W38",
       "category": "Статьи",
       "title": "Дайджест XaosLand #38: лучшие материалы за неделю",
