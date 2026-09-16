@@ -15,6 +15,47 @@ const SITE_URL = 'https://xaosland.ru';
 
 const { isSafeArticleId } = require('./utils');
 const { detectTopicTags } = require('./topic-tags');
+// sharp опционален: без него картинки не скачиваются, текст работает как раньше
+let sharp = null;
+try { sharp = require('sharp'); } catch {}
+
+const IMG_DIR = path.join(ROOT, 'images', 'news');
+const IMG_MAX_W = 800;
+
+// Скачиваем og:image источника, сжимаем в WebP 800px. Возврат: путь для фронта | null.
+async function fetchAndStoreImage(ogImageUrl, articleId) {
+    if (!sharp || !ogImageUrl || !/^https:\/\//.test(ogImageUrl)) return null;
+    try {
+        const res = await fetch(ogImageUrl, {
+            signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+            headers: { 'User-Agent': 'XaosLandNewsBot/1.0 (+https://xaosland.ru)' },
+            redirect: 'follow',
+        });
+        if (!res.ok) return null;
+        const type = (res.headers.get('content-type') || '').split('/')[0];
+        if (type !== 'image') return null;
+        const buf = Buffer.from(await res.arrayBuffer());
+        if (buf.length < 3000 || buf.length > 8 * 1024 * 1024) return null; // мусор/гиганты мимо
+        fs.mkdirSync(IMG_DIR, { recursive: true });
+        const out = path.join(IMG_DIR, `${articleId}.webp`);
+        await sharp(buf).rotate().resize({ width: IMG_MAX_W, withoutEnlargement: true }).webp({ quality: 78 }).toFile(out);
+        const size = fs.statSync(out).size;
+        if (size < 2000) { fs.unlinkSync(out); return null; }
+        console.log(`   🖼 картинка: ${(size / 1024).toFixed(0)}KB`);
+        return `/images/news/${articleId}.webp`;
+    } catch (e) {
+        console.warn(`   ⚠️ картинка не получена: ${e.message}`);
+        return null;
+    }
+}
+
+// og:image из HTML исходной статьи; относительные пути разворачиваем в абсолютные
+function extractOgImage(html, baseUrl) {
+    const m = /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i.exec(html)
+        || /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i.exec(html);
+    if (!m) return null;
+    try { return new URL(m[1], baseUrl).href; } catch { return null; }
+}
 
 // ---------------- Настройки ----------------
 const MAX_HOURS = parseInt(process.env.NEWS_MAX_HOURS || '48', 10);
@@ -216,7 +257,11 @@ async function extractArticleText(url) {
             return [];
         }
     }
-    if (fromProxy) return extractParagraphsFromMarkdown(html, url);
+    if (fromProxy) {
+        return { paragraphs: extractParagraphsFromMarkdown(html, url), ogImage: null };
+    }
+    // og:image достаём из сырого HTML до чистки (в выдаче прокси его уже нет)
+    const ogImage = extractOgImage(html, url);
     // Убираем шум до извлечения параграфов
     const cleaned = html
         .replace(/<script[\s\S]*?<\/script>/gi, ' ')
@@ -269,7 +314,7 @@ async function extractArticleText(url) {
         trimmed.push(p);
         total += p.length;
     }
-    return trimmed;
+    return { paragraphs: trimmed, ogImage };
 }
 
 // ---------------- Перевод en→ru ----------------
@@ -366,7 +411,7 @@ function buildMarkdown(item, sourceName) {
         `tags: [новости, ${item.tagHint || 'технологии'}]`,
         'featured: false',
         'popular: false',
-        'image: ""',
+        `image: ${item.image || ''}`,
         `metaTitle: ${item.title.replace(/"/g, "'").slice(0, 60)}`,
         `metaDescription: ${(item.description || item.title).slice(0, 150).replace(/"/g, "'")}`,
         `source: ${sourceName}`,
@@ -446,8 +491,10 @@ async function main() {
             const date = new Date(ts).toISOString().slice(0, 10);
             const enriched = { ...item, id, date };
 
-            // Качаем текст статьи и достаём до ~10 предложений
-            enriched.articleParagraphs = await extractArticleText(item.link);
+            // Качаем текст статьи (до ~10 предложений) + og:image источника
+            const extracted = await extractArticleText(item.link);
+            enriched.articleParagraphs = extracted.paragraphs;
+            enriched.ogImage = extracted.ogImage;
 
             // Текста нет (Cloudflare не отдал, страница-лендинг, платный контент) —
             // не публикуем заглушку: пропускаем и попробуем на следующем прогоне
@@ -456,6 +503,9 @@ async function main() {
                 stats.skipped++;
                 continue;
             }
+
+            // Картинка: og:image скачиваем к себе (WebP 800px) — хотлинки и битые ссылки не нужны
+            enriched.image = await fetchAndStoreImage(extracted.ogImage, id);
 
             // Англоязычные источники: переводим заголовок, описание и текст
             if (feed.lang === 'en') {
@@ -492,7 +542,7 @@ async function main() {
                 tags,
                 featured: false,
                 popular: false,
-                image: '',
+                image: enriched.image || '',
                 metaTitle: (enriched.title || item.title).slice(0, 60),
                 metaDescription: (enriched.description || item.description || item.title).slice(0, 150),
                 source: feed.name,

@@ -1,6 +1,68 @@
 {
   "articles": [
     {
+      "id": "zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16",
+      "category": "Новости",
+      "title": "Zero Parades: For Dead Spies скоро получит режиссёрскую версию и выйдет на PS5 — детали последнего обновления RPG от студии в ответе за Disco Elysium",
+      "excerpt": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролевой игры Zero Parades: For Dead Spies. Источник изображений: ZA/UM",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16.webp",
+      "metaTitle": "Zero Parades: For Dead Spies скоро получит режиссёрскую верс",
+      "metaDescription": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролево",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148596"
+    },
+    {
+      "id": "first-agentic-ai-data-breach-reported-to-spanish-2026-09-16",
+      "category": "Новости",
+      "title": "В испанский регулятор поступило сообщение о первой утечке данных агентов ИИ",
+      "excerpt": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным, что может стать потенциальной вехой для автономных кибератак. Сообщение о первой утечке данных аге",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/first-agentic-ai-data-breach-reported-to-spanish-2026-09-16.webp",
+      "metaTitle": "В испанский регулятор поступило сообщение о первой утечке да",
+      "metaDescription": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
+    },
+    {
+      "id": "bragjack-attack-can-turn-a-browser-s-agentic-ai--2026-09-16",
+      "category": "Новости",
+      "title": "Атака BragJack может настроить против него агентный искусственный интеллект браузера",
+      "excerpt": "Новый тип атаки захватывает помощника искусственного интеллекта, встроенного непосредственно в различные браузеры, для доступа к конфиденциальной информации, выполнения вредоносных действий и кражи данных.",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bragjack-attack-can-turn-a-browser-s-agentic-ai--2026-09-16.webp",
+      "metaTitle": "Атака BragJack может настроить против него агентный искусств",
+      "metaDescription": "Новый тип атаки захватывает помощника искусственного интеллекта, встроенного непосредственно в различные браузеры, для доступа к конфиденциальной инфо",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
+    },
+    {
       "id": "eu-chief-warns-of-ai-powered-hacking-moves-to-re-2026-09-16",
       "category": "Новости",
       "title": "Глава ЕС предупреждает о хакерстве с помощью искусственного интеллекта и пытается обуздать социальные сети",
@@ -6530,96 +6592,6 @@
       "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66273"
     },
     {
-      "id": "wifi-security-guide",
-      "category": "Статьи",
-      "title": "Как защитить свой Wi-Fi от взлома",
-      "excerpt": "Пошаговое руководство по настройке безопасности домашней Wi-Fi сети: смена пароля, шифрование, фильтрация MAC-адресов и отключение WPS.",
-      "date": "2024-02-10",
-      "readTime": 8,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "безопасность",
-        "wi-fi",
-        "настройка"
-      ],
-      "image": "",
-      "metaTitle": "Защита Wi-Fi сети от взлома",
-      "metaDescription": "Как защитить домашний Wi-Fi: смена пароля, WPA3, фильтрация MAC, отключение WPS."
-    },
-    {
-      "id": "windows-firewall-setup",
-      "category": "Статьи",
-      "title": "Настройка брандмауэра Windows для максимальной безопасности",
-      "excerpt": "Подробный гайд по настройке встроенного брандмауэра Windows: создание правил, блокировка портов, интеграция с антивирусом.",
-      "date": "2024-02-05",
-      "readTime": 10,
-      "featured": false,
-      "popular": true,
-      "tags": [
-        "windows",
-        "брандмауэр",
-        "безопасность"
-      ],
-      "image": "",
-      "metaTitle": "Настройка брандмауэра Windows",
-      "metaDescription": "Как настроить брандмауэр Windows для защиты от сетевых атак."
-    },
-    {
-      "id": "vpn-anonymity-guide",
-      "category": "Статьи",
-      "title": "Использование VPN для анонимности в сети",
-      "excerpt": "Обзор лучших VPN-сервисов, настройка OpenVPN, WireGuard, и советы по сохранению анонимности в интернете.",
-      "date": "2024-01-28",
-      "readTime": 7,
-      "featured": false,
-      "popular": true,
-      "tags": [
-        "vpn",
-        "анонимность",
-        "безопасность"
-      ],
-      "image": "",
-      "metaTitle": "VPN для анонимности в интернете",
-      "metaDescription": "Как использовать VPN для скрытия IP и защиты данных."
-    },
-    {
-      "id": "multiboot-usb-guide",
-      "category": "Статьи",
-      "title": "Как создать загрузочную флешку с несколькими ОС",
-      "excerpt": "Инструкция по созданию мультизагрузочной флешки с Windows, Linux и утилитами восстановления с помощью Ventoy и Easy2Boot.",
-      "date": "2024-01-20",
-      "readTime": 12,
-      "featured": false,
-      "popular": false,
-      "tags": [
-        "загрузка",
-        "usb",
-        "мультизагрузка"
-      ],
-      "image": "",
-      "metaTitle": "Создание мультизагрузочной флешки",
-      "metaDescription": "Как сделать загрузочную флешку с несколькими операционными системами."
-    },
-    {
-      "id": "antivirus-review-2024",
-      "category": "Статьи",
-      "title": "Обзор лучших антивирусов 2024",
-      "excerpt": "Сравнение платных и бесплатных антивирусов: Kaspersky, Bitdefender, Avast, Windows Defender. Тесты и рекомендации.",
-      "date": "2024-01-15",
-      "readTime": 9,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "антивирус",
-        "безопасность",
-        "обзор"
-      ],
-      "image": "",
-      "metaTitle": "Лучшие антивирусы 2024",
-      "metaDescription": "Обзор лучших антивирусных программ для Windows."
-    },
-    {
       "id": "office-comparison",
       "category": "Программы",
       "title": "Офисные пакеты: сравнение LibreOffice и Microsoft Office",
@@ -6976,23 +6948,6 @@
       "image": "",
       "metaTitle": "Умная колонка с Алисой",
       "metaDescription": "Обзор Яндекс Станции Мини."
-    },
-    {
-      "id": "my-article",
-      "category": "Статьи",
-      "title": "Моя новая статья",
-      "excerpt": "Краткое описание статьи для карточки",
-      "date": "2026-09-09",
-      "readTime": 5,
-      "tags": [
-        "новости",
-        "технологии"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Моя новая статья",
-      "metaDescription": "SEO-описание для поисковиков"
     }
   ]
 }
