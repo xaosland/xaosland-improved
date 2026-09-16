@@ -468,6 +468,12 @@
             const page = parseInt(params.get('page')) || 1;
             this.currentPage = Math.max(1, page);
             this.currentTag = params.get('tag') || null;
+            // GoatCounter: считаем SPA-переходы как просмотры страниц.
+            // Первый вызов (при инициализации) пропускаем — count.js сам считает начальную загрузку
+            if (this._gcRouteReady && window.goatcounter && window.goatcounter.count) {
+                try { window.goatcounter.count({ path: path + search }); } catch (e) {}
+            }
+            this._gcRouteReady = true;
             this.searchQuery = params.get('search') || null;
             this.staticPage = null;
 

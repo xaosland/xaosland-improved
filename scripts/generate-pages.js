@@ -240,6 +240,7 @@ function generateArticleHTML(article) {
 <footer id="footer"></footer>
 
 <script src="/js/app.js" defer></script>
+<script data-goatcounter="https://stats.xaosland.ru/count" async src="https://stats.xaosland.ru/count.js"></script>
 </body>
 </html>`;
 }
