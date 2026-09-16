@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "winget-package-manager",
+      "category": "Программы",
+      "title": "winget — магазин программ без магазина",
+      "excerpt": "Одна команда ставит всё: браузер, редактор, утилиты. Официальный менеджер пакетов Windows, который экономит час на новом ПК.",
+      "date": "2026-09-16",
+      "readTime": 5,
+      "tags": [
+        "windows",
+        "утилиты",
+        "автоматизация"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "winget — менеджер пакетов Windows",
+      "metaDescription": "Как ставить и обновлять программы одной командой через winget: базовые команды и готовый список для нового ПК."
+    },
+    {
+      "id": "syncthing-file-sync",
+      "category": "Программы",
+      "title": "Syncthing — синхронизация без облаков и подписок",
+      "excerpt": "Ваши файлы синхронизируются напрямую между устройствами. Без Dropbox-тарифов, безThird-party серверов, без лимитов.",
+      "date": "2026-09-16",
+      "readTime": 6,
+      "tags": [
+        "синхронизация",
+        "сети",
+        "утилиты"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Syncthing — синхронизация файлов",
+      "metaDescription": "Syncthing: синхронизация файлов между устройствами напрямую, без облаков, тарифов и лимитов."
+    },
+    {
+      "id": "local-ai-tools-windows",
+      "category": "Программы",
+      "title": "Локальные нейросети на своём ПК: LM Studio и AnythingLLM",
+      "excerpt": "Запускаем LLM без интернета и подписок. Модели — на вашем железе, переписки — никуда не уходят.",
+      "date": "2026-09-16",
+      "readTime": 7,
+      "tags": [
+        "ИИ",
+        "локальный ИИ",
+        "windows"
+      ],
+      "featured": false,
+      "popular": true,
+      "image": "",
+      "metaTitle": "Локальные LLM на Windows",
+      "metaDescription": "LM Studio и AnythingLLM: как запустить языковые модели на своём ПК без интернета и подписок."
+    },
+    {
+      "id": "sharex-screenshots-tool",
+      "category": "Программы",
+      "title": "ShareX — скриншоты и запись как у взрослых",
+      "excerpt": "Один хоткей — скриншот области, автозагрузка на хостинг, ссылка в буфере. Бесплатно, без водяных знаков, с историей экрана.",
+      "date": "2026-09-16",
+      "readTime": 5,
+      "tags": [
+        "утилиты",
+        "скриншоты",
+        "windows"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "ShareX — скриншоты и запись экрана",
+      "metaDescription": "Обзор ShareX: области, авто-загрузка на хостинги, запись GIF/видео, история экрана и OCR."
+    },
+    {
+      "id": "power-toys-windows-tools",
+      "category": "Программы",
+      "title": "PowerToys — 20+ утилит, которых не хватает Windows",
+      "excerpt": "Официальный набор Microsoft: продвинутая вставка, поиск по окнам, массовое переименование, цветовая пипетка и многое другое.",
+      "date": "2026-09-16",
+      "readTime": 6,
+      "tags": [
+        "windows",
+        "утилиты",
+        "microsoft"
+      ],
+      "featured": false,
+      "popular": true,
+      "image": "",
+      "metaTitle": "PowerToys — утилиты для Windows",
+      "metaDescription": "Обзор PowerToys: FancyZones, PowerRename, Color Picker и другие инструменты Microsoft для Windows."
+    },
+    {
+      "id": "obs-studio-recording",
+      "category": "Программы",
+      "title": "OBS Studio — запись экрана и стримы без границ",
+      "excerpt": "Бесплатный комбайн для записи экрана, трансляций и захвата камеры. Стандарт индустрии, который работает везде.",
+      "date": "2026-09-16",
+      "readTime": 6,
+      "tags": [
+        "видео",
+        "стриминг",
+        "записи"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "OBS Studio — запись экрана и стримов",
+      "metaDescription": "Как использовать OBS Studio для записи экрана, стримов на YouTube/Twitch и захвата игр."
+    },
+    {
+      "id": "7zip-nanazip-archivers",
+      "category": "Программы",
+      "title": "Архиваторы: 7-Zip и его быстрый наследник NanaZip",
+      "excerpt": "7-Zip остаётся золотым стандартом архивации. NanaZip — тот же движок с современным интерфейсом из Microsoft Store.",
+      "date": "2026-09-16",
+      "readTime": 4,
+      "tags": [
+        "утилиты",
+        "архиваторы",
+        "windows"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "7-Zip и NanaZip — архиваторы",
+      "metaDescription": "Почему 7-Zip лучше WinRAR, и когда ставить NanaZip: сравнение форматов, скорости и интерфейса."
+    },
+    {
+      "id": "vlc-mpv-media-players",
+      "category": "Программы",
+      "title": "VLC и MPV — два плеера, которые покрывают всё",
+      "excerpt": "Легендарный VLC для всех и минималистичный MPV для ценителей. Сравниваем и учим оба играть вообще всё.",
+      "date": "2026-09-16",
+      "readTime": 5,
+      "tags": [
+        "медиа",
+        "софт",
+        "видео"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "VLC vs MPV — медиаплееры",
+      "metaDescription": "VLC и MPV: какой плеер выбрать, как заставить оба играть любые форматы без кодеков."
+    },
+    {
+      "id": "everything-file-search",
+      "category": "Программы",
+      "title": "Everything — мгновенный поиск файлов в Windows",
+      "excerpt": "Находит любой файл по имени за миллисекунды. Тот инструмент, который должен быть встроен в Windows с рождения.",
+      "date": "2026-09-16",
+      "readTime": 4,
+      "tags": [
+        "утилиты",
+        "поиск",
+        "windows"
+      ],
+      "featured": false,
+      "popular": true,
+      "image": "",
+      "metaTitle": "Everything — поиск файлов мгновенно",
+      "metaDescription": "Бесплатная утилита Everything ищет файлы в Windows быстрее встроенного поиска в сотни раз."
+    },
+    {
+      "id": "browsers-2026-comparison",
+      "category": "Программы",
+      "title": "Браузеры 2026: Chrome, Firefox, Vivaldi или Brave",
+      "excerpt": "Четыре браузера на любой вкус — сравниваем скорость, память, приватность и фишки, чтобы вы выбрали свой.",
+      "date": "2026-09-16",
+      "readTime": 7,
+      "tags": [
+        "браузеры",
+        "софт",
+        "сравнение"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Браузеры 2026: какой выбрать",
+      "metaDescription": "Chrome, Firefox, Vivaldi, Brave — честное сравнение скорости, памяти и приватности."
+    },
+    {
       "id": "zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16",
       "category": "Новости",
       "title": "Zero Parades: For Dead Spies скоро получит режиссёрскую версию и выйдет на PS5 — детали последнего обновления RPG от студии в ответе за Disco Elysium",
