@@ -21,3 +21,4 @@ rss.xml
 sitemap.xml
 cache/
 tmp/
+data/tg-state.json
