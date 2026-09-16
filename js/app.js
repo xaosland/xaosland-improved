@@ -967,6 +967,13 @@
             `;
 
             try {
+                // Страховка от гонок: marked подключён до app.js (defer сохраняет порядок),
+                // но если вдруг не успел — ждём до 3с вместо мгновенной ошибки
+                let waited = 0;
+                while (typeof marked === 'undefined' && waited < 3000) {
+                    await new Promise(r => setTimeout(r, 50));
+                    waited += 50;
+                }
                 if (typeof marked === 'undefined') {
                     throw new Error('Библиотека marked не загружена');
                 }

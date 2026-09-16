@@ -124,23 +124,6 @@ function generateArticleHTML(article) {
     <link rel="apple-touch-icon" href="/icons/icon-192.png">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22><tspan fill=%22%2393FF00%22>{</tspan><tspan fill=%22%2300BFFF%22>/</tspan><tspan fill=%22%23FF00FF%22>}</tspan></text></svg>">
-    <!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();
-   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-   ym(XXXXXX, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/XXXXXX" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 </head>
 <body>
 <div id="notification-container" aria-live="polite"></div>
@@ -239,6 +222,7 @@ function generateArticleHTML(article) {
 <button id="scroll-top" class="scroll-top" aria-label="Наверх"><i class="fas fa-arrow-up"></i></button>
 <footer id="footer"></footer>
 
+<script src="/js/marked.min.js" defer></script>
 <script src="/js/app.js" defer></script>
 <script data-goatcounter="https://stats.xaosland.ru/count" async src="https://stats.xaosland.ru/count.js"></script>
 </body>

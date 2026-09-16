@@ -136,11 +136,9 @@
 <!-- Footer -->
 <footer id="footer"></footer>
 
-<!-- Скрипты -->
+<!-- Скрипты: marked строго ДО app.js (иначе гонка при рендере статей) -->
+<script src="/js/marked.min.js" defer></script>
 <script src="/js/app.js" defer></script>
-<!-- Markdown (marked) -->
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer
-        onerror="this.onerror=null;this.src='/js/marked.min.js'"></script>
 <script data-goatcounter="https://stats.xaosland.ru/count" async src="https://stats.xaosland.ru/count.js"></script>
 </body>
 </html>

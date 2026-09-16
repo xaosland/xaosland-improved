@@ -1,10 +1,11 @@
-const CACHE_NAME = 'xaosland-v10';
+const CACHE_NAME = 'xaosland-v11';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
     '/css/style.css',
     '/css/fonts-local.css',
     '/js/app.js',
+    '/js/marked.min.js',
     '/data/navigation.json',
     '/data/footer.json'
 ];
