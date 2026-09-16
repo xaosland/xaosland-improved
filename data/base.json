@@ -9,6 +9,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "3dnews"
       ],
       "featured": false,
@@ -28,6 +29,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "habr"
       ],
       "featured": false,
@@ -48,6 +51,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "the record"
       ],
       "featured": false,
@@ -67,6 +71,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -86,6 +92,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -124,6 +131,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "безопасность",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -143,6 +152,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "игры",
         "habr"
       ],
       "featured": false,
@@ -162,6 +173,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -182,6 +195,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "securityweek"
       ],
       "featured": false,
@@ -201,6 +215,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "lenta.ru"
       ],
       "featured": false,
@@ -220,6 +236,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -239,7 +257,7 @@
       "readTime": 1,
       "tags": [
         "новости",
-        "безопасность",
+        "софт",
         "the record"
       ],
       "featured": false,
@@ -278,6 +296,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -298,6 +318,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "securityweek"
       ],
       "featured": false,
@@ -317,6 +338,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -337,6 +360,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -357,6 +381,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "the hacker news"
       ],
       "featured": false,
@@ -377,6 +402,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "the hacker news"
       ],
       "featured": false,
@@ -396,6 +422,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -416,6 +444,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "help net security"
       ],
       "featured": false,
@@ -455,6 +484,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "securityweek"
       ],
       "featured": false,
@@ -474,6 +504,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -493,6 +525,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "ixbt"
       ],
       "featured": false,
@@ -512,6 +546,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "lenta.ru"
       ],
       "featured": false,
@@ -531,6 +567,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "ixbt"
       ],
       "featured": false,
@@ -550,6 +588,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "железо",
         "habr"
       ],
       "featured": false,
@@ -569,6 +609,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "ixbt"
       ],
       "featured": false,
@@ -588,6 +629,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -607,6 +650,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -626,6 +671,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -646,6 +693,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -665,6 +713,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "сети",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -684,6 +734,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "ixbt"
       ],
       "featured": false,
@@ -703,6 +754,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -723,6 +775,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "help net security"
       ],
       "featured": false,
@@ -742,6 +795,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -761,6 +816,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -781,6 +838,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "securityweek"
       ],
       "featured": false,
@@ -800,6 +858,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -819,6 +879,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -838,6 +899,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -857,6 +919,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -876,6 +940,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -895,6 +961,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -914,6 +981,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -933,6 +1002,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "habr"
       ],
       "featured": false,
@@ -952,6 +1022,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "opennet"
       ],
       "featured": false,
@@ -972,6 +1044,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -991,6 +1064,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "habr"
       ],
       "featured": false,
@@ -1010,6 +1084,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1029,6 +1105,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1048,6 +1126,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "habr"
       ],
       "featured": false,
@@ -1067,6 +1146,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1086,6 +1166,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1105,6 +1187,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1143,6 +1226,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "habr"
       ],
       "featured": false,
@@ -1162,6 +1246,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "3dnews"
       ],
       "featured": false,
@@ -1200,6 +1286,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "ixbt"
       ],
       "featured": false,
@@ -1219,6 +1307,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "ixbt"
       ],
       "featured": false,
@@ -1239,6 +1329,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "сети",
         "help net security"
       ],
       "featured": false,
@@ -1258,6 +1349,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -1277,6 +1370,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1296,6 +1391,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1315,6 +1412,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -1334,6 +1433,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1354,6 +1455,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "железо",
         "help net security"
       ],
       "featured": false,
@@ -1373,6 +1475,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1392,6 +1495,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -1411,6 +1516,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1430,6 +1537,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "железо",
         "habr"
       ],
       "featured": false,
@@ -1449,6 +1558,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1468,6 +1579,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1488,6 +1600,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -1507,6 +1620,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1526,6 +1641,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1546,6 +1663,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -1584,6 +1702,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -1603,6 +1723,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -1622,6 +1744,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -1641,6 +1765,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -1660,6 +1785,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -1679,6 +1806,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -1736,6 +1864,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1755,6 +1885,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -1774,6 +1905,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "habr"
       ],
       "featured": false,
@@ -1793,6 +1925,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "habr"
       ],
       "featured": false,
@@ -1812,6 +1945,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -1851,6 +1985,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "habr"
       ],
       "featured": false,
@@ -1870,6 +2006,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "habr"
       ],
       "featured": false,
@@ -1890,6 +2027,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "сети",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -1910,6 +2048,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -1929,6 +2068,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -1949,6 +2090,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "dark reading"
       ],
       "featured": false,
@@ -1968,6 +2110,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -1987,6 +2131,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "ИИ",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -2006,6 +2152,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2025,6 +2172,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -2044,6 +2193,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -2064,6 +2215,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -2103,6 +2255,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "железо",
         "securityweek"
       ],
       "featured": false,
@@ -2123,6 +2276,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -2143,6 +2297,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "the hacker news"
       ],
       "featured": false,
@@ -2162,6 +2317,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -2182,6 +2338,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "the hacker news"
       ],
       "featured": false,
@@ -2201,6 +2358,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "ixbt"
       ],
       "featured": false,
@@ -2221,6 +2380,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "сети",
         "securityweek"
       ],
       "featured": false,
@@ -2240,6 +2400,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -2259,6 +2421,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -2278,6 +2441,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -2297,6 +2462,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -2316,6 +2483,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -2354,6 +2522,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "сети",
         "ixbt"
       ],
       "featured": false,
@@ -2373,7 +2542,6 @@
       "readTime": 1,
       "tags": [
         "новости",
-        "безопасность",
         "the record"
       ],
       "featured": false,
@@ -2393,6 +2561,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -2413,6 +2582,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "железо",
         "dark reading"
       ],
       "featured": false,
@@ -2433,6 +2603,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "securityweek"
       ],
       "featured": false,
@@ -2453,6 +2624,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -2472,6 +2644,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "железо",
         "opennet"
       ],
       "featured": false,
@@ -2491,6 +2665,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -2510,6 +2686,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2549,6 +2727,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -2568,6 +2747,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -2587,6 +2767,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -2606,6 +2787,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -2625,6 +2807,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2645,6 +2829,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "железо",
         "the hacker news"
       ],
       "featured": false,
@@ -2683,6 +2868,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "3dnews"
       ],
       "featured": false,
@@ -2702,6 +2888,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2721,6 +2909,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -2741,6 +2931,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "игры",
         "dark reading"
       ],
       "featured": false,
@@ -2780,6 +2971,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -2799,6 +2992,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2818,6 +3013,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -2838,6 +3035,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "the hacker news"
       ],
       "featured": false,
@@ -2857,6 +3055,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -2877,6 +3077,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -2896,6 +3097,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -2915,6 +3118,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -2935,6 +3139,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "help net security"
       ],
       "featured": false,
@@ -2954,7 +3159,8 @@
       "readTime": 2,
       "tags": [
         "новости",
-        "безопасность",
+        "ИИ",
+        "сети",
         "the record"
       ],
       "featured": false,
@@ -2975,6 +3181,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "securityweek"
       ],
       "featured": false,
@@ -2995,6 +3202,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "the hacker news"
       ],
       "featured": false,
@@ -3014,6 +3222,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -3033,6 +3243,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -3052,6 +3264,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "игры",
         "ixbt"
       ],
       "featured": false,
@@ -3071,6 +3285,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -3090,6 +3306,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -3110,6 +3328,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "the record"
       ],
       "featured": false,
@@ -3149,6 +3368,7 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -3168,6 +3388,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "ixbt"
       ],
       "featured": false,
@@ -3187,6 +3409,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -3206,6 +3430,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -3226,6 +3451,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "help net security"
       ],
       "featured": false,
@@ -3266,6 +3492,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "securityweek"
       ],
       "featured": false,
@@ -3305,6 +3532,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -3325,6 +3554,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "сети",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -3345,6 +3575,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "help net security"
       ],
       "featured": false,
@@ -3364,6 +3595,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -3402,6 +3635,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -3421,6 +3656,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -3440,6 +3677,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "ixbt"
       ],
       "featured": false,
@@ -3479,6 +3717,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -3518,6 +3757,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -3537,6 +3777,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -3557,6 +3799,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -3576,6 +3819,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -3596,6 +3841,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "игры",
         "dark reading"
       ],
       "featured": false,
@@ -3615,6 +3861,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -3634,6 +3882,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -3674,6 +3923,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "the hacker news"
       ],
       "featured": false,
@@ -3694,6 +3944,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "игры",
         "securityweek"
       ],
       "featured": false,
@@ -3714,6 +3965,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "ИИ",
         "securityweek"
       ],
       "featured": false,
@@ -3734,6 +3986,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "железо",
         "securityweek"
       ],
       "featured": false,
@@ -3772,6 +4025,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -3792,6 +4047,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "сети",
         "the record"
       ],
       "featured": false,
@@ -3812,6 +4068,7 @@
       "tags": [
         "новости",
         "безопасность",
+        "софт",
         "bleepingcomputer"
       ],
       "featured": false,
@@ -3831,6 +4088,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "lenta.ru"
       ],
       "featured": false,
@@ -3850,6 +4109,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "ixbt"
       ],
       "featured": false,
@@ -3869,6 +4129,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "ixbt"
       ],
       "featured": false,
@@ -3888,6 +4150,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "3dnews"
       ],
       "featured": false,
@@ -3907,6 +4170,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "сети",
+        "мобильное",
         "habr"
       ],
       "featured": false,
@@ -3926,6 +4191,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -3945,6 +4212,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "ИИ",
         "habr"
       ],
       "featured": false,
@@ -3964,6 +4233,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -3983,6 +4254,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
         "habr"
       ],
       "featured": false,
@@ -4021,6 +4293,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "habr"
       ],
       "featured": false,
@@ -4040,6 +4313,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4059,6 +4334,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4078,6 +4354,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4097,6 +4375,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "habr"
       ],
       "featured": false,
@@ -4116,6 +4396,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "мобильное",
         "habr"
       ],
       "featured": false,
@@ -4135,6 +4416,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4154,6 +4437,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4173,6 +4458,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4192,6 +4478,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "habr"
       ],
       "featured": false,
@@ -4211,6 +4498,7 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -4249,6 +4537,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "3dnews"
       ],
       "featured": false,
@@ -4268,6 +4558,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -4287,6 +4579,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4344,6 +4638,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4363,6 +4659,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "сети",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -4382,6 +4680,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4401,6 +4701,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4439,6 +4741,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -4458,6 +4762,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "софт",
+        "космос",
         "3dnews"
       ],
       "featured": false,
@@ -4477,6 +4783,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -4496,6 +4803,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4515,6 +4824,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4534,6 +4845,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -4553,6 +4866,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "космос",
         "3dnews"
       ],
       "featured": false,
@@ -4572,6 +4887,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "безопасность",
+        "игры",
         "3dnews"
       ],
       "featured": false,
@@ -4591,6 +4908,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -4610,6 +4929,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4629,6 +4950,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -4648,6 +4971,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -4667,6 +4992,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -4686,6 +5013,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -4724,6 +5052,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4743,6 +5073,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -4762,6 +5094,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -4781,6 +5115,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4800,6 +5136,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4819,6 +5157,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4838,6 +5178,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -4857,6 +5199,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -4876,6 +5220,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -4895,6 +5240,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -4914,6 +5261,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -4933,6 +5282,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -4952,6 +5302,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -4971,6 +5323,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -4990,6 +5344,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5009,6 +5365,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -5028,6 +5386,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -5047,6 +5407,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "космос",
         "3dnews"
       ],
       "featured": false,
@@ -5066,6 +5427,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5085,6 +5448,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5104,6 +5469,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5123,6 +5490,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -5142,6 +5511,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5161,6 +5532,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5180,6 +5553,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5199,6 +5574,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5218,6 +5595,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5237,6 +5616,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5256,6 +5637,7 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -5275,6 +5657,7 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5294,6 +5677,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5332,6 +5717,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5351,6 +5737,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -5370,6 +5758,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5389,6 +5779,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5408,6 +5800,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "ИИ",
         "3dnews"
       ],
       "featured": false,
@@ -5427,6 +5820,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -5446,6 +5841,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5465,6 +5862,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "игры",
         "3dnews"
       ],
       "featured": false,
@@ -5484,6 +5883,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5503,6 +5904,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "3dnews"
       ],
       "featured": false,
@@ -5522,6 +5924,7 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "железо",
         "3dnews"
       ],
       "featured": false,
@@ -5541,6 +5944,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "сети",
+        "мобильное",
         "3dnews"
       ],
       "featured": false,
@@ -5560,6 +5965,8 @@
       "readTime": 2,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "3dnews"
       ],
       "featured": false,
@@ -5579,6 +5986,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "железо",
+        "ИИ",
         "lenta.ru"
       ],
       "featured": false,
@@ -5598,6 +6007,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "сети",
         "lenta.ru"
       ],
       "featured": false,
@@ -5617,6 +6028,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "игры",
+        "сети",
         "lenta.ru"
       ],
       "featured": false,
@@ -5636,6 +6049,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5674,6 +6089,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5693,6 +6109,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5712,6 +6129,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5731,6 +6149,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5750,6 +6170,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "безопасность",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5769,6 +6191,7 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
         "opennet"
       ],
       "featured": false,
@@ -5788,6 +6211,8 @@
       "readTime": 1,
       "tags": [
         "новости",
+        "софт",
+        "сети",
         "opennet"
       ],
       "featured": false,

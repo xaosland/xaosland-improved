@@ -14,6 +14,7 @@ const STATE_PATH = path.join(ROOT, 'data', 'news-state.json');
 const SITE_URL = 'https://xaosland.ru';
 
 const { isSafeArticleId } = require('./utils');
+const { detectTopicTags } = require('./topic-tags');
 
 // ---------------- Настройки ----------------
 const MAX_HOURS = parseInt(process.env.NEWS_MAX_HOURS || '48', 10);
@@ -348,6 +349,9 @@ function parseRss(xml) {
     }
     return items;
 }
+
+// ---------------- Теги по содержанию ----------------
+// Правила вынесены в scripts/topic-tags.js — используются и парсером, и ретегированием
 
 // ---------------- Генерация markdown ----------------
 function buildMarkdown(item, sourceName) {
