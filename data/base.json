@@ -1,6 +1,292 @@
 {
   "articles": [
     {
+      "id": "2gis-prevratilsya-v-servis-dostavki-posylki-tepe-2026-09-16",
+      "category": "Новости",
+      "title": "2ГИС превратился в сервис доставки: посылки теперь можно отправлять прямо из навигатора",
+      "excerpt": "Команда 2ГИС добавила в мобильное приложение возможность отправлять посылки через сторонние логистические сервисы. Опция появилась при построении маршрута и позволяет сравнить доступные способы доставки по стоимости и срокам.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "2ГИС превратился в сервис доставки: посылки теперь можно отп",
+      "metaDescription": "Команда 2ГИС добавила в мобильное приложение возможность отправлять посылки через сторонние логистические сервисы. Опция появилась при построении марш",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/2gis-prevratilsia-v-servis-dostavki-posylki-teper-mozno-otpravliat-priamo-iz-navigatora.html"
+    },
+    {
+      "id": "samoe-bolshoe-obnovlenie-v-istorii-serii-vladelt-2026-09-16",
+      "category": "Новости",
+      "title": "«Самое большое обновление в истории серии». Владельцы Xiaomi 18 Pro Max смогут создавать свои приложения для заднего экрана",
+      "excerpt": "Xiaomi раскрыла новую возможность заднего экрана серии Xiaomi 18 Pro. Теперь дополнительный дисплей способен запускать небольшие приложения, созданные с помощью ИИ непосредственно по запросу пользователя.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Самое большое обновление в истории серии». Владельцы Xiaomi",
+      "metaDescription": "Xiaomi раскрыла новую возможность заднего экрана серии Xiaomi 18 Pro. Теперь дополнительный дисплей способен запускать небольшие приложения, созданные",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436144-samoe-bolsoe-obnovlenie-v-istorii-serii-vladelcy-xiaomi-18-pro-max-smogut-sozdavat-svoi-prilozeniia-dlia-zadnego-ekrana.html"
+    },
+    {
+      "id": "dazhe-rtx-5090-vydaet-lish-okolo-25-k-s-trassiro-2026-09-16",
+      "category": "Новости",
+      "title": "Даже RTX 5090 выдаёт лишь около 25 к/с. Трассировка пути в 007 First Light делает игру чудовищно требовательной",
+      "excerpt": "Вчера для игры 007 First Light вышло обновление, которое принесло ей поддержку трассировки пути. Свежие тесты показали, что производительность в этом режиме катастрофически низкая.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Даже RTX 5090 выдаёт лишь около 25 к/с. Трассировка пути в 0",
+      "metaDescription": "Вчера для игры 007 First Light вышло обновление, которое принесло ей поддержку трассировки пути. Свежие тесты показали, что производительность в этом ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436147-daze-rtx-5090-vydaet-lis-okolo-25-ks-trassirovka-puti-v-007-first-light-delaet-igru-cudovishhno-trebovatelnoi.html"
+    },
+    {
+      "id": "sony-vypustit-novye-garnitury-dlya-playstation-5-2026-09-16",
+      "category": "Новости",
+      "title": "Sony выпустит новые гарнитуры для PlayStation 5",
+      "excerpt": "Sony выпустит две новые гарнитуры для приставки PlayStation 5: Pulse Wireless и Pulse Edge Wireless. Продажи первой начнутся зимой, а более продвинутой Pulse Edge — в 2027 году. Читать далее",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Sony выпустит новые гарнитуры для PlayStation 5",
+      "metaDescription": "Sony выпустит две новые гарнитуры для приставки PlayStation 5: Pulse Wireless и Pulse Edge Wireless. Продажи первой начнутся зимой, а более продвинуто",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082788"
+    },
+    {
+      "id": "vypusk-fluxcast-0-2-6-instrumenta-dlya-translyat-2026-09-16",
+      "category": "Новости",
+      "title": "Выпуск FluxCast 0.2.6, инструмента для трансляции рабочего стола Linux на Smart TV",
+      "excerpt": "Состоялся релиз проекта FluxCast v0.2.6, предназначенного для организации стриминга рабочего стола Linux на экраны Smart TV по протоколам Wi-Fi Direct (Miracast), DLNA и Chromecast с минимальной задержкой. Исходный код проекта написан на Python и рас",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск FluxCast 0.2.6, инструмента для трансляции рабочего с",
+      "metaDescription": "Состоялся релиз проекта FluxCast v0.2.6, предназначенного для организации стриминга рабочего стола Linux на экраны Smart TV по протоколам Wi-Fi Direct",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66285"
+    },
+    {
+      "id": "nist-and-cisa-finalize-playbook-to-stop-token-th-2026-09-16",
+      "category": "Новости",
+      "title": "NIST и CISA завершают разработку руководства по прекращению кражи и подделки токенов",
+      "excerpt": "NIST и CISA завершили разработку рекомендаций, которые помогут федеральным агентствам и поставщикам облачных услуг (CSP) защитить токены идентификации и доступа от подделки, кражи и неправильного использования. В руководстве «Защита токенов и утвержд",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "NIST и CISA завершают разработку руководства по прекращению ",
+      "metaDescription": "NIST и CISA завершили разработку рекомендаций, которые помогут федеральным агентствам и поставщикам облачных услуг (CSP) защитить токены идентификации",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/nist-cisa-cloud-token-security-guidance/"
+    },
+    {
+      "id": "politseyskie-v-ssha-iskali-dannye-v-sisteme-kame-2026-09-16",
+      "category": "Новости",
+      "title": "Полицейские в США искали данные в системе камер Flock, указывая в качестве причины LMAO, IDK, lol, Hehe и Haha",
+      "excerpt": "Десятки американских полицейских вписывали бессмысленные фразы, шутки и прочие наборы символов в качестве причины использования систем автоматического распознавания автомобильных номеров (Automatic License Plate Recognition, ALPR) печально известной ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Полицейские в США искали данные в системе камер Flock, указы",
+      "metaDescription": "Десятки американских полицейских вписывали бессмысленные фразы, шутки и прочие наборы символов в качестве причины использования систем автоматического",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082790"
+    },
+    {
+      "id": "rassledovanie-zhurnalistam-platyat-za-rasskazy-o-2026-09-16",
+      "category": "Новости",
+      "title": "Расследование: журналистам платят за рассказы об опасностях ИИ",
+      "excerpt": "Оказывается, за многими громкими рассказами о том, как искусственный интеллект погубит человечество, стоят конкретные деньги. И ведут они к Anthropic - одной из крупнейших ИИ-компаний мира. Независимый исследователь Кевин Басс провёл расследование и,",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Расследование: журналистам платят за рассказы об опасностях ",
+      "metaDescription": "Оказывается, за многими громкими рассказами о том, как искусственный интеллект погубит человечество, стоят конкретные деньги. И ведут они к Anthropic ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082792"
+    },
+    {
+      "id": "vyshla-java-27-g1-i-kompaktnye-zagolovki-obektov-2026-09-16",
+      "category": "Новости",
+      "title": "Вышла Java 27: G1 и компактные заголовки объектов теперь по умолчанию",
+      "excerpt": "Вышла Java 27: G1 и компактные заголовки объектов теперь включены по умолчанию, поэтому обновление может повлиять на работу приложений без правок кода. В релиз вошли девять JEP, но часть возможностей всё ещё остаётся предварительной. Что нового в Jav",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вышла Java 27: G1 и компактные заголовки объектов теперь по ",
+      "metaDescription": "Вышла Java 27: G1 и компактные заголовки объектов теперь включены по умолчанию, поэтому обновление может повлиять на работу приложений без правок кода",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082794"
+    },
+    {
+      "id": "ekonomika-plohih-dannyh-ib-ugrozy-ot-ii-i-zero-v-2026-09-16",
+      "category": "Новости",
+      "title": "Экономика плохих данных, ИБ-угрозы от ИИ и zero-vendor: открываем регистрацию на Data & AI Talks 7.0",
+      "excerpt": "Вы тоже сталкивались с тем, что ИТ-конференции про искусственный интеллект и данные часто уходят в крайности? Когда вместо реальных кейсов приходится слушать либо теоретический хайп в духе «ИИ заменит всех к пятнице», либо замаскированную под доклад ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Экономика плохих данных, ИБ-угрозы от ИИ и zero-vendor: откр",
+      "metaDescription": "Вы тоже сталкивались с тем, что ИТ-конференции про искусственный интеллект и данные часто уходят в крайности? Когда вместо реальных кейсов приходится ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/rostelecom/news/1082160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082160"
+    },
+    {
+      "id": "xiaomi-18-pro-vpervye-zasvetilsya-na-realnyh-fot-2026-09-16",
+      "category": "Новости",
+      "title": "Xiaomi 18 Pro впервые засветился на реальных фото — Leica-камера получила диафрагму F/1,67 и диапазон 17–75 мм",
+      "excerpt": "В сети появились реальные фотографии серии Xiaomi 18 Pro, опубликованные блогером и инсайдером Digital Chat Station.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Xiaomi 18 Pro впервые засветился на реальных фото — Leica-ка",
+      "metaDescription": "В сети появились реальные фотографии серии Xiaomi 18 Pro, опубликованные блогером и инсайдером Digital Chat Station.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436150-xiaomi-18-pro-vpervye-zasvetilsia-na-realnyx-foto-leica-kamera-polucil-diafragmu-f167-i-diapazon-17-75-mm.html"
+    },
+    {
+      "id": "pri-zakaze-topovyh-versiy-mac-studio-zhdat-pride-2026-09-16",
+      "category": "Новости",
+      "title": "При заказе топовых версий Mac Studio ждать придётся до января 2027 года",
+      "excerpt": "Дефицит памяти всё ещё влияет на доступность топовых конфигураций компьютеров Apple. Теперь вот пользователи обратили внимание, что старшие версии Mac Studio при заказе придётся ждать до 18 недель. То есть более четырёх месяцев.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "При заказе топовых версий Mac Studio ждать придётся до январ",
+      "metaDescription": "Дефицит памяти всё ещё влияет на доступность топовых конфигураций компьютеров Apple. Теперь вот пользователи обратили внимание, что старшие версии Mac",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436154-pri-zakaze-topovyx-versii-mac-studio-zdat-pridetsia-do-ianvaria-2027-goda.html"
+    },
+    {
+      "id": "xiaomi-predstavila-holodilnik-kotoryy-sam-gotovi-2026-09-16",
+      "category": "Новости",
+      "title": "Xiaomi представила холодильник, который сам готовит лёд за 55 минут и замораживает до -30 °C",
+      "excerpt": "Xiaomi представила в Китае новый холодильник Mijia Refrigerator Pro 439L French Automatic Ice Maker. Модель получила автоматический генератор льда, две независимые системы охлаждения, глубокую заморозку до -30 °C и управление со смартфона. Цена, при ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Xiaomi представила холодильник, который сам готовит лёд за 5",
+      "metaDescription": "Xiaomi представила в Китае новый холодильник Mijia Refrigerator Pro 439L French Automatic Ice Maker. Модель получила автоматический генератор льда, дв",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436155-xiaomi-predstavila-xolodilnik-kotoryi-sam-gotovit-led-za-55-minut-i-zamorazivaet-do-30-c.html"
+    },
+    {
+      "id": "otkrytie-kitayskih-uchenyh-kratno-uskorit-proizv-2026-09-16",
+      "category": "Новости",
+      "title": "Открытие китайских учёных кратно ускорит производство водорода солнечным светом",
+      "excerpt": "Исследователи Нинбоского института материаловедения и инженерии (NIMTE) Китайской академии наук разработали прорывной фотоорганический катализатор, значительно ускоряющий производство водорода из обычной воды с помощью солнечного света. Водород — это",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Открытие китайских учёных кратно ускорит производство водоро",
+      "metaDescription": "Исследователи Нинбоского института материаловедения и инженерии (NIMTE) Китайской академии наук разработали прорывной фотоорганический катализатор, зн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148552"
+    },
+    {
+      "id": "shkolnik-iz-ssha-potratil-118-tys-s-karty-rodite-2026-09-16",
+      "category": "Новости",
+      "title": "Школьник из США потратил $118 тыс. с карты родителей на рекламу роликов по Minecraft и Roblox",
+      "excerpt": "Отец рассказал , что его девятилетний сын потратил $118 000 с корпоративной кредитной карты родителей на рекламные кампании в YouTube для своих видео по играм Minecraft и Roblox. В итоге именно работодатель обнаружил траты. Читать далее",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Школьник из США потратил $118 тыс. с карты родителей на рекл",
+      "metaDescription": "Отец рассказал , что его девятилетний сын потратил $118 000 с корпоративной кредитной карты родителей на рекламные кампании в YouTube для своих видео ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082798"
+    },
+    {
       "id": "pervyy-orbitalnyy-zapusk-megarakety-spacex-stars-2026-09-16",
       "category": "Новости",
       "title": "Первый орбитальный запуск мегаракеты SpaceX Starship запланирован на 22 сентября",
