@@ -259,14 +259,14 @@ function ogSvg(article) {
     }
     if (cur && lines.length < 4) lines.push(cur);
     const tspans = lines.map((l, i) =>
-        `<text x="80" y="${280 + i * 78}" font-size="56" font-weight="700" fill="#f0f0f0" font-family="Inter, sans-serif">${l.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</text>`
+        `<text x="80" y="${280 + i * 78}" font-size="56" font-weight="700" fill="#f0f0f0" font-family="DejaVu Sans, sans-serif">${l.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</text>`
     ).join('');
     return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
   <rect width="1200" height="630" fill="#0a0a0a"/>
   <rect x="0" y="0" width="1200" height="4" fill="#93FF00"/>
-  <text x="80" y="140" font-size="34" fill="#93FF00" font-family="JetBrains Mono, monospace" font-weight="600">{/${cat}} XAOSLAND</text>
+  <text x="80" y="140" font-size="34" fill="#93FF00" font-family="DejaVu Sans Mono, monospace" font-weight="600">{/${cat}} XAOSLAND</text>
   ${tspans}
-  <text x="80" y="580" font-size="28" fill="#8f8f8f" font-family="JetBrains Mono, monospace">xaosland.ru</text>
+  <text x="80" y="580" font-size="28" fill="#8f8f8f" font-family="DejaVu Sans Mono, monospace">xaosland.ru</text>
   <rect x="0" y="626" width="1200" height="4" fill="#FF00FF"/>
 </svg>`;
 }
@@ -275,14 +275,24 @@ async function generateOgImages() {
     if (!sharp) return;
     const ogDir = path.join(DIST, 'og');
     fs.mkdirSync(ogDir, { recursive: true });
+    // Кэш вне dist: dist стирается при каждой сборке и свапается при деплое,
+    // а кэш переживает всё — рендерим только новые статьи
+    const cacheDir = path.join(ROOT, 'cache', 'og');
+    fs.mkdirSync(cacheDir, { recursive: true });
+    let rendered = 0;
     for (const article of articles) {
+        const cached = path.join(cacheDir, `${article.id}.png`);
         try {
-            await sharp(Buffer.from(ogSvg(article))).png({ quality: 90 }).toFile(path.join(ogDir, `${article.id}.png`));
+            if (!fs.existsSync(cached)) {
+                await sharp(Buffer.from(ogSvg(article))).png({ quality: 90 }).toFile(cached);
+                rendered++;
+            }
         } catch (e) {
             console.warn(`⚠️ OG для ${article.id}: ${e.message}`);
         }
     }
-    console.log(`✅ OG-картинок: ${articles.length}`);
+    fs.cpSync(cacheDir, ogDir, { recursive: true });
+    console.log(`✅ OG-картинок: ${articles.length} (отрендерено новых: ${rendered})`);
 }
 
 // ---------- Индекс поиска (data/search-index.json) ----------

@@ -19,3 +19,4 @@ backup-before-article-logic/
 .vscode/
 rss.xml
 sitemap.xml
+cache/
