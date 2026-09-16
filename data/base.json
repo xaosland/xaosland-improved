@@ -1,6 +1,294 @@
 {
   "articles": [
     {
+      "id": "vernutsya-budet-ochen-slozhno-cd-projekt-red-oby-2026-09-16",
+      "category": "Новости",
+      "title": "«Вернуться будет очень сложно»: CD Projekt Red объяснила, зачем выпускает ремастер The Witcher 3: Wild Hunt",
+      "excerpt": "Исполнительный продюсер CD Projekt Red Якуб Кутшуба (Jakub Kutrzuba) в интервью изданию PC Gamer объяснил, зачем студия решила выпустить ремастер нашумевшего ролевого боевика с открытым миром The Witcher 3: Wild Hunt. Источник изображений: CD Projekt",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Вернуться будет очень сложно»: CD Projekt Red объяснила, за",
+      "metaDescription": "Исполнительный продюсер CD Projekt Red Якуб Кутшуба (Jakub Kutrzuba) в интервью изданию PC Gamer объяснил, зачем студия решила выпустить ремастер нашу",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148564"
+    },
+    {
+      "id": "basis-dynamix-enterprise-4-7-ekonomiya-diskovogo-2026-09-16",
+      "category": "Новости",
+      "title": "Basis Dynamix Enterprise 4.7: экономия дискового пространства и автоматизация развертывания",
+      "excerpt": "Обновили нашу флагманскую платформу серверной виртуализации Basis Dynamix Enterprise до версии 4.7. Особое внимание в релизе уделили экономии дискового пространства, автоматизации развертывания и эксплуатации платформы, контролю распределения вычисли",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Basis Dynamix Enterprise 4.7: экономия дискового пространств",
+      "metaDescription": "Обновили нашу флагманскую платформу серверной виртуализации Basis Dynamix Enterprise до версии 4.7. Особое внимание в релизе уделили экономии дисковог",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/basis/news/1082836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082836"
+    },
+    {
+      "id": "ogranicheniya-mobilnogo-interneta-podstegnuli-sp-2026-09-16",
+      "category": "Новости",
+      "title": "Ограничения мобильного интернета подстегнули спрос на публичный Wi-Fi в России: «Ростелеком» запустил 130 тыс. точек публичного Wi-Fi и занял треть рынка",
+      "excerpt": "Российский рынок публичного Wi-Fi, согласно данным «ТМТ Консалтинг», в 2025 году достиг 5,2 млрд рублей (рост на 8,4% в годовом выражении). При этом беспроводные сети все чаще используются не просто для доступа посетителей в интернет, а становятся ча",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Ограничения мобильного интернета подстегнули спрос на публич",
+      "metaDescription": "Российский рынок публичного Wi-Fi, согласно данным «ТМТ Консалтинг», в 2025 году достиг 5,2 млрд рублей (рост на 8,4% в годовом выражении). При этом б",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436182-ograniceniia-mobilnogo-interneta-podstegnuli-spros-na-publicnyi-wi-fi-v-rossii-rostelekom-zapustil-130-tys-tocek-publicnogo-wi-fi-i-zanial-tret-rynka.html"
+    },
+    {
+      "id": "acronis-backup-plugin-flaw-exploited-in-targeted-2026-09-16",
+      "category": "Новости",
+      "title": "Уязвимость плагина резервного копирования Acronis, используемая в целевых атаках (CVE-2026-87886)",
+      "excerpt": "Компания по резервному копированию и восстановлению предупреждает, что злоумышленники используют уязвимость Linux, связанную с повышением привилегий (CVE-2026-87886), затрагивающую расширения резервного копирования Acronis для cPanel, WebHost Manager",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Уязвимость плагина резервного копирования Acronis, используе",
+      "metaDescription": "Компания по резервному копированию и восстановлению предупреждает, что злоумышленники используют уязвимость Linux, связанную с повышением привилегий (",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/acronis-backup-plugin-vulnerability-exploited-cve-2026-87886/"
+    },
+    {
+      "id": "spacex-aktivno-slivaetsya-s-xai-mask-namekaet-na-2026-09-16",
+      "category": "Новости",
+      "title": "SpaceX активно сливается с xAI. Маск намекает на объединение Tesla и SpaceX",
+      "excerpt": "Илон Маск не дал прямого ответа на вопрос о возможном объединении Tesla и SpaceX, лишь отметив, что углубление сотрудничества между двумя компаниями делает этот вопрос достойным внимания.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "SpaceX активно сливается с xAI. Маск намекает на объединение",
+      "metaDescription": "Илон Маск не дал прямого ответа на вопрос о возможном объединении Tesla и SpaceX, лишь отметив, что углубление сотрудничества между двумя компаниями д",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436181-spacex-aktivno-slivaetsia-s-xai-mask-namekaet-na-obieedinenie-tesla-i-spacex.html"
+    },
+    {
+      "id": "kamera-xiaomi-poumnela-nastolko-chto-snimaet-tsv-2026-09-16",
+      "category": "Новости",
+      "title": "Камера Xiaomi поумнела настолько, что снимает цветное видео даже ночью. Xiaomi Smart Camera 5 Pro Full-Color Night Vision за $65 получила два объектива, 4K и локальный ИИ",
+      "excerpt": "Xiaomi представила Smart Camera 5 Pro Full-Color Night Vision — свою первую домашнюю камеру наблюдения с цветным изображением круглосуточно (даже когда она работает в полной темноте). Новинка получила два объектива, запись в 4K, локальный искусственн",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Камера Xiaomi поумнела настолько, что снимает цветное видео ",
+      "metaDescription": "Xiaomi представила Smart Camera 5 Pro Full-Color Night Vision — свою первую домашнюю камеру наблюдения с цветным изображением круглосуточно (даже когд",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436186-kamera-xiaomi-poumnela-nastolko-cto-snimaet-cvetnoe-video-daze-nociu-xiaomi-smart-camera-5-pro-full-color-night-vision-za-65-polucila-dva-obieektiva-4k-i-lokalnyi-ii.html"
+    },
+    {
+      "id": "interlune-snova-privlekla-5-mln-na-dobychu-geliy-2026-09-16",
+      "category": "Новости",
+      "title": "Interlune снова привлекла $5 млн на добычу гелия-3 на Луне и строительство лунной инфраструктуры. Компания теперь рассчитывает зарабатывать не только на лунных ресурсах",
+      "excerpt": "Технологическая компания Interlune из Сиэтла привлекла ещё $5 млн через соглашение SAFE (Simple Agreement for Future Equity — механизм финансирования стартапов, при котором инвестор предоставляет деньги сейчас, а акции получает при следующем раунде с",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Interlune снова привлекла $5 млн на добычу гелия-3 на Луне и",
+      "metaDescription": "Технологическая компания Interlune из Сиэтла привлекла ещё $5 млн через соглашение SAFE (Simple Agreement for Future Equity — механизм финансирования ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436184-interlune-snova-privlekla-5-mln-na-dobycu-geliia-3-na-lune-i-stroitelstvo-lunnoi-infrastruktury-kompaniia-teper-rasscityvaet-zarabatyvat-ne-tolko-na-lunnyx-resursax.html"
+    },
+    {
+      "id": "one-runaway-ai-agent-racked-up-a-50-000-cloud-bi-2026-09-16",
+      "category": "Новости",
+      "title": "Один сбежавший агент ИИ получил счет за облако на 50 000 долларов",
+      "excerpt": "Организации развертывают автономные системы искусственного интеллекта, которые выполняют вызовы API, оптимизируют производственные конфигурации и анализируют телеметрию в гибридных облачных средах. В то же время атаки расширяются от прямых подсказок ",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Один сбежавший агент ИИ получил счет за облако на 50 000 дол",
+      "metaDescription": "Организации развертывают автономные системы искусственного интеллекта, которые выполняют вызовы API, оптимизируют производственные конфигурации и анал",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
+    },
+    {
+      "id": "pochti-vse-bazy-dannyh-v-ssha-rabotayut-na-ustar-2026-09-16",
+      "category": "Новости",
+      "title": "Почти все базы данных в США работают на устаревшем ПО — обновиться слишком сложно и дорого",
+      "excerpt": "Подавляющее большинство администраторов баз данных в США — 97 % — работают на устаревшем ПО, гласит доклад компании Percona. Обновление систем может оказаться слишком трудоёмкой задачей, из-за чего администраторы вынуждены обходиться устаревшим ПО. И",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Почти все базы данных в США работают на устаревшем ПО — обно",
+      "metaDescription": "Подавляющее большинство администраторов баз данных в США — 97 % — работают на устаревшем ПО, гласит доклад компании Percona. Обновление систем может о",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148565"
+    },
+    {
+      "id": "fabrika-na-1-tonnu-otpravitsya-v-kosmos-v-2028-g-2026-09-16",
+      "category": "Новости",
+      "title": "Фабрика на 1 тонну отправится в космос в 2028 году: Space Cargo Unlimited переходит к крупносерийному производству на Starship",
+      "excerpt": "Люксембургская Space Cargo Unlimited объявила о планах запустить в 2028 году космическую фабрику на 1 тонну на возвращаемом аппарате Starfall компании SpaceX. Запуск должен состояться на ракете Starship. Нынешние производственные миссии Space Cargo U",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Фабрика на 1 тонну отправится в космос в 2028 году: Space Ca",
+      "metaDescription": "Люксембургская Space Cargo Unlimited объявила о планах запустить в 2028 году космическую фабрику на 1 тонну на возвращаемом аппарате Starfall компании",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436191-fabrika-na-1-tonnu-otpravitsia-v-kosmos-v-2028-godu-space-cargo-unlimited-perexodit-k-krupnoseriinomu-proizvodstvu-na-starship.html"
+    },
+    {
+      "id": "acronis-patches-exploited-vulnerability-in-cpane-2026-09-16",
+      "category": "Новости",
+      "title": "Acronis исправляет эксплуатируемую уязвимость в плагине резервного копирования cPanel",
+      "excerpt": "CVE-2026-87886 — это серьезная уязвимость небезопасных прав доступа к файлам, которая может привести к повышению локальных привилегий. Сообщение Acronis исправляет эксплуатируемую уязвимость в плагине резервного копирования cPanel впервые появилось н",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Acronis исправляет эксплуатируемую уязвимость в плагине резе",
+      "metaDescription": "CVE-2026-87886 — это серьезная уязвимость небезопасных прав доступа к файлам, которая может привести к повышению локальных привилегий. Сообщение Acron",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/"
+    },
+    {
+      "id": "vypusk-virtualbox-7-2-18-2026-09-16",
+      "category": "Новости",
+      "title": "Выпуск VirtualBox 7.2.18",
+      "excerpt": "Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.18, в котором представлено 11 изменений и устранено 19 уязвимостей. Самой серьёзной проблеме (CVE-2026-87273) присвоен уровень опасности 8.6 из 10, ещё 5 проблемам",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск VirtualBox 7.2.18",
+      "metaDescription": "Компания Oracle опубликовала корректирующий релиз системы виртуализации VirtualBox 7.2.18, в котором представлено 11 изменений и устранено 19 уязвимос",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66289"
+    },
+    {
+      "id": "anker-pereizobrela-pohodnuyu-zaryadku-150-vt-i-p-2026-09-16",
+      "category": "Новости",
+      "title": "Anker переизобрела походную зарядку: 150 Вт и питание для шесть устройств одновременно",
+      "excerpt": "Anker представила Travel Charging Station — компактную зарядную станцию, которая позволяет одновременно питать до шести устройств. Новинка получила четыре USB-C и два USB-A, суммарная мощность достигает 150 Вт.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Anker переизобрела походную зарядку: 150 Вт и питание для ше",
+      "metaDescription": "Anker представила Travel Charging Station — компактную зарядную станцию, которая позволяет одновременно питать до шести устройств. Новинка получила че",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436197-anker-pereizobrela-poxodnuiu-zariadku-150-vt-i-pitanie-dlia-sest-ustroistv-odnovremenno.html"
+    },
+    {
+      "id": "avtopilot-tesla-full-self-driving-byl-vklyuchen--2026-09-16",
+      "category": "Новости",
+      "title": "Автопилот Tesla Full Self‑Driving был включён при нескольких авариях со смертельным исходом",
+      "excerpt": "Июль 2026 года стал рекордным по количеству аварий с участием автомобилей Tesla, оснащённых системами помощи водителю. Компания сообщила федеральным регулирующим органам о 236 таких инцидентах — это самый высокий показатель за один месяц. В четырёх и",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Автопилот Tesla Full Self‑Driving был включён при нескольких",
+      "metaDescription": "Июль 2026 года стал рекордным по количеству аварий с участием автомобилей Tesla, оснащённых системами помощи водителю. Компания сообщила федеральным р",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082878"
+    },
+    {
+      "id": "vypusk-nginx-1-31-6-2026-09-16",
+      "category": "Новости",
+      "title": "Выпуск nginx 1.31.6",
+      "excerpt": "15 сентября 2026 года состоялся выпуск высокопроизводительного HTTP‑сервера и многопротокольного прокси‑сервера nginx 1.31.6 . Исходный код проекта nginx написан на языке C и распространяется под лицензией BSD. Проект nginx 1.28.0 вышел в апреле 2025",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск nginx 1.31.6",
+      "metaDescription": "15 сентября 2026 года состоялся выпуск высокопроизводительного HTTP‑сервера и многопротокольного прокси‑сервера nginx 1.31.6 . Исходный код проекта ng",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082890"
+    },
+    {
       "id": "2gis-prevratilsya-v-servis-dostavki-posylki-tepe-2026-09-16",
       "category": "Новости",
       "title": "2ГИС превратился в сервис доставки: посылки теперь можно отправлять прямо из навигатора",
