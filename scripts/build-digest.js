@@ -108,7 +108,9 @@ ${items.join('\n')}
 `;
 
 // 4. Записываем md и обновляем base.json (upsert по id)
-fs.writeFileSync(path.join(ROOT, 'data', 'content', 'articles', `${digestId}.md`), md, 'utf8');
+const digestDir = path.join(ROOT, 'data', 'content', 'articles');
+fs.mkdirSync(digestDir, { recursive: true });
+fs.writeFileSync(path.join(digestDir, `${digestId}.md`), md, 'utf8');
 base.articles = base.articles.filter(a => a.id !== digestId);
 base.articles.unshift({
     id: digestId,
