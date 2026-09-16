@@ -6,6 +6,7 @@ const path = require('path');
 const categoryMap = {
     'Новости': 'news',
     'Статьи': 'articles',
+    'Обучение': 'learning',
     'Пентестинг': 'pentest',
     'Windows': 'windows',
     'Программы': 'programs',

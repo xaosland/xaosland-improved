@@ -6,6 +6,7 @@
         categoryTranslit: {
             'news': 'Новости',
             'articles': 'Статьи',
+            'learning': 'Обучение',
             'pentest': 'Пентестинг',
             'windows': 'Windows',
             'programs': 'Программы',
@@ -18,6 +19,7 @@
         },
         categoryIcons: {
             'Новости': 'fas fa-bolt',
+            'Обучение': 'fas fa-graduation-cap',
             'Статьи': 'fas fa-newspaper',
             'Пентестинг': 'fas fa-user-secret',
             'Windows': 'fab fa-windows',
@@ -1127,7 +1129,10 @@
             if (article.image) {
                 imageHtml = `<img src="${escapeHtml(article.image)}" alt="${title}" loading="lazy" decoding="async">`;
             } else {
-                imageHtml = `<i class="${iconClass}"></i>`;
+                // Все статьи имеют брендированную OG-обложку (генерится при сборке) —
+                // используем её как фолбэк вместо пустой иконки
+                const slug = getSlugFromCategory(article.category);
+                imageHtml = `<img src="/og/${encodeURIComponent(article.id)}.png" alt="${title}" loading="lazy" decoding="async" onerror="this.parentElement.innerHTML='<i class=&quot;${iconClass}&quot;></i>'">`;
             }
 
             const readMoreText = this.getReadMoreText(article.category);
@@ -1157,7 +1162,8 @@
                 'Игры': 'Играть',
                 'Программы': 'Скачать',
                 'GitHub проекты': 'Перейти',
-                'Ozon находки': 'Посмотреть'
+                'Ozon находки': 'Посмотреть',
+                'Обучение': 'Изучить'
             };
             return map[category] || 'Читать далее';
         }

@@ -3,6 +3,7 @@
     { "url": "/", "icon": "fas fa-home", "label": "Главная", "active": true },
     { "url": "/news/", "icon": "fas fa-bolt", "label": "Новости", "active": false },
     { "url": "/articles/", "icon": "fas fa-newspaper", "label": "Статьи", "active": false },
+    { "url": "/learning/", "icon": "fas fa-graduation-cap", "label": "Обучение", "active": false },
     { "url": "/programs/", "icon": "fas fa-robot", "label": "Программы", "active": false },
     { "url": "/games/", "icon": "fas fa-gamepad", "label": "Игры", "active": false },
     { "url": "/github/", "icon": "fas fa-code", "label": "GitHub проекты", "active": false },

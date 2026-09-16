@@ -8,9 +8,11 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
+// Режим «Обучение» (LEARNING=1): пентест/кибербез/Kali/CTF — объявлен раньше,
+// чем пути (NEWS_DIR/IMG_DIR зависят от него)
+const LEARNING = process.env.LEARNING === '1';
 const BASE_PATH = path.join(DATA_DIR, 'base.json');
-const NEWS_DIR = path.join(DATA_DIR, 'content', 'news');
-const STATE_PATH = path.join(ROOT, 'data', 'news-state.json');
+const NEWS_DIR = path.join(DATA_DIR, 'content', LEARNING ? 'learning' : 'news');
 const SITE_URL = 'https://xaosland.ru';
 
 const { isSafeArticleId } = require('./utils');
@@ -19,7 +21,7 @@ const { detectTopicTags } = require('./topic-tags');
 let sharp = null;
 try { sharp = require('sharp'); } catch {}
 
-const IMG_DIR = path.join(ROOT, 'images', 'news');
+const IMG_DIR = path.join(ROOT, 'images', LEARNING ? 'learning' : 'news');
 const IMG_MAX_W = 800;
 
 // Скачиваем og:image источника, сжимаем в WebP 800px. Возврат: путь для фронта | null.
@@ -59,7 +61,8 @@ function extractOgImage(html, baseUrl) {
 
 // ---------------- Настройки ----------------
 const MAX_HOURS = parseInt(process.env.NEWS_MAX_HOURS || '48', 10);
-const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || '16', 10);
+const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || MAX_PER_RUN_DEFAULT, 10);
+const STATE_PATH = path.join(ROOT, 'data', LEARNING ? 'learning-state.json' : 'news-state.json');
 const FETCH_TIMEOUT_MS = 15000;
 
 const FEEDS = [
@@ -79,7 +82,18 @@ const FEEDS = [
     { name: 'Help Net Security', url: 'https://www.helpnetsecurity.com/feed/', maxAge: 30, lang: 'en' },
 ];
 
-const CATEGORY = 'Новости';
+// Режим LEARNING объявлен в начале файла (используется в путях NEWS_DIR/IMG_DIR)
+// Режим «Обучение»: пентест/кибербез/Kali/CTF — отдельная категория и фиды
+const FEEDS_LEARNING = [
+    { name: 'Xakep', url: 'https://xakep.ru/feed/', maxAge: 72 },
+    { name: 'HackingArticles', url: 'https://www.hackingarticles.in/feed/', maxAge: 72, lang: 'en' },
+    { name: 'OffSec', url: 'https://www.offsec.com/feed/', maxAge: 72, lang: 'en' },
+    { name: 'NullByte', url: 'https://null-byte.wonderhowto.com/rss/', maxAge: 72, lang: 'en' },
+    { name: 'PortSwigger', url: 'https://portswigger.net/research/rss', maxAge: 168, lang: 'en' },
+];
+const FEEDS_ACTIVE = LEARNING ? FEEDS_LEARNING : FEEDS;
+const CATEGORY = LEARNING ? 'Обучение' : 'Новости';
+const MAX_PER_RUN_DEFAULT = LEARNING ? '8' : '16';
 
 // ---------------- Утилиты ----------------
 function loadJson(file, fallback) {
@@ -403,7 +417,7 @@ function buildMarkdown(item, sourceName) {
     const lines = [
         '---',
         `id: ${item.id}`,
-        'category: Новости',
+        `category: ${CATEGORY}`,
         `title: ${item.title.replace(/"/g, "'")}`,
         `excerpt: ${(item.description || item.title).slice(0, 250).replace(/"/g, "'")}`,
         `date: ${item.date}`,
@@ -448,7 +462,7 @@ async function main() {
 
     // --- Фаза 1: собираем кандидатов со ВСЕХ лент (без обработки) ---
     const candidates = [];
-    for (const feed of FEEDS) {
+    for (const feed of FEEDS_ACTIVE) {
         try {
             const xml = await fetchText(feed.url);
             stats.fetched++;
@@ -530,11 +544,11 @@ async function main() {
             const topicTags = feed.lang === 'en'
                 ? ['безопасность', ...detectTopicTags((enriched.title || '') + ' ' + (enriched.description || ''))]
                 : detectTopicTags((enriched.title || '') + ' ' + (enriched.description || '') + ' ' + bodyText);
-            const tags = [...new Set(['новости', ...topicTags, feed.name.toLowerCase()])].slice(0, 5);
+            const tags = [...new Set([LEARNING ? 'обучение' : 'новости', ...topicTags, feed.name.toLowerCase()])].slice(0, 5);
 
             const article = {
                 id,
-                category: 'Новости',
+                category: CATEGORY,
                 title: enriched.title || item.title,
                 excerpt: (enriched.description || item.description || item.title).slice(0, 250),
                 date,
@@ -567,7 +581,7 @@ async function main() {
     saveJson(BASE_PATH, base);
     saveJson(STATE_PATH, state);
 
-    console.log(`✅ Лент: ${stats.fetched}/${FEEDS.length}, записей прочитано: ${stats.parsed}`);
+    console.log(`✅ Лент: ${stats.fetched}/${FEEDS_ACTIVE.length}, записей прочитано: ${stats.parsed}`);
     console.log(`📰 Новых новостей: ${stats.added}, пропущено: ${stats.skipped}`);
     if (added.length) console.log(`   ID: ${added.join(', ')}`);
 }
@@ -575,9 +589,10 @@ async function main() {
 // Тестовый режим: NEWS_TEST_URL=<url> — скачать одну статью и показать извлечённый текст
 if (process.env.NEWS_TEST_URL) {
     extractArticleText(process.env.NEWS_TEST_URL).then((ps) => {
-        console.log(`Извлечено абзацев: ${ps.length}, предложений: ${ps.reduce((s, p) => s + countSentences(p), 0)}`);
+        const paragraphs = ps.paragraphs || ps;
+        console.log(`Извлечено абзацев: ${paragraphs.length}, предложений: ${paragraphs.reduce((s, p) => s + countSentences(p), 0)}`);
         console.log('---');
-        console.log(ps.join('\n\n').slice(0, 2000));
+        console.log(paragraphs.join('\n\n').slice(0, 2000));
     });
 } else {
     main().catch(e => { console.error('❌', e); process.exit(1); });

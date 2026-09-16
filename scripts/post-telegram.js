@@ -35,7 +35,44 @@ function esc(s) {
     return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
-function sendMessage(text) {
+function sendMessage(text, imagePath) {
+    // С картинкой — multipart sendPhoto; без — обычный sendMessage
+    if (imagePath) {
+        return new Promise((resolve, reject) => {
+            const boundary = '----xaosland' + Date.now();
+            const imgPath = path.join(ROOT, imagePath.replace(/^\//, ''));
+            let imgBuf;
+            try { imgBuf = fs.readFileSync(imgPath); } catch { return sendMessage(text).then(resolve, reject); }
+            const payload = JSON.stringify({ chat_id: CHAT, caption: text.slice(0, 1024), parse_mode: 'HTML' });
+            const body = Buffer.concat([
+                Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="data"\r\nContent-Type: application/json\r\n\r\n${payload}\r\n`),
+                Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="photo"; filename="cover.webp"\r\nContent-Type: image/webp\r\n\r\n`),
+                imgBuf,
+                Buffer.from(`\r\n--${boundary}--\r\n`),
+            ]);
+            const req = https.request({
+                hostname: 'api.telegram.org',
+                path: `/bot${TOKEN}/sendPhoto`,
+                method: 'POST',
+                headers: { 'Content-Type': `multipart/form-data; boundary=${boundary}`, 'Content-Length': body.length },
+                timeout: 30000,
+            }, res => {
+                let buf = '';
+                res.on('data', d => { buf += d; });
+                res.on('end', () => {
+                    try {
+                        const j = JSON.parse(buf);
+                        if (j.ok) resolve(j);
+                        else reject(new Error('telegram: ' + buf.slice(0, 300)));
+                    } catch (e) { reject(new Error('telegram bad response: ' + buf.slice(0, 200))); }
+                });
+            });
+            req.on('timeout', () => req.destroy(new Error('telegram timeout')));
+            req.on('error', reject);
+            req.write(body);
+            req.end();
+        });
+    }
     return new Promise((resolve, reject) => {
         const body = JSON.stringify({
             chat_id: CHAT,
@@ -101,7 +138,8 @@ async function main() {
     let sent = 0;
     for (const a of fresh) {
         try {
-            await sendMessage(formatMessage(a));
+            await sendMessage(formatMessage(a), a.image);
+            state.posted[a.id] = new Date().toISOString();
             state.posted[a.id] = new Date().toISOString();
             sent++;
             console.log(`tg: ✅ ${a.id}`);
