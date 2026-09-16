@@ -188,27 +188,6 @@
       "sourceUrl": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
     },
     {
-      "id": "bragjack-attack-can-turn-a-browser-s-agentic-ai--2026-09-16-2",
-      "category": "Новости",
-      "title": "Атака BragJack может настроить против него агентный искусственный интеллект браузера",
-      "excerpt": "Новый тип атаки использует ИИ-помощник, встроенный непосредственно в различные браузеры, для доступа к конфиденциальной информации, выполнения вредоносных действий и кражи данных.",
-      "date": "2026-09-16",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "безопасность",
-        "ИИ",
-        "dark reading"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Атака BragJack может настроить против него агентный искусств",
-      "metaDescription": "Новый тип атаки использует ИИ-помощник, встроенный непосредственно в различные браузеры, для доступа к конфиденциальной информации, выполнения вредоно",
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
-    },
-    {
       "id": "spain-s-data-agency-gets-first-report-of-ai-powe-2026-09-16",
       "category": "Новости",
       "title": "Информационное агентство Испании получило первый отчет об утечке данных с помощью искусственного интеллекта",
@@ -610,47 +589,6 @@
       "image": "",
       "metaTitle": "Браузеры 2026: какой выбрать",
       "metaDescription": "Chrome, Firefox, Vivaldi, Brave — честное сравнение скорости, памяти и приватности."
-    },
-    {
-      "id": "zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16",
-      "category": "Новости",
-      "title": "Zero Parades: For Dead Spies скоро получит режиссёрскую версию и выйдет на PS5 — детали последнего обновления RPG от студии в ответе за Disco Elysium",
-      "excerpt": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролевой игры Zero Parades: For Dead Spies. Источник изображений: ZA/UM",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/zero-parades-for-dead-spies-skoro-poluchit-rezhi-2026-09-16.webp",
-      "metaTitle": "Zero Parades: For Dead Spies скоро получит режиссёрскую верс",
-      "metaDescription": "Лондонская студия ZA/UM (Disco Elysium) посредством портала GameSpot поделилась новостями о дальнейшем развитии своей психоделической шпионской ролево",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148596"
-    },
-    {
-      "id": "first-agentic-ai-data-breach-reported-to-spanish-2026-09-16",
-      "category": "Новости",
-      "title": "В испанский регулятор поступило сообщение о первой утечке данных агентов ИИ",
-      "excerpt": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным, что может стать потенциальной вехой для автономных кибератак. Сообщение о первой утечке данных аге",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "securityweek"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/first-agentic-ai-data-breach-reported-to-spanish-2026-09-16.webp",
-      "metaTitle": "В испанский регулятор поступило сообщение о первой утечке да",
-      "metaDescription": "Испанские регуляторы заявляют, что агент искусственного интеллекта объединил успешный вход в систему, обнаружение уязвимостей и доступ к личным данным",
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
     },
     {
       "id": "bragjack-attack-can-turn-a-browser-s-agentic-ai--2026-09-16",
