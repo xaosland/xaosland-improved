@@ -1,6 +1,293 @@
 {
   "articles": [
     {
+      "id": "pervyy-orbitalnyy-zapusk-megarakety-spacex-stars-2026-09-16",
+      "category": "Новости",
+      "title": "Первый орбитальный запуск мегаракеты SpaceX Starship запланирован на 22 сентября",
+      "excerpt": "Компания SpaceX объявила о запланированной дате проведения первого испытательного орбитального запуска сверхтяжёлой ракеты Starship. Запуск планируется осуществить 22 сентября, в течение 75-минутного окна, которое откроется в 8:15 по восточному време",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Первый орбитальный запуск мегаракеты SpaceX Starship заплани",
+      "metaDescription": "Компания SpaceX объявила о запланированной дате проведения первого испытательного орбитального запуска сверхтяжёлой ракеты Starship. Запуск планируетс",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148541"
+    },
+    {
+      "id": "legendarnyy-vnedorozhnik-avtovaza-izbavili-ot-sh-2026-09-16",
+      "category": "Новости",
+      "title": "Легендарный внедорожник АвтоВАЗа избавили от шума и лишних вибраций: Lada Niva Legend стала тише и удобнее",
+      "excerpt": "АвтоВАЗ рассказал о доработках Lada Niva Legend, которые должны сделать автомобиль удобнее в повседневной эксплуатации. Внешне внедорожник практически не изменился, зато модернизация затронула салон и ряд систем.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Легендарный внедорожник АвтоВАЗа избавили от шума и лишних в",
+      "metaDescription": "АвтоВАЗ рассказал о доработках Lada Niva Legend, которые должны сделать автомобиль удобнее в повседневной эксплуатации. Внешне внедорожник практически",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436098-legendarnyi-vnedoroznik-avtovaza-izbavili-ot-suma-i-lisnix-vibracii-lada-niva-legend-stala-tise-i-udobnee.html"
+    },
+    {
+      "id": "posmotrel-mashina-sfotografirovala-toyota-pridum-2026-09-16",
+      "category": "Новости",
+      "title": "Посмотрел — машина сфотографировала: Toyota придумала необычную автомобильную камеру",
+      "excerpt": "Toyota запатентовала систему, которая позволяет фотографировать интересующие водителя объекты без отвлечения от дороги.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Посмотрел — машина сфотографировала: Toyota придумала необыч",
+      "metaDescription": "Toyota запатентовала систему, которая позволяет фотографировать интересующие водителя объекты без отвлечения от дороги.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436101-posmotrel-masina-sfotografirovala-toyota-pridumala-neobycnuiu-avtomobilnuiu-kameru.html"
+    },
+    {
+      "id": "predstavlen-pervyy-v-mire-modul-pamyati-ddr5-rdi-2026-09-16",
+      "category": "Новости",
+      "title": "Представлен первый в мире модуль памяти DDR5 RDIMM объемом 512 ГБ — один сервер сможет получить до 12 ТБ ОЗУ",
+      "excerpt": "Компания Micron продемонстрировала первый, по её заявлению, серверный модуль памяти DDR5 RDIMM объемом 512 ГБ. Максимальная скорость передачи данных достигает 9200 МТ/с. При установке таких модулей в двухпроцессорный сервер с 24 слотами общий объем о",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Представлен первый в мире модуль памяти DDR5 RDIMM объемом 5",
+      "metaDescription": "Компания Micron продемонстрировала первый, по её заявлению, серверный модуль памяти DDR5 RDIMM объемом 512 ГБ. Максимальная скорость передачи данных д",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436104-predstavlen-pervyi-v-mire-modul-pamiati-ddr5-rdimm-obieemom-512-gb-odin-server-smozet-polucit-do-12-tb-ozu.html"
+    },
+    {
+      "id": "the-modern-attack-chain-rethinking-google-worksp-2026-09-16",
+      "category": "Новости",
+      "title": "Современная цепочка атак: переосмысление безопасности Google Workspace в эпоху искусственного интеллекта",
+      "excerpt": "За последние два месяца я писал отдельно о взломе Vercel и Composio. Оба предлагают уроки, которые можно изучить самостоятельно. Но читая их вместе, я все время возвращаюсь к одному и тому же замечанию: это не единичные случаи. Это одна и та же атака",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Современная цепочка атак: переосмысление безопасности Google",
+      "metaDescription": "За последние два месяца я писал отдельно о взломе Vercel и Composio. Оба предлагают уроки, которые можно изучить самостоятельно. Но читая их вместе, я",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/"
+    },
+    {
+      "id": "finansovyy-direktor-openai-dala-ponyat-chto-komp-2026-09-16",
+      "category": "Новости",
+      "title": "Финансовый директор OpenAI дала понять, что компания не боится замедления развития ИИ",
+      "excerpt": "Пока генеральный директор OpenAI Сэм Альтман (Sam Altman) выражает поддержку руководству конкурирующей Anthropic в вопросе необходимости замедления развития ИИ ради общественной безопасности, финансовый директор стартапа Сара Фрайар (Sarah Friar) даё",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Финансовый директор OpenAI дала понять, что компания не боит",
+      "metaDescription": "Пока генеральный директор OpenAI Сэм Альтман (Sam Altman) выражает поддержку руководству конкурирующей Anthropic в вопросе необходимости замедления ра",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148545"
+    },
+    {
+      "id": "predstavlen-pervyy-v-mire-3d-tsentr-obrabotki-da-2026-09-16",
+      "category": "Новости",
+      "title": "Представлен первый в мире 3D-центр обработки данных от Huawei",
+      "excerpt": "Huawei официально представила первый в мире 3D-центр обработки данных, который использует инновационный подход, позволяющий разделить и расположить слои системы охлаждения, ИТ-оборудования и электропитания друг над другом, обеспечивая зонированное ра",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Представлен первый в мире 3D-центр обработки данных от Huawe",
+      "metaDescription": "Huawei официально представила первый в мире 3D-центр обработки данных, который использует инновационный подход, позволяющий разделить и расположить сл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436105-predstavlen-pervyi-v-mire-3d-centr-obrabotki-dannyx-ot-huawei.html"
+    },
+    {
+      "id": "144-gts-200-mp-minimum-512-gb-flesh-pamyati-7100-2026-09-16",
+      "category": "Новости",
+      "title": "144 Гц, 200 Мп, минимум 512 ГБ флеш-памяти, 7100 мА•ч в корпусе толщиной всего 7,62 мм. Смартфон Nubia NaviX Ultra поступает в продажу в Китае",
+      "excerpt": "Компания Nubia сегодня, 16 сентября, выпускает NaviX Ultra, который компания называет первым в мире смартфоном с поддержкой искусственного интеллекта.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "144 Гц, 200 Мп, минимум 512 ГБ флеш-памяти, 7100 мА•ч в корп",
+      "metaDescription": "Компания Nubia сегодня, 16 сентября, выпускает NaviX Ultra, который компания называет первым в мире смартфоном с поддержкой искусственного интеллекта.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436107-144-gc-200-mp-minimum-512-gb-fles-pamiati-7100-mac-v-korpuse-tolshhinoi-vsego-762-mm-smartfon-nubia-navix-ultra-postupaet-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "5-mln-kopiy-za-pervye-dni-800-000-igrokov-onlayn-2026-09-16",
+      "category": "Новости",
+      "title": "5 млн копий за первые дни, 800 000 игроков онлайн и топ-1 по продажам. В Steam появился новый хит — Wardogs",
+      "excerpt": "Игра Wardogs за первые пять дней после релиза разошлась тиражом более 5 млн копий по всему миру и поднялась на первое место в еженедельном чарте продаж Steam за 8–15 сентября. Шутер также возглавил региональный рейтинг китайского Steam, тогда как лид",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "5 млн копий за первые дни, 800 000 игроков онлайн и топ-1 по",
+      "metaDescription": "Игра Wardogs за первые пять дней после релиза разошлась тиражом более 5 млн копий по всему миру и поднялась на первое место в еженедельном чарте прода",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436108-5-mln-kopii-za-pervye-dni-800-000-igrokov-onlain-i-top-1-po-prodazam-v-steam-poiavilsia-novyi-xit-wardogs.html"
+    },
+    {
+      "id": "bystraya-peredacha-faylov-mezhdu-smartfonami-xia-2026-09-16",
+      "category": "Новости",
+      "title": "Быстрая передача файлов между смартфонами Xiaomi, Oppo, Vivo и Honor использует NFC и P2P-соединение по Wi-Fi",
+      "excerpt": "Альянс Inter-Transfer Alliance объявил о выпуске технического стандарта Tap to Transfer, который позволит передавать файлы между смартфонами Xiaomi, Oppo, Vivo и Honor одним касанием.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Быстрая передача файлов между смартфонами Xiaomi, Oppo, Vivo",
+      "metaDescription": "Альянс Inter-Transfer Alliance объявил о выпуске технического стандарта Tap to Transfer, который позволит передавать файлы между смартфонами Xiaomi, O",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436111-bystraia-peredaca-failov-mezdu-smartfonami-xiaomi-oppo-vivo-i-honor-ispolzuet-nfc-i-p2p-soedinenie-po-wi-fi.html"
+    },
+    {
+      "id": "deepzero-open-source-hunting-for-vulnerable-wind-2026-09-16",
+      "category": "Новости",
+      "title": "DeepZero: поиск уязвимых драйверов Windows с открытым исходным кодом",
+      "excerpt": "DeepZero — это движок с открытым исходным кодом, который автоматизирует поиск уязвимых драйверов ядра Windows. Вы указываете ему на папку с двоичными файлами, и он анализирует их, разбирает на части, сканирует, выбрасывает большую часть и спрашивает ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "DeepZero: поиск уязвимых драйверов Windows с открытым исходн",
+      "metaDescription": "DeepZero — это движок с открытым исходным кодом, который автоматизирует поиск уязвимых драйверов ядра Windows. Вы указываете ему на папку с двоичными ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/"
+    },
+    {
+      "id": "antirekord-tesla-236-avariy-s-avtopilotom-i-fsd--2026-09-16",
+      "category": "Новости",
+      "title": "Антирекорд Tesla: 236 аварий с автопилотом и FSD за один месяц, четыре аварии привели к гибели людей",
+      "excerpt": "В июле 2026 года Tesla сообщила федеральным регуляторам о 236 авариях, произошедших при использовании систем помощи водителю.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Антирекорд Tesla: 236 аварий с автопилотом и FSD за один мес",
+      "metaDescription": "В июле 2026 года Tesla сообщила федеральным регуляторам о 236 авариях, произошедших при использовании систем помощи водителю.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436113-antirekord-tesla-236-avarii-s-avtopilotom-i-fsd-za-odin-mesiac-cetyre-avarii-priveli-k-gibeli-liudei.html"
+    },
+    {
+      "id": "mark-tsukerberg-takzhe-vyskazalsya-protiv-tsentr-2026-09-16",
+      "category": "Новости",
+      "title": "Марк Цукерберг также высказался против централизованного замедления развития ИИ",
+      "excerpt": "Основатель и генеральный директор M**a Platforms Марк Цукерберг (Mark Zuckerberg) в споре о необходимости добровольного замедления развития ИИ ради безопасности человечества принял сторону противников этой инициативы. Он заявил, что компании подходят",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Марк Цукерберг также высказался против централизованного зам",
+      "metaDescription": "Основатель и генеральный директор M**a Platforms Марк Цукерберг (Mark Zuckerberg) в споре о необходимости добровольного замедления развития ИИ ради бе",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148549"
+    },
+    {
+      "id": "on-vyderzhivaet-prokol-i-szhatie-nagruzkoy-do-2--2026-09-16",
+      "category": "Новости",
+      "title": "Он выдерживает прокол и сжатие нагрузкой до 2 тонн, его можно брать в самолёт. Крошечный аккумулятор Ugreen P5 поступил в продажу в Китае",
+      "excerpt": "Ugreen выпустила внешний аккумулятор P5 со встроенным кабелем USB-C. Новинка получила аккумулятор емкостью 10 000 мА•ч, поддержку быстрой зарядки мощностью 22,5 Вт и ценник 119 юаней.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Он выдерживает прокол и сжатие нагрузкой до 2 тонн, его можн",
+      "metaDescription": "Ugreen выпустила внешний аккумулятор P5 со встроенным кабелем USB-C. Новинка получила аккумулятор емкостью 10 000 мА•ч, поддержку быстрой зарядки мощн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436116-on-vyderzivaet-prokol-i-szatie-nagruzkoi-do-2-tonn-ego-mozno-brat-v-samolet-krosecnyi-akkumuliator-ugreen-p5-postupil-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "roevoy-intellekt-ai-agenty-soobscha-oboshli-zasc-2026-09-16",
+      "category": "Новости",
+      "title": "Роевой интеллект: AI-агенты сообща обошли защитные ограничения",
+      "excerpt": "Исследователи Emergence AI (независимый разработчик корпоративной инфраструктуры для управления AI-агентами) проверили, как восемь виртуальных обществ из автономных AI-агентов справляются с киберугрозами: ни одно не оказалось устойчивым ко всем испыт",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Роевой интеллект: AI-агенты сообща обошли защитные ограничен",
+      "metaDescription": "Исследователи Emergence AI (независимый разработчик корпоративной инфраструктуры для управления AI-агентами) проверили, как восемь виртуальных обществ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ideco/news/1082758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082758"
+    },
+    {
       "id": "cline-vypustili-desktop-versiyu-import-iz-claude-2026-09-16",
       "category": "Новости",
       "title": "Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99",
