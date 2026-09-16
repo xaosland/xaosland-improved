@@ -13,7 +13,7 @@ const BASE_PATH = path.join(ROOT, 'data', 'base.json');
 const STATE_PATH = path.join(ROOT, 'data', 'tg-state.json');
 
 const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
-const CHAT = process.env.NEWS_TG_CHAT || '-1002966275357';
+const CHAT = process.env.NEWS_TG_CHAT || '-1003570459658';
 const MAX_PER_RUN = parseInt(process.env.NEWS_TG_MAX_PER_RUN || '5', 10);
 const SITE = 'https://xaosland.ru';
 
