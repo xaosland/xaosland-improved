@@ -20,3 +20,4 @@ backup-before-article-logic/
 rss.xml
 sitemap.xml
 cache/
+tmp/
