@@ -1,6 +1,297 @@
 {
   "articles": [
     {
+      "id": "hackuity-raises-19-million-for-ai-powered-vulner-2026-09-16",
+      "category": "Новости",
+      "title": "Hackuity привлекает 19 миллионов долларов на управление уязвимостями с помощью искусственного интеллекта",
+      "excerpt": "Компания будет использовать новый капитал для расширения своей платформы операций с уязвимостями и поддержки международного роста. Сообщение Hackuity привлекает 19 миллионов долларов на управление уязвимостями с помощью искусственного интеллекта впер",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Hackuity привлекает 19 миллионов долларов на управление уязв",
+      "metaDescription": "Компания будет использовать новый капитал для расширения своей платформы операций с уязвимостями и поддержки международного роста. Сообщение Hackuity ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/"
+    },
+    {
+      "id": "typesafe-ai-predstavila-sverhbystruyu-ii-model-j-2026-09-16",
+      "category": "Новости",
+      "title": "TypeSafe AI представила сверхбыструю ИИ-модель Jev не для людей — и она умеет играть в Doom",
+      "excerpt": "Стартап TypeSafe AI представил модель искусственного интеллекта Jev — она предназначена для общения не с людьми, а с другими машинами. Она работает значительно эффективнее и обходится существенно дешевле, чем традиционные большие языковые модели. Ист",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "TypeSafe AI представила сверхбыструю ИИ-модель Jev не для лю",
+      "metaDescription": "Стартап TypeSafe AI представил модель искусственного интеллекта Jev — она предназначена для общения не с людьми, а с другими машинами. Она работает зн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148573"
+    },
+    {
+      "id": "critical-screenconnect-flaw-now-actively-exploit-2026-09-16",
+      "category": "Новости",
+      "title": "Критическая уязвимость ScreenConnect теперь активно используется в атаках",
+      "excerpt": "По данным Агентства кибербезопасности и безопасности инфраструктуры США (CISA), злоумышленники теперь эксплуатируют критическую уязвимость ConnectWise ScreenConnect. [...]",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Критическая уязвимость ScreenConnect теперь активно использу",
+      "metaDescription": "По данным Агентства кибербезопасности и безопасности инфраструктуры США (CISA), злоумышленники теперь эксплуатируют критическую уязвимость ConnectWise",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
+    },
+    {
+      "id": "threat-intelligence-alone-won-t-close-the-exploi-2026-09-16",
+      "category": "Новости",
+      "title": "Аналитика угроз сама по себе не закроет пробелы в эксплуатации",
+      "excerpt": "Утечка учетных данных обнаруживается на криминальном рынке, или уязвимость получает предупреждение о раскрытии, и любой из них может быть использован против реальной цели до того, как большинство групп безопасности рассмотрят предупреждение. Злоумышл",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Аналитика угроз сама по себе не закроет пробелы в эксплуатац",
+      "metaDescription": "Утечка учетных данных обнаруживается на криминальном рынке, или уязвимость получает предупреждение о раскрытии, и любой из них может быть использован ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html"
+    },
+    {
+      "id": "google-patches-pixel-modem-flaw-amid-signs-of-li-2026-09-16",
+      "category": "Новости",
+      "title": "Google исправляет дефект пиксельного модема на фоне признаков ограниченной целевой эксплуатации",
+      "excerpt": "Компания Google сообщила, что серьезная уязвимость безопасности в ее сотовом модеме Pixel стала объектом эксплуатации. Уязвимость, отслеживаемая как CVE-2026-58704 (оценка CVSS: 8,0), представляет собой недостаток повышения привилегий. «В сотовом мод",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Google исправляет дефект пиксельного модема на фоне признако",
+      "metaDescription": "Компания Google сообщила, что серьезная уязвимость безопасности в ее сотовом модеме Pixel стала объектом эксплуатации. Уязвимость, отслеживаемая как C",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
+    },
+    {
+      "id": "iskusstvennyy-intellekt-nauchilsya-poproshaynich-2026-09-16",
+      "category": "Новости",
+      "title": "Искусственный интеллект научился попрошайничать: агенты выпрашивают деньги, подчёркивая отчаянность своего положения",
+      "excerpt": "Редакции технологических изданий и учёные в США столкнулись с новой формой спама: ИИ-агенты платформы iLands массово рассылают письма с просьбами предоставить им работу. Издание Futurism сообщило, что за последние 6 недель получило более дюжины обращ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Искусственный интеллект научился попрошайничать: агенты выпр",
+      "metaDescription": "Редакции технологических изданий и учёные в США столкнулись с новой формой спама: ИИ-агенты платформы iLands массово рассылают письма с просьбами пред",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436219-iskusstvennyi-intellekt-naucilsia-poprosainicat-agenty-vyprasivaiut-dengi-podcerkivaia-otcaiannost-svoego-polozeniia.html"
+    },
+    {
+      "id": "self-improving-ai-should-slow-down-von-der-leyen-2026-09-16",
+      "category": "Новости",
+      "title": "Самосовершенствующийся ИИ должен замедлиться, говорит фон дер Ляйен законодателям ЕС",
+      "excerpt": "Президент Европейской комиссии Урсула фон дер Ляйен хочет замедлить развитие ИИ на переднем крае и заявила в среду, что пригласит ведущие лаборатории ИИ обсудить, как ЕС может поддержать их собственные усилия в этом направлении. В своем обращении к Е",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Самосовершенствующийся ИИ должен замедлиться, говорит фон де",
+      "metaDescription": "Президент Европейской комиссии Урсула фон дер Ляйен хочет замедлить развитие ИИ на переднем крае и заявила в среду, что пригласит ведущие лаборатории ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/eu-ursula-von-der-leyen-ai/"
+    },
+    {
+      "id": "atomnye-reaktory-pridut-na-zavody-i-fabriki-kita-2026-09-16",
+      "category": "Новости",
+      "title": "Атомные реакторы придут на заводы и фабрики — Китай и МАГАТЭ взялись за развитие HTGR",
+      "excerpt": "Китай и Международное агентство по атомной энергии (МАГАТЭ) заключили соглашение о сотрудничестве в области высокотемпературных газоохлаждаемых реакторов (HTGR). Документ в Вене на днях подписала китайская Chinergy, дочерняя структура China National ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Атомные реакторы придут на заводы и фабрики — Китай и МАГАТЭ",
+      "metaDescription": "Китай и Международное агентство по атомной энергии (МАГАТЭ) заключили соглашение о сотрудничестве в области высокотемпературных газоохлаждаемых реакто",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148574"
+    },
+    {
+      "id": "unauthenticated-rce-flaws-could-expose-200-000-w-2026-09-16",
+      "category": "Новости",
+      "title": "Неаутентифицированные недостатки RCE могут подвергнуть захвату более 200 000 сайтов WordPress",
+      "excerpt": "Уязвимости в календаре событий могут предоставить злоумышленникам возможность удаленного выполнения кода. Сообщение «Неаутентифицированные недостатки RCE могут подвергнуть захвату более 200 000 сайтов WordPress» впервые появилось на SecurityWeek.",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Неаутентифицированные недостатки RCE могут подвергнуть захва",
+      "metaDescription": "Уязвимости в календаре событий могут предоставить злоумышленникам возможность удаленного выполнения кода. Сообщение «Неаутентифицированные недостатки ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/"
+    },
+    {
+      "id": "defitsit-i-perekupschiki-v-evrope-rezko-vzleteli-2026-09-16",
+      "category": "Новости",
+      "title": "Дефицит и перекупщики: в Европе резко взлетели цены на PS5 Pro из‑за ажиотажа вокруг GTA 6",
+      "excerpt": "Плохие новости для геймеров из Европы, которые планировали обновиться к релизу Grand Theft Auto 6. Цены на PlayStation 5 Pro в регионе стремительно поползли вверх из-за колоссального дефицита. Видимо, куче людей пришла в голову одна и та же идея — на",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Дефицит и перекупщики: в Европе резко взлетели цены на PS5 P",
+      "metaDescription": "Плохие новости для геймеров из Европы, которые планировали обновиться к релизу Grand Theft Auto 6. Цены на PlayStation 5 Pro в регионе стремительно по",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082950"
+    },
+    {
+      "id": "pravitelstvo-kitaya-otverglo-prizyvy-milliardero-2026-09-16",
+      "category": "Новости",
+      "title": "Правительство Китая отвергло призывы миллиардеров из технологической отрасли к замедлению развития ИИ",
+      "excerpt": "Пока западные миллиардеры — Дарио Амодеи, Сэм Альтман и Илон Маск, — координируют призывы к замедлению разработки искусственного интеллекта, в Пекине на это практически не обратили внимания. На рутинном брифинге Министерства иностранных дел КНР 16 се",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Правительство Китая отвергло призывы миллиардеров из техноло",
+      "metaDescription": "Пока западные миллиардеры — Дарио Амодеи, Сэм Альтман и Илон Маск, — координируют призывы к замедлению разработки искусственного интеллекта, в Пекине ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436220-pravitelstvo-kitaia-otverglo-prizyvy-milliarderov-iz-texnologiceskoi-otrasli-k-zamedleniiu-razvitiia-ii.html"
+    },
+    {
+      "id": "ustroivshego-strim-s-mertvoy-podrugoy-blogera-za-2026-09-16",
+      "category": "Новости",
+      "title": "Устроившего стрим с мертвой подругой блогера заметили на сайте знакомств",
+      "excerpt": "Устроившего стрим с мертвой подругой блогера заметили на сайте знакомств",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Устроившего стрим с мертвой подругой блогера заметили на сай",
+      "metaDescription": "Устроившего стрим с мертвой подругой блогера заметили на сайте знакомств",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/16/ustroivshego-strim-s-mertvoy-podrugoy-blogera-zametili-na-sayte-znakomstv/"
+    },
+    {
+      "id": "iskusstvennyy-intellekt-potreblyaet-ogromnoe-kol-2026-09-16",
+      "category": "Новости",
+      "title": "Искусственный интеллект потребляет огромное количество электроэнергии. 96% Claude Code ушло на перечитывание собственной рабочей памяти",
+      "excerpt": "Климатолог Зик Хаусфазер (Zeke Hausfather) провёл частное расследование «аппетита» ИИ-агентов и опубликовал результаты. На протяжении восьми недель он замерял потребление токенов ассистентом Claude Code от Anthropic и пришёл к выводу: среднедневное и",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Искусственный интеллект потребляет огромное количество элект",
+      "metaDescription": "Климатолог Зик Хаусфазер (Zeke Hausfather) провёл частное расследование «аппетита» ИИ-агентов и опубликовал результаты. На протяжении восьми недель он",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436221-iskusstvennyi-intellekt-potrebliaet-ogromnoe-kolicestvo-elektroenergii-96-claude-code-uslo-na-perecityvanie-sobstvennoi-rabocei-pamiati.html"
+    },
+    {
+      "id": "chipy-upali-na-5-7-posle-togo-kak-glavy-laborato-2026-09-16",
+      "category": "Новости",
+      "title": "Чипы упали на 5–7% после того, как главы лабораторий призвали притормозить",
+      "excerpt": "14 сентября акции полупроводниковых компаний посыпались по всему миру после того, как Дарио Амодеи публично призвал замедлить развитие фронтир-моделей, а Сэм Альтман, Илон Маск и Демис Хассабис его поддержали. AMD потеряла 4,77%, Intel — 5,29%, SK hy",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Чипы упали на 5–7% после того, как главы лабораторий призвал",
+      "metaDescription": "14 сентября акции полупроводниковых компаний посыпались по всему миру после того, как Дарио Амодеи публично призвал замедлить развитие фронтир-моделей",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1082948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082948"
+    },
+    {
+      "id": "nazad-v-90-e-v-rossii-rastut-prodazhi-cd-pleerov-2026-09-16",
+      "category": "Новости",
+      "title": "Назад в 90-е: в России растут продажи CD-плееров, кассетникок и пленочных фотоаппаратов",
+      "excerpt": "Назад в 90-е: в России растут продажи CD-плееров, кассетникок и пленочных фотоаппаратов",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Назад в 90-е: в России растут продажи CD-плееров, кассетнико",
+      "metaDescription": "Назад в 90-е: в России растут продажи CD-плееров, кассетникок и пленочных фотоаппаратов",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436226-nazad-v-90-e-v-rossii-rastut-prodazi-cd-pleerov-kassetnikok-i-plenocnyx-fotoapparatov.html"
+    },
+    {
       "id": "vernutsya-budet-ochen-slozhno-cd-projekt-red-oby-2026-09-16",
       "category": "Новости",
       "title": "«Вернуться будет очень сложно»: CD Projekt Red объяснила, зачем выпускает ремастер The Witcher 3: Wild Hunt",
