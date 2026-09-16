@@ -1,6 +1,278 @@
 {
   "articles": [
     {
+      "id": "avtovaz-obnovil-lada-vesta-sport-vse-te-zhe-147--2026-09-16",
+      "category": "Новости",
+      "title": "АвтоВАЗ обновил Lada Vesta Sport: всё те же 147 л.с., но уже с климат-контролем",
+      "excerpt": "АвтоВАЗ начал отгружать дилерам обновленную Lada Vesta Sport. Спортивная версия получила дополнительное оснащение во всех комплектациях, но стартовая цена осталась прежней — 2,352 млн рублей.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "АвтоВАЗ обновил Lada Vesta Sport: всё те же 147 л.с., но уже",
+      "metaDescription": "АвтоВАЗ начал отгружать дилерам обновленную Lada Vesta Sport. Спортивная версия получила дополнительное оснащение во всех комплектациях, но стартовая ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435963-avtovaz-obnovil-lada-vesta-sport-vse-te-ze-147-ls-no-uze-s-klimat-kontrolem.html"
+    },
+    {
+      "id": "6-let-obnovleniy-i-batareya-bolshe-chem-u-galaxy-2026-09-16",
+      "category": "Новости",
+      "title": "6 лет обновлений и батарея больше, чем у Galaxy A07. Представлен Samsung Galaxy A08 — бюджетный смартфон с One UI 9.0 из коробки",
+      "excerpt": "Samsung представила бюджетный смартфон Galaxy A08. Новинка появилась на рынке Боснии и Герцеговины и получила два основных улучшения относительно Galaxy A07 — аккумулятор увеличенной емкости и улучшенную защиту корпуса от воды и пыли (IP64).",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "6 лет обновлений и батарея больше, чем у Galaxy A07. Предста",
+      "metaDescription": "Samsung представила бюджетный смартфон Galaxy A08. Новинка появилась на рынке Боснии и Герцеговины и получила два основных улучшения относительно Gala",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/6-let-obnovlenii-i-batareia-bolse-cem-u-galaxy-a07-predstavlen-samsung-galaxy-a08-biudzetnyi-smartfon-s-one-ui-90-iz-korobki.html"
+    },
+    {
+      "id": "microsoft-sets-security-and-safety-rules-for-its-2026-09-16",
+      "category": "Новости",
+      "title": "Microsoft устанавливает правила безопасности для своих моделей искусственного интеллекта",
+      "excerpt": "Microsoft AI опубликовала первый проект своего Кодекса поведения гуманистического ИИ — учебного пособия, в котором описывается, как компания разрабатывает модели ИИ и предполагает, что они будут вести себя во время развертывания. Проект открыт для об",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft устанавливает правила безопасности для своих модел",
+      "metaDescription": "Microsoft AI опубликовала первый проект своего Кодекса поведения гуманистического ИИ — учебного пособия, в котором описывается, как компания разрабаты",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/"
+    },
+    {
+      "id": "xiaomi-predstavila-umnyy-vodonagrevatel-s-kpd-10-2026-09-16",
+      "category": "Новости",
+      "title": "Xiaomi представила умный водонагреватель с КПД 107% и мгновенной горячей водой",
+      "excerpt": "Xiaomi запустила продажи в Китае Mijia Smart Gas Water Heater 2 — умного газового водонагревателя c производительностью 16 л горячей воды в минуту. Новинка получила систему многоуровневого шумоподавления и встроенный насос, поддерживается интеграция ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Xiaomi представила умный водонагреватель с КПД 107% и мгнове",
+      "metaDescription": "Xiaomi запустила продажи в Китае Mijia Smart Gas Water Heater 2 — умного газового водонагревателя c производительностью 16 л горячей воды в минуту. Но",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435971-xiaomi-predstavila-umnyi-vodonagrevatel-s-kpd-107-i-mgnovennoi-goriacei-vodoi.html"
+    },
+    {
+      "id": "apple-patches-200-vulnerabilities-with-new-ios-2-2026-09-16",
+      "category": "Новости",
+      "title": "Apple исправила 200 уязвимостей в новых выпусках iOS 27 и macOS Golden Gate 27",
+      "excerpt": "Обновления устраняют уязвимости ядра, которые могут привести к повреждению памяти, повышению привилегий, завершению работы системы и утечке информации. Сообщение Apple исправляет 200 уязвимостей в новых версиях iOS 27 и macOS Golden Gate 27 впервые п",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Apple исправила 200 уязвимостей в новых выпусках iOS 27 и ma",
+      "metaDescription": "Обновления устраняют уязвимости ядра, которые могут привести к повреждению памяти, повышению привилегий, завершению работы системы и утечке информации",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/"
+    },
+    {
+      "id": "cisco-patches-actively-exploited-email-gateway-z-2026-09-16",
+      "category": "Новости",
+      "title": "Исправления Cisco, активно эксплуатирующие шлюз электронной почты нулевого дня (CVE-2026-76461)",
+      "excerpt": "Злоумышленники использовали уязвимость SQL-инъекции нулевого дня (CVE-2026-76461) для компрометации устройств Cisco Secure Email Gateway, подтвердила компания Cisco в понедельник. Группа реагирования на инциденты безопасности продуктов поставщика узн",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Исправления Cisco, активно эксплуатирующие шлюз электронной ",
+      "metaDescription": "Злоумышленники использовали уязвимость SQL-инъекции нулевого дня (CVE-2026-76461) для компрометации устройств Cisco Secure Email Gateway, подтвердила ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/"
+    },
+    {
+      "id": "mass-scanning-campaign-exploits-vite-flaw-to-ext-2026-09-16",
+      "category": "Новости",
+      "title": "Кампания массового сканирования использует уязвимость Vite для извлечения облачных учетных данных с открытых серверов разработки",
+      "excerpt": "Исследователи кибербезопасности раскрыли подробности кампании массового сканирования, направленной на перекачку конфиденциальных данных с помощью Vite. Первый — это автоматизированная попытка, направленная на доступные в Интернете серверы разработки ",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Кампания массового сканирования использует уязвимость Vite д",
+      "metaDescription": "Исследователи кибербезопасности раскрыли подробности кампании массового сканирования, направленной на перекачку конфиденциальных данных с помощью Vite",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+    },
+    {
+      "id": "detali-dvigatelya-dlya-ms-21-rossiyskoy-zameny-b-2026-09-16",
+      "category": "Новости",
+      "title": "Детали двигателя для МС-21 — российской замены Boeing 737 и Airbus A320 — будут выпускать в Москве: открылся новый большой учебно-производственный центр",
+      "excerpt": "Ростех запустил в Москве новый центр на территории предприятия «ОДК-Салют». Здесь будут выпускать детали для российских авиационных двигателей, в том числе ПД-8 для импортозамещенного «Суперджета» и ПД-14 для пассажирского МС-21.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Детали двигателя для МС-21 — российской замены Boeing 737 и ",
+      "metaDescription": "Ростех запустил в Москве новый центр на территории предприятия «ОДК-Салют». Здесь будут выпускать детали для российских авиационных двигателей, в том ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435976-detali-dvigatelia-dlia-ms-21-rossiiskoi-zameny-boeing-737-i-airbus-a320-budut-vypuskat-v-moskve-otkrylsia-novyi-bolsoi-ucebno-proizvodstvennyi-centr.html"
+    },
+    {
+      "id": "attack-chains-not-just-attack-surfaces-why-testi-2026-09-16",
+      "category": "Новости",
+      "title": "Цепочки атак, а не только поверхности атаки: почему тестирование отдельных техник упускает суть",
+      "excerpt": "Введение Команды безопасности довольно хорошо научились проверять, что может им навредить. Может ли этот агент EDR перехватить эту полезную нагрузку? Провалит ли моя организация симуляцию фишинга? Это правило SIEM срабатывает именно на этой технике? ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Цепочки атак, а не только поверхности атаки: почему тестиров",
+      "metaDescription": "Введение Команды безопасности довольно хорошо научились проверять, что может им навредить. Может ли этот агент EDR перехватить эту полезную нагрузку? ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html"
+    },
+    {
+      "id": "t2-rasshiril-besplatnyy-internet-pri-otritsateln-2026-09-16",
+      "category": "Новости",
+      "title": "T2 расширил бесплатный интернет при отрицательном балансе: оператор разрешил пользоваться «Госуслугами», Max и Ozon после окончания тарифа",
+      "excerpt": "Оператор T2 расширил возможности бесплатной услуги «Связь без минусов», которая сохраняет доступ к важным онлайн-сервисам даже после окончания оплаченного периода. Теперь при отрицательном балансе абоненты смогут пользоваться «Госуслугами», мессендже",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "T2 расширил бесплатный интернет при отрицательном балансе: о",
+      "metaDescription": "Оператор T2 расширил возможности бесплатной услуги «Связь без минусов», которая сохраняет доступ к важным онлайн-сервисам даже после окончания оплачен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435979-t2-rassiril-besplatnyi-internet-pri-otricatelnom-balanse-operator-razresil-polzovatsia-gosuslugami-max-i-ozon-posle-okoncaniia-tarifa.html"
+    },
+    {
+      "id": "240-000-hit-by-data-breach-at-japan-8217-s-digit-2026-09-16",
+      "category": "Новости",
+      "title": "240 000 человек пострадали от утечки данных в цифровом агентстве Японии",
+      "excerpt": "Хакеры воспользовались уязвимостью в продукте VPN, чтобы украсть личную информацию примерно 240 000 человек. Пост «240 000 человек пострадали от утечки данных в Цифровом агентстве Японии» впервые появился на SecurityWeek.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "240 000 человек пострадали от утечки данных в цифровом агент",
+      "metaDescription": "Хакеры воспользовались уязвимостью в продукте VPN, чтобы украсть личную информацию примерно 240 000 человек. Пост «240 000 человек пострадали от утечк",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/"
+    },
+    {
+      "id": "samyy-vazhnyy-zapusk-v-istorii-starship-22-senty-2026-09-16",
+      "category": "Новости",
+      "title": "Самый важный запуск в истории Starship: 22 сентября космический корабль впервые выйдет на орбиту и совершит шесть витков вокруг Земли",
+      "excerpt": "SpaceX готовится провести 14-й испытательный полет Starship, который может стать переломным моментом всей программы. Если компания получит разрешение регулирующих органов, запуск состоится 22 сентября 2026 года, об этом сообщила сама компания. Главно",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Самый важный запуск в истории Starship: 22 сентября космичес",
+      "metaDescription": "SpaceX готовится провести 14-й испытательный полет Starship, который может стать переломным моментом всей программы. Если компания получит разрешение ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436039-samyi-vaznyi-zapusk-v-istorii-starship-22-sentiabria-kosmiceskii-korabl-vpervye-vyidet-na-orbitu-i-soversit-sest-vitkov-vokrug-zemli.html"
+    },
+    {
+      "id": "za-proshedshiy-mesyats-ddr5-vyrosla-v-tsene-siln-2026-09-16",
+      "category": "Новости",
+      "title": "За прошедший месяц DDR5 выросла в цене сильнее всего за этот год. Свежая статистика указывает на усиление роста цен",
+      "excerpt": "Авторы 3DCenter опубликовали свежую статистику цен на память, накопители и видеокарты в Германии. Данные показывают, что цены вернулись к уверенному росту.",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "За прошедший месяц DDR5 выросла в цене сильнее всего за этот",
+      "metaDescription": "Авторы 3DCenter опубликовали свежую статистику цен на память, накопители и видеокарты в Германии. Данные показывают, что цены вернулись к уверенному р",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436040-za-prosedsii-mesiac-ddr5-vyrosla-v-cene-silnee-vsego-za-etot-god-svezaia-statistika-ukazyvaet-na-usilenie-rosta-cen.html"
+    },
+    {
+      "id": "144-yadernye-arm-protsessory-fujitsu-monaka-stan-2026-09-16",
+      "category": "Новости",
+      "title": "144-ядерные Arm-процессоры Fujitsu MONAKA станут доступны в ноябре",
+      "excerpt": "Fujitsu объявила о предстоящем старте глобальных продаж процессора нового поколения Fujitsu MONAKA, намеченном на ноябрь 2026 года. Также компания выпустит на базе новинок сервер Fujitsu MONAKA Server для суверенной ИИ-инфраструктуры, который станет ",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "144-ядерные Arm-процессоры Fujitsu MONAKA станут доступны в ",
+      "metaDescription": "Fujitsu объявила о предстоящем старте глобальных продаж процессора нового поколения Fujitsu MONAKA, намеченном на ноябрь 2026 года. Также компания вып",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148515"
+    },
+    {
       "id": "toyota-i-scania-gotovyat-40-vodorodnyh-fur-k-rea-2026-09-15",
       "category": "Новости",
       "title": "Toyota и Scania готовят 40 водородных фур к реальным маршрутам: старт в 2027 году",
