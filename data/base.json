@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "digest-2026-W38",
+      "category": "Статьи",
+      "title": "Дайджест XaosLand #38: лучшие материалы за неделю",
+      "excerpt": "3 материалов, которые чаще всего читали на XaosLand за 7 дней (9 сентября — 16 сентября).",
+      "date": "2026-09-16",
+      "readTime": 3,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "дайджест",
+        "популярное"
+      ],
+      "image": "",
+      "metaTitle": "Дайджест #38 — топ материалов",
+      "metaDescription": "Лучшие материалы XaosLand за период 9 сентября — 16 сентября."
+    },
+    {
       "id": "winget-package-manager",
       "category": "Программы",
       "title": "winget — магазин программ без магазина",
