@@ -32,7 +32,7 @@
         ITEMS_PER_PAGE: 6,
         DEFAULT_META_DESCRIPTION: 'IT-блог о программах, Windows, играх и кибербезопасности. Гайды, скрипты, оптимизация и полезные инструменты.',
         CACHE_EXPIRY: 5 * 60 * 1000,
-        CACHE_VERSION: 'v4'
+        CACHE_VERSION: 'v5'
     };
 
     // ---------- Вспомогательные функции ----------
@@ -762,33 +762,62 @@
             document.title = `Поиск: "${query}" - XaosLand`;
             this.updateMetaTags(`Результаты поиска по запросу "${query}"`);
 
-            const q = query.toLowerCase();
-            const results = this.articles.filter(a => {
-                const title = a.title.toLowerCase();
-                const excerpt = a.excerpt.toLowerCase();
-                const category = a.category.toLowerCase();
-                const tags = a.tags.map(t => t.toLowerCase()).join(' ');
-                return title.includes(q) || excerpt.includes(q) || category.includes(q) || tags.includes(q);
-            });
+            this.ensureSearchIndex().then(() => {
+                const results = this.searchInIndex(query);
+                if (results.length === 0) {
+                    this.container.innerHTML = `<p>По запросу "${escapeHtml(query)}" ничего не найдено.</p>`;
+                    if (this.paginationContainer) this.paginationContainer.innerHTML = '';
+                    return;
+                }
 
-            if (results.length === 0) {
-                this.container.innerHTML = `<p>По запросу "${escapeHtml(query)}" ничего не найдено.</p>`;
-                if (this.paginationContainer) this.paginationContainer.innerHTML = '';
-                return;
+                const total = results.length;
+                const perPage = CONFIG.ITEMS_PER_PAGE;
+                const totalPages = Math.ceil(total / perPage);
+                const currentPage = Math.min(this.currentPage, totalPages);
+                const start = (currentPage - 1) * perPage;
+                const end = Math.min(start + perPage, total);
+                const pageItems = results.slice(start, end).map(r => this.articles.find(a => a.id === r.id)).filter(Boolean);
+
+                this.container.innerHTML = pageItems.map(a => this.createCardHTML(a)).join('');
+                const baseUrl = this.buildBaseUrl();
+                this.renderPagination(totalPages, currentPage, baseUrl);
+                this.updateFavoriteButtons();
+            }).catch(() => {});
+        }
+
+        // ---------- Полнотекстовый поиск (индекс строится при сборке) ----------
+        async ensureSearchIndex() {
+            if (this.searchIndex) return;
+            try {
+                const res = await fetch('/data/search-index.json');
+                this.searchIndex = res.ok ? await res.json() : [];
+            } catch { this.searchIndex = []; }
+        }
+
+        searchInIndex(query) {
+            if (!this.searchIndex) return [];
+            // Каждое слово запроса должно найтись хотя бы в одном поле; чем выше поле — тем больше вес
+            const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+            if (!words.length) return [];
+            const scored = [];
+            for (const doc of this.searchIndex) {
+                const title = doc.title.toLowerCase();
+                const excerpt = (doc.excerpt || '').toLowerCase();
+                const body = (doc.body || '').toLowerCase();
+                const tags = (doc.tags || []).join(' ').toLowerCase();
+                let score = 0, ok = true;
+                for (const w of words) {
+                    let wordScore = 0;
+                    if (title.includes(w)) wordScore += 8;
+                    if (tags.includes(w)) wordScore += 4;
+                    if (excerpt.includes(w)) wordScore += 2;
+                    if (body.includes(w)) wordScore += 1;
+                    if (wordScore === 0) { ok = false; break; }
+                    score += wordScore;
+                }
+                if (ok) scored.push({ id: doc.id, score });
             }
-
-            const total = results.length;
-            const perPage = CONFIG.ITEMS_PER_PAGE;
-            const totalPages = Math.ceil(total / perPage);
-            const currentPage = Math.min(this.currentPage, totalPages);
-            const start = (currentPage - 1) * perPage;
-            const end = Math.min(start + perPage, total);
-            const pageItems = results.slice(start, end);
-
-            this.container.innerHTML = pageItems.map(a => this.createCardHTML(a)).join('');
-            const baseUrl = this.buildBaseUrl();
-            this.renderPagination(totalPages, currentPage, baseUrl);
-            this.updateFavoriteButtons();
+            return scored.sort((a, b) => b.score - a.score);
         }
 
         // ---------- Пагинация ----------
@@ -960,12 +989,22 @@
         }
 
         // ---------- Похожие статьи ----------
-        renderRelatedArticles(article) {
+        async renderRelatedArticles(article) {
             const container = document.getElementById('related-articles');
             if (!container) return;
-            const related = this.articles
-                .filter(a => a.id !== article.id && a.category === article.category)
-                .slice(0, 3);
+            // Предвычисленная карта похожести (related.json, строится при сборке)
+            if (!this.relatedMap) {
+                try {
+                    const res = await fetch('/data/related.json');
+                    this.relatedMap = res.ok ? await res.json() : {};
+                } catch { this.relatedMap = {}; }
+            }
+            const ids = this.relatedMap[article.id] || [];
+            let related = ids.map(id => this.articles.find(a => a.id === id)).filter(Boolean);
+            // Fallback: прежняя логика по категории
+            if (related.length === 0) {
+                related = this.articles.filter(a => a.id !== article.id && a.category === article.category).slice(0, 3);
+            }
             if (related.length === 0) {
                 container.innerHTML = '';
                 return;

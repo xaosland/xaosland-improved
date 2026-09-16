@@ -473,6 +473,11 @@ async function main() {
             const md = buildMarkdown(enriched, feed.name);
             fs.writeFileSync(path.join(NEWS_DIR, `${id}.md`), md, 'utf8');
 
+            const topicTags = feed.lang === 'en'
+                ? ['безопасность', ...detectTopicTags((enriched.title || '') + ' ' + (enriched.description || ''))]
+                : detectTopicTags((enriched.title || '') + ' ' + (enriched.description || '') + ' ' + bodyText);
+            const tags = [...new Set(['новости', ...topicTags, feed.name.toLowerCase()])].slice(0, 5);
+
             const article = {
                 id,
                 category: 'Новости',
@@ -480,9 +485,7 @@ async function main() {
                 excerpt: (enriched.description || item.description || item.title).slice(0, 250),
                 date,
                 readTime: enriched.readTime,
-                tags: feed.lang === 'en'
-                    ? ['новости', 'безопасность', feed.name.toLowerCase()]
-                    : ['новости', feed.name.toLowerCase()],
+                tags,
                 featured: false,
                 popular: false,
                 image: '',

@@ -16,9 +16,12 @@ git pull --rebase origin main
 npm run build
 
 # Проверка целостности сборки — не выкатываем битый dist
-for f in dist/css/style.css dist/js/app.js dist/index.html dist/rss.xml dist/sitemap.xml; do
+for f in dist/css/style.css dist/css/fonts-local.css dist/js/app.js dist/index.html dist/rss.xml dist/sitemap.xml dist/404.html; do
   [ -f "$f" ] || { echo "❌ Сборка неполная: нет $f — деплой отменён"; exit 1; }
 done
+
+# OG-картинки опциональны: без sharp сборка валидна, просто без картинок
+[ -d dist/og ] && echo "OG-картинок: $(ls dist/og | wc -l)"
 
 # Бэкап текущего dist (держим 3 последних)
 mkdir -p /var/www/backups

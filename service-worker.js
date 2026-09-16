@@ -1,8 +1,9 @@
-const CACHE_NAME = 'xaosland-v9';
+const CACHE_NAME = 'xaosland-v10';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
     '/css/style.css',
+    '/css/fonts-local.css',
     '/js/app.js',
     '/data/navigation.json',
     '/data/footer.json'
