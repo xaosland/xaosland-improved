@@ -61,7 +61,7 @@ function extractOgImage(html, baseUrl) {
 
 // ---------------- Настройки ----------------
 const MAX_HOURS = parseInt(process.env.NEWS_MAX_HOURS || '48', 10);
-const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || MAX_PER_RUN_DEFAULT, 10);
+const MAX_PER_RUN = parseInt(process.env.NEWS_MAX_PER_RUN || (LEARNING ? '8' : '16'), 10);
 const STATE_PATH = path.join(ROOT, 'data', LEARNING ? 'learning-state.json' : 'news-state.json');
 const FETCH_TIMEOUT_MS = 15000;
 
@@ -93,7 +93,6 @@ const FEEDS_LEARNING = [
 ];
 const FEEDS_ACTIVE = LEARNING ? FEEDS_LEARNING : FEEDS;
 const CATEGORY = LEARNING ? 'Обучение' : 'Новости';
-const MAX_PER_RUN_DEFAULT = LEARNING ? '8' : '16';
 
 // ---------------- Утилиты ----------------
 function loadJson(file, fallback) {
