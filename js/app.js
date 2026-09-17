@@ -52,6 +52,13 @@
 
     // Не просто список сертификатов: каждый уровень связан с реальными статьями,
     // практикой и проверяемым результатом. IDs должны существовать в data/content/learning.
+    const ACADEMY_SERIES = [
+        { id: 'linux-basics', title: 'Linux и рабочая среда', description: 'От устройства ОС и файлов до безопасной командной строки и лабораторий.', tags: ['linux', 'kali', 'operating-systems'] },
+        { id: 'network-plus', title: 'Network+: сети на практике', description: 'TCP/IP, адресация, DNS, DHCP, VLAN, маршрутизация и диагностика.', tags: ['comptia', 'сети', 'networking', 'DNS', 'DHCP', 'IPv4'] },
+        { id: 'security-plus', title: 'Security+: основы защиты', description: 'Угрозы, идентичность, криптография, контроли и реагирование.', tags: ['comptia', 'безопасность', 'security', 'криптография', 'реагирование'] },
+        { id: 'self-hosting', title: 'Self-hosting и Docker', description: 'Запуск сервисов в собственной лаборатории с контролем доступа и резервными копиями.', tags: ['docker', 'self-hosting', 'open-source'] }
+    ];
+
     const CERTIFICATION_ROADMAP = [
         {
             level: '01', name: 'CompTIA Tech+', oldName: 'IT-фундамент', exam: 'FC0-U71',
@@ -220,6 +227,13 @@
             });
             document.addEventListener('click', (e) => {
                 if (e.target.closest('.retry-load')) this.init();
+                const completeBtn = e.target.closest('.academy-complete-btn');
+                if (completeBtn) {
+                    const id = completeBtn.dataset.articleProgress;
+                    const completed = !this.getLearningProgress().includes(id);
+                    this.setArticleCompleted(id, completed);
+                    this.updateLearningProgressButton(completeBtn, id);
+                }
             });
         }
 
@@ -388,12 +402,15 @@
                     const tags = a.tags.map(t => t.toLowerCase()).join(' ');
                     return title.includes(query) || excerpt.includes(query) || category.includes(query) || tags.includes(query);
                 }).slice(0, 5);
-                if (matches.length === 0) {
+                const tagMatches = [...new Set(this.articles.flatMap(a => a.tags).filter(tag => tag.toLowerCase().includes(query)))].slice(0, 4);
+                if (matches.length === 0 && tagMatches.length === 0) {
                     this.searchSuggestions.innerHTML = '<div class="suggestion-item">Ничего не найдено</div>';
                     this.searchSuggestions.classList.add('show');
                     return;
                 }
-                this.searchSuggestions.innerHTML = matches.map(a => {
+                this.searchSuggestions.innerHTML = tagMatches.map(tag =>
+                    `<a href="/?tag=${encodeURIComponent(tag)}" class="suggestion-item suggestion-tag"><div class="suggestion-title">#${escapeHtml(tag)}</div><div class="suggestion-meta">Все материалы по тегу</div></a>`
+                ).join('') + matches.map(a => {
                     const slug = getSlugFromCategory(a.category);
                     return `
                         <a href="/${slug}/${encodeURIComponent(a.id)}/" class="suggestion-item">
@@ -557,6 +574,7 @@
 
             const parts = path.replace(/^\/|\/$/g, '').split('/');
             this.learningRoutes = parts[0] === 'learning' && parts[1] === 'routes';
+            this.academyPage = parts[0] === 'learning' && parts[1] === 'academy';
             if (parts.length === 0 || (parts.length === 1 && parts[0] === '')) {
                 this.currentCategory = null;
                 this.currentArticleId = null;
@@ -690,6 +708,14 @@
                     this.readingProgress.style.width = '0';
                 }
 
+                if (this.academyPage) {
+                    this.renderAcademy();
+                    this.renderBreadcrumb();
+                    this.updateActiveNavLink();
+                    this.updateMetaTags('Академия XaosLand: последовательные учебные серии, лаборатории и прогресс обучения.');
+                    return;
+                }
+
                 if (this.learningRoutes) {
                     this.renderLearningRoutes();
                     this.renderBreadcrumb();
@@ -765,6 +791,20 @@
             } catch (error) {
                 showNotification('Ошибка при загрузке контента', 'error');
             }
+        }
+
+        renderAcademy() {
+            document.title = 'Академия XaosLand — учебные серии';
+            if (this.filterTags) this.filterTags.innerHTML = '';
+            if (this.paginationContainer) this.paginationContainer.innerHTML = '';
+            const completed = this.getLearningProgress();
+            const cards = ACADEMY_SERIES.map(series => {
+                const matches = this.articles.filter(article => series.tags.some(tag => (article.tags || []).some(value => value.toLowerCase() === tag.toLowerCase()))).slice(0, 8);
+                const done = matches.filter(article => completed.includes(article.id)).length;
+                const links = matches.map(article => `<li><a href="/learning/${encodeURIComponent(article.id)}/">${escapeHtml(article.title)}</a>${completed.includes(article.id) ? ' <span class="academy-done">✓</span>' : ''}</li>`).join('');
+                return `<article class="academy-series-card"><p class="eyebrow">${done}/${matches.length || 0} завершено</p><h2>${escapeHtml(series.title)}</h2><p>${escapeHtml(series.description)}</p><div class="academy-progress"><span style="width:${matches.length ? Math.round(done / matches.length * 100) : 0}%"></span></div><ol>${links || '<li>Материалы появятся после добавления статей серии.</li>'}</ol></article>`;
+            }).join('');
+            this.container.innerHTML = `<section class="academy-page"><div class="learning-routes-heading"><p class="eyebrow">XAOSLAND ACADEMY</p><h1>Учебная академия</h1><p>Выбирайте серию, изучайте статьи по порядку и отмечайте завершённые материалы. Прогресс хранится только в этом браузере.</p></div><div class="academy-series-grid">${cards}</div><p class="academy-note"><i class="fas fa-flask"></i> После серии переходите к практическим лабораториям из раздела «Обучение».</p></section>`;
         }
 
         renderLearningRoutes() {
@@ -1027,6 +1067,7 @@
                 this.updateMetaTags(article.metaDescription || article.excerpt);
                 this.initComments(article.id);
                 this.renderRelatedArticles(article);
+                this.updateLearningProgressButton(document.querySelector(`[data-article-progress="${CSS.escape(article.id)}"]`), article.id);
                 this.addArticleJsonLd(article);
                 this.renderShareButtons(article);   // ← добавить
                 this.enhanceCodeBlocks();      // ← добавьте
@@ -1076,6 +1117,7 @@
                         <button class="favorite-btn" data-id="${escapeAttr(article.id)}" aria-label="Добавить в избранное"><i class="fas fa-star"></i></button>
                     </div>
                     ${labBlock}
+                    <div class="academy-article-progress"><button type="button" class="academy-complete-btn" data-article-progress="${escapeAttr(article.id)}" aria-pressed="false"><i class="far fa-circle"></i> Отметить как изученное</button></div>
                     <div class="article-body">
     <div class="skeleton-line"></div>
     <div class="skeleton-line"></div>
@@ -1090,7 +1132,7 @@
 </div>
 
                     <div class="related-articles" id="related-articles"></div>
-
+                    ${this.learningNavHTML(article)}
                     <div class="comments-section" id="comments-${escapeHtml(article.id)}">
                         <h3 class="comments-title"><i class="fas fa-comments"></i> Комментарии</h3>
                         <div class="comments-placeholder"></div>
@@ -1121,6 +1163,7 @@
                 this.enhanceCodeBlocks();
                 this.buildTableOfContents();
                 this.renderShareButtons(article);
+                this.updateLearningProgressButton(document.querySelector(`[data-article-progress="${CSS.escape(article.id)}"]`), article.id);
                 this.initComments(article.id);
                 this.renderRelatedArticles(article);
                 this.addArticleJsonLd(article);
@@ -1132,6 +1175,35 @@
                 }
                 showNotification('Ошибка загрузки содержимого статьи', 'error');
             }
+        }
+
+        getLearningProgress() {
+            try { return JSON.parse(localStorage.getItem('xaosland_learning_progress') || '[]'); } catch { return []; }
+        }
+
+        setArticleCompleted(id, completed) {
+            const progress = this.getLearningProgress().filter(value => value !== id);
+            if (completed) progress.push(id);
+            localStorage.setItem('xaosland_learning_progress', JSON.stringify(progress));
+        }
+
+        learningNavHTML(article) {
+            if (article.category !== 'Обучение') return '';
+            const ordered = this.articles.filter(a => a.category === 'Обучение')
+                .sort((a, b) => new Date(a.date) - new Date(b.date) || String(a.title).localeCompare(String(b.title)));
+            const i = ordered.findIndex(a => a.id === article.id);
+            if (i === -1) return '';
+            const prev = ordered[i - 1], next = ordered[i + 1];
+            const link = a => `/learning/${encodeURIComponent(a.id)}/`;
+            return `<nav class="article-nav" aria-label="Навигация по учебным материалам">${prev ? `<a class="article-nav-link prev" href="${link(prev)}"><span>← Предыдущая</span>${escapeHtml(prev.title)}</a>` : '<span class="article-nav-spacer"></span>'}${next ? `<a class="article-nav-link next" href="${link(next)}"><span>Следующая →</span>${escapeHtml(next.title)}</a>` : ''}</nav>`;
+        }
+
+        updateLearningProgressButton(button, id) {
+            if (!button) return;
+            const completed = this.getLearningProgress().includes(id);
+            button.classList.toggle('is-complete', completed);
+            button.setAttribute('aria-pressed', String(completed));
+            button.innerHTML = completed ? '<i class="fas fa-check-circle"></i> Изучено' : '<i class="far fa-circle"></i> Отметить как изученное';
         }
 
         // ---------- Похожие статьи ----------
@@ -1360,6 +1432,9 @@
                     'learning/routes': 'Учебные маршруты'
                 };
                 parts.push({ name: pageNames[this.staticPage] || this.staticPage, url: '#' });
+            } else if (this.academyPage) {
+                parts.push({ name: 'Обучение', url: '/learning/' });
+                parts.push({ name: 'Академия', url: '#' });
             } else if (this.learningRoutes) {
                 parts.push({ name: 'Обучение', url: '/learning/' });
                 parts.push({ name: 'Учебные маршруты', url: '#' });

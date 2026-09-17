@@ -82,7 +82,7 @@ function stripFrontmatter(markdown) {
 }
 
 // Генерация HTML-страницы статьи
-function generateArticleHTML(article) {
+function generateArticleHTML(article, articleNav = '') {
     const slug = getSlugFromCategory(article.category);
     const contentFile = path.join(CONTENT_DIR, slug, `${article.id}.md`);
     let contentHtml = '';
@@ -107,11 +107,21 @@ function generateArticleHTML(article) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${escapeHtml(title)} | ${escapeHtml(article.category)} | ${SITE_TITLE}</title>
     <meta name="description" content="${escapeHtml(description)}">
+    <link rel="canonical" href="${articleUrl}">
+    <meta property="og:type" content="article">
     <meta property="og:title" content="${escapeHtml(title)}">
     <meta property="og:description" content="${escapeHtml(description)}">
     <meta property="og:url" content="${articleUrl}">
     <meta property="og:image" content="${ogImage}">
     <meta name="twitter:image" content="${ogImage}">
+    <meta name="twitter:card" content="summary_large_image">
+    <script type="application/ld+json">${JSON.stringify({
+        '@context': 'https://schema.org', '@type': 'Article', headline: article.title,
+        description, datePublished: article.date, dateModified: article.date,
+        mainEntityOfPage: { '@type': 'WebPage', '@id': articleUrl },
+        image: [ogImage], author: { '@type': 'Organization', name: SITE_TITLE },
+        publisher: { '@type': 'Organization', name: SITE_TITLE, logo: { '@type': 'ImageObject', url: `${SITE_URL}/icons/icon-192.png` } }
+    })}</script>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/fonts-local.css">
     <link rel="preload" href="/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -164,6 +174,7 @@ function generateArticleHTML(article) {
                     <span><i class="far fa-calendar"></i> ${formatDate(article.date)}</span>
                     <span><i class="fas fa-clock"></i> ${article.readTime} мин чтения</span>
                     <span><i class="fas fa-tags"></i> ${tags}</span>
+                    <button class="academy-complete-btn" type="button" data-article-progress="${escapeHtml(article.id)}" aria-pressed="false"><i class="far fa-circle"></i> Отметить как изученное</button>
                     <button class="favorite-btn" data-id="${article.id}" aria-label="Добавить в избранное"><i class="fas fa-star"></i></button>
                 </div>
                 <div class="article-body">
@@ -181,6 +192,7 @@ function generateArticleHTML(article) {
                     </div>
                 </div>
                 <div class="related-articles" id="related-articles"></div>
+                ${articleNav}
                 <div class="comments-section" id="comments-${article.id}">
                     <h3 class="comments-title"><i class="fas fa-comments"></i> Комментарии</h3>
                     <div class="comments-placeholder"></div>
@@ -287,6 +299,10 @@ async function generateOgImages() {
     const templateVersion = 'v4-neon-glass-800x200';
     const versionFile = path.join(cacheDir, '.template-version');
     const cacheIsCurrent = fs.existsSync(versionFile) && fs.readFileSync(versionFile, 'utf8').trim() === templateVersion;
+    const currentIds = new Set(articles.map(article => `${article.id}.png`));
+    for (const file of fs.readdirSync(cacheDir)) {
+        if (file.endsWith('.png') && !currentIds.has(file)) fs.rmSync(path.join(cacheDir, file), { force: true });
+    }
     let rendered = 0;
     for (const article of articles) {
         const cached = path.join(cacheDir, `${article.id}.png`);
@@ -400,11 +416,20 @@ async function generatePages() {
     copyStatic();
 
     // Генерируем страницы статей
+    const learningArticles = articles.filter(a => a.category === 'Обучение')
+        .sort((x, y) => new Date(x.date) - new Date(y.date) || String(x.title).localeCompare(String(y.title)));
+    const learningIndex = new Map(learningArticles.map((a, i) => [a.id, i]));
+    const learningNav = article => {
+        const i = learningIndex.get(article.id);
+        if (i === undefined) return '';
+        const prev = learningArticles[i - 1], next = learningArticles[i + 1];
+        return `<nav class="article-nav" aria-label="Навигация по учебным материалам">${prev ? `<a class="article-nav-link prev" href="/${getSlugFromCategory(article.category)}/${prev.id}/"><span>← Предыдущая</span>${escapeHtml(prev.title)}</a>` : '<span class="article-nav-spacer"></span>'}${next ? `<a class="article-nav-link next" href="/${getSlugFromCategory(article.category)}/${next.id}/"><span>Следующая →</span>${escapeHtml(next.title)}</a>` : ''}</nav>`;
+    };
     for (const article of articles) {
         const slug = getSlugFromCategory(article.category);
         const pageDir = path.join(DIST, slug, article.id);
         fs.mkdirSync(pageDir, { recursive: true });
-        const html = generateArticleHTML(article);
+        const html = generateArticleHTML(article, learningNav(article));
         fs.writeFileSync(path.join(pageDir, 'index.html'), html, 'utf8');
     }
 
@@ -427,6 +452,11 @@ async function generatePages() {
     const learningRoutesDir = path.join(DIST, 'learning', 'routes');
     fs.mkdirSync(learningRoutesDir, { recursive: true });
     fs.writeFileSync(path.join(learningRoutesDir, 'index.html'), shell, 'utf8');
+
+    // Академия — отдельный SPA-адрес для учебных серий и прогресса.
+    const academyDir = path.join(DIST, 'learning', 'academy');
+    fs.mkdirSync(academyDir, { recursive: true });
+    fs.writeFileSync(path.join(academyDir, 'index.html'), shell, 'utf8');
 
     buildSearchIndex();
     buildRelatedMap();

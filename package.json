@@ -10,7 +10,8 @@
     "build": "npm run validate && npm run build-rss && npm run build-sitemap && npm run build-pages",
     "dev": "npx http-server -c-1 . -p 3000",
     "start": "npm run build && npx http-server dist -c-1 -p 3000",
-    "validate": "node scripts/validate-project.js"
+    "validate": "node scripts/validate-project.js",
+    "check": "node scripts/check-project.js"
   },
   "devDependencies": {
     "http-server": "^14.1.1",

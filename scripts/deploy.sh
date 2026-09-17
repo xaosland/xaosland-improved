@@ -14,6 +14,7 @@ cd "$REPO"
 git pull --rebase origin main
 [ -d node_modules ] || npm install --no-audit --no-fund
 npm run build
+npm run check
 
 # Проверка целостности сборки — не выкатываем битый dist
 for f in dist/css/style.css dist/css/fonts-local.css dist/js/app.js dist/index.html dist/rss.xml dist/sitemap.xml dist/404.html; do
@@ -36,4 +37,17 @@ mv "$REPO/dist" /var/www/dist.new.$$
 mv "$TARGET" "$TARGET.old.$$" 2>/dev/null || true
 mv /var/www/dist.new.$$ "$TARGET"
 rm -rf "$TARGET.old.$$"
-echo "✅ Deployed $STAMP (commit $(git rev-parse --short HEAD))"
+
+# Быстрый smoke-test после атомарной подмены.
+for url in \
+  https://xaosland.ru/ \
+  https://xaosland.ru/learning/academy/ \
+  https://xaosland.ru/learning/routes/ \
+  https://xaosland.ru/404-smoke-test/; do
+  expected=200
+  [[ "$url" == *404-smoke-test* ]] && expected=404
+  actual=$(curl -kLs -o /dev/null -w '%{http_code}' --max-time 15 "$url")
+  [ "$actual" = "$expected" ] || { echo "❌ Smoke-test $url: expected $expected, got $actual"; exit 1; }
+done
+
+echo "✅ Deployed $STAMP (commit $(git rev-parse --short HEAD)); smoke-tests OK"
