@@ -23,6 +23,8 @@ try { sharp = require('sharp'); } catch {}
 
 const IMG_DIR = path.join(ROOT, 'images', LEARNING ? 'learning' : 'news');
 const IMG_MAX_W = 800;
+// URL картинок для сайта — должен совпадать с папкой записи IMG_DIR
+const IMG_URL_BASE = LEARNING ? '/images/learning' : '/images/news';
 
 // Скачиваем og:image источника, сжимаем в WebP 800px. Возврат: путь для фронта | null.
 async function fetchAndStoreImage(ogImageUrl, articleId) {
@@ -44,7 +46,7 @@ async function fetchAndStoreImage(ogImageUrl, articleId) {
         const size = fs.statSync(out).size;
         if (size < 2000) { fs.unlinkSync(out); return null; }
         console.log(`   🖼 картинка: ${(size / 1024).toFixed(0)}KB`);
-        return `/images/news/${articleId}.webp`;
+        return `${IMG_URL_BASE}/${articleId}.webp`;
     } catch (e) {
         console.warn(`   ⚠️ картинка не получена: ${e.message}`);
         return null;

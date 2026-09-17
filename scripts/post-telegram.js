@@ -43,13 +43,22 @@ function sendMessage(text, imagePath) {
             const imgPath = path.join(ROOT, imagePath.replace(/^\//, ''));
             let imgBuf;
             try { imgBuf = fs.readFileSync(imgPath); } catch { return sendMessage(text).then(resolve, reject); }
-            const payload = JSON.stringify({ chat_id: CHAT, caption: text.slice(0, 1024), parse_mode: 'HTML' });
-            const body = Buffer.concat([
-                Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="data"\r\nContent-Type: application/json\r\n\r\n${payload}\r\n`),
+            // chat_id/caption/parse_mode — отдельные form-поля: Telegram не читает их внутри JSON-блока,
+            // прошлый вариант с name="data" падал с «chat_id is empty»
+            const fields = [
+                ['chat_id', CHAT],
+                ['caption', text.slice(0, 1024)],
+                ['parse_mode', 'HTML'],
+            ];
+            const parts = fields.map(([k, v]) =>
+                Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="${k}"\r\n\r\n${v}\r\n`)
+            );
+            parts.push(
                 Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="photo"; filename="cover.webp"\r\nContent-Type: image/webp\r\n\r\n`),
                 imgBuf,
                 Buffer.from(`\r\n--${boundary}--\r\n`),
-            ]);
+            );
+            const body = Buffer.concat(parts);
             const req = https.request({
                 hostname: 'api.telegram.org',
                 path: `/bot${TOKEN}/sendPhoto`,
@@ -140,9 +149,8 @@ async function main() {
         try {
             await sendMessage(formatMessage(a), a.image);
             state.posted[a.id] = new Date().toISOString();
-            state.posted[a.id] = new Date().toISOString();
             sent++;
-            console.log(`tg: ✅ ${a.id}`);
+            console.log(`tg: ✅ ${a.id}${a.image ? ' (с фото)' : ''}`);
         } catch (e) {
             console.warn(`tg: ❌ ${a.id}: ${e.message}`);
             break; // например, бот не админ / сеть — не спамим ошибками дальше
