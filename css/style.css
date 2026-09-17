@@ -224,9 +224,9 @@ header {
     text-shadow: 2px 0 var(--glitch-color-1), -2px 0 var(--glitch-color-2), 1px 1px var(--glitch-color-3);
 }
 
-/* Средние экраны (ноуты/планшеты горизонтально): ужимаем меню,
-   чтобы пункты не переносились и влезали до бургера */
-@media (max-width: 1350px) and (min-width: 1120px) {
+/* Десктоп: меню всегда в компактном виде (как ранее на 1120–1350px),
+   чтобы пункты не переносились и не уезжали в бургер */
+@media (min-width: 1120px) {
     .nav-list { gap: 13px; }
     .nav-link { font-size: 0.8rem; letter-spacing: 0.5px; gap: 6px; padding: 8px 0; }
     .nav-link i { display: none; }
