@@ -234,21 +234,45 @@ function ogSvg(article) {
     const isLearning = article.category === 'Обучение';
     const isNews = article.category === 'Новости';
     const isPrograms = article.category === 'Программы';
-    const accent = isNews ? '#00BFFF' : isPrograms ? '#FF00FF' : isLearning ? '#93FF00' : '#B8FF4D';
-    // Чистая графика без надписей: фон, акцентные полосы, сетка и узлы справа
-    const grid = Array.from({ length: 8 }, (_, i) => `<line x1="${470 + i * 42}" y1="25" x2="${470 + i * 42}" y2="175" stroke="#ffffff" stroke-opacity=".045"/>`).join('') +
-        Array.from({ length: 6 }, (_, i) => `<line x1="450" y1="${28 + i * 30}" x2="790" y2="${28 + i * 30}" stroke="#ffffff" stroke-opacity=".045"/>`).join('');
+    const accent = isNews ? '#00D9FF' : isPrograms ? '#FF3BD4' : isLearning ? '#B6FF3B' : '#FFB84D';
+    const accent2 = isNews ? '#2774FF' : isPrograms ? '#8B35FF' : isLearning ? '#00E5A0' : '#FF5C7A';
+    const esc = value => String(value || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+    const seed = [...String(article.id || '')].reduce((sum, char) => sum + char.charCodeAt(0), 0);
+    const shift = seed % 42;
+    // Фирменный визуальный язык XaosLand: стеклянная панель, диагональные лучи,
+    // пиксельные акценты и абстрактная сеть. Текста намеренно нет.
+    const grid = Array.from({ length: 11 }, (_, i) => `<path d="M${420 + i * 38} 18V182" stroke="#ffffff" stroke-opacity=".045"/>`).join('') +
+        Array.from({ length: 6 }, (_, i) => `<path d="M400 ${30 + i * 30}H790" stroke="#ffffff" stroke-opacity=".04"/>`).join('');
+    const rays = Array.from({ length: 5 }, (_, i) => `<path d="M${420 + i * 78 + shift / 5} 200L${610 + i * 34} 0" stroke="${accent}" stroke-opacity="${0.08 + i * 0.025}" stroke-width="${1 + i * 0.7}"/>`).join('');
     const nodes = [
-        [520, 60, 7], [610, 42, 5], [700, 70, 8], [560, 110, 6], [720, 130, 5], [630, 155, 7], [770, 95, 4]
+        [505 + shift, 53, 5], [610, 37, 8], [714 - shift / 2, 66, 4], [548, 112, 7], [674, 139, 5], [755, 105, 8], [622, 169, 4]
     ];
-    const linesSvg = nodes.slice(1).map((n, i) => `<line x1="${nodes[i][0]}" y1="${nodes[i][1]}" x2="${n[0]}" y2="${n[1]}" stroke="${accent}" stroke-opacity=".48" stroke-width="2"/>`).join('');
-    const nodesSvg = nodes.map(([x, y, r]) => `<circle cx="${x}" cy="${y}" r="${r}" fill="${accent}"/><circle cx="${x}" cy="${y}" r="${r + 8}" fill="none" stroke="${accent}" stroke-opacity=".25"/>`).join('');
-    return `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
-  <rect width="800" height="200" fill="#0a0a0a"/>
-  <rect x="0" y="0" width="800" height="4" fill="${accent}"/>
-  <rect x="430" y="0" width="370" height="200" fill="#101616"/>
-  <g>${grid}${linesSvg}${nodesSvg}</g>
-  <rect x="0" y="196" width="800" height="4" fill="#FF00FF"/>
+    const links = [[0, 1], [1, 2], [0, 3], [3, 4], [4, 5], [4, 6], [1, 4], [2, 5]];
+    const linesSvg = links.map(([a, b]) => `<path d="M${nodes[a][0]} ${nodes[a][1]}L${nodes[b][0]} ${nodes[b][1]}" stroke="${accent}" stroke-opacity=".52" stroke-width="1.5"/>`).join('');
+    const nodesSvg = nodes.map(([x, y, r], i) => `<circle cx="${x}" cy="${y}" r="${r + 7}" fill="none" stroke="${i % 2 ? accent2 : accent}" stroke-opacity=".18"/><circle cx="${x}" cy="${y}" r="${r}" fill="${i % 2 ? accent2 : accent}"/><rect x="${x - 1.5}" y="${y - 1.5}" width="3" height="3" fill="#ffffff" fill-opacity=".8"/>`).join('');
+    const bars = Array.from({ length: 6 }, (_, i) => `<rect x="${34 + i * 12}" y="${148 - (i % 3) * 8}" width="5" height="${18 + (i % 3) * 8}" fill="${i % 2 ? accent2 : accent}" fill-opacity=".${3 + i}"/>`).join('');
+    return `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080B12"/><stop offset=".58" stop-color="#0C1220"/><stop offset="1" stop-color="#171022"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="${accent}" stop-opacity=".8"/><stop offset="1" stop-color="${accent2}" stop-opacity=".8"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <clipPath id="panel"><rect x="18" y="18" width="764" height="164" rx="12"/></clipPath>
+  </defs>
+  <rect width="800" height="200" fill="#05070C"/>
+  <rect x="18" y="18" width="764" height="164" rx="12" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".12"/>
+  <g clip-path="url(#panel)">
+    <circle cx="710" cy="34" r="92" fill="${accent2}" fill-opacity=".15" filter="url(#soft)"/>
+    <circle cx="82" cy="174" r="76" fill="${accent}" fill-opacity=".1" filter="url(#soft)"/>
+    ${rays}${grid}
+    <path d="M20 148C150 104 252 178 390 124S625 76 790 112" fill="none" stroke="url(#glow)" stroke-opacity=".3" stroke-width="2"/>
+    <path d="M20 153C150 109 252 183 390 129S625 81 790 117" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+    <g>${linesSvg}${nodesSvg}</g>
+    <g opacity=".8">${bars}</g>
+    <rect x="18" y="18" width="764" height="3" fill="url(#glow)"/>
+    <rect x="18" y="179" width="764" height="3" fill="url(#glow)"/>
+    <path d="M20 32H145" stroke="${accent}" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M655 168H780" stroke="${accent2}" stroke-opacity=".55" stroke-width="2"/>
+  </g>
 </svg>`;
 }
 
@@ -260,7 +284,7 @@ async function generateOgImages() {
     // а кэш переживает всё — рендерим только новые статьи
     const cacheDir = path.join(ROOT, 'cache', 'og');
     fs.mkdirSync(cacheDir, { recursive: true });
-    const templateVersion = 'v3-clean-800x200';
+    const templateVersion = 'v4-neon-glass-800x200';
     const versionFile = path.join(cacheDir, '.template-version');
     const cacheIsCurrent = fs.existsSync(versionFile) && fs.readFileSync(versionFile, 'utf8').trim() === templateVersion;
     let rendered = 0;

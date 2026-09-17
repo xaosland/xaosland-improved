@@ -69,7 +69,6 @@ const FETCH_TIMEOUT_MS = 15000;
 
 const FEEDS = [
     // Русскоязычные
-    { name: 'Habr', url: 'https://habr.com/ru/rss/news/?fl=ru', maxAge: 26 },
     { name: 'OpenNET', url: 'https://www.opennet.ru/opennews/opennews_all.rss', maxAge: 26 },
     { name: 'Lenta.ru', url: 'https://lenta.ru/rss/news', maxAge: 14, keywords: ['интернет', 'технолог', 'компьютер', 'программ', 'хакер', 'цифров', 'искусственный интеллект', 'сайт', 'взлом', 'уязвим'] },
     { name: '3DNews', url: 'https://www.3dnews.ru/news/rss/', maxAge: 26 },

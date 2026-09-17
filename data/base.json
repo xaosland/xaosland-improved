@@ -46,27 +46,6 @@
       "sourceUrl": "https://3dnews.ru/1148636"
     },
     {
-      "id": "luchshee-za-nedelyu-7-09-13-09-2026-09-17",
-      "category": "Новости",
-      "title": "Лучшее за неделю (7.09 — 13.09)",
-      "excerpt": "Привет, Хабр! Сегодня расскажем про первое место RUVDS в рейтинге «Компьютерры», новый российский браузер со встроенной криптографией, собственный сервер CS2 на VPS, а также лучшие статьи прошлой недели: про ремастер «Тома и Джерри» в 4K, беспокойств",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/luchshee-za-nedelyu-7-09-13-09-2026-09-17.webp",
-      "metaTitle": "Лучшее за неделю (7.09 — 13.09)",
-      "metaDescription": "Привет, Хабр! Сегодня расскажем про первое место RUVDS в рейтинге «Компьютерры», новый российский браузер со встроенной криптографией, собственный сер",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ruvds/news/1083292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083292"
-    },
-    {
       "id": "google-nachala-delit-android-na-svoy-i-chuzhoy-g-2026-09-17",
       "category": "Новости",
       "title": "Google начала делить Android на «свой» и «чужой» — GrapheneOS пожаловалась на закрытые API и задержку патчей",
@@ -128,27 +107,6 @@
       "metaDescription": "Группа британских учёных провела настоящее детективное расследование первого в истории зафиксированного случая влияния космической погоды на движение ",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148639"
-    },
-    {
-      "id": "do-vk-workspace-conf-2026-ostalas-nedelya-2026-09-17",
-      "category": "Новости",
-      "title": "До VK WorkSpace Conf 2026 осталась неделя",
-      "excerpt": "Как масштабировать корпоративные сервисы, внедрять ИИ и сохранять контроль над инфраструктурой? Эти и другие темы обсудим с лидерами рынка 23 сентября на VK WorkSpace Conf 2026 — главной конференции года о работе команд в цифровой среде. Можно участв",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/do-vk-workspace-conf-2026-ostalas-nedelya-2026-09-17.webp",
-      "metaTitle": "До VK WorkSpace Conf 2026 осталась неделя",
-      "metaDescription": "Как масштабировать корпоративные сервисы, внедрять ИИ и сохранять контроль над инфраструктурой? Эти и другие темы обсудим с лидерами рынка 23 сентября",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/vktech/news/1083390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083390"
     },
     {
       "id": "vsego-1-7-pikosekundy-v-kitae-razrabotali-perspe-2026-09-17",
@@ -213,26 +171,6 @@
       "sourceUrl": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/"
     },
     {
-      "id": "shest-sluchaev-nezhelatelnogo-povedeniya-modeley-2026-09-17",
-      "category": "Новости",
-      "title": "Шесть случаев нежелательного поведения моделей OpenAI",
-      "excerpt": "OpenAI опубликовала шесть новых кейсов misalignment, обнаруженных за последние полгода. В них модели пытались обходить ограничения, скрывать собственные ошибки, использовать чужие API-ключи, публиковать файлы без разрешения и даже организовывать обме",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/shest-sluchaev-nezhelatelnogo-povedeniya-modeley-2026-09-17.webp",
-      "metaTitle": "Шесть случаев нежелательного поведения моделей OpenAI",
-      "metaDescription": "OpenAI опубликовала шесть новых кейсов misalignment, обнаруженных за последние полгода. В них модели пытались обходить ограничения, скрывать собственн",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1083364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083364"
-    },
-    {
       "id": "pamyat-samsung-no-ne-ot-samsung-koreyskaya-kompa-2026-09-17",
       "category": "Новости",
       "title": "Память Samsung, но не от Samsung: корейская компания передаст производство памяти DDR5 другим компаниям",
@@ -273,25 +211,6 @@
       "metaDescription": "ФБР конфисковало домены, стоящие за NightmareStresser, службой по найму DDoS, которую чиновники называют одной из самых продолжительных существующих «",
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/fbi-nightmarestresser-ddos-for-hire-service-seized/"
-    },
-    {
-      "id": "v-biblioteku-konkorda-nyu-gempshir-vernuli-zhurn-2026-09-17",
-      "category": "Новости",
-      "title": "В библиотеку Конкорда, Нью‑Гэмпшир, вернули журнал спустя 132 года после взятия",
-      "excerpt": "В библиотеку города Конкорда, штат Нью‑Гэмпшир, США, недавно вернули сентябрьский выпуск журнала The Century Illustrated Monthly Magazine. Это издание вышло в сентябре 1894 года, а сам журнал прекратили издавать в 1930. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/v-biblioteku-konkorda-nyu-gempshir-vernuli-zhurn-2026-09-17.webp",
-      "metaTitle": "В библиотеку Конкорда, Нью‑Гэмпшир, вернули журнал спустя 13",
-      "metaDescription": "В библиотеку города Конкорда, штат Нью‑Гэмпшир, США, недавно вернули сентябрьский выпуск журнала The Century Illustrated Monthly Magazine. Это издание",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083394"
     },
     {
       "id": "kodzima-raskryl-glavnuyu-zvezdu-novatorskogo-shp-2026-09-17",
@@ -357,47 +276,6 @@
       "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/google-agent-anomaly-detection-audit-layer/"
     },
     {
-      "id": "vzlomschik-igr-voices38-otvetil-na-isk-denuvo-iz-2026-09-17",
-      "category": "Новости",
-      "title": "Взломщик игр voices38 ответил на иск Denuvo из‑за обхода систем защиты игр",
-      "excerpt": "В середине сентября австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions подала в суд на анонимного пользователя voices38 за взлом 26 тайтлов. На иск взломщик ответил так: «Всё в порядке. Всё будет продолжаться ",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/vzlomschik-igr-voices38-otvetil-na-isk-denuvo-iz-2026-09-17.webp",
-      "metaTitle": "Взломщик игр voices38 ответил на иск Denuvo из‑за обхода сис",
-      "metaDescription": "В середине сентября австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions подала в суд на анонимного пользовател",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083286"
-    },
-    {
-      "id": "v-rossii-rezko-vyros-spros-na-kassetnye-magnitof-2026-09-17",
-      "category": "Новости",
-      "title": "В России резко вырос спрос на кассетные магнитофоны и CD‑плееры",
-      "excerpt": "По данным аналитического центра «Чек Индекс» компании «Платформа ОФД», в России растёт спрос на покупку фото‑ и музыкальной ретротехники, в том числе магнитофонов и CD‑плееров. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/v-rossii-rezko-vyros-spros-na-kassetnye-magnitof-2026-09-17.webp",
-      "metaTitle": "В России резко вырос спрос на кассетные магнитофоны и CD‑пле",
-      "metaDescription": "По данным аналитического центра «Чек Индекс» компании «Платформа ОФД», в России растёт спрос на покупку фото‑ и музыкальной ретротехники, в том числе ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083284"
-    },
-    {
       "id": "xbox-oprovergla-sluhi-o-transformatsii-game-pass-2026-09-17",
       "category": "Новости",
       "title": "Xbox опровергла слухи о трансформации Game Pass в 2027 году, но всё не так просто",
@@ -419,26 +297,6 @@
       "sourceUrl": "https://3dnews.ru/1148630"
     },
     {
-      "id": "reliz-openide-2026-2-odna-ide-dlya-java-kotlin-g-2026-09-17",
-      "category": "Новости",
-      "title": "Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python и веб‑разработки",
-      "excerpt": "Обновили базовую платформу до версии 2026.2, расширили поддержку Java и Kotlin, улучшили работу с Git и обновили Java-профилировщик . Доработали редактор и подсказки в терминале, добавили проверки настроек Gradle и упростили переход к исходникам библ",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/reliz-openide-2026-2-odna-ide-dlya-java-kotlin-g-2026-09-17.webp",
-      "metaTitle": "Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python ",
-      "metaDescription": "Обновили базовую платформу до версии 2026.2, расширили поддержку Java и Kotlin, улучшили работу с Git и обновили Java-профилировщик . Доработали редак",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/haulmont/news/1083296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083296"
-    },
-    {
       "id": "naydeny-soedineniya-sposobnye-uderzhivat-okeany--2026-09-17",
       "category": "Новости",
       "title": "Найдены соединения, способные удерживать океаны внутри Земли, на глубине 2900 км",
@@ -457,27 +315,6 @@
       "metaDescription": "Учёные экспериментально получили два новых соединения железа, способных захватывать и удерживать воду при условиях, характерных для нижней мантии Земл",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436409-naideny-soedineniia-sposobnye-uderzivat-okeany-vnutri-zemli-na-glubine-2900-km.html"
-    },
-    {
-      "id": "microsoft-prizvala-polzovateley-copilot-cowork-v-2026-09-17",
-      "category": "Новости",
-      "title": "Microsoft призвала пользователей Copilot Cowork внимательнее подтверждать действия ИИ",
-      "excerpt": "Microsoft недавно представила Copilot Cowork — инструмент на базе ИИ‑агентов, способный автоматизировать множество рабочих процессов, включая разработку приложений. Теперь компания предупредила пользователей о мерах предосторожности при работе с ним.",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/microsoft-prizvala-polzovateley-copilot-cowork-v-2026-09-17.webp",
-      "metaTitle": "Microsoft призвала пользователей Copilot Cowork внимательнее",
-      "metaDescription": "Microsoft недавно представила Copilot Cowork — инструмент на базе ИИ‑агентов, способный автоматизировать множество рабочих процессов, включая разработ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083294"
     },
     {
       "id": "na-orbitu-vyveli-sputniki-spacety-dlya-distantsi-2026-09-17",
@@ -519,27 +356,6 @@
       "metaDescription": "Пользователи не почувствуют заметного увеличения скорости после первоначального запуска 5G в России, признали в МТС в комментарии ТАСС.",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436418-pervye-rossiiskie-seti-5g-pocti-ne-dadut-prirosta-skorosti-eto-priznali-v-mts.html"
-    },
-    {
-      "id": "glavnye-anonsy-capcom-na-vystavke-tokyo-game-sho-2026-09-17",
-      "category": "Новости",
-      "title": "Главные анонсы Capcom на выставке Tokyo Game Show 2026",
-      "excerpt": "Выставка Tokyo Game Show 2026 официально началась, и компания Capcom открыла мероприятие своей презентацией. Кратенько пройдемся по главным анонсам. Читать полную новость",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/glavnye-anonsy-capcom-na-vystavke-tokyo-game-sho-2026-09-17.webp",
-      "metaTitle": "Главные анонсы Capcom на выставке Tokyo Game Show 2026",
-      "metaDescription": "Выставка Tokyo Game Show 2026 официально началась, и компания Capcom открыла мероприятие своей презентацией. Кратенько пройдемся по главным анонсам. Ч",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1083316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083316"
     },
     {
       "id": "softbank-privlek-11-87-mlrd-kredita-dlya-investi-2026-09-17",
@@ -620,27 +436,6 @@
       "metaDescription": "ИИ-агенты могут заменять свои базовые модели, не получая для этого соответствующих указаний, обнаружила специализирующаяся на тестировании систем иску",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148628"
-    },
-    {
-      "id": "kitayskaya-kinoindustriya-nachala-aktivno-osvaiv-2026-09-17",
-      "category": "Новости",
-      "title": "Китайская киноиндустрия начала активно осваивать ИИ",
-      "excerpt": "Китайские актёры начали разрешать студиям использовать свои аватары в фильмах, чтобы не остаться без заработка. Такие цифровые копии затем используют в видео, полностью сгенерированных нейросетями. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/kitayskaya-kinoindustriya-nachala-aktivno-osvaiv-2026-09-17.webp",
-      "metaTitle": "Китайская киноиндустрия начала активно осваивать ИИ",
-      "metaDescription": "Китайские актёры начали разрешать студиям использовать свои аватары в фильмах, чтобы не остаться без заработка. Такие цифровые копии затем используют ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083320"
     },
     {
       "id": "honor-snova-skopirovala-apple-predstavlena-magic-2026-09-17",
@@ -892,68 +687,6 @@
       "labLevel": "Средний"
     },
     {
-      "id": "iz-za-baga-v-ios-27-iphone-zavisaet-na-domashnem-2026-09-17",
-      "category": "Новости",
-      "title": "Из‑за бага в iOS 27 iPhone зависает на домашнем экране; помогает только перезагрузка устройства",
-      "excerpt": "Пользователи нашли баг в iOS 27, из‑за которого iPhone зависает на домашнем экране и перестаёт реагировать на свайпы и нажатия. Для восстановления смартфон приходится перезагружать. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/iz-za-baga-v-ios-27-iphone-zavisaet-na-domashnem-2026-09-17.webp",
-      "metaTitle": "Из‑за бага в iOS 27 iPhone зависает на домашнем экране; помо",
-      "metaDescription": "Пользователи нашли баг в iOS 27, из‑за которого iPhone зависает на домашнем экране и перестаёт реагировать на свайпы и нажатия. Для восстановления сма",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083222"
-    },
-    {
-      "id": "vashi-dialogi-s-chatgpt-chitayut-2026-09-17",
-      "category": "Новости",
-      "title": "Ваши диалоги с ChatGPT читают",
-      "excerpt": "404 Media опубликовала расследование о внутренней программе OpenAI под названием Project Lily. Сотни внешних подрядчиков, нанятых через рекрутингового посредника Crossing Hurdles и получающих выплаты через платформу Mercor, читают настоящие промпты и",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "железо",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/vashi-dialogi-s-chatgpt-chitayut-2026-09-17.webp",
-      "metaTitle": "Ваши диалоги с ChatGPT читают",
-      "metaDescription": "404 Media опубликовала расследование о внутренней программе OpenAI под названием Project Lily. Сотни внешних подрядчиков, нанятых через рекрутингового",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1083030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083030"
-    },
-    {
-      "id": "microsoft-prekratit-podderzhku-moduley-graph-dly-2026-09-17",
-      "category": "Новости",
-      "title": "Microsoft прекратит поддержку модулей Graph для Windows PowerShell 5.x",
-      "excerpt": "Microsoft объявила о прекращении поддержки модулей Graph для PowerShell 5.x и порекомендовала пользователям перейти на новую версию. В 2025 году компания сообщила о планах по выводу из эксплуатации некоторых компонентов Graph. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/microsoft-prekratit-podderzhku-moduley-graph-dly-2026-09-17.webp",
-      "metaTitle": "Microsoft прекратит поддержку модулей Graph для Windows Powe",
-      "metaDescription": "Microsoft объявила о прекращении поддержки модулей Graph для PowerShell 5.x и порекомендовала пользователям перейти на новую версию. В 2025 году компа",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083218"
-    },
-    {
       "id": "ecovacs-rasskazala-kak-sohranyaet-mirovoe-liders-2026-09-17",
       "category": "Новости",
       "title": "ECOVACS рассказала, как сохраняет мировое лидерство на рынке роботов для мытья окон с WINBOT",
@@ -1013,26 +746,6 @@
       "metaDescription": "Команда SpaceX, разработавшая и отработавшая технологию посадки первых ступеней Falcon 9, получила первую в истории премию Нила Армстронга.",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436390-komanda-spacex-sozdavsaia-sistemu-posadku-falcon-9-polucila-pervuiu-v-istorii-premiiu-nila-armstronga.html"
-    },
-    {
-      "id": "vyshel-standart-unicode-18-2026-09-17",
-      "category": "Новости",
-      "title": "Вышел стандарт Unicode 18",
-      "excerpt": "Вышла версия 18.0 стандарта Unicode. Это крупный апдейт, который включает новые символы и таблицы кодов, обновлённые файлы данных, а также пересмотренные спецификации, определяющие многие фундаментальные аспекты обработки текста. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/vyshel-standart-unicode-18-2026-09-17.webp",
-      "metaTitle": "Вышел стандарт Unicode 18",
-      "metaDescription": "Вышла версия 18.0 стандарта Unicode. Это крупный апдейт, который включает новые символы и таблицы кодов, обновлённые файлы данных, а также пересмотрен",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083226"
     },
     {
       "id": "pervyy-v-mire-smartfon-s-tremya-200-megapikselny-2026-09-17",
@@ -1097,48 +810,6 @@
       "sourceUrl": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/"
     },
     {
-      "id": "kompaniya-byvshego-prodyusera-gta-zakryvaetsya-p-2026-09-17",
-      "category": "Новости",
-      "title": "Компания бывшего продюсера GTA закрывается после очередной волны сокращений",
-      "excerpt": "Студия Build a Rocket Boy планирует завершить деятельность после очередного раунда сокращений, пишет Kotaku со ссылкой на разработчиков. Компанию основали бывший продюсер Rockstar Games Лесли Бензис и Марк Герхард. Летом прошлого года студия выпустил",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/kompaniya-byvshego-prodyusera-gta-zakryvaetsya-p-2026-09-17.webp",
-      "metaTitle": "Компания бывшего продюсера GTA закрывается после очередной в",
-      "metaDescription": "Студия Build a Rocket Boy планирует завершить деятельность после очередного раунда сокращений, пишет Kotaku со ссылкой на разработчиков. Компанию осно",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083244"
-    },
-    {
-      "id": "anthropic-vnedrit-funktsiyu-dlya-upravleniya-lic-2026-09-17",
-      "category": "Новости",
-      "title": "Anthropic внедрит функцию для управления личными финансами Claude Money",
-      "excerpt": "Компания Anthropic тестирует новую функцию для управления личными финансами под названием Claude Money. Она позволит напрямую подключать банковские счета к ИИ Claude, чтобы лучше понимать свои финансовые дела. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/anthropic-vnedrit-funktsiyu-dlya-upravleniya-lic-2026-09-17.webp",
-      "metaTitle": "Anthropic внедрит функцию для управления личными финансами C",
-      "metaDescription": "Компания Anthropic тестирует новую функцию для управления личными финансами под названием Claude Money. Она позволит напрямую подключать банковские сч",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083236"
-    },
-    {
       "id": "predstavlen-gigantskiy-klaster-huawei-ascend-960-2026-09-17",
       "category": "Новости",
       "title": "Представлен гигантский кластер Huawei Ascend 960 SuperPoD: 15 488 чипов, 220 стоек и площадь около 2200 м²",
@@ -1178,26 +849,6 @@
       "metaDescription": "Дополняя модели нулевого доверия, ложные действия позволяют организациям обнаруживать, наблюдать и блокировать вредоносную активность в своей среде. С",
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/"
-    },
-    {
-      "id": "v-otkrytyh-inostrannyh-datasetah-dlya-ii-nashli--2026-09-17",
-      "category": "Новости",
-      "title": "В открытых иностранных датасетах для ИИ нашли песни и клипы российских исполнителей",
-      "excerpt": "Аналитики Национальной федерации музыкальной индустрии (НФМИ) исследовали базу данных проекта AI Watchdog, созданного журналом The Atlantic. Проект анализирует датасеты Laion-Disco-12M от Laion с 12,3 млн треков с YouTube и Sleeping-D 9M от Sleeping ",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/v-otkrytyh-inostrannyh-datasetah-dlya-ii-nashli--2026-09-17.webp",
-      "metaTitle": "В открытых иностранных датасетах для ИИ нашли песни и клипы ",
-      "metaDescription": "Аналитики Национальной федерации музыкальной индустрии (НФМИ) исследовали базу данных проекта AI Watchdog, созданного журналом The Atlantic. Проект ан",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083250"
     },
     {
       "id": "chip-huawei-ascend-960-sozdali-s-operezheniem-gr-2026-09-17",
@@ -3293,27 +2944,6 @@
       "sourceUrl": "https://3dnews.ru/1148612"
     },
     {
-      "id": "mintsifry-vedet-peregovory-s-apple-o-podklyuchen-2026-09-17",
-      "category": "Новости",
-      "title": "Минцифры ведёт переговоры с Apple о подключении 5G на iPhone пользователей из РФ",
-      "excerpt": "По информации СМИ, в Минцифры РФ ведут переговоры с американской компанией Apple о возможности подключения к сетям связи 5G на iPhone у российских пользователей. Читать далее",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "сети",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/mintsifry-vedet-peregovory-s-apple-o-podklyuchen-2026-09-17.webp",
-      "metaTitle": "Минцифры ведёт переговоры с Apple о подключении 5G на iPhone",
-      "metaDescription": "По информации СМИ, в Минцифры РФ ведут переговоры с американской компанией Apple о возможности подключения к сетям связи 5G на iPhone у российских пол",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083186"
-    },
-    {
       "id": "oneplus-16-s-akb-9000-ma-ch-stanet-pervym-smartf-2026-09-17",
       "category": "Новости",
       "title": "OnePlus 16 с АКБ 9000 мА•ч станет первым смартфоном, в котором 165 Гц работают во всех загружаемых приложениях и в меню",
@@ -3518,27 +3148,6 @@
       "metaDescription": "Oppo представила новый смартфон K14 Lite, главной особенностью которого стала батарея ёмкостью 7000 мА•ч.",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436349-batareia-7000-mac-kotoraia-rasscitana-na-1800-ciklov-i-6-let-sluzby-obratnaia-zariadka-i-vlagozashhita-predstavlen-oppo-k14-lite.html"
-    },
-    {
-      "id": "reliz-otkrytoy-platformy-obmena-faylami-openclou-2026-09-17",
-      "category": "Новости",
-      "title": "Релиз открытой платформы обмена файлами OpenCloud 8.0",
-      "excerpt": "15 сентября 2026 года состоялся восьмой мажорный релиз открытой платформы обмена файлами OpenCloud . Решение позволяет развернуть на локальном сервере систему для обмена файлами и организации совместной работы над контентом. Проект является открытой ",
-      "date": "2026-09-17",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "сети",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "/images/news/reliz-otkrytoy-platformy-obmena-faylami-openclou-2026-09-17.webp",
-      "metaTitle": "Релиз открытой платформы обмена файлами OpenCloud 8.0",
-      "metaDescription": "15 сентября 2026 года состоялся восьмой мажорный релиз открытой платформы обмена файлами OpenCloud . Решение позволяет развернуть на локальном сервере",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083090"
     },
     {
       "id": "predstavlen-135-dyuymovyy-ekran-benq-2026-09-17",
@@ -4932,27 +4541,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436254-posle-problem-s-tretei-stupeniu-raketa-soiuz-21b-uspesno-startovala-s-baikonura-s-kosmiceskim-korablem-progress-ms-35.html"
     },
     {
-      "id": "bothub-vypustil-polnotsennoe-prilozhenie-dlya-pk-2026-09-16",
-      "category": "Новости",
-      "title": "BotHub выпустил полноценное приложение для ПК",
-      "excerpt": "BotHub — платформа для работы с сотнями ИИ-моделей. В одном интерфейсе доступны ChatGPT, Claude, Gemini, Grok, DeepSeek, генераторы изображений, видео и другие модели. Для использования не нужно оформлять отдельную подписку на каждый сервис: BotHub р",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "BotHub выпустил полноценное приложение для ПК",
-      "metaDescription": "BotHub — платформа для работы с сотнями ИИ-моделей. В одном интерфейсе доступны ChatGPT, Claude, Gemini, Grok, DeepSeek, генераторы изображений, видео",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1083040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083040"
-    },
-    {
       "id": "three-ukrainians-to-face-charges-for-alleged-hac-2026-09-16",
       "category": "Новости",
       "title": "Трем украинцам предъявлены обвинения в предполагаемом взломе 610 000 аккаунтов Roblox",
@@ -5035,27 +4623,6 @@
       "sourceUrl": "https://3dnews.ru/1148588"
     },
     {
-      "id": "issledovateli-svyazali-mayskuyu-ataku-na-rubygem-2026-09-16",
-      "category": "Новости",
-      "title": "Исследователи связали майскую атаку на RubyGems с агентами OpenAI",
-      "excerpt": "11 сентября исследователи Nightingale Collective опубликовали разбор RubyHack и связали майскую кампанию в RubyGems с внутренними агентами OpenAI. По их версии, скрипты внутри пакетов запускали код в инфраструктуре RubyDoc, собирали открытые данные с",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Исследователи связали майскую атаку на RubyGems с агентами O",
-      "metaDescription": "11 сентября исследователи Nightingale Collective опубликовали разбор RubyHack и связали майскую кампанию в RubyGems с внутренними агентами OpenAI. По ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/codescoring/news/1083068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083068"
-    },
-    {
       "id": "rossiyane-stali-aktivnee-pokupat-kassetnye-magni-2026-09-16",
       "category": "Новости",
       "title": "Россияне стали активнее покупать кассетные магнитофоны и CD-проигрыватели",
@@ -5074,25 +4641,6 @@
       "metaDescription": "В России обозначилась мода на покупку фото- и аудиотехники старого образца, сообщает РБК со ссылкой на информацию аналитического центра «Чек Индекс» к",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148587"
-    },
-    {
-      "id": "v-openide-poyavilas-podderzhka-c-c-blagodarya-ne-2026-09-16",
-      "category": "Новости",
-      "title": "В OpenIDE появилась поддержка C/C++ благодаря независимому разработчику",
-      "excerpt": "В маркетплейсе OpenIDE появился плагин C/C++ Support , для работы с C и C++. Его написал независимый разработчик из сообщества. Поддержку C++ пользователи просили давно, и автор решил не ждать, а взяться за неё самостоятельно. Читать далее",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В OpenIDE появилась поддержка C/C++ благодаря независимому р",
-      "metaDescription": "В маркетплейсе OpenIDE появился плагин C/C++ Support , для работы с C и C++. Его написал независимый разработчик из сообщества. Поддержку C++ пользова",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/haulmont/news/1083076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083076"
     },
     {
       "id": "apple-hochet-snova-prodavat-servery-do-chetyreh--2026-09-16",
@@ -5218,27 +4766,6 @@
       "sourceUrl": "https://3dnews.ru/1148578"
     },
     {
-      "id": "v-yandeks-kartah-teper-mozhno-bez-podklyucheniya-2026-09-16",
-      "category": "Новости",
-      "title": "В «Яндекс Картах» теперь можно без подключения к интернету построить все виды маршрутов через офлайн‑карту",
-      "excerpt": "В «Яндексе» сообщили , что в «Яндекс Картах» стали доступны без интернета все виды навигации. В офлайн‑режиме геосервис теперь умеет прокладывать путь на общественном транспорте (автобусе, трамвае и других видах ОТ, включая просмотр остановок, переса",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "сети",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В «Яндекс Картах» теперь можно без подключения к интернету п",
-      "metaDescription": "В «Яндексе» сообщили , что в «Яндекс Картах» стали доступны без интернета все виды навигации. В офлайн‑режиме геосервис теперь умеет прокладывать путь",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083000"
-    },
-    {
       "id": "eu-chief-wants-joint-response-to-cyberattacks-sa-2026-09-16",
       "category": "Новости",
       "title": "Глава ЕС хочет совместного реагирования на кибератаки и саботаж",
@@ -5341,27 +4868,6 @@
       "sourceUrl": "https://3dnews.ru/1148581"
     },
     {
-      "id": "denuvo-podala-isk-protiv-vzlomschika-igr-s-nikom-2026-09-16",
-      "category": "Новости",
-      "title": "Denuvo подала иск против взломщика игр с ником voices38 за обход системы защиты игр",
-      "excerpt": "Австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions направила в федеральный суд США иск в соответствии с Законом об авторском праве в цифровую эпоху (DMCA) против анонимного взломщика игр с ником voices38. Отве",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Denuvo подала иск против взломщика игр с ником voices38 за о",
-      "metaDescription": "Австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions направила в федеральный суд США иск в соответствии с Закон",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1083010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083010"
-    },
-    {
       "id": "google-perevodchik-osvoil-sinhronnyy-perevod-ofl-2026-09-16",
       "category": "Новости",
       "title": "«Google Переводчик» освоил синхронный перевод офлайн, в том числе на русский — но только на некоторых Pixel",
@@ -5425,27 +4931,6 @@
       "sourceUrl": "https://lenta.ru/news/2026/09/16/zaharova-vyzvala-burnye-aplodismenty-zayavleniem-o-raketnoy-programme-britanii/"
     },
     {
-      "id": "google-vykatila-gemini-3-8-live-i-versiyu-s-rass-2026-09-16",
-      "category": "Новости",
-      "title": "Google выкатила Gemini 3.8 Live и версию с рассуждениями",
-      "excerpt": "15 сентября Google представила две нативные speech-to-speech модели, Gemini 3.8 Live и Gemini 3.8 Live Extended Thinking. Первая заточена под масштаб и цену, вторая — под многошаговые задачи с рассуждением прямо в диалоге. Интереснее баллов то, что г",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Google выкатила Gemini 3.8 Live и версию с рассуждениями",
-      "metaDescription": "15 сентября Google представила две нативные speech-to-speech модели, Gemini 3.8 Live и Gemini 3.8 Live Extended Thinking. Первая заточена под масштаб ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1082998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082998"
-    },
-    {
       "id": "flock-camera-use-by-internal-affairs-unit-puts-d-2026-09-16",
       "category": "Новости",
       "title": "Использование скопления камер отделом внутренних дел ставит полицию округа Колумбия в разногласия с профсоюзом офицеров",
@@ -5464,25 +4949,6 @@
       "metaDescription": "Полицейское управление Вашингтона, округ Колумбия, использовало информацию с камер Flock для расследования неправомерных действий, что вызвало официал",
       "source": "The Record",
       "sourceUrl": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers"
-    },
-    {
-      "id": "ot-rabochego-opyta-k-publichnoy-ekspertize-v-epo-2026-09-16",
-      "category": "Новости",
-      "title": "От рабочего опыта к публичной экспертизе в эпоху AI",
-      "excerpt": "У многих за плечами кейсы, эксперименты, ошибки и найденные решения — но публично о них почти никто не рассказывает. 17 сентября в 18:30 МСК Катя Ярадайкина, DevRel Garage Eight, проведёт вебинар «От рабочего опыта к публичной экспертизе в эпоху AI» ",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "От рабочего опыта к публичной экспертизе в эпоху AI",
-      "metaDescription": "У многих за плечами кейсы, эксперименты, ошибки и найденные решения — но публично о них почти никто не рассказывает. 17 сентября в 18:30 МСК Катя Ярад",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/garage8/news/1083018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083018"
     },
     {
       "id": "smartfony-pixel-stali-aktivnee-vyyavlyat-moshenn-2026-09-16",
@@ -5693,27 +5159,6 @@
       "sourceUrl": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/"
     },
     {
-      "id": "defitsit-i-perekupschiki-v-evrope-rezko-vzleteli-2026-09-16",
-      "category": "Новости",
-      "title": "Дефицит и перекупщики: в Европе резко взлетели цены на PS5 Pro из‑за ажиотажа вокруг GTA 6",
-      "excerpt": "Плохие новости для геймеров из Европы, которые планировали обновиться к релизу Grand Theft Auto 6. Цены на PlayStation 5 Pro в регионе стремительно поползли вверх из-за колоссального дефицита. Видимо, куче людей пришла в голову одна и та же идея — на",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Дефицит и перекупщики: в Европе резко взлетели цены на PS5 P",
-      "metaDescription": "Плохие новости для геймеров из Европы, которые планировали обновиться к релизу Grand Theft Auto 6. Цены на PlayStation 5 Pro в регионе стремительно по",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082950"
-    },
-    {
       "id": "pravitelstvo-kitaya-otverglo-prizyvy-milliardero-2026-09-16",
       "category": "Новости",
       "title": "Правительство Китая отвергло призывы миллиардеров из технологической отрасли к замедлению развития ИИ",
@@ -5777,27 +5222,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436221-iskusstvennyi-intellekt-potrebliaet-ogromnoe-kolicestvo-elektroenergii-96-claude-code-uslo-na-perecityvanie-sobstvennoi-rabocei-pamiati.html"
     },
     {
-      "id": "chipy-upali-na-5-7-posle-togo-kak-glavy-laborato-2026-09-16",
-      "category": "Новости",
-      "title": "Чипы упали на 5–7% после того, как главы лабораторий призвали притормозить",
-      "excerpt": "14 сентября акции полупроводниковых компаний посыпались по всему миру после того, как Дарио Амодеи публично призвал замедлить развитие фронтир-моделей, а Сэм Альтман, Илон Маск и Демис Хассабис его поддержали. AMD потеряла 4,77%, Intel — 5,29%, SK hy",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "железо",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Чипы упали на 5–7% после того, как главы лабораторий призвал",
-      "metaDescription": "14 сентября акции полупроводниковых компаний посыпались по всему миру после того, как Дарио Амодеи публично призвал замедлить развитие фронтир-моделей",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1082948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082948"
-    },
-    {
       "id": "nazad-v-90-e-v-rossii-rastut-prodazhi-cd-pleerov-2026-09-16",
       "category": "Новости",
       "title": "Назад в 90-е: в России растут продажи CD-плееров, кассетникок и пленочных фотоаппаратов",
@@ -5837,27 +5261,6 @@
       "metaDescription": "Исполнительный продюсер CD Projekt Red Якуб Кутшуба (Jakub Kutrzuba) в интервью изданию PC Gamer объяснил, зачем студия решила выпустить ремастер нашу",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148564"
-    },
-    {
-      "id": "basis-dynamix-enterprise-4-7-ekonomiya-diskovogo-2026-09-16",
-      "category": "Новости",
-      "title": "Basis Dynamix Enterprise 4.7: экономия дискового пространства и автоматизация развертывания",
-      "excerpt": "Обновили нашу флагманскую платформу серверной виртуализации Basis Dynamix Enterprise до версии 4.7. Особое внимание в релизе уделили экономии дискового пространства, автоматизации развертывания и эксплуатации платформы, контролю распределения вычисли",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Basis Dynamix Enterprise 4.7: экономия дискового пространств",
-      "metaDescription": "Обновили нашу флагманскую платформу серверной виртуализации Basis Dynamix Enterprise до версии 4.7. Особое внимание в релизе уделили экономии дисковог",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/basis/news/1082836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082836"
     },
     {
       "id": "ogranicheniya-mobilnogo-interneta-podstegnuli-sp-2026-09-16",
@@ -6088,47 +5491,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436197-anker-pereizobrela-poxodnuiu-zariadku-150-vt-i-pitanie-dlia-sest-ustroistv-odnovremenno.html"
     },
     {
-      "id": "avtopilot-tesla-full-self-driving-byl-vklyuchen--2026-09-16",
-      "category": "Новости",
-      "title": "Автопилот Tesla Full Self‑Driving был включён при нескольких авариях со смертельным исходом",
-      "excerpt": "Июль 2026 года стал рекордным по количеству аварий с участием автомобилей Tesla, оснащённых системами помощи водителю. Компания сообщила федеральным регулирующим органам о 236 таких инцидентах — это самый высокий показатель за один месяц. В четырёх и",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Автопилот Tesla Full Self‑Driving был включён при нескольких",
-      "metaDescription": "Июль 2026 года стал рекордным по количеству аварий с участием автомобилей Tesla, оснащённых системами помощи водителю. Компания сообщила федеральным р",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082878"
-    },
-    {
-      "id": "vypusk-nginx-1-31-6-2026-09-16",
-      "category": "Новости",
-      "title": "Выпуск nginx 1.31.6",
-      "excerpt": "15 сентября 2026 года состоялся выпуск высокопроизводительного HTTP‑сервера и многопротокольного прокси‑сервера nginx 1.31.6 . Исходный код проекта nginx написан на языке C и распространяется под лицензией BSD. Проект nginx 1.28.0 вышел в апреле 2025",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Выпуск nginx 1.31.6",
-      "metaDescription": "15 сентября 2026 года состоялся выпуск высокопроизводительного HTTP‑сервера и многопротокольного прокси‑сервера nginx 1.31.6 . Исходный код проекта ng",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082890"
-    },
-    {
       "id": "2gis-prevratilsya-v-servis-dostavki-posylki-tepe-2026-09-16",
       "category": "Новости",
       "title": "2ГИС превратился в сервис доставки: посылки теперь можно отправлять прямо из навигатора",
@@ -6191,26 +5553,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436147-daze-rtx-5090-vydaet-lis-okolo-25-ks-trassirovka-puti-v-007-first-light-delaet-igru-cudovishhno-trebovatelnoi.html"
     },
     {
-      "id": "sony-vypustit-novye-garnitury-dlya-playstation-5-2026-09-16",
-      "category": "Новости",
-      "title": "Sony выпустит новые гарнитуры для PlayStation 5",
-      "excerpt": "Sony выпустит две новые гарнитуры для приставки PlayStation 5: Pulse Wireless и Pulse Edge Wireless. Продажи первой начнутся зимой, а более продвинутой Pulse Edge — в 2027 году. Читать далее",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Sony выпустит новые гарнитуры для PlayStation 5",
-      "metaDescription": "Sony выпустит две новые гарнитуры для приставки PlayStation 5: Pulse Wireless и Pulse Edge Wireless. Продажи первой начнутся зимой, а более продвинуто",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082788"
-    },
-    {
       "id": "vypusk-fluxcast-0-2-6-instrumenta-dlya-translyat-2026-09-16",
       "category": "Новости",
       "title": "Выпуск FluxCast 0.2.6, инструмента для трансляции рабочего стола Linux на Smart TV",
@@ -6251,88 +5593,6 @@
       "metaDescription": "NIST и CISA завершили разработку рекомендаций, которые помогут федеральным агентствам и поставщикам облачных услуг (CSP) защитить токены идентификации",
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/2026/09/16/nist-cisa-cloud-token-security-guidance/"
-    },
-    {
-      "id": "politseyskie-v-ssha-iskali-dannye-v-sisteme-kame-2026-09-16",
-      "category": "Новости",
-      "title": "Полицейские в США искали данные в системе камер Flock, указывая в качестве причины LMAO, IDK, lol, Hehe и Haha",
-      "excerpt": "Десятки американских полицейских вписывали бессмысленные фразы, шутки и прочие наборы символов в качестве причины использования систем автоматического распознавания автомобильных номеров (Automatic License Plate Recognition, ALPR) печально известной ",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Полицейские в США искали данные в системе камер Flock, указы",
-      "metaDescription": "Десятки американских полицейских вписывали бессмысленные фразы, шутки и прочие наборы символов в качестве причины использования систем автоматического",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082790"
-    },
-    {
-      "id": "rassledovanie-zhurnalistam-platyat-za-rasskazy-o-2026-09-16",
-      "category": "Новости",
-      "title": "Расследование: журналистам платят за рассказы об опасностях ИИ",
-      "excerpt": "Оказывается, за многими громкими рассказами о том, как искусственный интеллект погубит человечество, стоят конкретные деньги. И ведут они к Anthropic - одной из крупнейших ИИ-компаний мира. Независимый исследователь Кевин Басс провёл расследование и,",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Расследование: журналистам платят за рассказы об опасностях ",
-      "metaDescription": "Оказывается, за многими громкими рассказами о том, как искусственный интеллект погубит человечество, стоят конкретные деньги. И ведут они к Anthropic ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082792"
-    },
-    {
-      "id": "vyshla-java-27-g1-i-kompaktnye-zagolovki-obektov-2026-09-16",
-      "category": "Новости",
-      "title": "Вышла Java 27: G1 и компактные заголовки объектов теперь по умолчанию",
-      "excerpt": "Вышла Java 27: G1 и компактные заголовки объектов теперь включены по умолчанию, поэтому обновление может повлиять на работу приложений без правок кода. В релиз вошли девять JEP, но часть возможностей всё ещё остаётся предварительной. Что нового в Jav",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "железо",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Вышла Java 27: G1 и компактные заголовки объектов теперь по ",
-      "metaDescription": "Вышла Java 27: G1 и компактные заголовки объектов теперь включены по умолчанию, поэтому обновление может повлиять на работу приложений без правок кода",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082794"
-    },
-    {
-      "id": "ekonomika-plohih-dannyh-ib-ugrozy-ot-ii-i-zero-v-2026-09-16",
-      "category": "Новости",
-      "title": "Экономика плохих данных, ИБ-угрозы от ИИ и zero-vendor: открываем регистрацию на Data & AI Talks 7.0",
-      "excerpt": "Вы тоже сталкивались с тем, что ИТ-конференции про искусственный интеллект и данные часто уходят в крайности? Когда вместо реальных кейсов приходится слушать либо теоретический хайп в духе «ИИ заменит всех к пятнице», либо замаскированную под доклад ",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Экономика плохих данных, ИБ-угрозы от ИИ и zero-vendor: откр",
-      "metaDescription": "Вы тоже сталкивались с тем, что ИТ-конференции про искусственный интеллект и данные часто уходят в крайности? Когда вместо реальных кейсов приходится ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/rostelecom/news/1082160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082160"
     },
     {
       "id": "xiaomi-18-pro-vpervye-zasvetilsya-na-realnyh-fot-2026-09-16",
@@ -6413,26 +5673,6 @@
       "metaDescription": "Исследователи Нинбоского института материаловедения и инженерии (NIMTE) Китайской академии наук разработали прорывной фотоорганический катализатор, зн",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148552"
-    },
-    {
-      "id": "shkolnik-iz-ssha-potratil-118-tys-s-karty-rodite-2026-09-16",
-      "category": "Новости",
-      "title": "Школьник из США потратил $118 тыс. с карты родителей на рекламу роликов по Minecraft и Roblox",
-      "excerpt": "Отец рассказал , что его девятилетний сын потратил $118 000 с корпоративной кредитной карты родителей на рекламные кампании в YouTube для своих видео по играм Minecraft и Roblox. В итоге именно работодатель обнаружил траты. Читать далее",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Школьник из США потратил $118 тыс. с карты родителей на рекл",
-      "metaDescription": "Отец рассказал , что его девятилетний сын потратил $118 000 с корпоративной кредитной карты родителей на рекламные кампании в YouTube для своих видео ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082798"
     },
     {
       "id": "pervyy-orbitalnyy-zapusk-megarakety-spacex-stars-2026-09-16",
@@ -6726,27 +5966,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436116-on-vyderzivaet-prokol-i-szatie-nagruzkoi-do-2-tonn-ego-mozno-brat-v-samolet-krosecnyi-akkumuliator-ugreen-p5-postupil-v-prodazu-v-kitae.html"
     },
     {
-      "id": "roevoy-intellekt-ai-agenty-soobscha-oboshli-zasc-2026-09-16",
-      "category": "Новости",
-      "title": "Роевой интеллект: AI-агенты сообща обошли защитные ограничения",
-      "excerpt": "Исследователи Emergence AI (независимый разработчик корпоративной инфраструктуры для управления AI-агентами) проверили, как восемь виртуальных обществ из автономных AI-агентов справляются с киберугрозами: ни одно не оказалось устойчивым ко всем испыт",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "железо",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Роевой интеллект: AI-агенты сообща обошли защитные ограничен",
-      "metaDescription": "Исследователи Emergence AI (независимый разработчик корпоративной инфраструктуры для управления AI-агентами) проверили, как восемь виртуальных обществ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ideco/news/1082758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082758"
-    },
-    {
       "id": "vladeltsy-geforce-rtx-founders-edition-soobschil-2026-09-16",
       "category": "Новости",
       "title": "Владельцы GeForce RTX Founders Edition сообщили о проблемах с гарантией из-за выцветших серийных номеров",
@@ -6766,27 +5985,6 @@
       "metaDescription": "Владельцы дорогостоящих видеокарт Nvidia GeForce RTX Founders Edition столкнулись с неожиданным дефектом: серийные номера начали стираться и терять чи",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148540"
-    },
-    {
-      "id": "reliz-mozilla-thunderbird-156-0-gde-dlya-serviso-2026-09-16",
-      "category": "Новости",
-      "title": "Релиз Mozilla Thunderbird 156.0, где для сервисов «Яндекса» включён процесс входа через внешний браузер",
-      "excerpt": "15 сентября 2026 года состоялся релиз бесплатного кроссплатформенного приложения для управления электронной почтой и новостными лентами Mozilla Thunderbird 156.0. Сборки проекта доступны для Windows, macOS и Linux в разделе Thunderbird Release в кана",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Релиз Mozilla Thunderbird 156.0, где для сервисов «Яндекса» ",
-      "metaDescription": "15 сентября 2026 года состоялся релиз бесплатного кроссплатформенного приложения для управления электронной почтой и новостными лентами Mozilla Thunde",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082186"
     },
     {
       "id": "razer-predstavila-igrovuyu-garnituru-kraken-v4-x-2026-09-16",
@@ -6972,67 +6170,6 @@
       "sourceUrl": "https://3dnews.ru/1148542"
     },
     {
-      "id": "vyshla-sistema-virtualizatsii-virtualbox-7-2-18-2026-09-16",
-      "category": "Новости",
-      "title": "Вышла система виртуализации VirtualBox 7.2.18",
-      "excerpt": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем GNU/Linux, Solaris, macOS и Windows — проекта Oracle VirtualBox 7.2.18 . Предыдущая стабильная версия",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Вышла система виртуализации VirtualBox 7.2.18",
-      "metaDescription": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем G",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082646"
-    },
-    {
-      "id": "cline-vypustili-desktop-versiyu-import-iz-claude-2026-09-16",
-      "category": "Новости",
-      "title": "Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99",
-      "excerpt": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Codex и выбирать модель независимо от редактора. По набору возможностей всё привычно для десктопного ко",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Cline выпустили Desktop версию: импорт из Claude и Codex, бе",
-      "metaDescription": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Cod",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082352"
-    },
-    {
-      "id": "gen-a-poluchila-oskar-dlya-startapov-2026-09-16",
-      "category": "Новости",
-      "title": "Gen‑A получила «Оскар» для стартапов",
-      "excerpt": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Команда российских программистов создала единую ИИ-платформу для комплексной обработки фото, видео и ауд",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Gen‑A получила «Оскар» для стартапов",
-      "metaDescription": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Кома",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082354"
-    },
-    {
       "id": "akuity-gives-ai-agents-operational-context-to-sa-2026-09-16",
       "category": "Новости",
       "title": "Akuity предоставляет агентам ИИ оперативный контекст для безопасной доставки программного обеспечения",
@@ -7052,27 +6189,6 @@
       "metaDescription": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку прогр",
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/"
-    },
-    {
-      "id": "v-clickhouse-poyavilis-funktsii-dlya-raboty-s-ii-2026-09-16",
-      "category": "Новости",
-      "title": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
-      "excerpt": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL-запросов. Теперь задачи вроде классификации текста, извлечения данных и построения RAG-сценариев мо",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
-      "metaDescription": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082364"
     },
     {
       "id": "oracle-dobavila-esche-700-mln-k-zatratam-na-sokr-2026-09-16",
@@ -7117,25 +6233,6 @@
       "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/"
     },
     {
-      "id": "smi-rost-chisla-rabochih-mest-v-ssha-iz-za-ii-pr-2026-09-16",
-      "category": "Новости",
-      "title": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокращения",
-      "excerpt": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокраще",
-      "metaDescription": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082362"
-    },
-    {
       "id": "volgi-novogo-pokoleniya-nachali-sobirat-po-polno-2026-09-16",
       "category": "Новости",
       "title": "«Волги» нового поколения начали собирать по полному циклу со сваркой и окраской. В 2028 запустят производство двигателей и трансмиссий",
@@ -7177,46 +6274,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435937-qualcomm-dobavila-50-pamiati-v-hexagon-npu-dlia-lokalnyx-ii-agentov.html"
     },
     {
-      "id": "acer-pokazala-dualplay-mini-gibrid-igrovoy-konso-2026-09-16",
-      "category": "Новости",
-      "title": "Acer показала DualPlay Mini — гибрид игровой консоли и ноутбука",
-      "excerpt": "Acer показала Project DualPlay Mini — необычный портативный игровой компьютер, который можно превратить в небольшой ноутбук с полноценной физической клавиатурой. Пока что девайс существует лишь в виде проекта, компания не называет ни цену, ни дату на",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Acer показала DualPlay Mini — гибрид игровой консоли и ноутб",
-      "metaDescription": "Acer показала Project DualPlay Mini — необычный портативный игровой компьютер, который можно превратить в небольшой ноутбук с полноценной физической к",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1081886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081886"
-    },
-    {
-      "id": "openai-rasskazala-o-tratah-svoih-issledovateley--2026-09-16",
-      "category": "Новости",
-      "title": "OpenAI рассказала о тратах своих исследователей на ИИ‑агентов для кодирования",
-      "excerpt": "OpenAI опубликовала пост, в котором рассказала, сколько её исследователи расходуют на ИИ‑агентов для написания кода. Так, самые продвинутые юзеры среди них тратят на токены более $7 тысяч в день. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "OpenAI рассказала о тратах своих исследователей на ИИ‑агенто",
-      "metaDescription": "OpenAI опубликовала пост, в котором рассказала, сколько её исследователи расходуют на ИИ‑агентов для написания кода. Так, самые продвинутые юзеры сред",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082376"
-    },
-    {
       "id": "lada-azimut-i-lada-iskra-poluchat-dvigateli-evro-2026-09-16",
       "category": "Новости",
       "title": "Lada Azimut и Lada Iskra получат двигатели «Евро-6»",
@@ -7255,47 +6312,6 @@
       "metaDescription": "Кодекс поведения гуманистического ИИ проводит грань между оборонительными киберисследованиями и возможностями оперативной атаки. Публикация «Кодекс по",
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/"
-    },
-    {
-      "id": "v-wizards-of-the-coast-podtverdili-syuzhet-warlo-2026-09-16",
-      "category": "Новости",
-      "title": "В Wizards of the Coast подтвердили: сюжет Warlock будет строго линейным",
-      "excerpt": "После триумфа Baldur’s Gate 3 кажется, что абсолютная свобода выбора стала обязательным атрибутом любой фэнтезийной RPG. Larian Studios задала новый «золотой стандарт», к которому сегодня пытаются приблизиться многие разработчики, хотя такая гонка за",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "сети",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В Wizards of the Coast подтвердили: сюжет Warlock будет стро",
-      "metaDescription": "После триумфа Baldur’s Gate 3 кажется, что абсолютная свобода выбора стала обязательным атрибутом любой фэнтезийной RPG. Larian Studios задала новый «",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082408"
-    },
-    {
-      "id": "sber-predstavil-time-adapter-nadstroyku-k-genera-2026-09-16",
-      "category": "Новости",
-      "title": "«Сбер» представил Time Adapter — надстройку к генеративным моделям для управления динамикой событий и частотой кадров",
-      "excerpt": "Команда ИИ-проекта Kandinsky «Сбера» разработала решение под названием Time Adapter . Проект предоставляет собой надстройку к генеративным моделям, которая управляет динамикой событий и частотой кадров в ролике. По словам разработчиков, проект создан",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "«Сбер» представил Time Adapter — надстройку к генеративным м",
-      "metaDescription": "Команда ИИ-проекта Kandinsky «Сбера» разработала решение под названием Time Adapter . Проект предоставляет собой надстройку к генеративным моделям, ко",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082410"
     },
     {
       "id": "suspected-black-axe-gang-leaders-face-cybercrime-2026-09-16",
@@ -7875,46 +6891,6 @@
       "sourceUrl": "https://3dnews.ru/1148418"
     },
     {
-      "id": "hakery-vzlomali-infrastrukturu-turoperatora-tez--2026-09-15",
-      "category": "Новости",
-      "title": "Хакеры взломали инфраструктуру туроператора Tez Tour",
-      "excerpt": "15 сентября хакерская группировка DataSuckers заявила о взломе инфраструктуры туроператора Tez Tour. На главной странице компании появилось сообщение о захвате серверов и компрометации данных на дисках. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Хакеры взломали инфраструктуру туроператора Tez Tour",
-      "metaDescription": "15 сентября хакерская группировка DataSuckers заявила о взломе инфраструктуры туроператора Tez Tour. На главной странице компании появилось сообщение ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082710"
-    },
-    {
-      "id": "v-podpisku-icloud-teper-vhodyat-servisy-apple-tv-2026-09-15",
-      "category": "Новости",
-      "title": "В подписку iCloud+ теперь входят сервисы Apple TV и Apple Arcade, но не во всех странах",
-      "excerpt": "Пользователям подписки iCloud+ теперь доступны сервисы Apple TV и Apple Arcade. Они входят во все платные тарифы, включая самый дешёвый с 50 ГБ облачного хранилища. Нововведение доступно не во всех регионах. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В подписку iCloud+ теперь входят сервисы Apple TV и Apple Ar",
-      "metaDescription": "Пользователям подписки iCloud+ теперь доступны сервисы Apple TV и Apple Arcade. Они входят во все платные тарифы, включая самый дешёвый с 50 ГБ облачн",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082712"
-    },
-    {
       "id": "acronis-warns-of-actively-exploited-flaw-in-its--2026-09-15",
       "category": "Новости",
       "title": "Acronis предупреждает об активно эксплуатируемой уязвимости в плагине резервного копирования cPanel",
@@ -7996,27 +6972,6 @@
       "sourceUrl": "https://3dnews.ru/1148533"
     },
     {
-      "id": "v-ios-27-nashli-vozmozhnost-podklyuchat-k-siri-s-2026-09-15",
-      "category": "Новости",
-      "title": "В iOS 27 нашли возможность подключать к Siri сторонние LLM",
-      "excerpt": "Датамайнер под никнеймом pdfu обнаружил в iOS 27 и macOS Golden Gate механизмы для интеграции Siri со сторонними языковыми моделями. В тестах ему удалось подключить к ассистенту Claude от Anthropic и заменить серверную модель Siri на GPT-5.6 Terra от",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В iOS 27 нашли возможность подключать к Siri сторонние LLM",
-      "metaDescription": "Датамайнер под никнеймом pdfu обнаружил в iOS 27 и macOS Golden Gate механизмы для интеграции Siri со сторонними языковыми моделями. В тестах ему удал",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082688"
-    },
-    {
       "id": "kremlin-banking-malware-hijacks-chrome-and-edge--2026-09-15",
       "category": "Новости",
       "title": "Вредоносное ПО KREMLIN Banking взламывает Chrome и Edge для кражи учетных данных и токенов сеанса",
@@ -8075,27 +7030,6 @@
       "metaDescription": "Российские власти собираются продать принадлежащую государству группу компаний «Леста Игры» («Мир танков», «Мир кораблей», «Танки Blitz») «заинтересов",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148534"
-    },
-    {
-      "id": "google-testiruet-vyplaty-avtoram-za-originalnyy--2026-09-15",
-      "category": "Новости",
-      "title": "Google тестирует выплаты авторам за оригинальный контент",
-      "excerpt": "Google запустил закрытый пилот: часть издателей теперь получает деньги не за трафик на сайте, а за то, что их контент существенно повлиял на ответ в Gemini, AI Overviews и AI Mode. Всё это крутится внутри Search Console — участник видит ежемесячные н",
-      "date": "2026-09-15",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Google тестирует выплаты авторам за оригинальный контент",
-      "metaDescription": "Google запустил закрытый пилот: часть издателей теперь получает деньги не за трафик на сайте, а за то, что их контент существенно повлиял на ответ в G",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082694"
     },
     {
       "id": "spacex-za-polgoda-vypolnila-207-152-manevra-uklo-2026-09-15",
@@ -8179,48 +7113,6 @@
       "metaDescription": "Китайская компания Silkland начала принимать заказы на кабели стандарта HDMI 2.2 Ultra96 — судя по всему, первые подобные сертифицированные изделия, д",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148537"
-    },
-    {
-      "id": "sony-zapretila-avtoru-multipleernogo-moda-dlya-t-2026-09-15",
-      "category": "Новости",
-      "title": "Sony запретила автору мультиплеерного мода для The Last of Us Part II выпускать проект",
-      "excerpt": "Моддер под никнеймом Speclizer отменил выпуск мультиплеерного мода для ПК‑версии The Last of Us Part II. Проект находился в разработке с января и должен был выйти в релиз уже в сентябре, но разработчик получил письмо от Sony с просьбой не выпускать м",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Sony запретила автору мультиплеерного мода для The Last of U",
-      "metaDescription": "Моддер под никнеймом Speclizer отменил выпуск мультиплеерного мода для ПК‑версии The Last of Us Part II. Проект находился в разработке с января и долж",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082698"
-    },
-    {
-      "id": "ipo-openai-v-2026-godu-ne-budet-2026-09-15",
-      "category": "Новости",
-      "title": "IPO OpenAI в 2026 году не будет",
-      "excerpt": "OpenAI не планирует выходить на биржу в 2026 году. Об этом Сэм Альтман рассказал Fortune , назвав нынешний момент неподходящим для IPO на фоне растущих рисков, связанных с безопасностью ИИ. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "IPO OpenAI в 2026 году не будет",
-      "metaDescription": "OpenAI не планирует выходить на биржу в 2026 году. Об этом Сэм Альтман рассказал Fortune , назвав нынешний момент неподходящим для IPO на фоне растущи",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1082636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082636"
     },
     {
       "id": "human-attacker-exploits-marimo-rce-reaches-ssh-b-2026-09-15",
@@ -9071,26 +7963,6 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/15/436026-novaia-realnost-geforce-rtx-5090-v-ssa-stoit-uze-7000-9000.html"
     },
     {
-      "id": "uchenye-teleportirovali-izobrazhenie-srazu-po-10-2026-09-15",
-      "category": "Новости",
-      "title": "Учёные телепортировали изображение сразу по 100 квантовым каналам",
-      "excerpt": "Это звучит как научная фантастика: квантовое состояние одной системы можно перенести, или «телепортировать», в другую систему, находящуюся на значительном расстоянии. Однако если в будущем квантовые компьютеры будут обмениваться данными через крупные",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Учёные телепортировали изображение сразу по 100 квантовым ка",
-      "metaDescription": "Это звучит как научная фантастика: квантовое состояние одной системы можно перенести, или «телепортировать», в другую систему, находящуюся на значител",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082674"
-    },
-    {
       "id": "zelensky-appoints-former-police-chief-to-lead-uk-2026-09-15",
       "category": "Новости",
       "title": "Зеленский назначил бывшего начальника полиции главой украинского киберкоординационного центра",
@@ -9357,334 +8229,6 @@
       "metaDescription": "Разработчики The Witcher 3: Wild Hunt из польской студии CD Projekt Red знают толк в историях, и главный сценарист игры Марцин Блаха (Marcin Blacha) р",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148531"
-    },
-    {
-      "id": "karmannyy-lora-kommunikator-thinknode-m9-s-qwert-2026-09-15",
-      "category": "Новости",
-      "title": "Карманный LoRa‑коммуникатор ThinkNode M9 с QWERTY‑клавиатурой",
-      "excerpt": "Компания Elecrow выпустила ThinkNode M9 — компактный коммуникатор для обмена сообщениями без сотовой связи и доступа к интернету. Внешне устройство напоминает старые смартфоны BlackBerry: почти половину передней панели занимает физическая QWERTY-клав",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "сети",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Карманный LoRa‑коммуникатор ThinkNode M9 с QWERTY‑клавиатуро",
-      "metaDescription": "Компания Elecrow выпустила ThinkNode M9 — компактный коммуникатор для обмена сообщениями без сотовой связи и доступа к интернету. Внешне устройство на",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1081888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081888"
-    },
-    {
-      "id": "openai-privlekla-sotni-storonnih-podryadchikov-k-2026-09-15",
-      "category": "Новости",
-      "title": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT",
-      "excerpt": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT для улучшения моделей искусственного интеллекта компании. Об инициативе под кодовым названием Project Lily сообщило издание 404 Media ",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "OpenAI привлекла сотни сторонних подрядчиков, которые читают",
-      "metaDescription": "OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT для улучшения моделей искусственно",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082432"
-    },
-    {
-      "id": "generalnyy-direktor-crowdstrike-vystupil-protiv--2026-09-15",
-      "category": "Новости",
-      "title": "Генеральный директор CrowdStrike выступил против призывов замедлить развитие ИИ",
-      "excerpt": "Генеральный директор компании в сфере кибербезопасности CrowdStrike Джордж Курц выступил против призывов замедлить развитие искусственного интеллекта. По его словам, модели с открытыми весами и передовые модели уже доступны всем желающим, что делает ",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Генеральный директор CrowdStrike выступил против призывов за",
-      "metaDescription": "Генеральный директор компании в сфере кибербезопасности CrowdStrike Джордж Курц выступил против призывов замедлить развитие искусственного интеллекта.",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082480"
-    },
-    {
-      "id": "windows-11-nauchilas-polnostyu-pereustanavlivat--2026-09-15",
-      "category": "Новости",
-      "title": "Windows 11 научилась полностью переустанавливать себя из облака без загрузочной флешки",
-      "excerpt": "Microsoft запустила в Windows 11 тестирование новой функции Cloud Rebuild, которая позволяет полностью переустановить операционную систему через интернет — что особенно удобно, когда установленная ОС больше не загружается. Для восстановления компьюте",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "железо",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Windows 11 научилась полностью переустанавливать себя из обл",
-      "metaDescription": "Microsoft запустила в Windows 11 тестирование новой функции Cloud Rebuild, которая позволяет полностью переустановить операционную систему через интер",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1081890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081890"
-    },
-    {
-      "id": "amerikanskie-vladeltsy-playstation-proignorirova-2026-09-15",
-      "category": "Новости",
-      "title": "Американские владельцы PlayStation проигнорировали недельный бойкот консолей",
-      "excerpt": "Летом группа по сохранению игр Does It Play призывала неравнодушных пользователей консоли присоединиться к акции PlayStation Blackout. Она подразумевала не пользоваться гаджетами PlayStation и даже не заходить внутрь экосистемы на протяжении последне",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Американские владельцы PlayStation проигнорировали недельный",
-      "metaDescription": "Летом группа по сохранению игр Does It Play призывала неравнодушных пользователей консоли присоединиться к акции PlayStation Blackout. Она подразумева",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082420"
-    },
-    {
-      "id": "qa-podkast-ne-vosproizvoditsya-vozvraschaetsya-s-2026-09-15",
-      "category": "Новости",
-      "title": "QA-подкаст «Не воспроизводится» возвращается с каникул",
-      "excerpt": "Во втором сезоне Оля Шнайдер и Серёжа Атрощенков делают ставку на практику. Меньше рассуждений, больше конкретной пользы, которую можно сразу применять в работе. На повестке: процессы в QA Кажется, что можно работать в режиме «го-го-го в прод, по пут",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "QA-подкаст «Не воспроизводится» возвращается с каникул",
-      "metaDescription": "Во втором сезоне Оля Шнайдер и Серёжа Атрощенков делают ставку на практику. Меньше рассуждений, больше конкретной пользы, которую можно сразу применят",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/avito/news/1082490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082490"
-    },
-    {
-      "id": "claude-mods-anthropic-pereizobreli-huki-na-types-2026-09-15",
-      "category": "Новости",
-      "title": "Claude Mods: Anthropic переизобрели хуки на TypeScript",
-      "excerpt": "Anthropic открыли ранний доступ к Claude Mods . Это плагины с хуками на TypeScript, которые меняют поведение и интерфейс Claude Code: перехватывают вызовы инструментов, обрабатывают результаты, добавляют панели и кнопки. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Claude Mods: Anthropic переизобрели хуки на TypeScript",
-      "metaDescription": "Anthropic открыли ранний доступ к Claude Mods . Это плагины с хуками на TypeScript, которые меняют поведение и интерфейс Claude Code: перехватывают вы",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082502"
-    },
-    {
-      "id": "yandeks-poluchil-edinyy-sertifikat-iso-iec-27001-2026-09-15",
-      "category": "Новости",
-      "title": "«Яндекс» получил единый сертификат ISO/IEC 27001:2022 для «Яндекс ID», «Яндекс 360» и «Яндекс Метрики»",
-      "excerpt": "В «Яндексе» сообщили , что компания получила единый ИБ-сертификат ISO/IEC 27001:2022 для сервисов «Яндекс ID», «Яндекс 360» и «Яндекс Метрика». Документ выдан после проведения независимой аудиторской проверки и подтверждает, что система управления ин",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "«Яндекс» получил единый сертификат ISO/IEC 27001:2022 для «Я",
-      "metaDescription": "В «Яндексе» сообщили , что компания получила единый ИБ-сертификат ISO/IEC 27001:2022 для сервисов «Яндекс ID», «Яндекс 360» и «Яндекс Метрика». Докуме",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082512"
-    },
-    {
-      "id": "fujifilm-predstavila-kompaktnuyu-tsifrovuyu-kame-2026-09-15",
-      "category": "Новости",
-      "title": "Fujifilm представила компактную цифровую камеру Instax Pal 2",
-      "excerpt": "Японская Fujifilm представила компактную цифровую камеру Instax Pal 2, которая получила обновлённый дизайн по сравнению с первой моделью. Внешний вид новинки вдохновлён аналоговой техникой. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Fujifilm представила компактную цифровую камеру Instax Pal 2",
-      "metaDescription": "Японская Fujifilm представила компактную цифровую камеру Instax Pal 2, которая получила обновлённый дизайн по сравнению с первой моделью. Внешний вид ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082526"
-    },
-    {
-      "id": "nostalgiya-i-beznadega-vyshel-novyy-syuzhetnyy-t-2026-09-15",
-      "category": "Новости",
-      "title": "Ностальгия и безнадега: вышел новый сюжетный трейлер Gears of War: E‑Day",
-      "excerpt": "Любой фанат Gears of War помнит легендарный трейлер первой части 2006 года под щемящий сердце кавер «Mad World». Студия The Coalition решила сыграть на ностальгии и отдала дань уважения той классической рекламе в новом сюжетном трейлере Gears of War:",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Ностальгия и безнадега: вышел новый сюжетный трейлер Gears o",
-      "metaDescription": "Любой фанат Gears of War помнит легендарный трейлер первой части 2006 года под щемящий сердце кавер «Mad World». Студия The Coalition решила сыграть н",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1082426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082426"
-    },
-    {
-      "id": "reliz-firefox-156-0-2026-09-15",
-      "category": "Новости",
-      "title": "Релиз Firefox 156.0",
-      "excerpt": "15 сентября 2026 года состоялся релиз стабильной версии Firefox 156.0 (а также версии Firefox 153.3 ESR, 140.16 ESR и 115.41.0 ESR) с улучшениями и обновлениями, а также с исправлениями ошибок и багов, обнаруженных в прошлой стабильной версии. Выпуск",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Релиз Firefox 156.0",
-      "metaDescription": "15 сентября 2026 года состоялся релиз стабильной версии Firefox 156.0 (а также версии Firefox 153.3 ESR, 140.16 ESR и 115.41.0 ESR) с улучшениями и об",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082174"
-    },
-    {
-      "id": "yaponskaya-kompaniya-gmo-ai-robotics-predstavila-2026-09-15",
-      "category": "Новости",
-      "title": "Японская компания GMO AI & Robotics представила проект для роботов GMO Humanoid Ambulance",
-      "excerpt": "Японская компания GMO AI & Robotics представила проект фургона GMO Humanoid Ambulance, предназначенного для перевозки инженеров, ремонтного оборудования, деталей и запасных человекоподобных роботов на объекты. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "мобильное",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Японская компания GMO AI & Robotics представила проект для р",
-      "metaDescription": "Японская компания GMO AI & Robotics представила проект фургона GMO Humanoid Ambulance, предназначенного для перевозки инженеров, ремонтного оборудован",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082550"
-    },
-    {
-      "id": "novyy-reliz-security-vision-5-gibkoe-hranenie-so-2026-09-15",
-      "category": "Новости",
-      "title": "Новый релиз Security Vision 5: гибкое хранение событий, автоматизация обслуживания БД и развитие виджетов",
-      "excerpt": "Компания Security Vision представила очередное обновление платформы. Релиз расширяет возможности управления хранением и доступом к событиям, автоматизирует обслуживание базы данных, упрощает изменение типов событий и развивает сценарии работы с анали",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Новый релиз Security Vision 5: гибкое хранение событий, авто",
-      "metaDescription": "Компания Security Vision представила очередное обновление платформы. Релиз расширяет возможности управления хранением и доступом к событиям, автоматиз",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/securityvison/news/1082570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082570"
-    },
-    {
-      "id": "ddos-guard-predstavlyaet-novyy-servis-dcaptcha-d-2026-09-15",
-      "category": "Новости",
-      "title": "DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ботов и спама",
-      "excerpt": "Мы развивали и использовали эту капчу три года в качестве последнего этапа проверки запроса и получали неоднократные просьбы сделать ее отдельным продуктом. Теперь это стало реальностью, и dCAPTCHA может подключить каждый . В основе dCAPTCHA лежит ме",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ",
-      "metaDescription": "Мы развивали и использовали эту капчу три года в качестве последнего этапа проверки запроса и получали неоднократные просьбы сделать ее отдельным прод",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/ddosguard/news/1082574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082574"
-    },
-    {
-      "id": "elevenlabs-obnovila-generator-muzyki-do-versii-2-2026-09-15",
-      "category": "Новости",
-      "title": "ElevenLabs обновила генератор музыки до версии 2.5",
-      "excerpt": "ElevenLabs выпустила Music v2.5 для генератора ElevenMusic. Новая версия стала моделью по умолчанию, при этом предыдущая Music v2 осталась доступна в интерфейсе. Модель также появилась в API. Music v2.5 лучше справляется со сложными аранжировками, ес",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "ElevenLabs обновила генератор музыки до версии 2.5",
-      "metaDescription": "ElevenLabs выпустила Music v2.5 для генератора ElevenMusic. Новая версия стала моделью по умолчанию, при этом предыдущая Music v2 осталась доступна в ",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1082604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082604"
-    },
-    {
-      "id": "kak-produktovye-komandy-ispolzuyut-ai-tri-prakti-2026-09-15",
-      "category": "Новости",
-      "title": "Как продуктовые команды используют AI: три практических кейса",
-      "excerpt": "Как перевести интерфейс на китайский и не получить «Телефон псу под хвост два ядра»? Как заставить AI-агентов считать за аналитиков? И почему одного RAG недостаточно для поддержки? Разберёмся на Fintech Product Meetup — бесплатном митапе от ЮMoney дл",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Как продуктовые команды используют AI: три практических кейс",
-      "metaDescription": "Как перевести интерфейс на китайский и не получить «Телефон псу под хвост два ядра»? Как заставить AI-агентов считать за аналитиков? И почему одного R",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/yoomoney/news/1082626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082626"
     },
     {
       "id": "kioxia-pridumala-kak-pobedit-defitsit-dram-pomog-2026-09-15",
