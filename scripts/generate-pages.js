@@ -231,28 +231,45 @@ function generateArticleHTML(article) {
 
 // ---------- OG-картинки (1200×630) ----------
 function ogSvg(article) {
-    const title = (article.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-    const cat = (article.category || '').replace(/&/g, '&amp;');
-    // Режем заголовок на строки ~26 символов, максимум 4 строки
-    const words = (article.title || '').split(' ');
+    const esc = value => String(value || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    const cat = esc(article.category);
+    const isLearning = article.category === 'Обучение';
+    const isNews = article.category === 'Новости';
+    const isPrograms = article.category === 'Программы';
+    const isLab = article.lab || (article.tags || []).includes('лаборатория');
+    const accent = isNews ? '#00BFFF' : isPrograms ? '#FF00FF' : isLearning ? '#93FF00' : '#B8FF4D';
+    const title = String(article.title || '');
+    // Компактный заголовок: больше воздуха для тематической графики справа.
+    const words = title.split(/\s+/);
     const lines = [];
     let cur = '';
-    for (const w of words) {
-        if ((cur + ' ' + w).trim().length > 26 && cur) { lines.push(cur); cur = w; }
-        else cur = (cur + ' ' + w).trim();
-        if (lines.length === 4) break;
+    for (const word of words) {
+        if ((cur + ' ' + word).trim().length > 34 && cur) { lines.push(cur); cur = word; }
+        else cur = (cur + ' ' + word).trim();
+        if (lines.length === 3) break;
     }
-    if (cur && lines.length < 4) lines.push(cur);
-    const tspans = lines.map((l, i) =>
-        `<text x="80" y="${280 + i * 78}" font-size="56" font-weight="700" fill="#f0f0f0" font-family="DejaVu Sans, sans-serif">${l.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</text>`
+    if (cur && lines.length < 3) lines.push(cur);
+    const tspans = lines.map((line, i) =>
+        `<text x="76" y="${255 + i * 62}" font-size="42" font-weight="700" fill="#f0f0f0" font-family="DejaVu Sans, sans-serif">${esc(line)}</text>`
     ).join('');
+    const grid = Array.from({ length: 12 }, (_, i) => `<line x1="${700 + i * 42}" y1="80" x2="${700 + i * 42}" y2="550" stroke="#ffffff" stroke-opacity=".045"/>`).join('') +
+        Array.from({ length: 10 }, (_, i) => `<line x1="680" y1="${90 + i * 48}" x2="1180" y2="${90 + i * 48}" stroke="#ffffff" stroke-opacity=".045"/>`).join('');
+    const nodes = [
+        [760, 190, 8], [900, 130, 6], [1040, 220, 9], [850, 330, 7], [1080, 390, 6], [940, 480, 8], [1140, 285, 5]
+    ];
+    const linesSvg = nodes.slice(1).map((n, i) => `<line x1="${nodes[i][0]}" y1="${nodes[i][1]}" x2="${n[0]}" y2="${n[1]}" stroke="${accent}" stroke-opacity=".48" stroke-width="2"/>`).join('');
+    const nodesSvg = nodes.map(([x, y, r]) => `<circle cx="${x}" cy="${y}" r="${r}" fill="${accent}"/><circle cx="${x}" cy="${y}" r="${r + 8}" fill="none" stroke="${accent}" stroke-opacity=".25"/>`).join('');
+    const icon = isLab ? `<rect x="1010" y="95" width="132" height="38" rx="4" fill="${accent}" fill-opacity=".16" stroke="${accent}"/><text x="1076" y="121" text-anchor="middle" font-size="19" font-family="DejaVu Sans Mono, monospace" font-weight="700" fill="${accent}">LAB</text>` : `<text x="1080" y="570" text-anchor="middle" font-size="22" font-family="DejaVu Sans Mono, monospace" fill="${accent}">{ / }</text>`;
     return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
   <rect width="1200" height="630" fill="#0a0a0a"/>
-  <rect x="0" y="0" width="1200" height="4" fill="#93FF00"/>
-  <text x="80" y="140" font-size="34" fill="#93FF00" font-family="DejaVu Sans Mono, monospace" font-weight="600">{/${cat}} XAOSLAND</text>
+  <rect x="0" y="0" width="1200" height="5" fill="${accent}"/>
+  <rect x="650" y="0" width="550" height="630" fill="#101616"/>
+  <g>${grid}${linesSvg}${nodesSvg}</g>
+  <text x="76" y="120" font-size="28" fill="${accent}" font-family="DejaVu Sans Mono, monospace" font-weight="600">{/${cat}} XAOSLAND</text>
   ${tspans}
-  <text x="80" y="580" font-size="28" fill="#8f8f8f" font-family="DejaVu Sans Mono, monospace">xaosland.ru</text>
-  <rect x="0" y="626" width="1200" height="4" fill="#FF00FF"/>
+  <text x="76" y="555" font-size="21" fill="#8f8f8f" font-family="DejaVu Sans Mono, monospace">xaosland.ru</text>
+  ${icon}
+  <rect x="0" y="625" width="1200" height="5" fill="#FF00FF"/>
 </svg>`;
 }
 
@@ -264,11 +281,14 @@ async function generateOgImages() {
     // а кэш переживает всё — рендерим только новые статьи
     const cacheDir = path.join(ROOT, 'cache', 'og');
     fs.mkdirSync(cacheDir, { recursive: true });
+    const templateVersion = 'v2-illustrated';
+    const versionFile = path.join(cacheDir, '.template-version');
+    const cacheIsCurrent = fs.existsSync(versionFile) && fs.readFileSync(versionFile, 'utf8').trim() === templateVersion;
     let rendered = 0;
     for (const article of articles) {
         const cached = path.join(cacheDir, `${article.id}.png`);
         try {
-            if (!fs.existsSync(cached)) {
+            if (!cacheIsCurrent || !fs.existsSync(cached)) {
                 await sharp(Buffer.from(ogSvg(article))).png({ quality: 90 }).toFile(cached);
                 rendered++;
             }
@@ -276,8 +296,9 @@ async function generateOgImages() {
             console.warn(`⚠️ OG для ${article.id}: ${e.message}`);
         }
     }
+    fs.writeFileSync(versionFile, templateVersion, 'utf8');
     fs.cpSync(cacheDir, ogDir, { recursive: true });
-    console.log(`✅ OG-картинок: ${articles.length} (отрендерено новых: ${rendered})`);
+    console.log(`✅ OG-картинок: ${articles.length} (отрендерено новых: ${rendered}, шаблон ${templateVersion})`);
 }
 
 // ---------- Индекс поиска (data/search-index.json) ----------

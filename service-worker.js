@@ -1,4 +1,4 @@
-const CACHE_NAME = 'xaosland-v15';
+const CACHE_NAME = 'xaosland-v16';
 const STATIC_ASSETS = [
     '/',
     '/index.html',

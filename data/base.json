@@ -3348,6 +3348,583 @@
       "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436356-vannocka-dlia-nog-xiaomi-s-effektom-tropiceskogo-dozdia-i-massazem-mijia-sterilizing-foot-bath-2-uze-dostupna-v-kitae.html"
     },
     {
+      "id": "comp-tech-troubleshooting",
+      "category": "Обучение",
+      "title": "Устранение неполадок: системный подход от простого к сложному",
+      "excerpt": "Диагностика эффективнее случайной переустановки. Пройдём путь от точного описания симптома до проверки журналов, диска и результата исправления.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "troubleshooting",
+        "diagnostics"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Методика устранения неполадок компьютера",
+      "metaDescription": "Пошаговая диагностика: симптомы, Task Manager, Event Viewer, journalctl, проверка диска и документирование результата."
+    },
+    {
+      "id": "comp-tech-security-basics",
+      "category": "Обучение",
+      "title": "Базовая кибербезопасность: привычки, которые защищают",
+      "excerpt": "Безопасность начинается с уникальных паролей, 2FA и внимательного отношения к сообщениям. Разберём фишинг, обновления и роль антивируса без ложного чувства неуязвимости.",
+      "date": "2026-09-17",
+      "readTime": 8,
+      "tags": [
+        "comptia",
+        "security",
+        "phishing"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Основы кибербезопасности для начинающих",
+      "metaDescription": "Практические советы по паролям, 2FA, фишингу, обновлениям и антивирусной защите."
+    },
+    {
+      "id": "comp-tech-os",
+      "category": "Обучение",
+      "title": "Операционные системы: Windows, Linux и macOS",
+      "excerpt": "Операционная система управляет железом, файлами, процессами и учётными записями. Сравним популярные платформы, файловые системы и GUI с командной строкой.",
+      "date": "2026-09-17",
+      "readTime": 8,
+      "tags": [
+        "comptia",
+        "operating-systems",
+        "linux"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Основы операционных систем Windows Linux macOS",
+      "metaDescription": "Понятное введение в ОС, NTFS и ext4, графический интерфейс и базовые команды терминала."
+    },
+    {
+      "id": "comp-tech-networking-intro",
+      "category": "Обучение",
+      "title": "Компьютерные сети для новичка: IP, DNS и Wi-Fi",
+      "excerpt": "Домашняя сеть соединяет устройства с роутером и интернетом. Разберём IP-адрес, DNS, маршрутизацию и безопасную настройку Wi-Fi на понятном примере.",
+      "date": "2026-09-17",
+      "readTime": 8,
+      "tags": [
+        "comptia",
+        "networking",
+        "wifi"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Введение в компьютерные сети для начинающих",
+      "metaDescription": "Как устроена домашняя сеть: IP-адреса, DNS, роутер, Wi-Fi и базовая диагностика соединения."
+    },
+    {
+      "id": "comp-tech-hardware",
+      "category": "Обучение",
+      "title": "Устройство компьютера: основные компоненты и апгрейд",
+      "excerpt": "Разберём CPU, оперативную память, накопители, блок питания и периферию. Вы научитесь сопоставлять характеристики с задачами и планировать безопасное обновление компьютера.",
+      "date": "2026-09-17",
+      "readTime": 8,
+      "tags": [
+        "comptia",
+        "hardware",
+        "upgrade"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Устройство компьютера и выбор комплектующих",
+      "metaDescription": "Практическое введение в компоненты ПК: процессор, RAM, SSD, HDD, блок питания и периферия."
+    },
+    {
+      "id": "comp-tech-files-data",
+      "category": "Обучение",
+      "title": "Файлы и данные: форматы, архивы и защита",
+      "excerpt": "Научимся понимать расширения и архивы, строить резервное копирование по правилу 3-2-1 и выбирать шифрование. Практика поможет не потерять документы и фотографии.",
+      "date": "2026-09-17",
+      "readTime": 8,
+      "tags": [
+        "comptia",
+        "data",
+        "backup"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Основы файлов, данных, архивов и резервных копий",
+      "metaDescription": "Форматы файлов, ZIP-архивы, правило резервного копирования 3-2-1 и шифрование для начинающих."
+    },
+    {
+      "id": "comp-sec-threat-actors",
+      "category": "Обучение",
+      "title": "Акторы угроз и их мотивации",
+      "excerpt": "APT, хактивисты, инсайдеры и организованная преступность: чем отличаются возможности, цели и признаки поведения.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "акторы угроз"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Акторы угроз и их мотивации",
+      "metaDescription": "APT, хактивисты, инсайдеры и организованная преступность: чем отличаются возможности, цели и признаки поведения."
+    },
+    {
+      "id": "comp-sec-social-engineering",
+      "category": "Обучение",
+      "title": "Социальная инженерия: распознать и остановить",
+      "excerpt": "Pretexting, baiting, tailgating и vishing с практикой безопасного обучения сотрудников.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "социальная инженерия"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Социальная инженерия: распознать и остановить",
+      "metaDescription": "Pretexting, baiting, tailgating и vishing с практикой безопасного обучения сотрудников."
+    },
+    {
+      "id": "comp-sec-resilience",
+      "category": "Обучение",
+      "title": "Отказоустойчивость: RTO, RPO и бэкапы",
+      "excerpt": "Планируем восстановление, сравниваем RAID и HA и проверяем правило 3-2-1 на практике.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "отказоустойчивость"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Отказоустойчивость: RTO, RPO и бэкапы",
+      "metaDescription": "Планируем восстановление, сравниваем RAID и HA и проверяем правило 3-2-1 на практике."
+    },
+    {
+      "id": "comp-sec-network-security",
+      "category": "Обучение",
+      "title": "Сетевая безопасность: слои защиты",
+      "excerpt": "Сегментация, firewall, VPN, NAC, honeypot и IDS/IPS как взаимодополняющие элементы архитектуры.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "сети"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Сетевая безопасность: слои защиты",
+      "metaDescription": "Сегментация, firewall, VPN, NAC, honeypot и IDS/IPS как взаимодополняющие элементы архитектуры."
+    },
+    {
+      "id": "comp-sec-malware",
+      "category": "Обучение",
+      "title": "Вредоносное ПО: виды и защита",
+      "excerpt": "Разбираем вирусы, черви, ransomware, трояны, руткиты и ботнеты, а также слоистую защиту конечных точек.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "вредоносное ПО"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Вредоносное ПО: виды и защита",
+      "metaDescription": "Разбираем вирусы, черви, ransomware, трояны, руткиты и ботнеты, а также слоистую защиту конечных точек."
+    },
+    {
+      "id": "comp-sec-incident-response",
+      "category": "Обучение",
+      "title": "Реагирование на инциденты по NIST",
+      "excerpt": "Жизненный цикл IR, SOC и SIEM, базовая форензика и превращение инцидента в улучшения.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "реагирование"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Реагирование на инциденты по NIST",
+      "metaDescription": "Жизненный цикл IR, SOC и SIEM, базовая форензика и превращение инцидента в улучшения."
+    },
+    {
+      "id": "comp-sec-crypto",
+      "category": "Обучение",
+      "title": "Криптография и TLS за 10 минут",
+      "excerpt": "Симметричное и асимметричное шифрование, хэши, PKI и подписи — в одной практической картине.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "криптография"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Криптография и TLS за 10 минут",
+      "metaDescription": "Симметричное и асимметричное шифрование, хэши, PKI и подписи — в одной практической картине."
+    },
+    {
+      "id": "comp-sec-controls",
+      "category": "Обучение",
+      "title": "Типы защитных контролей в Security+",
+      "excerpt": "Классифицируем технические, административные и физические меры, а также их назначение: предотвращение, обнаружение и коррекция.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "контроли"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Типы защитных контролей в Security+",
+      "metaDescription": "Классифицируем технические, административные и физические меры, а также их назначение: предотвращение, обнаружение и коррекция."
+    },
+    {
+      "id": "comp-sec-cia-aaa",
+      "category": "Обучение",
+      "title": "CIA-триада, AAA и архитектура Zero Trust",
+      "excerpt": "Разберём базовые свойства защищённости информации, модель AAA, неотказуемость и практический смысл Zero Trust.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "базовые понятия"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "CIA-триада, AAA и архитектура Zero Trust",
+      "metaDescription": "Разберём базовые свойства защищённости информации, модель AAA, неотказуемость и практический смысл Zero Trust."
+    },
+    {
+      "id": "comp-sec-auth-mfa",
+      "category": "Обучение",
+      "title": "Аутентификация, MFA, SSO, LDAP и Kerberos",
+      "excerpt": "Как выбрать фактор, не спутать протоколы и построить удобный, но устойчивый доступ.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "аутентификация"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Аутентификация, MFA, SSO, LDAP и Kerberos",
+      "metaDescription": "Как выбрать фактор, не спутать протоколы и построить удобный, но устойчивый доступ."
+    },
+    {
+      "id": "comp-sec-attack-vectors",
+      "category": "Обучение",
+      "title": "Векторы атак и поверхность атаки",
+      "excerpt": "Практическая карта фишинга, supply chain, уязвимого ПО и message-based атак — от входной точки до снижения риска.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "безопасность",
+        "векторы атак"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Векторы атак и поверхность атаки",
+      "metaDescription": "Практическая карта фишинга, supply chain, уязвимого ПО и message-based атак — от входной точки до снижения риска."
+    },
+    {
+      "id": "comp-net-wifi",
+      "category": "Обучение",
+      "title": "Wi‑Fi для Network+: стандарты, каналы и защита",
+      "excerpt": "Сопоставляем поколения 802.11, диапазоны 2,4 и 5 ГГц, SSID и режимы WPA2/WPA3.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "Wi-Fi",
+        "безопасность"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Wi‑Fi для Network+: стандарты, каналы и защита",
+      "metaDescription": "Сопоставляем поколения 802.11, диапазоны 2,4 и 5 ГГц, SSID и режимы WPA2/WPA3."
+    },
+    {
+      "id": "comp-net-switching-vlan",
+      "category": "Обучение",
+      "title": "Коммутация и VLAN: MAC, 802.1Q, транки и STP",
+      "excerpt": "Объясняем, как коммутатор учит MAC-адреса, разделяет VLAN и предотвращает петли второго уровня.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "коммутация",
+        "VLAN"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Коммутация и VLAN: MAC, 802.1Q, транки и STP",
+      "metaDescription": "Объясняем, как коммутатор учит MAC-адреса, разделяет VLAN и предотвращает петли второго уровня."
+    },
+    {
+      "id": "comp-net-routing-nat",
+      "category": "Обучение",
+      "title": "Маршрутизация, NAT и FHRP: как пакеты находят путь",
+      "excerpt": "Разбираем статические и динамические маршруты, OSPF и BGP на пальцах, а также PAT и резервирование шлюза.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "маршрутизация",
+        "NAT"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Маршрутизация, NAT и FHRP: как пакеты находят путь",
+      "metaDescription": "Разбираем статические и динамические маршруты, OSPF и BGP на пальцах, а также PAT и резервирование шлюза."
+    },
+    {
+      "id": "comp-net-ports-protocols",
+      "category": "Обучение",
+      "title": "Ключевые сетевые порты и протоколы",
+      "excerpt": "Собрали в одну таблицу часто встречающиеся порты TCP и UDP и объяснили, как применять их при диагностике и на экзамене.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "порты",
+        "протоколы"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Ключевые сетевые порты и протоколы",
+      "metaDescription": "Собрали в одну таблицу часто встречающиеся порты TCP и UDP и объяснили, как применять их при диагностике и на экзамене."
+    },
+    {
+      "id": "comp-net-osi-tcpip",
+      "category": "Обучение",
+      "title": "Модели OSI и TCP/IP: слои, протоколы и инкапсуляция",
+      "excerpt": "Сопоставляем семь уровней OSI с моделью TCP/IP и разбираем, как данные проходят путь от приложения до физической среды.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "сети",
+        "OSI"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Модели OSI и TCP/IP: слои, протоколы и инкапсуляция",
+      "metaDescription": "Сопоставляем семь уровней OSI с моделью TCP/IP и разбираем, как данные проходят путь от приложения до физической среды."
+    },
+    {
+      "id": "comp-net-ipv4-subnetting",
+      "category": "Обучение",
+      "title": "IPv4 и подсети: адреса, маски и CIDR",
+      "excerpt": "Учимся различать public, private и APIPA-адреса и рассчитывать размер подсети на примерах /24, /26 и /30.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "IPv4",
+        "подсети"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "IPv4 и подсети: адреса, маски и CIDR",
+      "metaDescription": "Учимся различать public, private и APIPA-адреса и рассчитывать размер подсети на примерах /24, /26 и /30."
+    },
+    {
+      "id": "comp-net-dns",
+      "category": "Обучение",
+      "title": "DNS без магии: рекурсия, записи и кэш",
+      "excerpt": "Разбираем путь DNS-запроса от клиента через рекурсивный сервер к корневым серверам и авторитетной зоне.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "DNS",
+        "имена"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "DNS без магии: рекурсия, записи и кэш",
+      "metaDescription": "Разбираем путь DNS-запроса от клиента через рекурсивный сервер к корневым серверам и авторитетной зоне."
+    },
+    {
+      "id": "comp-net-diagnostics",
+      "category": "Обучение",
+      "title": "Диагностика сети: ping, traceroute, DNS и захват пакетов",
+      "excerpt": "Составляем последовательный план проверки и читаем примеры ping, traceroute, ss, netstat и tcpdump в Kali и Windows.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "диагностика",
+        "инструменты"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Диагностика сети: ping, traceroute, DNS и захват пакетов",
+      "metaDescription": "Составляем последовательный план проверки и читаем примеры ping, traceroute, ss, netstat и tcpdump в Kali и Windows."
+    },
+    {
+      "id": "comp-net-dhcp",
+      "category": "Обучение",
+      "title": "DHCP: DORA, аренда, резервирование и релеи",
+      "excerpt": "Пошагово изучаем выдачу IPv4-конфигурации, работу аренды и причины, по которым клиент получает неверный адрес.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "DHCP",
+        "адресация"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "DHCP: DORA, аренда, резервирование и релеи",
+      "metaDescription": "Пошагово изучаем выдачу IPv4-конфигурации, работу аренды и причины, по которым клиент получает неверный адрес."
+    },
+    {
+      "id": "comp-net-devices",
+      "category": "Обучение",
+      "title": "Сетевые устройства: от коммутатора до SAN",
+      "excerpt": "Различаем назначение маршрутизатора, AP, файрвола, IDS/IPS, прокси, балансировщика, NAS и SAN.",
+      "date": "2026-09-17",
+      "readTime": 9,
+      "tags": [
+        "comptia",
+        "сети",
+        "оборудование",
+        "инфраструктура"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "lab": false,
+      "labTools": [],
+      "labLevel": "",
+      "metaTitle": "Сетевые устройства: от коммутатора до SAN",
+      "metaDescription": "Различаем назначение маршрутизатора, AP, файрвола, IDS/IPS, прокси, балансировщика, NAS и SAN."
+    },
+    {
       "id": "haker-ispolzoval-sotni-ii-agentov-dlya-atak-na-p-2026-09-16",
       "category": "Новости",
       "title": "Хакер использовал сотни ИИ-агентов для атак на PaperCut",
@@ -5814,150 +6391,6 @@
       "sourceUrl": "https://habr.com/ru/companies/ideco/news/1082758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082758"
     },
     {
-      "id": "cline-vypustili-desktop-versiyu-import-iz-claude-2026-09-16",
-      "category": "Новости",
-      "title": "Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99",
-      "excerpt": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Codex и выбирать модель независимо от редактора. По набору возможностей всё привычно для десктопного ко",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Cline выпустили Desktop версию: импорт из Claude и Codex, бе",
-      "metaDescription": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Cod",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082352"
-    },
-    {
-      "id": "gen-a-poluchila-oskar-dlya-startapov-2026-09-16",
-      "category": "Новости",
-      "title": "Gen‑A получила «Оскар» для стартапов",
-      "excerpt": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Команда российских программистов создала единую ИИ-платформу для комплексной обработки фото, видео и ауд",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Gen‑A получила «Оскар» для стартапов",
-      "metaDescription": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Кома",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082354"
-    },
-    {
-      "id": "akuity-gives-ai-agents-operational-context-to-sa-2026-09-16",
-      "category": "Новости",
-      "title": "Akuity предоставляет агентам ИИ оперативный контекст для безопасной доставки программного обеспечения",
-      "excerpt": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку программного обеспечения, предоставляя им операционный контекст и разрешения на действия, причем все это ",
-      "date": "2026-09-15",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "help net security"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Akuity предоставляет агентам ИИ оперативный контекст для без",
-      "metaDescription": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку прогр",
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/"
-    },
-    {
-      "id": "v-clickhouse-poyavilis-funktsii-dlya-raboty-s-ii-2026-09-16",
-      "category": "Новости",
-      "title": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
-      "excerpt": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL-запросов. Теперь задачи вроде классификации текста, извлечения данных и построения RAG-сценариев мо",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
-      "metaDescription": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082364"
-    },
-    {
-      "id": "oracle-dobavila-esche-700-mln-k-zatratam-na-sokr-2026-09-16",
-      "category": "Новости",
-      "title": "Oracle добавила ещё $700 млн к затратам на сокращение штата и расторжение контрактов, одновременно тратя миллиарды на расширение инфраструктуры для ИИ",
-      "excerpt": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 млрд. Как сообщает Reuters, план включает сокращение рабочих мест, выходные пособия, расторжение конт",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "мобильное",
-        "ixbt"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Oracle добавила ещё $700 млн к затратам на сокращение штата ",
-      "metaDescription": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 м",
-      "source": "IXBT",
-      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435932-oracle-dobavila-eshhe-700-mln-k-zatratam-na-sokrashhenie-stata-i-rastorzenie-kontraktov-odnovremenno-tratia-milliardy-na-rassirenie-infrastruktury-dlia-ii.html"
-    },
-    {
-      "id": "microsoft-confirms-kb5002914-excel-update-breaks-2026-09-16",
-      "category": "Новости",
-      "title": "Microsoft подтверждает, что обновление Excel KB5002914 нарушает копирование и вставку",
-      "excerpt": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB5002914 за сентябрь 2026 г. [...]",
-      "date": "2026-09-15",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "bleepingcomputer"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Microsoft подтверждает, что обновление Excel KB5002914 наруш",
-      "metaDescription": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB50029",
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/"
-    },
-    {
-      "id": "smi-rost-chisla-rabochih-mest-v-ssha-iz-za-ii-pr-2026-09-16",
-      "category": "Новости",
-      "title": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокращения",
-      "excerpt": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокраще",
-      "metaDescription": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082362"
-    },
-    {
       "id": "vladeltsy-geforce-rtx-founders-edition-soobschil-2026-09-16",
       "category": "Новости",
       "title": "Владельцы GeForce RTX Founders Edition сообщили о проблемах с гарантией из-за выцветших серийных номеров",
@@ -6118,6 +6551,233 @@
       "metaDescription": "Объём государственных закупок Wi-Fi-оборудования в России в январе–июне 2026 года достиг 4,64 млрд руб. Это на 23% больше, чем за аналогичный период п",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/16/436085-spros-na-rossiiskoe-oborudovanie-wi-fi-v-rossii-vzletel.html"
+    },
+    {
+      "id": "cyber-op-targets-south-korean-media-automotive-s-2026-09-16",
+      "category": "Новости",
+      "title": "Кибероперация нацелена на южнокорейские СМИ и автомобильный сектор",
+      "excerpt": "Вероятно, северокорейская группа продвинутых постоянных угроз (APT) использовала ранее недокументированный набор шпионских инструментов Linux для компрометации балансировщиков нагрузки, получения доступа к средствам связи и дальнейшего взлома сетей.",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Кибероперация нацелена на южнокорейские СМИ и автомобильный ",
+      "metaDescription": "Вероятно, северокорейская группа продвинутых постоянных угроз (APT) использовала ранее недокументированный набор шпионских инструментов Linux для комп",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive"
+    },
+    {
+      "id": "v-oktyabre-microsoft-provedet-meropriyatie-posvy-2026-09-16",
+      "category": "Новости",
+      "title": "В октябре Microsoft проведёт мероприятие, посвящённое Windows и устройствам Surface",
+      "excerpt": "С момента последнего крупного мероприятия, посвящённого Windows, прошло уже более двух лет. В следующем месяце Microsoft проведёт презентацию в Сан-Франциско, чтобы рассказать о будущем Windows и устройств Surface, пишет The Verge. Источник изображен",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В октябре Microsoft проведёт мероприятие, посвящённое Window",
+      "metaDescription": "С момента последнего крупного мероприятия, посвящённого Windows, прошло уже более двух лет. В следующем месяце Microsoft проведёт презентацию в Сан-Фр",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148539"
+    },
+    {
+      "id": "novyy-raund-finansirovaniya-otsenit-openai-v-1-2-2026-09-16",
+      "category": "Новости",
+      "title": "Новый раунд финансирования оценит OpenAI в $1,2 трлн ещё до IPO",
+      "excerpt": "Недавно генеральный директор OpenAI Сэм Альтман (Sam Altman) прямым текстом заявил, что в этом году на IPO компания точно не выйдет из-за ситуации с безопасностью ИИ. Теперь же сторонние источники сообщают, что это не помешает стартапу привлечь финан",
+      "date": "2026-09-16",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новый раунд финансирования оценит OpenAI в $1,2 трлн ещё до ",
+      "metaDescription": "Недавно генеральный директор OpenAI Сэм Альтман (Sam Altman) прямым текстом заявил, что в этом году на IPO компания точно не выйдет из-за ситуации с б",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148542"
+    },
+    {
+      "id": "vyshla-sistema-virtualizatsii-virtualbox-7-2-18-2026-09-16",
+      "category": "Новости",
+      "title": "Вышла система виртуализации VirtualBox 7.2.18",
+      "excerpt": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем GNU/Linux, Solaris, macOS и Windows — проекта Oracle VirtualBox 7.2.18 . Предыдущая стабильная версия",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Вышла система виртуализации VirtualBox 7.2.18",
+      "metaDescription": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем G",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082646"
+    },
+    {
+      "id": "cline-vypustili-desktop-versiyu-import-iz-claude-2026-09-16",
+      "category": "Новости",
+      "title": "Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99",
+      "excerpt": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Codex и выбирать модель независимо от редактора. По набору возможностей всё привычно для десктопного ко",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Cline выпустили Desktop версию: импорт из Claude и Codex, бе",
+      "metaDescription": "Cline представили Desktop версию , отдельное приложение для macOS и Windows. Можно запускать несколько сессий, импортировать чаты из Claude Code и Cod",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082352"
+    },
+    {
+      "id": "gen-a-poluchila-oskar-dlya-startapov-2026-09-16",
+      "category": "Новости",
+      "title": "Gen‑A получила «Оскар» для стартапов",
+      "excerpt": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Команда российских программистов создала единую ИИ-платформу для комплексной обработки фото, видео и ауд",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Gen‑A получила «Оскар» для стартапов",
+      "metaDescription": "Российская AI-медиаплатформа Gen-A стала победителем национальной « Стартех.Премии » в номинации « Лучший стартап с применением ИИ для бизнеса ». Кома",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082354"
+    },
+    {
+      "id": "akuity-gives-ai-agents-operational-context-to-sa-2026-09-16",
+      "category": "Новости",
+      "title": "Akuity предоставляет агентам ИИ оперативный контекст для безопасной доставки программного обеспечения",
+      "excerpt": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку программного обеспечения, предоставляя им операционный контекст и разрешения на действия, причем все это ",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Akuity предоставляет агентам ИИ оперативный контекст для без",
+      "metaDescription": "Akuity представила свою агентную плоскость управления и сервер MCP. Агентская плоскость управления Akuity позволяет агентам ИИ ускорять доставку прогр",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/"
+    },
+    {
+      "id": "v-clickhouse-poyavilis-funktsii-dlya-raboty-s-ii-2026-09-16",
+      "category": "Новости",
+      "title": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
+      "excerpt": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL-запросов. Теперь задачи вроде классификации текста, извлечения данных и построения RAG-сценариев мо",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "В ClickHouse появились функции для работы с ИИ прямо из SQL",
+      "metaDescription": "Команда ClickHouse добавила в систему набор AI-функций, которые позволяют обращаться к большим языковым моделям и работать с эмбеддингами прямо из SQL",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/otus/news/1082364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082364"
+    },
+    {
+      "id": "oracle-dobavila-esche-700-mln-k-zatratam-na-sokr-2026-09-16",
+      "category": "Новости",
+      "title": "Oracle добавила ещё $700 млн к затратам на сокращение штата и расторжение контрактов, одновременно тратя миллиарды на расширение инфраструктуры для ИИ",
+      "excerpt": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 млрд. Как сообщает Reuters, план включает сокращение рабочих мест, выходные пособия, расторжение конт",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Oracle добавила ещё $700 млн к затратам на сокращение штата ",
+      "metaDescription": "Oracle раскрыла дополнительные $700 млн расходов на реструктуризацию в 2026 финансовом году, увеличив ожидаемую стоимость программы примерно до $2,8 м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435932-oracle-dobavila-eshhe-700-mln-k-zatratam-na-sokrashhenie-stata-i-rastorzenie-kontraktov-odnovremenno-tratia-milliardy-na-rassirenie-infrastruktury-dlia-ii.html"
+    },
+    {
+      "id": "microsoft-confirms-kb5002914-excel-update-breaks-2026-09-16",
+      "category": "Новости",
+      "title": "Microsoft подтверждает, что обновление Excel KB5002914 нарушает копирование и вставку",
+      "excerpt": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB5002914 за сентябрь 2026 г. [...]",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft подтверждает, что обновление Excel KB5002914 наруш",
+      "metaDescription": "Microsoft подтвердила, что копирование и вставка могут привести к сбою у некоторых пользователей Excel после установки обновления безопасности KB50029",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/"
+    },
+    {
+      "id": "smi-rost-chisla-rabochih-mest-v-ssha-iz-za-ii-pr-2026-09-16",
+      "category": "Новости",
+      "title": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокращения",
+      "excerpt": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "СМИ: рост числа рабочих мест в США из‑за ИИ превысил сокраще",
+      "metaDescription": "По данным Бюро трудовой статистики США, в августе в стране было создано 162 тысячи рабочих мест, а безработица снизилась до 4,1%. Читать далее",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1082362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082362"
     },
     {
       "id": "volgi-novogo-pokoleniya-nachali-sobirat-po-polno-2026-09-16",
@@ -6343,89 +7003,6 @@
       "metaDescription": "Компания Caviar представила коллекцию Contrast — кастомизированные версии iPhone 18 Pro и iPhone 18 Pro Max с двухцветным оформлением корпуса. Вместо ",
       "source": "IXBT",
       "sourceUrl": "https://www.ixbt.com/news/2026/09/15/435961-v-rossii-predstavili-iphone-18-pro-max-za-450-tys-rublei.html"
-    },
-    {
-      "id": "cyber-op-targets-south-korean-media-automotive-s-2026-09-16",
-      "category": "Новости",
-      "title": "Кибероперация нацелена на южнокорейские СМИ и автомобильный сектор",
-      "excerpt": "Вероятно, северокорейская группа продвинутых постоянных угроз (APT) использовала ранее недокументированный набор шпионских инструментов Linux для компрометации балансировщиков нагрузки, получения доступа к средствам связи и дальнейшего взлома сетей.",
-      "date": "2026-09-16",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "dark reading"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Кибероперация нацелена на южнокорейские СМИ и автомобильный ",
-      "metaDescription": "Вероятно, северокорейская группа продвинутых постоянных угроз (APT) использовала ранее недокументированный набор шпионских инструментов Linux для комп",
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive"
-    },
-    {
-      "id": "v-oktyabre-microsoft-provedet-meropriyatie-posvy-2026-09-16",
-      "category": "Новости",
-      "title": "В октябре Microsoft проведёт мероприятие, посвящённое Windows и устройствам Surface",
-      "excerpt": "С момента последнего крупного мероприятия, посвящённого Windows, прошло уже более двух лет. В следующем месяце Microsoft проведёт презентацию в Сан-Франциско, чтобы рассказать о будущем Windows и устройств Surface, пишет The Verge. Источник изображен",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "железо",
-        "ИИ",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "В октябре Microsoft проведёт мероприятие, посвящённое Window",
-      "metaDescription": "С момента последнего крупного мероприятия, посвящённого Windows, прошло уже более двух лет. В следующем месяце Microsoft проведёт презентацию в Сан-Фр",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148539"
-    },
-    {
-      "id": "novyy-raund-finansirovaniya-otsenit-openai-v-1-2-2026-09-16",
-      "category": "Новости",
-      "title": "Новый раунд финансирования оценит OpenAI в $1,2 трлн ещё до IPO",
-      "excerpt": "Недавно генеральный директор OpenAI Сэм Альтман (Sam Altman) прямым текстом заявил, что в этом году на IPO компания точно не выйдет из-за ситуации с безопасностью ИИ. Теперь же сторонние источники сообщают, что это не помешает стартапу привлечь финан",
-      "date": "2026-09-16",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "ИИ",
-        "сети",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Новый раунд финансирования оценит OpenAI в $1,2 трлн ещё до ",
-      "metaDescription": "Недавно генеральный директор OpenAI Сэм Альтман (Sam Altman) прямым текстом заявил, что в этом году на IPO компания точно не выйдет из-за ситуации с б",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148542"
-    },
-    {
-      "id": "vyshla-sistema-virtualizatsii-virtualbox-7-2-18-2026-09-16",
-      "category": "Новости",
-      "title": "Вышла система виртуализации VirtualBox 7.2.18",
-      "excerpt": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем GNU/Linux, Solaris, macOS и Windows — проекта Oracle VirtualBox 7.2.18 . Предыдущая стабильная версия",
-      "date": "2026-09-16",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "habr"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Вышла система виртуализации VirtualBox 7.2.18",
-      "metaDescription": "15 сентября 2026 года состоялся выпуск обновления открытого, бесплатного и кроссплатформенного программного обеспечения для виртуализации для систем G",
-      "source": "Habr",
-      "sourceUrl": "https://habr.com/ru/news/1082646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082646"
     },
     {
       "id": "avtovaz-obnovil-lada-vesta-sport-vse-te-zhe-147--2026-09-16",
@@ -9059,132 +9636,6 @@
       "sourceUrl": "https://3dnews.ru/1148510"
     },
     {
-      "id": "kalendar-relizov-14-20-sentyabrya-marvel-s-wolve-2026-09-15",
-      "category": "Новости",
-      "title": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
-      "excerpt": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active",
-      "metaDescription": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148455"
-    },
-    {
-      "id": "novyy-treyler-podtverdil-datu-vyhoda-the-veti-s--2026-09-15",
-      "category": "Новости",
-      "title": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
-      "excerpt": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масш",
-      "metaDescription": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148452"
-    },
-    {
-      "id": "torgovaya-marka-rassekretila-nazvanie-sikvela-li-2026-09-15",
-      "category": "Новости",
-      "title": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
-      "excerpt": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
-      "date": "2026-09-14",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "игры",
-        "сети",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Торговая марка рассекретила название сиквела Lies of P — пох",
-      "metaDescription": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148458"
-    },
-    {
-      "id": "sprovotsirovali-haos-sozdateli-ii-druzhno-spohva-2026-09-15",
-      "category": "Новости",
-      "title": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
-      "excerpt": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "ИИ",
-        "космос",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что",
-      "metaDescription": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148459"
-    },
-    {
-      "id": "microsoft-ustanovila-ogranicheniya-dlya-buduschi-2026-09-15",
-      "category": "Новости",
-      "title": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
-      "excerpt": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
-      "date": "2026-09-14",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "безопасность",
-        "игры",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Microsoft установила ограничения для будущих ИИ-моделей, пок",
-      "metaDescription": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148460"
-    },
-    {
-      "id": "postapokalipticheskaya-strategiya-the-crab-is-wa-2026-09-15",
-      "category": "Новости",
-      "title": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
-      "excerpt": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "сети",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Постапокалиптическая стратегия The Crab is Walking от создат",
-      "metaDescription": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148462"
-    },
-    {
       "id": "entuziasty-zapustili-need-for-speed-underground--2026-09-15",
       "category": "Новости",
       "title": "Энтузиасты запустили Need for Speed Underground 2 на Nintendo Switch, и это только начало",
@@ -9496,48 +9947,6 @@
       "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66279"
     },
     {
-      "id": "rtk-tsod-postroil-gibridnuyu-it-infrastrukturu-d-2026-09-15",
-      "category": "Новости",
-      "title": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
-      "excerpt": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "сети",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
-      "metaDescription": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148354"
-    },
-    {
-      "id": "zayavleniya-glav-openai-i-anthropic-o-zamedlenii-2026-09-15",
-      "category": "Новости",
-      "title": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
-      "excerpt": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
-      "date": "2026-09-14",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "железо",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили а",
-      "metaDescription": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148433"
-    },
-    {
       "id": "vyruchka-poluprovodnikovogo-sektora-vo-vtorom-kv-2026-09-15",
       "category": "Новости",
       "title": "Выручка полупроводникового сектора во втором квартале взлетела на 31,4 % до рекордных $425 млрд",
@@ -9619,6 +10028,237 @@
       "metaDescription": "OpenAI поглотила производителя камер для смартфонов Glass Imaging за $300 миллионов",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148477"
+    },
+    {
+      "id": "hkc-predstavila-43-8-dyuymovyy-izognutyy-igrovoy-2026-09-15",
+      "category": "Новости",
+      "title": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
+      "excerpt": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tian",
+      "metaDescription": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148471"
+    },
+    {
+      "id": "valve-zaverila-chto-defitsit-operativnoy-pamyati-2026-09-15",
+      "category": "Новости",
+      "title": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
+      "excerpt": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
+      "date": "2026-09-15",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Valve заверила, что дефицит оперативной памяти не повлиял на",
+      "metaDescription": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148472"
+    },
+    {
+      "id": "donald-tramp-zaveril-amerikantsev-chto-roboty-ih-2026-09-15",
+      "category": "Новости",
+      "title": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
+      "excerpt": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
+      "date": "2026-09-15",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Дональд Трамп заверил американцев, что роботы их не поработя",
+      "metaDescription": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148473"
+    },
+    {
+      "id": "kalendar-relizov-14-20-sentyabrya-marvel-s-wolve-2026-09-15",
+      "category": "Новости",
+      "title": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "excerpt": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active",
+      "metaDescription": "Календарь релизов 14–20 сентября: Marvel’s Wolverine, Active Matter, Blackwood, Aniimo и Woodo",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148455"
+    },
+    {
+      "id": "novyy-treyler-podtverdil-datu-vyhoda-the-veti-s--2026-09-15",
+      "category": "Новости",
+      "title": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "excerpt": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масш",
+      "metaDescription": "Новый трейлер подтвердил дату выхода The Veti's Wrath — масштабного аддона для олдскульной стратегии Tempest Rising в духе Command & Conquer",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148452"
+    },
+    {
+      "id": "torgovaya-marka-rassekretila-nazvanie-sikvela-li-2026-09-15",
+      "category": "Новости",
+      "title": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "excerpt": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "date": "2026-09-14",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Торговая марка рассекретила название сиквела Lies of P — пох",
+      "metaDescription": "Торговая марка рассекретила название сиквела Lies of P — похоже, игра станет адаптацией «Волшебника страны Оз»",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148458"
+    },
+    {
+      "id": "sprovotsirovali-haos-sozdateli-ii-druzhno-spohva-2026-09-15",
+      "category": "Новости",
+      "title": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "excerpt": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что",
+      "metaDescription": "«Спровоцировали хаос»: создатели ИИ дружно спохватились, что его развитие выходит из-под контроля",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148459"
+    },
+    {
+      "id": "microsoft-ustanovila-ogranicheniya-dlya-buduschi-2026-09-15",
+      "category": "Новости",
+      "title": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "excerpt": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "date": "2026-09-14",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft установила ограничения для будущих ИИ-моделей, пок",
+      "metaDescription": "Microsoft установила ограничения для будущих ИИ-моделей, пока отрасль готовится к замедлению",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148460"
+    },
+    {
+      "id": "postapokalipticheskaya-strategiya-the-crab-is-wa-2026-09-15",
+      "category": "Новости",
+      "title": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "excerpt": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Постапокалиптическая стратегия The Crab is Walking от создат",
+      "metaDescription": "Постапокалиптическая стратегия The Crab is Walking от создателей The King is Watching отправит строить город на крабьих ножках",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148462"
+    },
+    {
+      "id": "rtk-tsod-postroil-gibridnuyu-it-infrastrukturu-d-2026-09-15",
+      "category": "Новости",
+      "title": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
+      "excerpt": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
+      "metaDescription": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148354"
+    },
+    {
+      "id": "zayavleniya-glav-openai-i-anthropic-o-zamedlenii-2026-09-15",
+      "category": "Новости",
+      "title": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
+      "excerpt": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
+      "date": "2026-09-14",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили а",
+      "metaDescription": "Заявления глав OpenAI и Anthropic о замедлении ИИ обвалили акции азиатских компаний",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148433"
     },
     {
       "id": "amd-otsenila-novyy-ryzen-5-5500f-v-99-a-ryzen-5--2026-09-15",
@@ -9807,69 +10447,6 @@
       "metaDescription": "Предзаказы на Googlebook откроются с 21 сентября",
       "source": "3DNews",
       "sourceUrl": "https://3dnews.ru/1148469"
-    },
-    {
-      "id": "hkc-predstavila-43-8-dyuymovyy-izognutyy-igrovoy-2026-09-15",
-      "category": "Новости",
-      "title": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
-      "excerpt": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "софт",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tian",
-      "metaDescription": "HKC представила 43,8-дюймовый изогнутый игровой монитор Tianqi 43H180C с необычным соотношением сторон 24:9",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148471"
-    },
-    {
-      "id": "valve-zaverila-chto-defitsit-operativnoy-pamyati-2026-09-15",
-      "category": "Новости",
-      "title": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
-      "excerpt": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
-      "date": "2026-09-15",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "игры",
-        "железо",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Valve заверила, что дефицит оперативной памяти не повлиял на",
-      "metaDescription": "Valve заверила, что дефицит оперативной памяти не повлиял на планы по выпуску Steam Deck 2",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148472"
-    },
-    {
-      "id": "donald-tramp-zaveril-amerikantsev-chto-roboty-ih-2026-09-15",
-      "category": "Новости",
-      "title": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
-      "excerpt": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
-      "date": "2026-09-15",
-      "readTime": 2,
-      "tags": [
-        "новости",
-        "игры",
-        "железо",
-        "3dnews"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Дональд Трамп заверил американцев, что роботы их не поработя",
-      "metaDescription": "Дональд Трамп заверил американцев, что роботы их не поработят, во время телефонного звонка главе Nvidia",
-      "source": "3DNews",
-      "sourceUrl": "https://3dnews.ru/1148473"
     },
     {
       "id": "novaya-statya-obzor-materinskoy-platy-msi-mag-x8-2026-09-15",
@@ -10305,86 +10882,6 @@
       "sourceUrl": "https://lenta.ru/news/2026/09/14/roditeli-podali-v-sud-na-vladeltsa-kompyuternoy-igry-za-spuschennye-synom-polmilliona-rubley/"
     },
     {
-      "id": "vypusk-debian-13-7-2026-09-14",
-      "category": "Новости",
-      "title": "Выпуск Debian 13.7",
-      "excerpt": "Сформировано седьмое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 106 обновлений с устранением проблем со стабильностью и 107 обновлений с ",
-      "date": "2026-09-12",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "безопасность",
-        "софт",
-        "opennet"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Выпуск Debian 13.7",
-      "metaDescription": "Сформировано седьмое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в ин",
-      "source": "OpenNET",
-      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66263"
-    },
-    {
-      "id": "vypusk-rastrovogo-graficheskogo-redaktora-brushs-2026-09-14",
-      "category": "Новости",
-      "title": "Выпуск растрового графического редактора Brushshe 2.8.0",
-      "excerpt": "Состоялся выпуск растрового графического редактора Brushshe 2.8.0 (кодовое имя \"Astana\"). Brushshe примечателен наличием рамок, наклеек, тем оформления, дополнений и других функций. Код проекта написан на Python с использованием графического тулкита ",
-      "date": "2026-09-13",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "opennet"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Выпуск растрового графического редактора Brushshe 2.8.0",
-      "metaDescription": "Состоялся выпуск растрового графического редактора Brushshe 2.8.0 (кодовое имя \"Astana\"). Brushshe примечателен наличием рамок, наклеек, тем оформлени",
-      "source": "OpenNET",
-      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66264"
-    },
-    {
-      "id": "dostupen-menedzher-fotografiy-shotwell-0-33-2026-09-14",
-      "category": "Новости",
-      "title": "Доступен менеджер фотографий Shotwell 0.33",
-      "excerpt": "После трёх с половиной лет разработки опубликован выпуск новой стабильной ветки программы для управления коллекцией фотографий Shotwell 0.33.0, которая предоставляет возможности каталогизации и навигации по коллекции, поддерживает группировку по врем",
-      "date": "2026-09-13",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "opennet"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Доступен менеджер фотографий Shotwell 0.33",
-      "metaDescription": "После трёх с половиной лет разработки опубликован выпуск новой стабильной ветки программы для управления коллекцией фотографий Shotwell 0.33.0, котора",
-      "source": "OpenNET",
-      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66265"
-    },
-    {
-      "id": "obnovlenie-redaktora-koda-cudatext-1-236-0-2026-09-14",
-      "category": "Новости",
-      "title": "Обновление редактора кода CudaText 1.236.0",
-      "excerpt": "Опубликован выпуск кроссплатформенного свободного редактора кода CudaText 1.236.0, написанного с использованием Free Pascal и Lazarus. Редактор поддерживает расширения на Python, и имеет ряд преимуществ над Sublime Text. Присутствуют некоторые возмож",
-      "date": "2026-09-13",
-      "readTime": 1,
-      "tags": [
-        "новости",
-        "софт",
-        "opennet"
-      ],
-      "featured": false,
-      "popular": false,
-      "image": "",
-      "metaTitle": "Обновление редактора кода CudaText 1.236.0",
-      "metaDescription": "Опубликован выпуск кроссплатформенного свободного редактора кода CudaText 1.236.0, написанного с использованием Free Pascal и Lazarus. Редактор поддер",
-      "source": "OpenNET",
-      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66266"
-    },
-    {
       "id": "vypusk-videoredaktora-keycut-1-0-2026-09-14",
       "category": "Новости",
       "title": "Выпуск видеоредактора KeyCut 1.0",
@@ -10488,272 +10985,84 @@
       "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66273"
     },
     {
-      "id": "office-comparison",
-      "category": "Программы",
-      "title": "Офисные пакеты: сравнение LibreOffice и Microsoft Office",
-      "excerpt": "Детальное сравнение функционала, совместимости и производительности двух популярных офисных пакетов.",
-      "date": "2024-02-12",
-      "readTime": 6,
-      "featured": true,
-      "popular": true,
+      "id": "vypusk-rastrovogo-graficheskogo-redaktora-brushs-2026-09-14",
+      "category": "Новости",
+      "title": "Выпуск растрового графического редактора Brushshe 2.8.0",
+      "excerpt": "Состоялся выпуск растрового графического редактора Brushshe 2.8.0 (кодовое имя \"Astana\"). Brushshe примечателен наличием рамок, наклеек, тем оформления, дополнений и других функций. Код проекта написан на Python с использованием графического тулкита ",
+      "date": "2026-09-13",
+      "readTime": 1,
       "tags": [
-        "офис",
-        "сравнение",
-        "программы"
+        "новости",
+        "opennet"
       ],
-      "image": "",
-      "metaTitle": "LibreOffice vs Microsoft Office",
-      "metaDescription": "Сравнение офисных пакетов: какой выбрать?"
-    },
-    {
-      "id": "disc-burning-software",
-      "category": "Программы",
-      "title": "Лучшие программы для записи дисков",
-      "excerpt": "Обзор приложений для записи CD/DVD: ImgBurn, CDBurnerXP, Ashampoo Burning Studio. Особенности и настройки.",
-      "date": "2024-02-08",
-      "readTime": 5,
       "featured": false,
       "popular": false,
-      "tags": [
-        "запись дисков",
-        "софт"
-      ],
       "image": "",
-      "metaTitle": "Программы для записи дисков",
-      "metaDescription": "Лучшие бесплатные и платные программы для записи CD/DVD."
+      "metaTitle": "Выпуск растрового графического редактора Brushshe 2.8.0",
+      "metaDescription": "Состоялся выпуск растрового графического редактора Brushshe 2.8.0 (кодовое имя \"Astana\"). Brushshe примечателен наличием рамок, наклеек, тем оформлени",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66264"
     },
     {
-      "id": "system-cleaners-review",
-      "category": "Программы",
-      "title": "Утилиты для очистки системы: CCleaner, PrivaZer и др.",
-      "excerpt": "Сравнение популярных чистильщиков системы, их возможности и влияние на производительность.",
-      "date": "2024-02-02",
-      "readTime": 7,
-      "featured": false,
-      "popular": true,
+      "id": "dostupen-menedzher-fotografiy-shotwell-0-33-2026-09-14",
+      "category": "Новости",
+      "title": "Доступен менеджер фотографий Shotwell 0.33",
+      "excerpt": "После трёх с половиной лет разработки опубликован выпуск новой стабильной ветки программы для управления коллекцией фотографий Shotwell 0.33.0, которая предоставляет возможности каталогизации и навигации по коллекции, поддерживает группировку по врем",
+      "date": "2026-09-13",
+      "readTime": 1,
       "tags": [
-        "очистка",
-        "система",
-        "утилиты"
+        "новости",
+        "софт",
+        "opennet"
       ],
-      "image": "",
-      "metaTitle": "Лучшие утилиты для очистки ПК",
-      "metaDescription": "Обзор программ для очистки системы от мусора и реестра."
-    },
-    {
-      "id": "backup-software-guide",
-      "category": "Программы",
-      "title": "Программы для создания резервных копий",
-      "excerpt": "Обзор лучших решений для бэкапа: Acronis True Image, Macrium Reflect, Veeam. Инструкция по настройке автоматического бэкапа.",
-      "date": "2024-01-25",
-      "readTime": 8,
       "featured": false,
       "popular": false,
-      "tags": [
-        "бэкап",
-        "резервное копирование"
-      ],
       "image": "",
-      "metaTitle": "Лучшие программы для бэкапа",
-      "metaDescription": "Как выбрать программу для резервного копирования данных."
+      "metaTitle": "Доступен менеджер фотографий Shotwell 0.33",
+      "metaDescription": "После трёх с половиной лет разработки опубликован выпуск новой стабильной ветки программы для управления коллекцией фотографий Shotwell 0.33.0, котора",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66265"
     },
     {
-      "id": "password-managers-review",
-      "category": "Программы",
-      "title": "Менеджеры паролей: какой выбрать",
-      "excerpt": "Сравнение популярных менеджеров паролей: KeePass, LastPass, Bitdefender, 1Password. Критерии выбора и настройка.",
-      "date": "2024-01-18",
-      "readTime": 6,
-      "featured": true,
-      "popular": true,
+      "id": "obnovlenie-redaktora-koda-cudatext-1-236-0-2026-09-14",
+      "category": "Новости",
+      "title": "Обновление редактора кода CudaText 1.236.0",
+      "excerpt": "Опубликован выпуск кроссплатформенного свободного редактора кода CudaText 1.236.0, написанного с использованием Free Pascal и Lazarus. Редактор поддерживает расширения на Python, и имеет ряд преимуществ над Sublime Text. Присутствуют некоторые возмож",
+      "date": "2026-09-13",
+      "readTime": 1,
       "tags": [
-        "пароли",
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Обновление редактора кода CudaText 1.236.0",
+      "metaDescription": "Опубликован выпуск кроссплатформенного свободного редактора кода CudaText 1.236.0, написанного с использованием Free Pascal и Lazarus. Редактор поддер",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66266"
+    },
+    {
+      "id": "vypusk-debian-13-7-2026-09-14",
+      "category": "Новости",
+      "title": "Выпуск Debian 13.7",
+      "excerpt": "Сформировано седьмое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в инсталлятор. Выпуск включает 106 обновлений с устранением проблем со стабильностью и 107 обновлений с ",
+      "date": "2026-09-12",
+      "readTime": 1,
+      "tags": [
+        "новости",
         "безопасность",
-        "менеджер паролей"
+        "софт",
+        "opennet"
       ],
-      "image": "",
-      "metaTitle": "Как выбрать менеджер паролей",
-      "metaDescription": "Обзор лучших менеджеров паролей для безопасного хранения."
-    },
-    {
-      "id": "cyberpunk-2077-review",
-      "category": "Игры",
-      "title": "Обзор Cyberpunk 2077 после патчей",
-      "excerpt": "Состояние игры в 2024 году: исправленные баги, улучшенный геймплей, новые DLC и оценка производительности.",
-      "date": "2024-02-14",
-      "readTime": 10,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "игры",
-        "обзор",
-        "cyberpunk"
-      ],
-      "image": "",
-      "metaTitle": "Cyberpunk 2077 в 2024 году",
-      "metaDescription": "Обзор Cyberpunk 2077 после всех обновлений: стоит ли играть?"
-    },
-    {
-      "id": "low-end-pc-performance",
-      "category": "Игры",
-      "title": "Как улучшить производительность в играх на слабом ПК",
-      "excerpt": "Практические советы: настройка графики, отключение визуальных эффектов, использование оптимизаторов, разгон.",
-      "date": "2024-02-10",
-      "readTime": 9,
-      "featured": false,
-      "popular": true,
-      "tags": [
-        "игры",
-        "оптимизация",
-        "слабый пк"
-      ],
-      "image": "",
-      "metaTitle": "Оптимизация игр для слабых ПК",
-      "metaDescription": "Как повысить FPS на слабом компьютере."
-    },
-    {
-      "id": "best-indie-games-2024",
-      "category": "Игры",
-      "title": "Лучшие инди-игры 2024",
-      "excerpt": "Подборка самых интересных инди-проектов за последний год: Hades II, Hollow Knight: Silksong, Stardew Valley и новинки.",
-      "date": "2024-02-05",
-      "readTime": 7,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "игры",
-        "инди",
-        "подборка"
-      ],
-      "image": "",
-      "metaTitle": "Лучшие инди-игры 2024",
-      "metaDescription": "Топ инди-игр, которые стоит пройти."
-    },
-    {
-      "id": "gamepad-setup-guide",
-      "category": "Игры",
-      "title": "Настройка геймпада для ПК",
-      "excerpt": "Как подключить и настроить геймпад Xbox, PlayStation или сторонний контроллер для игр на Windows, Steam и эмуляторах.",
-      "date": "2024-01-30",
-      "readTime": 5,
       "featured": false,
       "popular": false,
-      "tags": [
-        "геймпад",
-        "настройка",
-        "игры"
-      ],
       "image": "",
-      "metaTitle": "Настройка геймпада на ПК",
-      "metaDescription": "Пошаговая инструкция по подключению геймпада к компьютеру."
-    },
-    {
-      "id": "game-services-comparison",
-      "category": "Игры",
-      "title": "Обзор игровых сервисов: Steam, Epic, GOG",
-      "excerpt": "Сравнение цифровых магазинов игр: цены, DRM, библиотеки, эксклюзивы и удобство использования.",
-      "date": "2024-01-22",
-      "readTime": 8,
-      "featured": false,
-      "popular": false,
-      "tags": [
-        "игры",
-        "платформы",
-        "сравнение"
-      ],
-      "image": "",
-      "metaTitle": "Steam vs Epic vs GOG",
-      "metaDescription": "Сравнение популярных игровых платформ."
-    },
-    {
-      "id": "backup-automation-script",
-      "category": "GitHub проекты",
-      "title": "Автоматизация бэкапов с помощью скрипта",
-      "excerpt": "Готовый bash-скрипт для автоматического резервного копирования папок с архивацией и отправкой на внешний диск или облако.",
-      "date": "2024-02-13",
-      "readTime": 6,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "бэкап",
-        "bash",
-        "автоматизация"
-      ],
-      "image": "",
-      "metaTitle": "Скрипт автоматического бэкапа",
-      "metaDescription": "Bash-скрипт для резервного копирования данных."
-    },
-    {
-      "id": "network-monitor-tool",
-      "category": "GitHub проекты",
-      "title": "Утилита для мониторинга сети",
-      "excerpt": "Простая программа на Python для отслеживания активных соединений, скорости интернета и уведомлений о сбоях.",
-      "date": "2024-02-08",
-      "readTime": 5,
-      "featured": false,
-      "popular": false,
-      "tags": [
-        "сеть",
-        "мониторинг",
-        "python"
-      ],
-      "image": "",
-      "metaTitle": "Утилита мониторинга сети на Python",
-      "metaDescription": "Программа для контроля сетевых подключений."
-    },
-    {
-      "id": "password-generator-python",
-      "category": "GitHub проекты",
-      "title": "Генератор паролей на Python",
-      "excerpt": "Скрипт для генерации надёжных паролей с настройкой длины и сложности, с выводом в консоль или сохранением в файл.",
-      "date": "2024-02-02",
-      "readTime": 4,
-      "featured": false,
-      "popular": true,
-      "tags": [
-        "пароли",
-        "python",
-        "генератор"
-      ],
-      "image": "",
-      "metaTitle": "Генератор паролей на Python",
-      "metaDescription": "Скрипт для создания сложных паролей."
-    },
-    {
-      "id": "telegram-bot-python",
-      "category": "GitHub проекты",
-      "title": "Бот для Telegram на Python",
-      "excerpt": "Как написать простого бота для Telegram с использованием библиотеки python-telegram-bot: команды, клавиатуры, рассылка.",
-      "date": "2024-01-28",
-      "readTime": 8,
-      "featured": true,
-      "popular": true,
-      "tags": [
-        "telegram",
-        "бот",
-        "python"
-      ],
-      "image": "",
-      "metaTitle": "Создание Telegram бота на Python",
-      "metaDescription": "Пошаговое руководство по написанию бота для Telegram."
-    },
-    {
-      "id": "auto-install-script-windows",
-      "category": "GitHub проекты",
-      "title": "Скрипт для автоматической установки программ после переустановки Windows",
-      "excerpt": "Скрипт на PowerShell, который автоматически устанавливает популярные программы (браузеры, офис, утилиты) через Chocolatey или Winget.",
-      "date": "2024-01-20",
-      "readTime": 7,
-      "featured": false,
-      "popular": false,
-      "tags": [
-        "windows",
-        "автоматизация",
-        "установка"
-      ],
-      "image": "",
-      "metaTitle": "Автоустановка софта после переустановки Windows",
-      "metaDescription": "PowerShell скрипт для быстрой установки программ."
+      "metaTitle": "Выпуск Debian 13.7",
+      "metaDescription": "Сформировано седьмое корректирующее обновление дистрибутива Debian 13, в которое включены накопившиеся обновления пакетов и добавлены исправления в ин",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66263"
     },
     {
       "id": "external-ssd-review",
@@ -10774,6 +11083,78 @@
       "metaDescription": "Обзор внешнего твердотельного накопителя с Ozon."
     },
     {
+      "id": "cyberpunk-2077-review",
+      "category": "Игры",
+      "title": "Обзор Cyberpunk 2077 после патчей",
+      "excerpt": "Состояние игры в 2024 году: исправленные баги, улучшенный геймплей, новые DLC и оценка производительности.",
+      "date": "2024-02-14",
+      "readTime": 10,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "игры",
+        "обзор",
+        "cyberpunk"
+      ],
+      "image": "",
+      "metaTitle": "Cyberpunk 2077 в 2024 году",
+      "metaDescription": "Обзор Cyberpunk 2077 после всех обновлений: стоит ли играть?"
+    },
+    {
+      "id": "backup-automation-script",
+      "category": "GitHub проекты",
+      "title": "Автоматизация бэкапов с помощью скрипта",
+      "excerpt": "Готовый bash-скрипт для автоматического резервного копирования папок с архивацией и отправкой на внешний диск или облако.",
+      "date": "2024-02-13",
+      "readTime": 6,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "бэкап",
+        "bash",
+        "автоматизация"
+      ],
+      "image": "",
+      "metaTitle": "Скрипт автоматического бэкапа",
+      "metaDescription": "Bash-скрипт для резервного копирования данных."
+    },
+    {
+      "id": "office-comparison",
+      "category": "Программы",
+      "title": "Офисные пакеты: сравнение LibreOffice и Microsoft Office",
+      "excerpt": "Детальное сравнение функционала, совместимости и производительности двух популярных офисных пакетов.",
+      "date": "2024-02-12",
+      "readTime": 6,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "офис",
+        "сравнение",
+        "программы"
+      ],
+      "image": "",
+      "metaTitle": "LibreOffice vs Microsoft Office",
+      "metaDescription": "Сравнение офисных пакетов: какой выбрать?"
+    },
+    {
+      "id": "low-end-pc-performance",
+      "category": "Игры",
+      "title": "Как улучшить производительность в играх на слабом ПК",
+      "excerpt": "Практические советы: настройка графики, отключение визуальных эффектов, использование оптимизаторов, разгон.",
+      "date": "2024-02-10",
+      "readTime": 9,
+      "featured": false,
+      "popular": true,
+      "tags": [
+        "игры",
+        "оптимизация",
+        "слабый пк"
+      ],
+      "image": "",
+      "metaTitle": "Оптимизация игр для слабых ПК",
+      "metaDescription": "Как повысить FPS на слабом компьютере."
+    },
+    {
       "id": "wireless-charger-review",
       "category": "Ozon находки",
       "title": "Беспроводная зарядка для телефона",
@@ -10790,6 +11171,59 @@
       "image": "",
       "metaTitle": "Беспроводная зарядка для смартфона",
       "metaDescription": "Обзор беспроводного зарядного устройства."
+    },
+    {
+      "id": "disc-burning-software",
+      "category": "Программы",
+      "title": "Лучшие программы для записи дисков",
+      "excerpt": "Обзор приложений для записи CD/DVD: ImgBurn, CDBurnerXP, Ashampoo Burning Studio. Особенности и настройки.",
+      "date": "2024-02-08",
+      "readTime": 5,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "запись дисков",
+        "софт"
+      ],
+      "image": "",
+      "metaTitle": "Программы для записи дисков",
+      "metaDescription": "Лучшие бесплатные и платные программы для записи CD/DVD."
+    },
+    {
+      "id": "network-monitor-tool",
+      "category": "GitHub проекты",
+      "title": "Утилита для мониторинга сети",
+      "excerpt": "Простая программа на Python для отслеживания активных соединений, скорости интернета и уведомлений о сбоях.",
+      "date": "2024-02-08",
+      "readTime": 5,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "сеть",
+        "мониторинг",
+        "python"
+      ],
+      "image": "",
+      "metaTitle": "Утилита мониторинга сети на Python",
+      "metaDescription": "Программа для контроля сетевых подключений."
+    },
+    {
+      "id": "best-indie-games-2024",
+      "category": "Игры",
+      "title": "Лучшие инди-игры 2024",
+      "excerpt": "Подборка самых интересных инди-проектов за последний год: Hades II, Hollow Knight: Silksong, Stardew Valley и новинки.",
+      "date": "2024-02-05",
+      "readTime": 7,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "игры",
+        "инди",
+        "подборка"
+      ],
+      "image": "",
+      "metaTitle": "Лучшие инди-игры 2024",
+      "metaDescription": "Топ инди-игр, которые стоит пройти."
     },
     {
       "id": "mechanical-keyboard-review",
@@ -10810,6 +11244,60 @@
       "metaDescription": "Обзор игровой механической клавиатуры."
     },
     {
+      "id": "system-cleaners-review",
+      "category": "Программы",
+      "title": "Утилиты для очистки системы: CCleaner, PrivaZer и др.",
+      "excerpt": "Сравнение популярных чистильщиков системы, их возможности и влияние на производительность.",
+      "date": "2024-02-02",
+      "readTime": 7,
+      "featured": false,
+      "popular": true,
+      "tags": [
+        "очистка",
+        "система",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Лучшие утилиты для очистки ПК",
+      "metaDescription": "Обзор программ для очистки системы от мусора и реестра."
+    },
+    {
+      "id": "password-generator-python",
+      "category": "GitHub проекты",
+      "title": "Генератор паролей на Python",
+      "excerpt": "Скрипт для генерации надёжных паролей с настройкой длины и сложности, с выводом в консоль или сохранением в файл.",
+      "date": "2024-02-02",
+      "readTime": 4,
+      "featured": false,
+      "popular": true,
+      "tags": [
+        "пароли",
+        "python",
+        "генератор"
+      ],
+      "image": "",
+      "metaTitle": "Генератор паролей на Python",
+      "metaDescription": "Скрипт для создания сложных паролей."
+    },
+    {
+      "id": "gamepad-setup-guide",
+      "category": "Игры",
+      "title": "Настройка геймпада для ПК",
+      "excerpt": "Как подключить и настроить геймпад Xbox, PlayStation или сторонний контроллер для игр на Windows, Steam и эмуляторах.",
+      "date": "2024-01-30",
+      "readTime": 5,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "геймпад",
+        "настройка",
+        "игры"
+      ],
+      "image": "",
+      "metaTitle": "Настройка геймпада на ПК",
+      "metaDescription": "Пошаговая инструкция по подключению геймпада к компьютеру."
+    },
+    {
       "id": "pc-repair-toolset",
       "category": "Ozon находки",
       "title": "Набор инструментов для ремонта ПК",
@@ -10828,6 +11316,41 @@
       "metaDescription": "Обзор набора для ремонта компьютера."
     },
     {
+      "id": "telegram-bot-python",
+      "category": "GitHub проекты",
+      "title": "Бот для Telegram на Python",
+      "excerpt": "Как написать простого бота для Telegram с использованием библиотеки python-telegram-bot: команды, клавиатуры, рассылка.",
+      "date": "2024-01-28",
+      "readTime": 8,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "telegram",
+        "бот",
+        "python"
+      ],
+      "image": "",
+      "metaTitle": "Создание Telegram бота на Python",
+      "metaDescription": "Пошаговое руководство по написанию бота для Telegram."
+    },
+    {
+      "id": "backup-software-guide",
+      "category": "Программы",
+      "title": "Программы для создания резервных копий",
+      "excerpt": "Обзор лучших решений для бэкапа: Acronis True Image, Macrium Reflect, Veeam. Инструкция по настройке автоматического бэкапа.",
+      "date": "2024-01-25",
+      "readTime": 8,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "бэкап",
+        "резервное копирование"
+      ],
+      "image": "",
+      "metaTitle": "Лучшие программы для бэкапа",
+      "metaDescription": "Как выбрать программу для резервного копирования данных."
+    },
+    {
       "id": "smart-speaker-review",
       "category": "Ozon находки",
       "title": "Умная колонка с Алисой",
@@ -10844,6 +11367,60 @@
       "image": "",
       "metaTitle": "Умная колонка с Алисой",
       "metaDescription": "Обзор Яндекс Станции Мини."
+    },
+    {
+      "id": "game-services-comparison",
+      "category": "Игры",
+      "title": "Обзор игровых сервисов: Steam, Epic, GOG",
+      "excerpt": "Сравнение цифровых магазинов игр: цены, DRM, библиотеки, эксклюзивы и удобство использования.",
+      "date": "2024-01-22",
+      "readTime": 8,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "игры",
+        "платформы",
+        "сравнение"
+      ],
+      "image": "",
+      "metaTitle": "Steam vs Epic vs GOG",
+      "metaDescription": "Сравнение популярных игровых платформ."
+    },
+    {
+      "id": "auto-install-script-windows",
+      "category": "GitHub проекты",
+      "title": "Скрипт для автоматической установки программ после переустановки Windows",
+      "excerpt": "Скрипт на PowerShell, который автоматически устанавливает популярные программы (браузеры, офис, утилиты) через Chocolatey или Winget.",
+      "date": "2024-01-20",
+      "readTime": 7,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "windows",
+        "автоматизация",
+        "установка"
+      ],
+      "image": "",
+      "metaTitle": "Автоустановка софта после переустановки Windows",
+      "metaDescription": "PowerShell скрипт для быстрой установки программ."
+    },
+    {
+      "id": "password-managers-review",
+      "category": "Программы",
+      "title": "Менеджеры паролей: какой выбрать",
+      "excerpt": "Сравнение популярных менеджеров паролей: KeePass, LastPass, Bitdefender, 1Password. Критерии выбора и настройка.",
+      "date": "2024-01-18",
+      "readTime": 6,
+      "featured": true,
+      "popular": true,
+      "tags": [
+        "пароли",
+        "безопасность",
+        "менеджер паролей"
+      ],
+      "image": "",
+      "metaTitle": "Как выбрать менеджер паролей",
+      "metaDescription": "Обзор лучших менеджеров паролей для безопасного хранения."
     }
   ]
 }
