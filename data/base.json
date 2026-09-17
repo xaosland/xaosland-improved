@@ -1,6 +1,308 @@
 {
   "articles": [
     {
+      "id": "yandeks-vypustil-svoy-analog-microsoft-office-do-2026-09-17",
+      "category": "Новости",
+      "title": "«Яндекс» выпустил свой аналог Microsoft Office — «Документы» работают офлайн, но требуют платную подписку",
+      "excerpt": "«Яндекс» открыл широкому кругу пользователей доступ к программе «Документы», предназначенной для работы с текстами и электронными таблицами на настольных ПК — она работает без подключения к интернету, но для редактирования требуется платная подписка ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yandeks-vypustil-svoy-analog-microsoft-office-do-2026-09-17.webp",
+      "metaTitle": "«Яндекс» выпустил свой аналог Microsoft Office — «Документы»",
+      "metaDescription": "«Яндекс» открыл широкому кругу пользователей доступ к программе «Документы», предназначенной для работы с текстами и электронными таблицами на настоль",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148663"
+    },
+    {
+      "id": "bose-predstavila-besprovodnye-naushniki-klipsy-u-2026-09-17",
+      "category": "Новости",
+      "title": "Bose представила беспроводные наушники-клипсы Ultra Open Earbuds 2-го поколения по цене $299, а также модель для спортсменов",
+      "excerpt": "Компания Bose анонсировала беспроводные наушники-клипсы Ultra Open Earbuds второго поколения, получившие слегка изменённый дизайн, улучшенное качество звука и увеличенное время автономной работы. В дополнение были представлены наушники Bose Sport Ope",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bose-predstavila-besprovodnye-naushniki-klipsy-u-2026-09-17.webp",
+      "metaTitle": "Bose представила беспроводные наушники-клипсы Ultra Open Ear",
+      "metaDescription": "Компания Bose анонсировала беспроводные наушники-клипсы Ultra Open Earbuds второго поколения, получившие слегка изменённый дизайн, улучшенное качество",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148664"
+    },
+    {
+      "id": "china-s-famoussparrow-hackers-target-latin-ameri-2026-09-17",
+      "category": "Новости",
+      "title": "Китайские хакеры FamousSparrow нацелены на Латинскую Америку с помощью нового бэкдора",
+      "excerpt": "Предполагаемые китайские хакеры взламывают правительственные учреждения по всей Латинской Америке, используя новый бэкдор, который исследователи называют «SparroWocky».",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/china-s-famoussparrow-hackers-target-latin-ameri-2026-09-17.webp",
+      "metaTitle": "Китайские хакеры FamousSparrow нацелены на Латинскую Америку",
+      "metaDescription": "Предполагаемые китайские хакеры взламывают правительственные учреждения по всей Латинской Америке, используя новый бэкдор, который исследователи назыв",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/china-hackers-latin-america-espionage"
+    },
+    {
+      "id": "takih-toyota-hilux-esche-ne-bylo-predstavila-uni-2026-09-17",
+      "category": "Новости",
+      "title": "Таких Toyota Hilux ещё не было: представила уникальный прототип для «Дакара-2027»",
+      "excerpt": "Toyota Gazoo Racing представила экспериментальный DKR GR FC Hilux, который примет участие в ралли-рейде «Дакар-2027» в Саудовской Аравии. В отличие от привычных гоночных Hilux, прототип получил водородную силовую установку на топливных элементах вмес",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/takih-toyota-hilux-esche-ne-bylo-predstavila-uni-2026-09-17.webp",
+      "metaTitle": "Таких Toyota Hilux ещё не было: представила уникальный прото",
+      "metaDescription": "Toyota Gazoo Racing представила экспериментальный DKR GR FC Hilux, который примет участие в ралли-рейде «Дакар-2027» в Саудовской Аравии. В отличие от",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436530-takix-toyota-hilux-eshhe-ne-bylo-predstavila-unikalnyi-prototip-dlia-dakara-2027.html"
+    },
+    {
+      "id": "neuralink-vpervye-pokazala-kak-myslennaya-rech-p-2026-09-17",
+      "category": "Новости",
+      "title": "Neuralink впервые показала, как мысленная речь превращается в слова",
+      "excerpt": "Neuralink впервые продемонстрировала, как её беспроводной мозговой чип N1 преобразует воображаемую речь в слова. Пациент Кеннет Шок (Kenneth Schock) с боковым амиотрофическим склерозом, которому имплант установили в январе, представил, что произносит",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/neuralink-vpervye-pokazala-kak-myslennaya-rech-p-2026-09-17.webp",
+      "metaTitle": "Neuralink впервые показала, как мысленная речь превращается ",
+      "metaDescription": "Neuralink впервые продемонстрировала, как её беспроводной мозговой чип N1 преобразует воображаемую речь в слова. Пациент Кеннет Шок (Kenneth Schock) с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436529-neuralink-vpervye-pokazala-kak-myslennaia-rec-prevrashhaetsia-v-slova.html"
+    },
+    {
+      "id": "microsoft-dumala-o-bezdiskovom-xbox-esche-v-2011-2026-09-17",
+      "category": "Новости",
+      "title": "Microsoft думала о бездисковом Xbox ещё в 2011 году — теперь идея воплотилась в «оцифровке» дисков",
+      "excerpt": "Программа «оцифровки» игровых дисков для приставок Xbox от компании Microsoft берёт своё начало 15 лет назад. И теперь она стала важной частью усилий Xbox по сохранению игрового наследия. Об этом рассказал журналист Том Уоррен (Tom Warren) из The Ver",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-dumala-o-bezdiskovom-xbox-esche-v-2011-2026-09-17.webp",
+      "metaTitle": "Microsoft думала о бездисковом Xbox ещё в 2011 году — теперь",
+      "metaDescription": "Программа «оцифровки» игровых дисков для приставок Xbox от компании Microsoft берёт своё начало 15 лет назад. И теперь она стала важной частью усилий ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148671"
+    },
+    {
+      "id": "dva-raza-po-200-mp-i-kamera-hasselblad-oppo-opub-2026-09-17",
+      "category": "Новости",
+      "title": "Два раза по 200 Мп и камера Hasselblad. Oppo опубликовала примеры фото, сделанных камерой будущего флагмана Find X10",
+      "excerpt": "Oppo опубликовала примеры фото, сделанные камерой нового флагмана Find X10. Этот смартфон станет базовой моделью семейства Find X10, помимо него в линейку войдут также Find X10 Pro Max и Find X10 E. Официальная премьера состоится 22 сентября. В предд",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dva-raza-po-200-mp-i-kamera-hasselblad-oppo-opub-2026-09-17.webp",
+      "metaTitle": "Два раза по 200 Мп и камера Hasselblad. Oppo опубликовала пр",
+      "metaDescription": "Oppo опубликовала примеры фото, сделанные камерой нового флагмана Find X10. Этот смартфон станет базовой моделью семейства Find X10, помимо него в лин",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436532-dva-raza-po-200-mp-i-kamera-hasselblad-oppo-opublikovala-primery-foto-sdelannye-kameroi-budushhego-flagmana-find-x10.html"
+    },
+    {
+      "id": "european-commission-set-to-push-social-media-res-2026-09-17",
+      "category": "Новости",
+      "title": "Европейская комиссия собирается внести в закон ограничения в социальных сетях и требования безопасности",
+      "excerpt": "Предложение, известное как Закон ЕС о детях, запретит платформам социальных сетей предлагать учетные записи детям младше 13 лет и установит для всего блока минимальный возраст в 15 лет для создания учетных записей.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/european-commission-set-to-push-social-media-res-2026-09-17.webp",
+      "metaTitle": "Европейская комиссия собирается внести в закон ограничения в",
+      "metaDescription": "Предложение, известное как Закон ЕС о детях, запретит платформам социальных сетей предлагать учетные записи детям младше 13 лет и установит для всего ",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law"
+    },
+    {
+      "id": "spacex-otkazyvaetsya-ot-crew-dragon-nasa-vynuzhd-2026-09-17",
+      "category": "Новости",
+      "title": "SpaceX отказывается от Crew Dragon — NASA вынуждено сделать ставку на проблемный Starliner",
+      "excerpt": "На будущей неделе NASA планирует объявить о заказе двух дополнительных пилотируемых миссий корабля Starliner у Boeing, а также о частичном финансировании устранения проблем с двигательной установкой и сертификации корабля для запуска на новой ракете,",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spacex-otkazyvaetsya-ot-crew-dragon-nasa-vynuzhd-2026-09-17.webp",
+      "metaTitle": "SpaceX отказывается от Crew Dragon — NASA вынуждено сделать ",
+      "metaDescription": "На будущей неделе NASA планирует объявить о заказе двух дополнительных пилотируемых миссий корабля Starliner у Boeing, а также о частичном финансирова",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436534-spacex-otkazyvaetsia-ot-crew-dragon-nasa-vynuzdeno-sdelat-stavku-na-problemnyi-starliner.html"
+    },
+    {
+      "id": "organika-iz-glubin-solnechnoy-sistemy-okazalas-g-2026-09-17",
+      "category": "Новости",
+      "title": "Органика из глубин Солнечной системы оказалась гораздо сложнее, чем считалось: ученые обнаружили десятки тысяч молекулярных составов в двух метеоритах",
+      "excerpt": "Американские ученые подробно изучили органическое вещество внутри двух метеоритов и обнаружили десятки тысяч молекулярных составов углеродсодержащих веществ. Кроме того, исследователям удалось получить изображения отдельных внеземных молекул с разреш",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/organika-iz-glubin-solnechnoy-sistemy-okazalas-g-2026-09-17.webp",
+      "metaTitle": "Органика из глубин Солнечной системы оказалась гораздо сложн",
+      "metaDescription": "Американские ученые подробно изучили органическое вещество внутри двух метеоритов и обнаружили десятки тысяч молекулярных составов углеродсодержащих в",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436535-organika-iz-glubin-solnecnoi-sistemy-okazalas-gorazdo-sloznee-cem-scitalos-ucenye-obnaruzili-desiatki-tysiac-molekuliarnyx-sostavov-v-dvux-meteoritax.html"
+    },
+    {
+      "id": "v-evrope-zapuskayut-kannibalizatsiyu-airbus-a320-2026-09-17",
+      "category": "Новости",
+      "title": "В Европе запускают каннибализацию Airbus A320neo и Boeing 737 MAX: десяток почти новых самолётов разберут на запчасти",
+      "excerpt": "Французская компания TARMAC Aerosave до конца 2026 года разберет более десяти современных узкофюзеляжных самолетов Airbus A320neo и Boeing 737 MAX. Заказчиком выступила британская AerFin, специализирующаяся на поставках авиационных компонентов. Причи",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-evrope-zapuskayut-kannibalizatsiyu-airbus-a320-2026-09-17.webp",
+      "metaTitle": "В Европе запускают каннибализацию Airbus A320neo и Boeing 73",
+      "metaDescription": "Французская компания TARMAC Aerosave до конца 2026 года разберет более десяти современных узкофюзеляжных самолетов Airbus A320neo и Boeing 737 MAX. За",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436538-v-evrope-zapuskaiut-kannibalizaciiu-airbus-a320neo-i-boeing-737-max-desiatok-pocti-novyx-samoletov-razberut-na-zapcasti.html"
+    },
+    {
+      "id": "novaya-statya-obzor-full-hd-ips-monitora-msi-pro-2026-09-17",
+      "category": "Новости",
+      "title": "Новая статья: Обзор Full HD IPS-монитора MSI PRO MAX 271PHW E14: гни свою линию",
+      "excerpt": "В свете десятков громких анонсов игровых и профессиональных OLED-мониторов, продвинутых решений с многозонными Mini-LED- и RGB Mini-LED-подсветками может показаться, что дисплеи попроще производителям более не интересны. Компания MSI со своим новым P",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-obzor-full-hd-ips-monitora-msi-pro-2026-09-17.webp",
+      "metaTitle": "Новая статья: Обзор Full HD IPS-монитора MSI PRO MAX 271PHW ",
+      "metaDescription": "В свете десятков громких анонсов игровых и профессиональных OLED-мониторов, продвинутых решений с многозонными Mini-LED- и RGB Mini-LED-подсветками мо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148319"
+    },
+    {
+      "id": "cisa-ditches-weekly-vulnerability-roundups-for-r-2026-09-17",
+      "category": "Новости",
+      "title": "CISA отказывается от еженедельных обзоров уязвимостей в пользу рисков",
+      "excerpt": "Этот шаг соответствует рекомендациям агентства о необходимости определения приоритетности уязвимостей, которые действительно имеют значение.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "CISA отказывается от еженедельных обзоров уязвимостей в поль",
+      "metaDescription": "Этот шаг соответствует рекомендациям агентства о необходимости определения приоритетности уязвимостей, которые действительно имеют значение.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus"
+    },
+    {
+      "id": "new-rathat-android-malware-uses-ai-to-automate-d-2026-09-17",
+      "category": "Новости",
+      "title": "Новое вредоносное ПО RatHat для Android использует искусственный интеллект для автоматизации управления устройствами",
+      "excerpt": "Обнаружено новое вредоносное ПО для Android под названием RatHat, нацеленное на пользователей с помощью подсистемы на базе искусственного интеллекта, которая помогает операторам удаленно перемещаться по взломанным устройствам. [...]",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-rathat-android-malware-uses-ai-to-automate-d-2026-09-17.webp",
+      "metaTitle": "Новое вредоносное ПО RatHat для Android использует искусстве",
+      "metaDescription": "Обнаружено новое вредоносное ПО для Android под названием RatHat, нацеленное на пользователей с помощью подсистемы на базе искусственного интеллекта, ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/"
+    },
+    {
+      "id": "analog-porsche-taycan-tolko-v-razy-deshevle-pred-2026-09-17",
+      "category": "Новости",
+      "title": "Аналог Porsche Taycan, только в разы дешевле. Представлены BYD Fangchengbao S и S GT: «дьяволские» 666 л.с., полный привод, режим дрифта — всего 240 тыс. юаней (3 млн рублей)",
+      "excerpt": "Принадлежащий BYD бренд Fangchengbao представил на китайском рынке сразу два новых электромобиля — S и S GT. Первый представляет собой крупный лифтбэк, второй выполнен в кузове шутинг-брейк. Цены новинок варьируются от 189 900 до 239 900 юаней — прим",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/analog-porsche-taycan-tolko-v-razy-deshevle-pred-2026-09-17.webp",
+      "metaTitle": "Аналог Porsche Taycan, только в разы дешевле. Представлены B",
+      "metaDescription": "Принадлежащий BYD бренд Fangchengbao представил на китайском рынке сразу два новых электромобиля — S и S GT. Первый представляет собой крупный лифтбэк",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/analog-porsche-taycan-tolko-v-razy-desevle-predstavleny-byd-fangchengbao-s-i-s-gt-diavolskie-666-ls-polnyi-privod-rezim-drifta-vsego-240-tys-iuanei-3-mln-rublei.html"
+    },
+    {
       "id": "syuzhetnyy-treyler-call-of-duty-modern-warfare-4-2026-09-17",
       "category": "Новости",
       "title": "Сюжетный трейлер Call of Duty: Modern Warfare 4 рассекретил личность главного злодея — его сыграет звезда Death Stranding Мадс Миккельсен",
