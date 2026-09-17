@@ -197,6 +197,7 @@ header {
     display: flex;
     align-items: center;
     gap: 8px;
+    white-space: nowrap;
 }
 .nav-link i { font-size: 0.9rem; }
 .nav-link::after {
@@ -221,6 +222,15 @@ header {
 /* RGB-глитч на навигацию (без дрожания) */
 .nav-link:hover {
     text-shadow: 2px 0 var(--glitch-color-1), -2px 0 var(--glitch-color-2), 1px 1px var(--glitch-color-3);
+}
+
+/* Средние экраны (ноуты/планшеты горизонтально): ужимаем меню,
+   чтобы пункты не переносились и влезали до бургера */
+@media (max-width: 1350px) and (min-width: 1120px) {
+    .nav-list { gap: 13px; }
+    .nav-link { font-size: 0.8rem; letter-spacing: 0.5px; gap: 6px; padding: 8px 0; }
+    .nav-link i { display: none; }
+    .hacker-terminal { font-size: 1.05rem; }
 }
 
 /* ===== Quick Filters ===== */
@@ -547,7 +557,7 @@ footer {
         gap: 40px 30px;
     }
 }
-@media (max-width: 1040px) {
+@media (max-width: 1119px) {
     .burger-btn {
         display: flex;
     }
@@ -588,7 +598,9 @@ footer {
         border-bottom: 1px solid var(--border-color);
         font-size: 1rem;
         width: 100%;
+        white-space: normal; /* в вертикальном меню перенос разрешён */
     }
+    .nav-link i { display: inline-flex; /* иконки в бургере возвращаем */ }
     .nav-link::after {
         display: none;
     }
@@ -603,6 +615,8 @@ footer {
         overflow: hidden;
         height: 100%;
     }
+}
+@media (max-width: 1040px) {
     .article-title { font-size: 1.6rem; }
     .article-content { padding: 25px; }
     .article-image { height: 200px; }
