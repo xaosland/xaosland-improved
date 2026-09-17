@@ -155,7 +155,8 @@
                 'about': '/about.html',
                 'contacts': '/contacts.html',
                 'privacy': '/privacy.html',
-                'latest': '/latest.html'
+                'latest': '/latest.html',
+                'latest.html': '/latest.html'
             };
 
             this.initScrollTop();
