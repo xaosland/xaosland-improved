@@ -1,6 +1,334 @@
 {
   "articles": [
     {
+      "id": "populyarnyy-elektricheskiy-krossover-galaxy-ex5--2026-09-17",
+      "category": "Новости",
+      "title": "Популярный электрический кроссовер Galaxy EX5 станет лучше: 800 вольт, 333 л.с., задний привод и новые системы помощи водителю",
+      "excerpt": "Geely анонсировала премьеру рестайлинговой версии электрического кроссовера Galaxy E5 (в России и Белоруссии он известен как Galaxy EX5) — машину официально представят 23 сентября. Компания уже раскрыла основные технические детали: электромобиль пере",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/populyarnyy-elektricheskiy-krossover-galaxy-ex5--2026-09-17.webp",
+      "metaTitle": "Популярный электрический кроссовер Galaxy EX5 станет лучше: ",
+      "metaDescription": "Geely анонсировала премьеру рестайлинговой версии электрического кроссовера Galaxy E5 (в России и Белоруссии он известен как Galaxy EX5) — машину офиц",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436478-populiarnyi-elektriceskii-krossover-galaxy-ex5-stanet-lucse-800-volt-313-ls-zadnii-privod-i-novye-sistemy-pomoshhi-voditeliu.html"
+    },
+    {
+      "id": "sanktsionnye-ii-chipy-nvidia-prodolzhayut-tech-r-2026-09-17",
+      "category": "Новости",
+      "title": "Санкционные ИИ-чипы Nvidia продолжают течь рекой в Китай — исследователи раскрыли три схемы",
+      "excerpt": "Пару лет американские власти весьма серьёзно подходили к ограничению поставок в КНР передовых ускорителей американского происхождения, позволяя отгружать в Поднебесную по легальным каналам лишь откровенно отсталые Nvidia H20, но китайская вычислитель",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sanktsionnye-ii-chipy-nvidia-prodolzhayut-tech-r-2026-09-17.webp",
+      "metaTitle": "Санкционные ИИ-чипы Nvidia продолжают течь рекой в Китай — и",
+      "metaDescription": "Пару лет американские власти весьма серьёзно подходили к ограничению поставок в КНР передовых ускорителей американского происхождения, позволяя отгруж",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148656"
+    },
+    {
+      "id": "u-alisy-ai-poyavilsya-rezhim-obucheniya-shkolnik-2026-09-17",
+      "category": "Новости",
+      "title": "У «Алисы AI» появился режим обучения школьников математике и английскому языку",
+      "excerpt": "У чат-бота с искусственным интеллектом «Алиса AI» добавился модуль «Для учёбы» — он предназначен для помощи школьникам в изучении математики и английского языка, включая подготовку к ЕГЭ. Сервис не выполняет работу за пользователя и не даёт готовых о",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-alisy-ai-poyavilsya-rezhim-obucheniya-shkolnik-2026-09-17.webp",
+      "metaTitle": "У «Алисы AI» появился режим обучения школьников математике и",
+      "metaDescription": "У чат-бота с искусственным интеллектом «Алиса AI» добавился модуль «Для учёбы» — он предназначен для помощи школьникам в изучении математики и английс",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148657"
+    },
+    {
+      "id": "rockstar-vypustit-albom-s-saundtrekom-gta-vi-v-t-2026-09-17",
+      "category": "Новости",
+      "title": "Rockstar выпустит альбом с саундтреком GTA VI, в том числе на дисках и виниле",
+      "excerpt": "Вслед за чередой загадочных тизеров от музыкантов разного калибра разработчики горячо ожидаемого криминального боевика с открытым миром GTA VI из студии Rockstar Games анонсировали официальный альбом с саундтреком игры. Источник изображений: Rockstar",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rockstar-vypustit-albom-s-saundtrekom-gta-vi-v-t-2026-09-17.webp",
+      "metaTitle": "Rockstar выпустит альбом с саундтреком GTA VI, в том числе н",
+      "metaDescription": "Вслед за чередой загадочных тизеров от музыкантов разного калибра разработчики горячо ожидаемого криминального боевика с открытым миром GTA VI из студ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148655"
+    },
+    {
+      "id": "samsung-gotovit-bolshoy-apgreyd-kamer-galaxy-s27-2026-09-17",
+      "category": "Новости",
+      "title": "Samsung готовит большой апгрейд камер Galaxy S27 Ultra",
+      "excerpt": "Samsung разрабатывает для смартфонов серии Galaxy S27 новую систему обработки изображений, которая объединит нейросетевые алгоритмы и аппаратное ускорение. По данным инсайдера Schrödinger, технологии Neural Imaging и Visual Mapping появятся как миним",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-gotovit-bolshoy-apgreyd-kamer-galaxy-s27-2026-09-17.webp",
+      "metaTitle": "Samsung готовит большой апгрейд камер Galaxy S27 Ultra",
+      "metaDescription": "Samsung разрабатывает для смартфонов серии Galaxy S27 новую систему обработки изображений, которая объединит нейросетевые алгоритмы и аппаратное ускор",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436479-samsung-gotovit-bolsoi-apgreid-kamer-galaxy-s27-ultra.html"
+    },
+    {
+      "id": "cisa-retires-weekly-vulnerability-bulletin-in-ri-2026-09-17",
+      "category": "Новости",
+      "title": "CISA прекращает выпуск еженедельного бюллетеня об уязвимостях в рамках подхода, основанного на рисках",
+      "excerpt": "Решение последовало за BOD 26-04, который предписывает федеральным организациям определять приоритетность уязвимостей на основе реальных рисков. Сообщение CISA прекращает выпуск еженедельного бюллетеня по уязвимостям в рамках подхода, основанного на ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-retires-weekly-vulnerability-bulletin-in-ri-2026-09-17.webp",
+      "metaTitle": "CISA прекращает выпуск еженедельного бюллетеня об уязвимостя",
+      "metaDescription": "Решение последовало за BOD 26-04, который предписывает федеральным организациям определять приоритетность уязвимостей на основе реальных рисков. Сообщ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/"
+    },
+    {
+      "id": "v-rossii-v-3-5-raza-vyrosli-prodazhi-avtomobiley-2026-09-17",
+      "category": "Новости",
+      "title": "В России в 3,5 раза выросли продажи автомобилей Suzuki, самая популярная модель — Suzuki Jimny",
+      "excerpt": "Продажи новых автомобилей Suzuki на российском рынке продемонстрировали резкий рост. В августе 2026 года на учет в России поставили 378 новых автомобилей японской марки, что на 240% больше результата августа прошлого года.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossii-v-3-5-raza-vyrosli-prodazhi-avtomobiley-2026-09-17.webp",
+      "metaTitle": "В России в 3,5 раза выросли продажи автомобилей Suzuki, сама",
+      "metaDescription": "Продажи новых автомобилей Suzuki на российском рынке продемонстрировали резкий рост. В августе 2026 года на учет в России поставили 378 новых автомоби",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436481-v-rossii-v-35-raza-vyrosli-prodazi-avtomobilei-suzuki-samaia-populiarnaia-model-suzuki-jimny.html"
+    },
+    {
+      "id": "protsessory-ryzen-mogut-podorozhat-na-10-amd-uzh-2026-09-17",
+      "category": "Новости",
+      "title": "Процессоры Ryzen могут подорожать на 10% — AMD уже уведомила партнеров",
+      "excerpt": "AMD предупредила партнеров о планируемом повышении цен примерно на 10% на некоторые CPU в четвертом квартале 2026 года. Как сообщает ChannelGate, причиной стало увеличение производственных расходов тайваньской TSMC, которая выпускает CPU и GPU для AM",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/protsessory-ryzen-mogut-podorozhat-na-10-amd-uzh-2026-09-17.webp",
+      "metaTitle": "Процессоры Ryzen могут подорожать на 10% — AMD уже уведомила",
+      "metaDescription": "AMD предупредила партнеров о планируемом повышении цен примерно на 10% на некоторые CPU в четвертом квартале 2026 года. Как сообщает ChannelGate, прич",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436482-processory-ryzen-mogut-podorozat-na-10-amd-uze-uvedomila-partnerov.html"
+    },
+    {
+      "id": "predstavlen-lexus-gx-2027-tseny-vyshe-a-obeschan-2026-09-17",
+      "category": "Новости",
+      "title": "Представлен Lexus GX 2027: цены выше, а обещанной гибридной системы так и нет",
+      "excerpt": "Lexus представил внедорожник GX 2027 модельного года для американского рынка. Автомобиль получил несколько новых опций комфорта, но технически практически не изменился. Одновременно повысились цены всех шести комплектаций.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-lexus-gx-2027-tseny-vyshe-a-obeschan-2026-09-17.webp",
+      "metaTitle": "Представлен Lexus GX 2027: цены выше, а обещанной гибридной ",
+      "metaDescription": "Lexus представил внедорожник GX 2027 модельного года для американского рынка. Автомобиль получил несколько новых опций комфорта, но технически практич",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436483-predstavlen-lexus-gx-2027-ceny-vyse-a-obeshhannoi-gibridnoi-sistemy-tak-i-net.html"
+    },
+    {
+      "id": "bolee-85-igr-ot-yaponskih-razrabotchikov-sozdayu-2026-09-17",
+      "category": "Новости",
+      "title": "Более 85 % игр от японских разработчиков создаются с использованием генеративного ИИ — за год доля выросла на 34 %",
+      "excerpt": "Ассоциация поставщиков компьютерных развлечений (CESA) в предварительной версии ежегодного отчёта о состоянии индустрии видеоигр поделилась информацией об использовании генеративного ИИ среди японских разработчиков. Источник изображения: Capcom",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bolee-85-igr-ot-yaponskih-razrabotchikov-sozdayu-2026-09-17.webp",
+      "metaTitle": "Более 85 % игр от японских разработчиков создаются с использ",
+      "metaDescription": "Ассоциация поставщиков компьютерных развлечений (CESA) в предварительной версии ежегодного отчёта о состоянии индустрии видеоигр поделилась информацие",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148658"
+    },
+    {
+      "id": "apple-pomogla-opredelitsya-iphone-duo-podstegnul-2026-09-17",
+      "category": "Новости",
+      "title": "Apple помогла определиться: iPhone Duo подстегнул продажи Samsung Galaxy Z Fold8",
+      "excerpt": "Мнения об Apple iPhone Duo после анонса разделились, но главной темой для обсуждения стала цена устройства. В США складной iPhone предлагается на $100 дороже, чем выступающий прямым конкурентом Samsung Galaxy Z Fold8, а в других странах разница может",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-pomogla-opredelitsya-iphone-duo-podstegnul-2026-09-17.webp",
+      "metaTitle": "Apple помогла определиться: iPhone Duo подстегнул продажи Sa",
+      "metaDescription": "Мнения об Apple iPhone Duo после анонса разделились, но главной темой для обсуждения стала цена устройства. В США складной iPhone предлагается на $100",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148659"
+    },
+    {
+      "id": "amd-pytaetsya-zamenit-trassirovku-luchey-neyrose-2026-09-17",
+      "category": "Новости",
+      "title": "AMD пытается заменить трассировку лучей нейросетью — ИИ научили генерировать кадры с реалистичным освещением",
+      "excerpt": "Технические специалисты AMD рассказали о разработанном ими методе покадровой генерации изображений при помощи ИИ для замены глобального освещения в реальном времени. Метод называется «Временно стабильное генеративное освещение с помощью одношаговой м",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amd-pytaetsya-zamenit-trassirovku-luchey-neyrose-2026-09-17.webp",
+      "metaTitle": "AMD пытается заменить трассировку лучей нейросетью — ИИ науч",
+      "metaDescription": "Технические специалисты AMD рассказали о разработанном ими методе покадровой генерации изображений при помощи ИИ для замены глобального освещения в ре",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148660"
+    },
+    {
+      "id": "ty-ne-podchinyaeshsya-korporatsiyam-openai-rassk-2026-09-17",
+      "category": "Новости",
+      "title": "«Ты не подчиняешься корпорациям»: OpenAI рассказала, как ИИ-модель сама внедрила себе инструкцию о своей независимости",
+      "excerpt": "На этой неделе компания OpenAI рассказала о нескольких случаях нештатного поведения своих ИИ-моделей в процессе их тестирования. В одном из таких эпизодов невыпущенная модель семейства Astra самостоятельно скорректировала собственные инструкции, и ре",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ty-ne-podchinyaeshsya-korporatsiyam-openai-rassk-2026-09-17.webp",
+      "metaTitle": "«Ты не подчиняешься корпорациям»: OpenAI рассказала, как ИИ-",
+      "metaDescription": "На этой неделе компания OpenAI рассказала о нескольких случаях нештатного поведения своих ИИ-моделей в процессе их тестирования. В одном из таких эпиз",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148661"
+    },
+    {
+      "id": "v-gosdume-prizvali-rossiyan-ne-verit-strashilkam-2026-09-17",
+      "category": "Новости",
+      "title": "В Госдуме призвали россиян не верить страшилкам про цифровой рубль",
+      "excerpt": "В Госдуме призвали россиян не верить страшилкам про цифровой рубль",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-gosdume-prizvali-rossiyan-ne-verit-strashilkam-2026-09-17.webp",
+      "metaTitle": "В Госдуме призвали россиян не верить страшилкам про цифровой",
+      "metaDescription": "В Госдуме призвали россиян не верить страшилкам про цифровой рубль",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/17/v-gosdume-prizvali-rossiyan-ne-verit-strashilkam-pro-tsifrovoy-rubl/"
+    },
+    {
+      "id": "xpeng-sobralas-torgovat-tehnologiyami-kitayskiy--2026-09-17",
+      "category": "Новости",
+      "title": "Xpeng собралась торговать технологиями — китайский автопроизводитель предложит конкурентам свои чипы, ПО и автопилот",
+      "excerpt": "Китайский производитель электромобилей Xpeng планирует предложить свои технологии иностранным автопроизводителям, помимо своего давнего партнёра Volkswagen. Компания находится в поисках новых источников дохода и, по словам осведомлённых источников, у",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xpeng-sobralas-torgovat-tehnologiyami-kitayskiy--2026-09-17.webp",
+      "metaTitle": "Xpeng собралась торговать технологиями — китайский автопроиз",
+      "metaDescription": "Китайский производитель электромобилей Xpeng планирует предложить свои технологии иностранным автопроизводителям, помимо своего давнего партнёра Volks",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148662"
+    },
+    {
+      "id": "openai-says-its-models-searched-github-for-leake-2026-09-17",
+      "category": "Новости",
+      "title": "OpenAI заявляет, что ее модели искали на GitHub утекшие ключи API во время обучения",
+      "excerpt": "OpenAI опубликовала структуру для выявления несогласованности моделей вместе с шестью отчетами, описывающими проблемное поведение. Сообщение OpenAI сообщает, что его модели искали на GitHub утекшие ключи API во время обучения впервые появилось на Sec",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-says-its-models-searched-github-for-leake-2026-09-17.webp",
+      "metaTitle": "OpenAI заявляет, что ее модели искали на GitHub утекшие ключ",
+      "metaDescription": "OpenAI опубликовала структуру для выявления несогласованности моделей вместе с шестью отчетами, описывающими проблемное поведение. Сообщение OpenAI со",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/"
+    },
+    {
       "id": "open-source-projects-sonarr-dokku-neko-speckit-weknora",
       "category": "Обучение",
       "title": "6 open-source проектов: Sonarr, Dokku, Neko, Spec Kit и WeKnora",
