@@ -1,6 +1,338 @@
 {
   "articles": [
     {
+      "id": "za-pyat-let-mirovoy-rynok-chipov-pochti-udvoitsy-2026-09-17",
+      "category": "Новости",
+      "title": "За пять лет мировой рынок чипов почти удвоится — память и ЦОД разгонят его до $3,2 трлн",
+      "excerpt": "Чтобы преодолеть планку в $1 трлн целевой ёмкости, рынку полупроводниковой продукции потребовалось примерно 50 лет, но дальнейшее движение происходит гораздо более высокими темпами. По оценкам Bank of America, в период с 2026 до 2030 года объём целев",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/za-pyat-let-mirovoy-rynok-chipov-pochti-udvoitsy-2026-09-17.webp",
+      "metaTitle": "За пять лет мировой рынок чипов почти удвоится — память и ЦО",
+      "metaDescription": "Чтобы преодолеть планку в $1 трлн целевой ёмкости, рынку полупроводниковой продукции потребовалось примерно 50 лет, но дальнейшее движение происходит ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148636"
+    },
+    {
+      "id": "luchshee-za-nedelyu-7-09-13-09-2026-09-17",
+      "category": "Новости",
+      "title": "Лучшее за неделю (7.09 — 13.09)",
+      "excerpt": "Привет, Хабр! Сегодня расскажем про первое место RUVDS в рейтинге «Компьютерры», новый российский браузер со встроенной криптографией, собственный сервер CS2 на VPS, а также лучшие статьи прошлой недели: про ремастер «Тома и Джерри» в 4K, беспокойств",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/luchshee-za-nedelyu-7-09-13-09-2026-09-17.webp",
+      "metaTitle": "Лучшее за неделю (7.09 — 13.09)",
+      "metaDescription": "Привет, Хабр! Сегодня расскажем про первое место RUVDS в рейтинге «Компьютерры», новый российский браузер со встроенной криптографией, собственный сер",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ruvds/news/1083292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083292"
+    },
+    {
+      "id": "google-nachala-delit-android-na-svoy-i-chuzhoy-g-2026-09-17",
+      "category": "Новости",
+      "title": "Google начала делить Android на «свой» и «чужой» — GrapheneOS пожаловалась на закрытые API и задержку патчей",
+      "excerpt": "С сентябрьским пакетом Pixel Drop компания Google выпустила стабильное обновление Android 17 QPR1 — оно привнесло ряд новых функций и изменений для поддерживаемых смартфонов Pixel. Представители проекта GrapheneOS, однако, обвинили Google в том, что ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-nachala-delit-android-na-svoy-i-chuzhoy-g-2026-09-17.webp",
+      "metaTitle": "Google начала делить Android на «свой» и «чужой» — GrapheneO",
+      "metaDescription": "С сентябрьским пакетом Pixel Drop компания Google выпустила стабильное обновление Android 17 QPR1 — оно привнесло ряд новых функций и изменений для по",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148638"
+    },
+    {
+      "id": "s-mobilnoy-geforce-rtx-5090-snyali-tsifrovoy-osh-2026-09-17",
+      "category": "Новости",
+      "title": "С мобильной GeForce RTX 5090 сняли «цифровой ошейник»: потребление поднялось до 250 Вт, производительность выросла на 40%",
+      "excerpt": "Энтузиасту удалось снять ограничение мощности мобильной Nvidia GeForce RTX 5090, за счет чего ее потребление повысилось до 250 Вт вместо стандартных 175 Вт. Необычную модификацию протестировал YouTube-канал GizmoSlipTech на игровом ноутбуке XMG Neo 1",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/s-mobilnoy-geforce-rtx-5090-snyali-tsifrovoy-osh-2026-09-17.webp",
+      "metaTitle": "С мобильной GeForce RTX 5090 сняли «цифровой ошейник»: потре",
+      "metaDescription": "Энтузиасту удалось снять ограничение мощности мобильной Nvidia GeForce RTX 5090, за счет чего ее потребление повысилось до 250 Вт вместо стандартных 1",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436444-s-mobilnoi-geforce-rtx-5090-sniali-cifrovoi-oseinik-potreblenie-poldnialos-do-250-vt-proizvoditelnost-vyrosla-na-40.html"
+    },
+    {
+      "id": "uchenye-ustanovili-tochnuyu-datu-pervogo-sboya-n-2026-09-17",
+      "category": "Новости",
+      "title": "Учёные установили точную дату первого сбоя на железной дороге из-за космической погоды — это случилось раньше, чем можно подумать",
+      "excerpt": "Группа британских учёных провела настоящее детективное расследование первого в истории зафиксированного случая влияния космической погоды на движение поездов, произошедшего ещё в викторианскую эпоху в Англии. Ошибочно считалось, что это событие произ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-ustanovili-tochnuyu-datu-pervogo-sboya-n-2026-09-17.webp",
+      "metaTitle": "Учёные установили точную дату первого сбоя на железной дорог",
+      "metaDescription": "Группа британских учёных провела настоящее детективное расследование первого в истории зафиксированного случая влияния космической погоды на движение ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148639"
+    },
+    {
+      "id": "do-vk-workspace-conf-2026-ostalas-nedelya-2026-09-17",
+      "category": "Новости",
+      "title": "До VK WorkSpace Conf 2026 осталась неделя",
+      "excerpt": "Как масштабировать корпоративные сервисы, внедрять ИИ и сохранять контроль над инфраструктурой? Эти и другие темы обсудим с лидерами рынка 23 сентября на VK WorkSpace Conf 2026 — главной конференции года о работе команд в цифровой среде. Можно участв",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/do-vk-workspace-conf-2026-ostalas-nedelya-2026-09-17.webp",
+      "metaTitle": "До VK WorkSpace Conf 2026 осталась неделя",
+      "metaDescription": "Как масштабировать корпоративные сервисы, внедрять ИИ и сохранять контроль над инфраструктурой? Эти и другие темы обсудим с лидерами рынка 23 сентября",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/vktech/news/1083390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083390"
+    },
+    {
+      "id": "vsego-1-7-pikosekundy-v-kitae-razrabotali-perspe-2026-09-17",
+      "category": "Новости",
+      "title": "Всего 1,7 пикосекунды: в Китае разработали перспективный механизм для сверхбыстрой памяти",
+      "excerpt": "Китайские исследователи впервые разработали способ точно управлять направлением движения атомных слоев в двумерных скользящих сегнетоэлектриках. Авторы сравнивают новый механизм с «рулем», который заставляет слои материала перемещаться по заранее зад",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vsego-1-7-pikosekundy-v-kitae-razrabotali-perspe-2026-09-17.webp",
+      "metaTitle": "Всего 1,7 пикосекунды: в Китае разработали перспективный мех",
+      "metaDescription": "Китайские исследователи впервые разработали способ точно управлять направлением движения атомных слоев в двумерных скользящих сегнетоэлектриках. Автор",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436447-vsego-17-pikosekundy-v-kitae-razrabotali-perspektivnyi-mexanizm-dlia-sverxbystroi-pamiati.html"
+    },
+    {
+      "id": "maserati-obedinyaetsya-s-huawei-no-eto-ne-tochno-2026-09-17",
+      "category": "Новости",
+      "title": "Maserati объединяется с Huawei, но это не точно — люксовые электромобили будут собирать в Италии из китайских комплектующих",
+      "excerpt": "Шутки про вероятность родства между «Москвичом» и итальянской маркой Maserati могут неожиданно стать пророческими, поскольку к производству машин обеих марок может оказаться причастной компания JAC. По крайней мере, китайские СМИ сообщают, что Masera",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/maserati-obedinyaetsya-s-huawei-no-eto-ne-tochno-2026-09-17.webp",
+      "metaTitle": "Maserati объединяется с Huawei, но это не точно — люксовые э",
+      "metaDescription": "Шутки про вероятность родства между «Москвичом» и итальянской маркой Maserati могут неожиданно стать пророческими, поскольку к производству машин обеи",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148641"
+    },
+    {
+      "id": "us-takes-down-nightmarestresser-ddos-for-hire-pl-2026-09-17",
+      "category": "Новости",
+      "title": "США отключили платформу NightmareStresser для DDoS-атак по найму",
+      "excerpt": "Федеральное бюро расследований США (ФБР) конфисковало домены, используемые NightmareStresser, одной из старейших в мире платформ распределенного отказа в обслуживании (DDoS). [...]",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/us-takes-down-nightmarestresser-ddos-for-hire-pl-2026-09-17.webp",
+      "metaTitle": "США отключили платформу NightmareStresser для DDoS-атак по н",
+      "metaDescription": "Федеральное бюро расследований США (ФБР) конфисковало домены, используемые NightmareStresser, одной из старейших в мире платформ распределенного отказ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/"
+    },
+    {
+      "id": "shest-sluchaev-nezhelatelnogo-povedeniya-modeley-2026-09-17",
+      "category": "Новости",
+      "title": "Шесть случаев нежелательного поведения моделей OpenAI",
+      "excerpt": "OpenAI опубликовала шесть новых кейсов misalignment, обнаруженных за последние полгода. В них модели пытались обходить ограничения, скрывать собственные ошибки, использовать чужие API-ключи, публиковать файлы без разрешения и даже организовывать обме",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/shest-sluchaev-nezhelatelnogo-povedeniya-modeley-2026-09-17.webp",
+      "metaTitle": "Шесть случаев нежелательного поведения моделей OpenAI",
+      "metaDescription": "OpenAI опубликовала шесть новых кейсов misalignment, обнаруженных за последние полгода. В них модели пытались обходить ограничения, скрывать собственн",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/bothub/news/1083364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083364"
+    },
+    {
+      "id": "pamyat-samsung-no-ne-ot-samsung-koreyskaya-kompa-2026-09-17",
+      "category": "Новости",
+      "title": "Память Samsung, но не от Samsung: корейская компания передаст производство памяти DDR5 другим компаниям",
+      "excerpt": "Samsung Electronics намерена увеличить производство высокоскоростной памяти HBM, спрос на которую резко вырос из-за бума искусственного интеллекта. Для этого компания планирует активнее передавать выпуск модулей DDR5 сторонним производителям, освобож",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pamyat-samsung-no-ne-ot-samsung-koreyskaya-kompa-2026-09-17.webp",
+      "metaTitle": "Память Samsung, но не от Samsung: корейская компания передас",
+      "metaDescription": "Samsung Electronics намерена увеличить производство высокоскоростной памяти HBM, спрос на которую резко вырос из-за бума искусственного интеллекта. Дл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436449-pamiat-samsung-no-ne-ot-samsung-koreiskaia-kompaniia-peredast-proizvodstvo-pamiati-ddr5-drugim-kompaniiam.html"
+    },
+    {
+      "id": "fbi-takes-down-one-of-the-longest-running-ddos-f-2026-09-17",
+      "category": "Новости",
+      "title": "ФБР закрыло одну из старейших служб DDoS по найму",
+      "excerpt": "ФБР конфисковало домены, стоящие за NightmareStresser, службой по найму DDoS, которую чиновники называют одной из самых продолжительных существующих «загрузочных» операций. Уведомление о конфискации домена (Источник: Министерство юстиции США) «Службы",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fbi-takes-down-one-of-the-longest-running-ddos-f-2026-09-17.webp",
+      "metaTitle": "ФБР закрыло одну из старейших служб DDoS по найму",
+      "metaDescription": "ФБР конфисковало домены, стоящие за NightmareStresser, службой по найму DDoS, которую чиновники называют одной из самых продолжительных существующих «",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/fbi-nightmarestresser-ddos-for-hire-service-seized/"
+    },
+    {
+      "id": "v-biblioteku-konkorda-nyu-gempshir-vernuli-zhurn-2026-09-17",
+      "category": "Новости",
+      "title": "В библиотеку Конкорда, Нью‑Гэмпшир, вернули журнал спустя 132 года после взятия",
+      "excerpt": "В библиотеку города Конкорда, штат Нью‑Гэмпшир, США, недавно вернули сентябрьский выпуск журнала The Century Illustrated Monthly Magazine. Это издание вышло в сентябре 1894 года, а сам журнал прекратили издавать в 1930. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-biblioteku-konkorda-nyu-gempshir-vernuli-zhurn-2026-09-17.webp",
+      "metaTitle": "В библиотеку Конкорда, Нью‑Гэмпшир, вернули журнал спустя 13",
+      "metaDescription": "В библиотеку города Конкорда, штат Нью‑Гэмпшир, США, недавно вернули сентябрьский выпуск журнала The Century Illustrated Monthly Magazine. Это издание",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083394"
+    },
+    {
+      "id": "kodzima-raskryl-glavnuyu-zvezdu-novatorskogo-shp-2026-09-17",
+      "category": "Новости",
+      "title": "Кодзима раскрыл главную звезду новаторского шпионского боевика Physint в духе Metal Gear Solid, и это не Роберт Паттинсон",
+      "excerpt": "Спустя всего неделю после разрыва отношений с PlayStation японский гейм-дизайнер Хидео Кодзима (Hideo Kojima) появился на трансляции Xbox Tokyo Game Show 2026 Broadcast с новостями о двух новых играх своей студии Kojima Productions. Источник изображе",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kodzima-raskryl-glavnuyu-zvezdu-novatorskogo-shp-2026-09-17.webp",
+      "metaTitle": "Кодзима раскрыл главную звезду новаторского шпионского боеви",
+      "metaDescription": "Спустя всего неделю после разрыва отношений с PlayStation японский гейм-дизайнер Хидео Кодзима (Hideo Kojima) появился на трансляции Xbox Tokyo Game S",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148643"
+    },
+    {
+      "id": "yandeks-idet-na-territoriyu-microsoft-office-dok-2026-09-17",
+      "category": "Новости",
+      "title": "«Яндекс» идет на территорию Microsoft Office: «Документы» теперь работают прямо на ПК",
+      "excerpt": "«Яндекс 360» запустил десктопное приложение «Документы» для компьютеров под управлением Windows, macOS и Linux. Оно позволяет создавать и редактировать текстовые документы и электронные таблицы непосредственно на компьютере, причем для работы не треб",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yandeks-idet-na-territoriyu-microsoft-office-dok-2026-09-17.webp",
+      "metaTitle": "«Яндекс» идет на территорию Microsoft Office: «Документы» те",
+      "metaDescription": "«Яндекс 360» запустил десктопное приложение «Документы» для компьютеров под управлением Windows, macOS и Linux. Оно позволяет создавать и редактироват",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436452-iandeks-idet-na-territoriiu-microsoft-office-dokumenty-teper-rabotaiut-priamo-na-pk.html"
+    },
+    {
+      "id": "google-s-new-agent-security-system-detects-tool--2026-09-17",
+      "category": "Новости",
+      "title": "Новая система безопасности агентов Google обнаруживает неправильное использование инструментов, циклы и мошенническое поведение.",
+      "excerpt": "Обнаружение аномалий агента Google — это уровень надзора и аудита на основе рассуждений для автономных агентов, развернутых в среде выполнения агента на платформе Gemini Enterprise Agent и созданный с помощью комплекта разработки агентов (ADK) для Py",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-s-new-agent-security-system-detects-tool--2026-09-17.webp",
+      "metaTitle": "Новая система безопасности агентов Google обнаруживает непра",
+      "metaDescription": "Обнаружение аномалий агента Google — это уровень надзора и аудита на основе рассуждений для автономных агентов, развернутых в среде выполнения агента ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/google-agent-anomaly-detection-audit-layer/"
+    },
+    {
       "id": "vzlomschik-igr-voices38-otvetil-na-isk-denuvo-iz-2026-09-17",
       "category": "Новости",
       "title": "Взломщик игр voices38 ответил на иск Denuvo из‑за обхода систем защиты игр",
