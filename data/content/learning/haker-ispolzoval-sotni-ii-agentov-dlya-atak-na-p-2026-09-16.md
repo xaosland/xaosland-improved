@@ -8,7 +8,7 @@ readTime: 1
 tags: [новости, технологии]
 featured: false
 popular: false
-image: /images/news/haker-ispolzoval-sotni-ii-agentov-dlya-atak-na-p-2026-09-16.webp
+image: /images/learning/haker-ispolzoval-sotni-ii-agentov-dlya-atak-na-p-2026-09-16.webp
 metaTitle: Хакер использовал сотни ИИ-агентов для атак на PaperCut
 metaDescription: Специалисты GreyNoise и Blackpoint Cyber обнаружили масштабную кампанию, нацеленную на серверы PaperCut NG и MF. Неизвестный злоумышленник использовал
 source: Xakep
