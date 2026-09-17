@@ -1,6 +1,1811 @@
 {
   "articles": [
     {
+      "id": "kali-kismet",
+      "category": "Обучение",
+      "title": "Kismet — Детектор беспроводной сети и устройств (метапакет)",
+      "excerpt": "Kismet — это детектор беспроводных сетей и устройств, сниффер, инструмент вардрайвинга и платформа WIDS (обнаружение беспроводных вторжений).",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Kismet — Детектор беспроводной сети и устройств (метапакет)",
+      "metaDescription": "Kismet — это детектор беспроводных сетей и устройств, сниффер, инструмент вардрайвинга и платформа WIDS (обнаружение беспроводных вторжений).",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/kismet/"
+    },
+    {
+      "id": "kali-ligolo-ng",
+      "category": "Обучение",
+      "title": "Ligolo-ng — Усовершенствованный, но простой инструмент туннелирования/поворота, использующий интерфейс TUN.",
+      "excerpt": "Ligolo-ng — это простой, легкий и быстрый инструмент, который позволяет пентестерам устанавливать туннели из обратного соединения TCP/TLS с использованием интерфейса Tun (без необходимости использования SOCKS).",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Ligolo-ng — Усовершенствованный, но простой инструмент тунне",
+      "metaDescription": "Ligolo-ng — это простой, легкий и быстрый инструмент, который позволяет пентестерам устанавливать туннели из обратного соединения TCP/TLS с использова",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/ligolo-ng/"
+    },
+    {
+      "id": "kali-maryam",
+      "category": "Обучение",
+      "title": "Maryam — OWASP Maryam — это модульная/дополнительная платформа с открытым исходным кодом,",
+      "excerpt": "Этот пакет содержит OWASP Maryam, модульную/дополнительную платформу с открытым исходным кодом, основанную на OSINT и сборе данных. Maryam написана на языке программирования Python и создана для предоставления мощной среды для сбора данных ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Maryam — OWASP Maryam — это модульная/дополнительная платфор",
+      "metaDescription": "Этот пакет содержит OWASP Maryam, модульную/дополнительную платформу с открытым исходным кодом, основанную на OSINT и сборе данных. Maryam написана на",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/maryam/"
+    },
+    {
+      "id": "kali-mitm6",
+      "category": "Обучение",
+      "title": "Mitm6 — Прошивка IPv4 через IPv6",
+      "excerpt": "mitm6 — это инструмент для пентестинга, который использует конфигурацию Windows по умолчанию для захвата DNS-сервера по умолчанию. Он делает это, отвечая на сообщения DHCPv6, предоставляя жертвам локальный IPv6-адрес и устанавливая хост зло",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Mitm6 — Прошивка IPv4 через IPv6",
+      "metaDescription": "mitm6 — это инструмент для пентестинга, который использует конфигурацию Windows по умолчанию для захвата DNS-сервера по умолчанию. Он делает это, отве",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/mitm6/"
+    },
+    {
+      "id": "kali-phishery",
+      "category": "Обучение",
+      "title": "Phishery — Базовый сборщик учетных данных для аутентификации с инжектором шаблонов документов Word",
+      "excerpt": "Этот пакет содержит HTTP-сервер с поддержкой простого SSL, основной целью которого является передача фишинговых учетных данных через базовую аутентификацию. Силу фишинга лучше всего можно продемонстрировать, установив в шаблоне документа Wo",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Phishery — Базовый сборщик учетных данных для аутентификации",
+      "metaDescription": "Этот пакет содержит HTTP-сервер с поддержкой простого SSL, основной целью которого является передача фишинговых учетных данных через базовую аутентифи",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/phishery/"
+    },
+    {
+      "id": "kali-rkhunter",
+      "category": "Обучение",
+      "title": "Rkhunter — Руткит, бэкдор, сниффер и сканер эксплойтов",
+      "excerpt": "Rootkit Hunter сканирует системы на наличие известных и неизвестных руткитов, бэкдоров, снифферов и эксплойтов.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Rkhunter — Руткит, бэкдор, сниффер и сканер эксплойтов",
+      "metaDescription": "Rootkit Hunter сканирует системы на наличие известных и неизвестных руткитов, бэкдоров, снифферов и эксплойтов.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/rkhunter/"
+    },
+    {
+      "id": "kali-sharphound",
+      "category": "Обучение",
+      "title": "Sharphound — Сборщик данных C# для BloodHound",
+      "excerpt": "Этот пакет содержит готовый SharpHound.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Sharphound — Сборщик данных C# для BloodHound",
+      "metaDescription": "Этот пакет содержит готовый SharpHound.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sharphound/"
+    },
+    {
+      "id": "kali-starkiller",
+      "category": "Обучение",
+      "title": "Starkiller — Интерфейс для Powershell Empire",
+      "excerpt": "Этот пакет содержит интерфейс для Powershell Empire.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Starkiller — Интерфейс для Powershell Empire",
+      "metaDescription": "Этот пакет содержит интерфейс для Powershell Empire.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/starkiller/"
+    },
+    {
+      "id": "kali-testdisk",
+      "category": "Обучение",
+      "title": "Testdisk — Сканер разделов и инструмент восстановления диска",
+      "excerpt": "TestDisk проверяет разделы и загрузочные сектора ваших дисков. Это очень полезно в криминалистике, восстановлении потерянных разделов. Он работает с:",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Testdisk — Сканер разделов и инструмент восстановления диска",
+      "metaDescription": "TestDisk проверяет разделы и загрузочные сектора ваших дисков. Это очень полезно в криминалистике, восстановлении потерянных разделов. Он работает с:",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/testdisk/"
+    },
+    {
+      "id": "kali-xsstrike",
+      "category": "Обучение",
+      "title": "Xsstrike — Самый продвинутый XSS-сканер",
+      "excerpt": "XSStrike — это пакет обнаружения межсайтовых сценариев, оснащенный четырьмя рукописными анализаторами, интеллектуальным генератором полезной нагрузки, мощным механизмом фаззинга и невероятно быстрым сканером.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Xsstrike — Самый продвинутый XSS-сканер",
+      "metaDescription": "XSStrike — это пакет обнаружения межсайтовых сценариев, оснащенный четырьмя рукописными анализаторами, интеллектуальным генератором полезной нагрузки,",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/xsstrike/"
+    },
+    {
+      "id": "kali-yara",
+      "category": "Обучение",
+      "title": "Yara — Швейцарский нож для сопоставления шаблонов для исследователей вредоносного ПО",
+      "excerpt": "YARA — это инструмент, призванный помочь исследователям вредоносного ПО идентифицировать и классифицировать образцы вредоносного ПО. С помощью YARA можно создавать описания семейств вредоносных программ на основе текстовых или двоичных шабл",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "реверс и анализ"
+      ],
+      "image": "",
+      "metaTitle": "Yara — Швейцарский нож для сопоставления шаблонов для исслед",
+      "metaDescription": "YARA — это инструмент, призванный помочь исследователям вредоносного ПО идентифицировать и классифицировать образцы вредоносного ПО. С помощью YARA мо",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/yara/"
+    },
+    {
+      "id": "kali-zaproxy",
+      "category": "Обучение",
+      "title": "Zaproxy — Инструмент тестирования для поиска уязвимостей в веб-приложениях",
+      "excerpt": "OWASP Zed Attack Proxy (ZAP) — это простой в использовании интегрированный инструмент тестирования на проникновение для поиска уязвимостей в веб-приложениях.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Zaproxy — Инструмент тестирования для поиска уязвимостей в в",
+      "metaDescription": "OWASP Zed Attack Proxy (ZAP) — это простой в использовании интегрированный инструмент тестирования на проникновение для поиска уязвимостей в веб-прило",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/zaproxy/"
+    },
+    {
+      "id": "kali-apktool",
+      "category": "Обучение",
+      "title": "Apktool — Инструмент для реверс-инжиниринга APK-файлов Android",
+      "excerpt": "Инструмент для реверс-инжиниринга сторонних закрытых двоичных приложений Android. Он может декодировать ресурсы практически до исходной формы и восстанавливать их после внесения некоторых изменений; это позволяет шаг за шагом отлаживать код",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "реверс и анализ"
+      ],
+      "image": "",
+      "metaTitle": "Apktool — Инструмент для реверс-инжиниринга APK-файлов Andro",
+      "metaDescription": "Инструмент для реверс-инжиниринга сторонних закрытых двоичных приложений Android. Он может декодировать ресурсы практически до исходной формы и восста",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/apktool/"
+    },
+    {
+      "id": "kali-cewl",
+      "category": "Обучение",
+      "title": "Cewl — Генератор собственного списка слов",
+      "excerpt": "CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used for password crackers such as John the Ripper. При желании CeWL может переходить по внешн",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Cewl — Генератор собственного списка слов",
+      "metaDescription": "CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/cewl/"
+    },
+    {
+      "id": "kali-cowpatty",
+      "category": "Обучение",
+      "title": "Cowpatty — Атака по словарю WPA методом перебора",
+      "excerpt": "Если вы проверяете сети WPA-PSK или WPA2-PSK, вы можете использовать этот инструмент для выявления слабых парольных фраз, которые использовались для создания PMK. Предоставьте файл захвата libpcap, который включает четырехстороннее рукопожа",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Cowpatty — Атака по словарю WPA методом перебора",
+      "metaDescription": "Если вы проверяете сети WPA-PSK или WPA2-PSK, вы можете использовать этот инструмент для выявления слабых парольных фраз, которые использовались для с",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/cowpatty/"
+    },
+    {
+      "id": "kali-crackmapexec",
+      "category": "Обучение",
+      "title": "Crackmapexec — Швейцарский армейский нож для тестирования сетей на проникновение",
+      "excerpt": "Этот пакет представляет собой швейцарский армейский нож для тестирования на проникновение в среды Windows/Active Directory.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Crackmapexec — Швейцарский армейский нож для тестирования се",
+      "metaDescription": "Этот пакет представляет собой швейцарский армейский нож для тестирования на проникновение в среды Windows/Active Directory.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/crackmapexec/"
+    },
+    {
+      "id": "kali-dvwa",
+      "category": "Обучение",
+      "title": "Dvwa — Чертовски уязвимое веб-приложение",
+      "excerpt": "Этот пакет содержит веб-приложение PHP/MySQL, которое чертовски уязвимо. Его основная цель — помочь специалистам по безопасности проверить свои навыки и инструменты в правовой среде, помочь веб-разработчикам лучше понять процессы защиты веб",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Dvwa — Чертовски уязвимое веб-приложение",
+      "metaDescription": "Этот пакет содержит веб-приложение PHP/MySQL, которое чертовски уязвимо. Его основная цель — помочь специалистам по безопасности проверить свои навыки",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dvwa/"
+    },
+    {
+      "id": "kali-enum4linux",
+      "category": "Обучение",
+      "title": "Enum4linux — Перечисляет информацию из систем Windows и Samba.",
+      "excerpt": "Enum4linux — инструмент для перечисления информации из систем Windows и Samba. Он пытается предложить функциональность, аналогичную enum.exe, ранее доступную на www.bindview.com.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Enum4linux — Перечисляет информацию из систем Windows и Samb",
+      "metaDescription": "Enum4linux — инструмент для перечисления информации из систем Windows и Samba. Он пытается предложить функциональность, аналогичную enum.exe, ранее до",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/enum4linux/"
+    },
+    {
+      "id": "kali-evil-winrm",
+      "category": "Обучение",
+      "title": "Evil-winrm — Усовершенствованная оболочка WinRM для взлома/пентестинга",
+      "excerpt": "Этот пакет содержит идеальную оболочку WinRM для взлома/пентестинга.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Evil-winrm — Усовершенствованная оболочка WinRM для взлома/п",
+      "metaDescription": "Этот пакет содержит идеальную оболочку WinRM для взлома/пентестинга.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/evil-winrm/"
+    },
+    {
+      "id": "kali-exploitdb",
+      "category": "Обучение",
+      "title": "Exploitdb — Архив базы данных эксплойтов с возможностью поиска",
+      "excerpt": "Архив с возможностью поиска из базы данных эксплойтов. https://www.exploit-db.com/",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "эксплойты"
+      ],
+      "image": "",
+      "metaTitle": "Exploitdb — Архив базы данных эксплойтов с возможностью поис",
+      "metaDescription": "Архив с возможностью поиска из базы данных эксплойтов. https://www.exploit-db.com/",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/exploitdb/"
+    },
+    {
+      "id": "kali-fern-wifi-cracker",
+      "category": "Обучение",
+      "title": "Fern-wifi-cracker — Автоматический взломщик Wi-Fi",
+      "excerpt": "Этот пакет содержит программу для аудита безопасности беспроводной сети и атак, написанную с использованием языка программирования Python и библиотеки Python Qt GUI. Программа способна взламывать и восстанавливать ключи WEP/WPA/WPS, а также",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Fern-wifi-cracker — Автоматический взломщик Wi-Fi",
+      "metaDescription": "Этот пакет содержит программу для аудита безопасности беспроводной сети и атак, написанную с использованием языка программирования Python и библиотеки",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/fern-wifi-cracker/"
+    },
+    {
+      "id": "kali-gophish",
+      "category": "Обучение",
+      "title": "Gophish — Набор инструментов для фишинга с открытым исходным кодом",
+      "excerpt": "Этот пакет содержит набор инструментов для фишинга с открытым исходным кодом, предназначенный для предприятий и тестеров на проникновение. Он предоставляет возможность быстро и легко настраивать и выполнять фишинговые операции, а также пров",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Gophish — Набор инструментов для фишинга с открытым исходным",
+      "metaDescription": "Этот пакет содержит набор инструментов для фишинга с открытым исходным кодом, предназначенный для предприятий и тестеров на проникновение. Он предоста",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/gophish/"
+    },
+    {
+      "id": "kali-hash-identifier",
+      "category": "Обучение",
+      "title": "Hash-identifier — Инструмент для определения типов хэшей",
+      "excerpt": "Программное обеспечение для идентификации различных типов хешей, используемых для шифрования данных и особенно паролей.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Hash-identifier — Инструмент для определения типов хэшей",
+      "metaDescription": "Программное обеспечение для идентификации различных типов хешей, используемых для шифрования данных и особенно паролей.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hash-identifier/"
+    },
+    {
+      "id": "kali-legion",
+      "category": "Обучение",
+      "title": "Legion — Полуавтоматический инструмент для тестирования на проникновение в сеть",
+      "excerpt": "Этот пакет содержит простой в использовании, сверхрасширяемый и полуавтоматический инструмент тестирования на проникновение в сеть с открытым исходным кодом, который помогает в обнаружении, разведке и эксплуатации информационных систем.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Legion — Полуавтоматический инструмент для тестирования на п",
+      "metaDescription": "Этот пакет содержит простой в использовании, сверхрасширяемый и полуавтоматический инструмент тестирования на проникновение в сеть с открытым исходным",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/legion/"
+    },
+    {
+      "id": "kali-nishang",
+      "category": "Обучение",
+      "title": "Nishang — Коллекция скриптов и полезных данных PowerShell.",
+      "excerpt": "Nishang — это инфраструктура и набор скриптов и полезных нагрузок, которые позволяют использовать PowerShell для наступательной безопасности и последующей эксплуатации во время тестов на проникновение. Скрипты написаны на основе требований ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "эксплойты"
+      ],
+      "image": "",
+      "metaTitle": "Nishang — Коллекция скриптов и полезных данных PowerShell.",
+      "metaDescription": "Nishang — это инфраструктура и набор скриптов и полезных нагрузок, которые позволяют использовать PowerShell для наступательной безопасности и последу",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/nishang/"
+    },
+    {
+      "id": "kali-rainbowcrack",
+      "category": "Обучение",
+      "title": "Rainbowcrack — Взломщик паролей для радужных таблиц",
+      "excerpt": "RainbowCrack — это общая предлагаемая реализация метода более быстрого компромисса между временем и памятью Филиппа Охслина. Он взламывает хеши с радужными таблицами.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Rainbowcrack — Взломщик паролей для радужных таблиц",
+      "metaDescription": "RainbowCrack — это общая предлагаемая реализация метода более быстрого компромисса между временем и памятью Филиппа Охслина. Он взламывает хеши с раду",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/rainbowcrack/"
+    },
+    {
+      "id": "kali-sliver",
+      "category": "Обучение",
+      "title": "Sliver — Каркас имплантата",
+      "excerpt": "Этот пакет содержит кросс-платформенную платформу имплантации общего назначения, которая поддерживает C2 через Mutual-TLS, HTTP(S) и DNS. Имплантаты динамически компилируются с использованием уникальных сертификатов X.509, подписанных центр",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Sliver — Каркас имплантата",
+      "metaDescription": "Этот пакет содержит кросс-платформенную платформу имплантации общего назначения, которая поддерживает C2 через Mutual-TLS, HTTP(S) и DNS. Имплантаты д",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sliver/"
+    },
+    {
+      "id": "kali-sqlsus",
+      "category": "Обучение",
+      "title": "Sqlsus — Инструмент внедрения MySQL",
+      "excerpt": "sqlsus — это инструмент внедрения и контроля MySQL с открытым исходным кодом, написанный на Perl. Через интерфейс командной строки вы можете получить структуру базы данных, внедрить свои собственные SQL-запросы (даже сложные), загружать фай",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Sqlsus — Инструмент внедрения MySQL",
+      "metaDescription": "sqlsus — это инструмент внедрения и контроля MySQL с открытым исходным кодом, написанный на Perl. Через интерфейс командной строки вы можете получить ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sqlsus/"
+    },
+    {
+      "id": "kali-tcpdump",
+      "category": "Обучение",
+      "title": "Tcpdump — Анализатор сетевого трафика с командной строкой",
+      "excerpt": "Эта программа позволяет сбрасывать трафик в сети. tcpdump может проверять IPv4, ICMPv4, IPv6, ICMPv6, UDP, TCP, SNMP, AFS BGP, RIP, PIM, DVMRP, IGMP, SMB, OSPF, NFS и многие другие типы пакетов.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Tcpdump — Анализатор сетевого трафика с командной строкой",
+      "metaDescription": "Эта программа позволяет сбрасывать трафик в сети. tcpdump может проверять IPv4, ICMPv4, IPv6, ICMPv6, UDP, TCP, SNMP, AFS BGP, RIP, PIM, DVMRP, IGMP, ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/tcpdump/"
+    },
+    {
+      "id": "kali-arjun",
+      "category": "Обучение",
+      "title": "Arjun — Пакет обнаружения параметров HTTP",
+      "excerpt": "Этот пакет может находить параметры запроса для конечных точек URL.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Arjun — Пакет обнаружения параметров HTTP",
+      "metaDescription": "Этот пакет может находить параметры запроса для конечных точек URL.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/arjun/"
+    },
+    {
+      "id": "kali-binwalk",
+      "category": "Обучение",
+      "title": "Binwalk — Библиотека инструментов для анализа двоичных объектов и исполняемого кода.",
+      "excerpt": "Binwalk — это инструмент для поиска в заданном двоичном изображении встроенных файлов и исполняемого кода. В частности, он предназначен для идентификации файлов и кода, встроенного в образы прошивки. Binwalk использует библиотеку libmagic, ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "форензика"
+      ],
+      "image": "",
+      "metaTitle": "Binwalk — Библиотека инструментов для анализа двоичных объек",
+      "metaDescription": "Binwalk — это инструмент для поиска в заданном двоичном изображении встроенных файлов и исполняемого кода. В частности, он предназначен для идентифика",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/binwalk/"
+    },
+    {
+      "id": "kali-bulk-extractor",
+      "category": "Обучение",
+      "title": "Bulk-extractor — Извлекает информацию без анализа файловой системы",
+      "excerpt": "Bulk_extractor — это программа на C++, которая сканирует образ диска, файл или каталог файлов и извлекает полезную информацию без анализа файловой системы или структур файловой системы. Результаты сохраняются в файлах объектов, которые можн",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Bulk-extractor — Извлекает информацию без анализа файловой с",
+      "metaDescription": "Bulk_extractor — это программа на C++, которая сканирует образ диска, файл или каталог файлов и извлекает полезную информацию без анализа файловой сис",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/bulk-extractor/"
+    },
+    {
+      "id": "kali-burpsuite",
+      "category": "Обучение",
+      "title": "Burpsuite — Платформа для тестирования безопасности веб-приложений",
+      "excerpt": "Burp Suite — это интегрированная платформа для тестирования безопасности веб-приложений. Его различные инструменты бесперебойно работают вместе, поддерживая весь процесс тестирования: от первоначального отображения и анализа поверхности ата",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "веб-уязвимости"
+      ],
+      "image": "",
+      "metaTitle": "Burpsuite — Платформа для тестирования безопасности веб-прил",
+      "metaDescription": "Burp Suite — это интегрированная платформа для тестирования безопасности веб-приложений. Его различные инструменты бесперебойно работают вместе, подде",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/burpsuite/"
+    },
+    {
+      "id": "kali-caido",
+      "category": "Обучение",
+      "title": "Caido — Инструментарий аудита безопасности (настольный компьютер)",
+      "excerpt": "Этот пакет содержит caido Desktop — набор инструментов для аудита безопасности.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Caido — Инструментарий аудита безопасности (настольный компь",
+      "metaDescription": "Этот пакет содержит caido Desktop — набор инструментов для аудита безопасности.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/caido/"
+    },
+    {
+      "id": "kali-chisel",
+      "category": "Обучение",
+      "title": "Chisel — Быстрый TCP/UDP-туннель через HTTP (программа)",
+      "excerpt": "Этот пакет содержит быстрый туннель TCP/UDP, передаваемый по HTTP и защищенный через SSH. Один исполняемый файл, включающий как клиент, так и сервер. Chisel в основном полезен для прохождения через брандмауэры, хотя его также можно использо",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Chisel — Быстрый TCP/UDP-туннель через HTTP (программа)",
+      "metaDescription": "Этот пакет содержит быстрый туннель TCP/UDP, передаваемый по HTTP и защищенный через SSH. Один исполняемый файл, включающий как клиент, так и сервер. ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/chisel/"
+    },
+    {
+      "id": "kali-dnsenum",
+      "category": "Обучение",
+      "title": "Dnsenum — Инструмент для перечисления информации DNS домена",
+      "excerpt": "Dnsenum — это многопоточный Perl-скрипт для перечисления информации DNS домена и обнаружения несмежных IP-блоков. Основная цель Dnsenum — собрать как можно больше информации о домене. На данный момент программа выполняет следующие операции:",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Dnsenum — Инструмент для перечисления информации DNS домена",
+      "metaDescription": "Dnsenum — это многопоточный Perl-скрипт для перечисления информации DNS домена и обнаружения несмежных IP-блоков. Основная цель Dnsenum — собрать как ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dnsenum/"
+    },
+    {
+      "id": "kali-emailharvester",
+      "category": "Обучение",
+      "title": "Emailharvester — Сборщик адресов электронной почты",
+      "excerpt": "Этот пакет содержит EmailHarvester, инструмент для получения адресов электронной почты домена из поисковых систем. Функции:",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Emailharvester — Сборщик адресов электронной почты",
+      "metaDescription": "Этот пакет содержит EmailHarvester, инструмент для получения адресов электронной почты домена из поисковых систем. Функции:",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/emailharvester/"
+    },
+    {
+      "id": "kali-goldeneye",
+      "category": "Обучение",
+      "title": "Goldeneye — Инструмент тестирования HTTP DoS",
+      "excerpt": "GoldenEye — это инструмент тестирования HTTP DoS. Этот инструмент можно использовать для проверки уязвимости сайта к атакам типа «отказ в обслуживании» (DoS). Можно открыть несколько параллельных подключений к URL-адресу, чтобы проверить, м",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "нагрузка и стресс"
+      ],
+      "image": "",
+      "metaTitle": "Goldeneye — Инструмент тестирования HTTP DoS",
+      "metaDescription": "GoldenEye — это инструмент тестирования HTTP DoS. Этот инструмент можно использовать для проверки уязвимости сайта к атакам типа «отказ в обслуживании",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/goldeneye/"
+    },
+    {
+      "id": "kali-hashid",
+      "category": "Обучение",
+      "title": "Hashid — Определить различные типы хэшей, используемых для шифрования данных.",
+      "excerpt": "Определить различные типы хешей, используемых для шифрования данных и особенно паролей.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Hashid — Определить различные типы хэшей, используемых для ш",
+      "metaDescription": "Определить различные типы хешей, используемых для шифрования данных и особенно паролей.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hashid/"
+    },
+    {
+      "id": "kali-nuclei",
+      "category": "Обучение",
+      "title": "Nuclei — Быстрый и настраиваемый сканер уязвимостей на основе простого DSL на основе YAML.",
+      "excerpt": "Этот пакет содержит быстрый инструмент для настраиваемого целевого сканирования на основе шаблонов, обеспечивающий широкие возможности расширения и простоту использования.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Nuclei — Быстрый и настраиваемый сканер уязвимостей на основ",
+      "metaDescription": "Этот пакет содержит быстрый инструмент для настраиваемого целевого сканирования на основе шаблонов, обеспечивающий широкие возможности расширения и пр",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/nuclei/"
+    },
+    {
+      "id": "kali-spiderfoot",
+      "category": "Обучение",
+      "title": "Spiderfoot — Инструмент сбора и разведки OSINT",
+      "excerpt": "Этот пакет содержит инструмент автоматизации анализа с открытым исходным кодом (OSINT). Его цель — автоматизировать процесс сбора информации о заданной цели, которой может быть IP-адрес, имя домена, имя хоста, сетевая подсеть, ASN, адрес эл",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Spiderfoot — Инструмент сбора и разведки OSINT",
+      "metaDescription": "Этот пакет содержит инструмент автоматизации анализа с открытым исходным кодом (OSINT). Его цель — автоматизировать процесс сбора информации о заданно",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/spiderfoot/"
+    },
+    {
+      "id": "kali-web-cache-vulnerability-scanner",
+      "category": "Обучение",
+      "title": "Web-cache-vulnerability-scanner — Инструмент CLI на основе Go для тестирования на отравление веб-кеша",
+      "excerpt": "Сканер уязвимостей веб-кэша (WCVS) — это быстрый и универсальный сканер CLI для отравления и обмана веб-кэша, разработанный Hackmanit и Максимилианом Хильдебрандом.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Web-cache-vulnerability-scanner — Инструмент CLI на основе G",
+      "metaDescription": "Сканер уязвимостей веб-кэша (WCVS) — это быстрый и универсальный сканер CLI для отравления и обмана веб-кэша, разработанный Hackmanit и Максимилианом ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/web-cache-vulnerability-scanner/"
+    },
+    {
+      "id": "kali-wifiphisher",
+      "category": "Обучение",
+      "title": "Wifiphisher — Автоматизированные фишинговые атаки на сети Wi-Fi",
+      "excerpt": "Этот пакет содержит инструмент безопасности, который осуществляет автоматические фишинговые атаки на сети Wi-Fi с целью получения секретных кодовых фраз или других учетных данных. Это атака социальной инженерии, которая, в отличие от других",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Wifiphisher — Автоматизированные фишинговые атаки на сети Wi",
+      "metaDescription": "Этот пакет содержит инструмент безопасности, который осуществляет автоматические фишинговые атаки на сети Wi-Fi с целью получения секретных кодовых фр",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/wifiphisher/"
+    },
+    {
+      "id": "kali-dirsearch",
+      "category": "Обучение",
+      "title": "Dirsearch — Сканер веб-путей",
+      "excerpt": "Этот пакет содержит инструмент командной строки, предназначенный для перебора каталогов и файлов на веб-серверах.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Dirsearch — Сканер веб-путей",
+      "metaDescription": "Этот пакет содержит инструмент командной строки, предназначенный для перебора каталогов и файлов на веб-серверах.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dirsearch/"
+    },
+    {
+      "id": "kali-dmitry",
+      "category": "Обучение",
+      "title": "Dmitry — Инструмент сбора информации Deepmagic",
+      "excerpt": "Dmitry — это приложение командной строки UNIX/(GNU)Linux, написанное на C. Dmitry может находить возможные поддомены, адреса электронной почты, информацию о времени безотказной работы, выполнять сканирование TCP-портов, поиск Whois и многое",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Dmitry — Инструмент сбора информации Deepmagic",
+      "metaDescription": "Dmitry — это приложение командной строки UNIX/(GNU)Linux, написанное на C. Dmitry может находить возможные поддомены, адреса электронной почты, информ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dmitry/"
+    },
+    {
+      "id": "kali-netdiscover",
+      "category": "Обучение",
+      "title": "Netdiscover — Активный/пассивный сканер сетевых адресов с использованием ARP-запросов",
+      "excerpt": "Netdiscover — это инструмент активной/пассивной разведки адресов, в основном разработанный для беспроводных сетей без DHCP-сервера, когда вы находитесь в движении. Его также можно использовать в концентраторных/коммутируемых сетях.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Netdiscover — Активный/пассивный сканер сетевых адресов с ис",
+      "metaDescription": "Netdiscover — это инструмент активной/пассивной разведки адресов, в основном разработанный для беспроводных сетей без DHCP-сервера, когда вы находитес",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/netdiscover/"
+    },
+    {
+      "id": "kali-nikto",
+      "category": "Обучение",
+      "title": "Nikto — Сканер безопасности веб-сервера",
+      "excerpt": "Nikto — это подключаемый веб-сервер и CGI-сканер, написанный на Perl и использующий LibWhisker от RFP для выполнения быстрых проверок безопасности или информации.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Nikto — Сканер безопасности веб-сервера",
+      "metaDescription": "Nikto — это подключаемый веб-сервер и CGI-сканер, написанный на Perl и использующий LibWhisker от RFP для выполнения быстрых проверок безопасности или",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/nikto/"
+    },
+    {
+      "id": "kali-recon-ng",
+      "category": "Обучение",
+      "title": "Recon-ng — Фреймворк веб-разведки, написанный на Python",
+      "excerpt": "Recon-ng — это полнофункциональная платформа веб-разведки, написанная на Python. Благодаря независимым модулям, взаимодействию с базой данных, встроенным удобным функциям, интерактивной справке и дополнению команд, Recon-ng обеспечивает мощ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Recon-ng — Фреймворк веб-разведки, написанный на Python",
+      "metaDescription": "Recon-ng — это полнофункциональная платформа веб-разведки, написанная на Python. Благодаря независимым модулям, взаимодействию с базой данных, встроен",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/recon-ng/"
+    },
+    {
+      "id": "kali-foremost",
+      "category": "Обучение",
+      "title": "Foremost — Криминалистическая программа для восстановления потерянных файлов",
+      "excerpt": "Foremost — это судебно-медицинская программа для восстановления утерянных файлов на основе их заголовков, нижних колонтитулов и внутренних структур данных.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "форензика"
+      ],
+      "image": "",
+      "metaTitle": "Foremost — Криминалистическая программа для восстановления п",
+      "metaDescription": "Foremost — это судебно-медицинская программа для восстановления утерянных файлов на основе их заголовков, нижних колонтитулов и внутренних структур да",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/foremost/"
+    },
+    {
+      "id": "kali-hexstrike-ai",
+      "category": "Обучение",
+      "title": "Hexstrike-ai — Платформа автоматизации кибербезопасности MCP на базе искусственного интеллекта",
+      "excerpt": "Этот пакет содержит HexStrike AI MCP v6.0, который имеет многоагентную архитектуру с автономными агентами искусственного интеллекта, интеллектуальным принятием решений и анализом уязвимостей.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Hexstrike-ai — Платформа автоматизации кибербезопасности MCP",
+      "metaDescription": "Этот пакет содержит HexStrike AI MCP v6.0, который имеет многоагентную архитектуру с автономными агентами искусственного интеллекта, интеллектуальным ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hexstrike-ai/"
+    },
+    {
+      "id": "kali-impacket-scripts",
+      "category": "Обучение",
+      "title": "Impacket-scripts — Ссылки на полезные примеры скриптов импакетов",
+      "excerpt": "Этот пакет содержит ссылки на полезные скрипты импакетов. Это отдельный пакет для хранения пакета impacket из Debian и полезных скриптов для Kali.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Impacket-scripts — Ссылки на полезные примеры скриптов импак",
+      "metaDescription": "Этот пакет содержит ссылки на полезные скрипты импакетов. Это отдельный пакет для хранения пакета impacket из Debian и полезных скриптов для Kali.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/impacket-scripts/"
+    },
+    {
+      "id": "kali-macchanger",
+      "category": "Обучение",
+      "title": "Macchanger — Утилита для манипуляции MAC-адресом сетевых интерфейсов",
+      "excerpt": "GNU MAC Changer — это утилита, которая упрощает манипулирование MAC-адресами сетевых интерфейсов. MAC-адреса являются уникальными идентификаторами в сетях, они должны быть только уникальными, их можно изменить на большинстве сетевых устройс",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сниффинг и спуфинг"
+      ],
+      "image": "",
+      "metaTitle": "Macchanger — Утилита для манипуляции MAC-адресом сетевых инт",
+      "metaDescription": "GNU MAC Changer — это утилита, которая упрощает манипулирование MAC-адресами сетевых интерфейсов. MAC-адреса являются уникальными идентификаторами в с",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/macchanger/"
+    },
+    {
+      "id": "kali-netexec",
+      "category": "Обучение",
+      "title": "Netexec — Инструмент сетевого выполнения",
+      "excerpt": "NetExec (AKA nxc) — это инструмент эксплуатации сетевых служб, который помогает автоматизировать оценку безопасности крупных сетей.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "эксплойты"
+      ],
+      "image": "",
+      "metaTitle": "Netexec — Инструмент сетевого выполнения",
+      "metaDescription": "NetExec (AKA nxc) — это инструмент эксплуатации сетевых служб, который помогает автоматизировать оценку безопасности крупных сетей.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/netexec/"
+    },
+    {
+      "id": "kali-p0f",
+      "category": "Обучение",
+      "title": "P0f — Пассивный инструмент для снятия отпечатков пальцев ОС",
+      "excerpt": "p0f выполняет пассивное обнаружение ОС на основе пакетов SYN. В отличие от nmap и queso, p0f распознает без отправки каких-либо данных. Кроме того, он способен определять расстояние до удаленного хоста и может использоваться для определения",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "P0f — Пассивный инструмент для снятия отпечатков пальцев ОС",
+      "metaDescription": "p0f выполняет пассивное обнаружение ОС на основе пакетов SYN. В отличие от nmap и queso, p0f распознает без отправки каких-либо данных. Кроме того, он",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/p0f/"
+    },
+    {
+      "id": "kali-sublist3r",
+      "category": "Обучение",
+      "title": "Sublist3r — Инструмент быстрого перечисления поддоменов для тестеров на проникновение",
+      "excerpt": "Этот пакет содержит инструмент безопасности Python, предназначенный для перечисления поддоменов веб-сайтов с использованием OSINT. Это помогает тестерам на проникновение и охотникам за ошибками собирать поддомены для домена, на который они ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Sublist3r — Инструмент быстрого перечисления поддоменов для ",
+      "metaDescription": "Этот пакет содержит инструмент безопасности Python, предназначенный для перечисления поддоменов веб-сайтов с использованием OSINT. Это помогает тестер",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sublist3r/"
+    },
+    {
+      "id": "kali-wfuzz",
+      "category": "Обучение",
+      "title": "Wfuzz — Брутфорсер веб-приложений",
+      "excerpt": "Wfuzz — это инструмент, предназначенный для перебора веб-приложений. Его можно использовать для поиска ресурсов, не связанных с каталогами, сервлетами, скриптами и т. д., параметров GET и POST для перебора различных типов инъекций (SQL, XSS",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "веб-уязвимости"
+      ],
+      "image": "",
+      "metaTitle": "Wfuzz — Брутфорсер веб-приложений",
+      "metaDescription": "Wfuzz — это инструмент, предназначенный для перебора веб-приложений. Его можно использовать для поиска ресурсов, не связанных с каталогами, сервлетами",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/wfuzz/"
+    },
+    {
+      "id": "kali-wpscan",
+      "category": "Обучение",
+      "title": "Wpscan — Сканер уязвимостей WordPress «черный ящик»",
+      "excerpt": "WPScan сканирует удаленные установки WordPress на предмет проблем безопасности.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Wpscan — Сканер уязвимостей WordPress «черный ящик»",
+      "metaDescription": "WPScan сканирует удаленные установки WordPress на предмет проблем безопасности.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/wpscan/"
+    },
+    {
+      "id": "kali-beef-xss",
+      "category": "Обучение",
+      "title": "Beef-xss — Платформа эксплуатации браузера (BeEF)",
+      "excerpt": "BeEF — это сокращение от The Browser Exploitation Framework. Это инструмент тестирования на проникновение, ориентированный на веб-браузер.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "эксплойты"
+      ],
+      "image": "",
+      "metaTitle": "Beef-xss — Платформа эксплуатации браузера (BeEF)",
+      "metaDescription": "BeEF — это сокращение от The Browser Exploitation Framework. Это инструмент тестирования на проникновение, ориентированный на веб-браузер.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/beef-xss/"
+    },
+    {
+      "id": "kali-dirbuster",
+      "category": "Обучение",
+      "title": "Dirbuster — Перебор каталога веб-сервера",
+      "excerpt": "DirBuster — это многопоточное Java-приложение, предназначенное для перебора имен каталогов и файлов на веб-серверах/серверах приложений. Сейчас часто бывает так, что то, что выглядит как веб-сервер в состоянии установки по умолчанию, на сам",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "веб-уязвимости"
+      ],
+      "image": "",
+      "metaTitle": "Dirbuster — Перебор каталога веб-сервера",
+      "metaDescription": "DirBuster — это многопоточное Java-приложение, предназначенное для перебора имен каталогов и файлов на веб-серверах/серверах приложений. Сейчас часто ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dirbuster/"
+    },
+    {
+      "id": "kali-lbd",
+      "category": "Обучение",
+      "title": "Lbd — Детектор балансировки нагрузки",
+      "excerpt": "Проверяет, использует ли данный домен балансировку нагрузки.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Lbd — Детектор балансировки нагрузки",
+      "metaDescription": "Проверяет, использует ли данный домен балансировку нагрузки.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/lbd/"
+    },
+    {
+      "id": "kali-maltego",
+      "category": "Обучение",
+      "title": "Maltego — Приложение для разведки и криминалистики с открытым исходным кодом",
+      "excerpt": "Maltego — это приложение для разведки и криминалистики с открытым исходным кодом. Он предложит вам быстрый поиск и сбор информации, а также представление этой информации в удобном для понимания формате.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Maltego — Приложение для разведки и криминалистики с открыты",
+      "metaDescription": "Maltego — это приложение для разведки и криминалистики с открытым исходным кодом. Он предложит вам быстрый поиск и сбор информации, а также представле",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/maltego/"
+    },
+    {
+      "id": "kali-mimikatz",
+      "category": "Обучение",
+      "title": "Mimikatz — Использует права администратора в Windows для отображения паролей в виде открытого текста.",
+      "excerpt": "Mimikatz использует права администратора в Windows для отображения паролей вошедших в систему пользователей в виде открытого текста.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Mimikatz — Использует права администратора в Windows для ото",
+      "metaDescription": "Mimikatz использует права администратора в Windows для отображения паролей вошедших в систему пользователей в виде открытого текста.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/mimikatz/"
+    },
+    {
+      "id": "kali-steghide",
+      "category": "Обучение",
+      "title": "Steghide — Инструмент для сокрытия стеганографии",
+      "excerpt": "Steghide — это программа стеганографии, которая скрывает биты файла данных в некоторых младших битах другого файла таким образом, что существование файла данных не видно и не может быть доказано.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Steghide — Инструмент для сокрытия стеганографии",
+      "metaDescription": "Steghide — это программа стеганографии, которая скрывает биты файла данных в некоторых младших битах другого файла таким образом, что существование фа",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/steghide/"
+    },
+    {
+      "id": "kali-tiger",
+      "category": "Обучение",
+      "title": "Tiger — Инструменты аудита безопасности и обнаружения вторжений для Linux",
+      "excerpt": "TIGER, или «тигровые» сценарии, представляет собой набор инструментов (скрипты оболочки Bourne и программы C), которые используются для выполнения аудита безопасности различных компонентов операционной системы. Инструменты можно запускать о",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Tiger — Инструменты аудита безопасности и обнаружения вторже",
+      "metaDescription": "TIGER, или «тигровые» сценарии, представляет собой набор инструментов (скрипты оболочки Bourne и программы C), которые используются для выполнения ауд",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/tiger/"
+    },
+    {
+      "id": "kali-dnsrecon",
+      "category": "Обучение",
+      "title": "Dnsrecon — Мощный скрипт перечисления DNS",
+      "excerpt": "DNSRecon — это скрипт Python, который предоставляет возможность выполнять:",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Dnsrecon — Мощный скрипт перечисления DNS",
+      "metaDescription": "DNSRecon — это скрипт Python, который предоставляет возможность выполнять:",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dnsrecon/"
+    },
+    {
+      "id": "kali-hping3",
+      "category": "Обучение",
+      "title": "Hping3 — Инструмент активного разрушения сети",
+      "excerpt": "hping3 — это сетевой инструмент, способный отправлять собственные пакеты ICMP/UDP/TCP и отображать целевые ответы, как это делает ping с ответами ICMP. Он обрабатывает фрагментацию, произвольное тело и размер пакета и может использоваться д",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Hping3 — Инструмент активного разрушения сети",
+      "metaDescription": "hping3 — это сетевой инструмент, способный отправлять собственные пакеты ICMP/UDP/TCP и отображать целевые ответы, как это делает ping с ответами ICMP",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hping3/"
+    },
+    {
+      "id": "kali-john",
+      "category": "Обучение",
+      "title": "John — Инструмент для активного взлома паролей",
+      "excerpt": "John the Ripper — это инструмент, предназначенный для того, чтобы помочь системным администраторам находить слабые (легко угадать или взломать с помощью грубой силы) пароли и даже автоматически предупреждать пользователей об этом по электро",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "John — Инструмент для активного взлома паролей",
+      "metaDescription": "John the Ripper — это инструмент, предназначенный для того, чтобы помочь системным администраторам находить слабые (легко угадать или взломать с помощ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/john/"
+    },
+    {
+      "id": "kali-medusa",
+      "category": "Обучение",
+      "title": "Medusa — Быстрый, параллельный, модульный брутфорсер для сетевых сервисов",
+      "excerpt": "Medusa задумана как быстрый, массово-параллельный, модульный брутфорсер входа в систему. Цель состоит в том, чтобы поддерживать как можно больше сервисов, позволяющих удаленную аутентификацию. Автор считает следующие элементы ключевыми особ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Medusa — Быстрый, параллельный, модульный брутфорсер для сет",
+      "metaDescription": "Medusa задумана как быстрый, массово-параллельный, модульный брутфорсер входа в систему. Цель состоит в том, чтобы поддерживать как можно больше серви",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/medusa/"
+    },
+    {
+      "id": "kali-amass",
+      "category": "Обучение",
+      "title": "Amass — Углубленное перечисление DNS и сопоставление сетей",
+      "excerpt": "Этот пакет содержит инструмент, который поможет специалистам по информационной безопасности составить карту сетевых поверхностей атак и обнаружить внешние активы, используя методы сбора информации с открытым исходным кодом и методы активной",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Amass — Углубленное перечисление DNS и сопоставление сетей",
+      "metaDescription": "Этот пакет содержит инструмент, который поможет специалистам по информационной безопасности составить карту сетевых поверхностей атак и обнаружить вне",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/amass/"
+    },
+    {
+      "id": "kali-autopsy",
+      "category": "Обучение",
+      "title": "Autopsy — Графический интерфейс для SleuthKit",
+      "excerpt": "Браузер Autopsy Forensic Browser — это графический интерфейс для инструментов цифрового судебно-медицинского анализа командной строки в The Sleuth Kit. Вместе The Sleuth Kit и Autopsy предоставляют многие из тех же функций, что и коммерческ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "форензика"
+      ],
+      "image": "",
+      "metaTitle": "Autopsy — Графический интерфейс для SleuthKit",
+      "metaDescription": "Браузер Autopsy Forensic Browser — это графический интерфейс для инструментов цифрового судебно-медицинского анализа командной строки в The Sleuth Kit",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/autopsy/"
+    },
+    {
+      "id": "kali-gemini-cli",
+      "category": "Обучение",
+      "title": "Gemini-cli — ИИ-агент с открытым исходным кодом",
+      "excerpt": "Этот пакет содержит агент искусственного интеллекта с открытым исходным кодом, который переносит возможности Gemini прямо в ваш терминал. Он обеспечивает упрощенный доступ к Gemini, предоставляя вам самый прямой путь от приглашения к модели",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Gemini-cli — ИИ-агент с открытым исходным кодом",
+      "metaDescription": "Этот пакет содержит агент искусственного интеллекта с открытым исходным кодом, который переносит возможности Gemini прямо в ваш терминал. Он обеспечив",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/gemini-cli/"
+    },
+    {
+      "id": "kali-responder",
+      "category": "Обучение",
+      "title": "Responder — LLMNR/NBT-NS/mDNS Отравитель",
+      "excerpt": "Этот пакет содержит Responder/MultiRelay, отравитель LLMNR, NBT-NS и MDNS. Он будет отвечать на определенные запросы NBT-NS (служба имен NetBIOS) на основе суффикса имени (см.: http://support.microsoft.com/kb/163409). По умолчанию инструмен",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Responder — LLMNR/NBT-NS/mDNS Отравитель",
+      "metaDescription": "Этот пакет содержит Responder/MultiRelay, отравитель LLMNR, NBT-NS и MDNS. Он будет отвечать на определенные запросы NBT-NS (служба имен NetBIOS) на о",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/responder/"
+    },
+    {
+      "id": "kali-theharvester",
+      "category": "Обучение",
+      "title": "Theharvester — Инструмент для сбора учетных записей электронной почты и имен поддоменов из общедоступных источников.",
+      "excerpt": "Пакет содержит инструмент для сбора имен поддоменов, адресов электронной почты, виртуальных хостов, открытых портов/баннеров и имен сотрудников из различных общедоступных источников (поисковые системы, серверы ключей pgp).",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Theharvester — Инструмент для сбора учетных записей электрон",
+      "metaDescription": "Пакет содержит инструмент для сбора имен поддоменов, адресов электронной почты, виртуальных хостов, открытых портов/баннеров и имен сотрудников из раз",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/theharvester/"
+    },
+    {
+      "id": "kali-crunch",
+      "category": "Обучение",
+      "title": "Crunch — Инструмент для создания списка слов",
+      "excerpt": "Crunch — это генератор списков слов, в котором вы можете указать стандартный набор символов или любой набор символов, который будет использоваться при создании списков слов. Списки слов создаются путем комбинирования и перестановки набора с",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Crunch — Инструмент для создания списка слов",
+      "metaDescription": "Crunch — это генератор списков слов, в котором вы можете указать стандартный набор символов или любой набор символов, который будет использоваться при",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/crunch/"
+    },
+    {
+      "id": "kali-reaver",
+      "category": "Обучение",
+      "title": "Reaver — Инструмент грубой силы для атаки на PIN-код защищенной настройки Wi-Fi",
+      "excerpt": "Reaver выполняет грубую атаку на пин-код точки доступа Wi-Fi Protected Setup. Как только контакт WPS будет найден, WPA PSK можно будет восстановить, а также перенастроить настройки беспроводной сети точки доступа. Этот пакет также содержит ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Reaver — Инструмент грубой силы для атаки на PIN-код защищен",
+      "metaDescription": "Reaver выполняет грубую атаку на пин-код точки доступа Wi-Fi Protected Setup. Как только контакт WPS будет найден, WPA PSK можно будет восстановить, а",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/reaver/"
+    },
+    {
+      "id": "kali-subfinder",
+      "category": "Обучение",
+      "title": "Subfinder — Инструмент обнаружения поддоменов",
+      "excerpt": "Этот пакет содержит инструмент обнаружения субдоменов, который обнаруживает действительные субдомены для веб-сайтов с помощью пассивных онлайн-источников. Он имеет простую модульную архитектуру и оптимизирован по скорости. subfinder создан ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Subfinder — Инструмент обнаружения поддоменов",
+      "metaDescription": "Этот пакет содержит инструмент обнаружения субдоменов, который обнаруживает действительные субдомены для веб-сайтов с помощью пассивных онлайн-источни",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/subfinder/"
+    },
+    {
+      "id": "kali-airgeddon",
+      "category": "Обучение",
+      "title": "Airgeddon — Многофункциональный bash-скрипт для систем Linux для аудита беспроводных сетей.",
+      "excerpt": "airgeddon — это оболочка сторонних инструментов, управляемая меню, для аудита беспроводных сетей со множеством функций.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "wi-fi и ради"
+      ],
+      "image": "",
+      "metaTitle": "Airgeddon — Многофункциональный bash-скрипт для систем Linux",
+      "metaDescription": "airgeddon — это оболочка сторонних инструментов, управляемая меню, для аудита беспроводных сетей со множеством функций.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/airgeddon/"
+    },
+    {
+      "id": "kali-dirb",
+      "category": "Обучение",
+      "title": "Dirb — Инструмент для подбора URL-адресов",
+      "excerpt": "DIRB — сканер веб-контента. Он ищет существующие (и/или скрытые) веб-объекты. По сути, он работает путем запуска атаки на веб-сервер на основе словаря и анализа ответов.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Dirb — Инструмент для подбора URL-адресов",
+      "metaDescription": "DIRB — сканер веб-контента. Он ищет существующие (и/или скрытые) веб-объекты. По сути, он работает путем запуска атаки на веб-сервер на основе словаря",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/dirb/"
+    },
+    {
+      "id": "kali-ffuf",
+      "category": "Обучение",
+      "title": "Ffuf — Быстрый веб-фаззер, написанный на Go (программа)",
+      "excerpt": "ffuf — это быстрый веб-фаззер, написанный на Go, который позволяет выполнять типичное обнаружение каталогов, обнаружение виртуальных хостов (без записей DNS), а также фаззинг параметров GET и POST.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Ffuf — Быстрый веб-фаззер, написанный на Go (программа)",
+      "metaDescription": "ffuf — это быстрый веб-фаззер, написанный на Go, который позволяет выполнять типичное обнаружение каталогов, обнаружение виртуальных хостов (без запис",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/ffuf/"
+    },
+    {
+      "id": "kali-whatweb",
+      "category": "Обучение",
+      "title": "Whatweb — Веб-сканер нового поколения",
+      "excerpt": "WhatWeb идентифицирует веб-сайты. Он распознает веб-технологии, включая системы управления контентом (CMS), платформы для блогов, пакеты статистики/аналитики, библиотеки JavaScript, веб-серверы и встроенные устройства.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Whatweb — Веб-сканер нового поколения",
+      "metaDescription": "WhatWeb идентифицирует веб-сайты. Он распознает веб-технологии, включая системы управления контентом (CMS), платформы для блогов, пакеты статистики/ан",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/whatweb/"
+    },
+    {
+      "id": "kali-snort",
+      "category": "Обучение",
+      "title": "Snort — Гибкая система обнаружения сетевых вторжений",
+      "excerpt": "Snort — это анализатор/регистратор пакетов на основе libpcap, который можно использовать в качестве облегченной системы обнаружения вторжений в сеть. Он поддерживает ведение журнала на основе правил и может выполнять поиск/сопоставление кон",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Snort — Гибкая система обнаружения сетевых вторжений",
+      "metaDescription": "Snort — это анализатор/регистратор пакетов на основе libpcap, который можно использовать в качестве облегченной системы обнаружения вторжений в сеть. ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/snort/"
+    },
+    {
+      "id": "kali-bettercap",
+      "category": "Обучение",
+      "title": "Bettercap — Полная, модульная, портативная и легко расширяемая платформа MITM.",
+      "excerpt": "Швейцарский армейский нож для разведки сетей 802.11, BLE, IPv4 и IPv6 и атак MITM.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Bettercap — Полная, модульная, портативная и легко расширяем",
+      "metaDescription": "Швейцарский армейский нож для разведки сетей 802.11, BLE, IPv4 и IPv6 и атак MITM.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/bettercap/"
+    },
+    {
+      "id": "kali-fluxion",
+      "category": "Обучение",
+      "title": "Fluxion — Инструмент аудита безопасности и исследований в области социальной инженерии",
+      "excerpt": "Fluxion — это инструмент для аудита безопасности и исследований в области социальной инженерии. Это римейк linset от vk496 с (надеюсь) меньшим количеством ошибок и большей функциональностью. Скрипт пытается получить ключ WPA/WPA2 от целевой",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "соц-инженерия"
+      ],
+      "image": "",
+      "metaTitle": "Fluxion — Инструмент аудита безопасности и исследований в об",
+      "metaDescription": "Fluxion — это инструмент для аудита безопасности и исследований в области социальной инженерии. Это римейк linset от vk496 с (надеюсь) меньшим количес",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/fluxion/"
+    },
+    {
+      "id": "kali-sqlmap",
+      "category": "Обучение",
+      "title": "Sqlmap — Инструмент автоматического внедрения SQL",
+      "excerpt": "Целью sqlmap является обнаружение и использование уязвимостей SQL-инъекций в веб-приложениях. Как только он обнаружит одну или несколько SQL-инъекций на целевом хосте, пользователь может выбрать один из множества вариантов, чтобы выполнить ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Sqlmap — Инструмент автоматического внедрения SQL",
+      "metaDescription": "Целью sqlmap является обнаружение и использование уязвимостей SQL-инъекций в веб-приложениях. Как только он обнаружит одну или несколько SQL-инъекций ",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sqlmap/"
+    },
+    {
+      "id": "kali-bloodhound",
+      "category": "Обучение",
+      "title": "Bloodhound — Шесть степеней администратора домена, BloodHound CE",
+      "excerpt": "Этот пакет содержит BloodHound Community Edition, одностраничное веб-приложение на языке Javascript.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Bloodhound — Шесть степеней администратора домена, BloodHoun",
+      "metaDescription": "Этот пакет содержит BloodHound Community Edition, одностраничное веб-приложение на языке Javascript.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/bloodhound/"
+    },
+    {
+      "id": "kali-powershell",
+      "category": "Обучение",
+      "title": "Powershell — PowerShell — это платформа автоматизации и управления конфигурацией.",
+      "excerpt": "Он состоит из кроссплатформенной оболочки командной строки и связанного с ней языка сценариев.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Powershell — PowerShell — это платформа автоматизации и упра",
+      "metaDescription": "Он состоит из кроссплатформенной оболочки командной строки и связанного с ней языка сценариев.",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/powershell/"
+    },
+    {
+      "id": "kali-gobuster",
+      "category": "Обучение",
+      "title": "Gobuster — Высокопроизводительный инструмент обнаружения каталогов, DNS и облачных хранилищ.",
+      "excerpt": "Gobuster — это высокопроизводительный инструмент, используемый для перебора и обнаружения:",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Gobuster — Высокопроизводительный инструмент обнаружения кат",
+      "metaDescription": "Gobuster — это высокопроизводительный инструмент, используемый для перебора и обнаружения:",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/gobuster/"
+    },
+    {
+      "id": "kali-wifite",
+      "category": "Обучение",
+      "title": "Wifite — Скрипт Python для автоматизации аудита беспроводной сети с помощью инструментов aircrack-ng",
+      "excerpt": "Wifite — это инструмент для аудита беспроводных сетей с шифрованием WEP или WPA. Для проведения аудита он использует инструменты aircrack-ng, Pyrit, Reaver, Tshark.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Wifite — Скрипт Python для автоматизации аудита беспроводной",
+      "metaDescription": "Wifite — это инструмент для аудита беспроводных сетей с шифрованием WEP или WPA. Для проведения аудита он использует инструменты aircrack-ng, Pyrit, R",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/wifite/"
+    },
+    {
+      "id": "kali-aircrack-ng",
+      "category": "Обучение",
+      "title": "Aircrack-ng — Утилиты для взлома беспроводных WEP/WPA",
+      "excerpt": "aircrack-ng — это программа взлома WEP/WPA 802.11a/b/g, которая может восстановить 40-битный, 104-битный, 256-битный или 512-битный ключ WEP после того, как будет собрано достаточное количество зашифрованных пакетов. Также он может атаковат",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Aircrack-ng — Утилиты для взлома беспроводных WEP/WPA",
+      "metaDescription": "aircrack-ng — это программа взлома WEP/WPA 802.11a/b/g, которая может восстановить 40-битный, 104-битный, 256-битный или 512-битный ключ WEP после тог",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/aircrack-ng/"
+    },
+    {
+      "id": "kali-sherlock",
+      "category": "Обучение",
+      "title": "Sherlock — Найдите имена пользователей в социальных сетях",
+      "excerpt": "Шерлок полагается на то, что дизайнеры сайта предоставляют уникальный URL-адрес для зарегистрированного имени пользователя. Чтобы определить, доступно ли имя пользователя, Шерлок запрашивает этот URL-адрес и использует ответ, чтобы понять, ",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "утилиты"
+      ],
+      "image": "",
+      "metaTitle": "Sherlock — Найдите имена пользователей в социальных сетях",
+      "metaDescription": "Шерлок полагается на то, что дизайнеры сайта предоставляют уникальный URL-адрес для зарегистрированного имени пользователя. Чтобы определить, доступно",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/sherlock/"
+    },
+    {
+      "id": "kali-wireshark",
+      "category": "Обучение",
+      "title": "Wireshark — Анализатор сетевого трафика — графический интерфейс",
+      "excerpt": "Wireshark — это сетевой «сниффер» — инструмент, который перехватывает и анализирует пакеты, передаваемые по сети. Wireshark может декодировать слишком много протоколов, чтобы перечислять их здесь.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Wireshark — Анализатор сетевого трафика — графический интерф",
+      "metaDescription": "Wireshark — это сетевой «сниффер» — инструмент, который перехватывает и анализирует пакеты, передаваемые по сети. Wireshark может декодировать слишком",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/wireshark/"
+    },
+    {
+      "id": "kali-metasploit-framework",
+      "category": "Обучение",
+      "title": "Metasploit-framework — Платформа для разработки эксплойтов и исследования уязвимостей",
+      "excerpt": "Metasploit Framework — это платформа с открытым исходным кодом, которая поддерживает исследование уязвимостей, разработку эксплойтов и создание пользовательских инструментов безопасности.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "эксплойты"
+      ],
+      "image": "",
+      "metaTitle": "Metasploit-framework — Платформа для разработки эксплойтов и",
+      "metaDescription": "Metasploit Framework — это платформа с открытым исходным кодом, которая поддерживает исследование уязвимостей, разработку эксплойтов и создание пользо",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/metasploit-framework/"
+    },
+    {
+      "id": "kali-nmap",
+      "category": "Обучение",
+      "title": "Nmap — Сетевой картограф",
+      "excerpt": "Nmap — утилита для исследования сети или аудита безопасности. Он поддерживает пинг-сканирование (определение работоспособности хостов), множество методов сканирования портов, определение версий (определение сервисных протоколов и версий при",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "сканирование и разведка"
+      ],
+      "image": "",
+      "metaTitle": "Nmap — Сетевой картограф",
+      "metaDescription": "Nmap — утилита для исследования сети или аудита безопасности. Он поддерживает пинг-сканирование (определение работоспособности хостов), множество мето",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/nmap/"
+    },
+    {
+      "id": "kali-hydra",
+      "category": "Обучение",
+      "title": "Hydra — Очень быстрый взломщик входа в сеть",
+      "excerpt": "Hydra — это параллельный взломщик входов в систему, который поддерживает множество протоколов для атак. Он очень быстрый и гибкий, а новые модули легко добавлять.",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Hydra — Очень быстрый взломщик входа в сеть",
+      "metaDescription": "Hydra — это параллельный взломщик входов в систему, который поддерживает множество протоколов для атак. Он очень быстрый и гибкий, а новые модули легк",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hydra/"
+    },
+    {
+      "id": "kali-hashcat",
+      "category": "Обучение",
+      "title": "Hashcat — Самая быстрая и продвинутая в мире утилита для восстановления пароля",
+      "excerpt": "Hashcat поддерживает пять уникальных режимов атаки для более чем 300 высокооптимизированных алгоритмов хеширования. hashcat в настоящее время поддерживает процессоры, графические процессоры и другие аппаратные ускорители в Linux, а также им",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "featured": false,
+      "popular": false,
+      "tags": [
+        "kali",
+        "подбор паролей"
+      ],
+      "image": "",
+      "metaTitle": "Hashcat — Самая быстрая и продвинутая в мире утилита для вос",
+      "metaDescription": "Hashcat поддерживает пять уникальных режимов атаки для более чем 300 высокооптимизированных алгоритмов хеширования. hashcat в настоящее время поддержи",
+      "source": "kali.org",
+      "sourceUrl": "https://www.kali.org/tools/hashcat/"
+    },
+    {
       "id": "posle-ustraneniya-utechki-v-korable-crew-dragon--2026-09-17",
       "category": "Новости",
       "title": "После устранения утечки в корабле Crew Dragon миссия с российским космонавтом Тетерятниковым отправится к МКС уже в октябре",

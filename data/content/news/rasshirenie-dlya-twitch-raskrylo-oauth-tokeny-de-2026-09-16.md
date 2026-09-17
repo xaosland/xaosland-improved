@@ -1,6 +1,6 @@
 ---
 id: rasshirenie-dlya-twitch-raskrylo-oauth-tokeny-de-2026-09-16
-category: Обучение
+category: Новости
 title: Расширение для Twitch раскрыло OAuth-токены десятков тысяч пользователей
 excerpt: Специалисты компании Socket обнаружили, что браузерное расширение Twitch Enhanced Viewer &#124; JeetBot, ориентированное на русскоязычных пользователей и насчитывающее около 31 000 установок, передавало OAuth-токены на прокси-серверы своих разработчи
 date: 2026-09-16
@@ -8,7 +8,7 @@ readTime: 1
 tags: [новости, технологии]
 featured: false
 popular: false
-image: /images/learning/rasshirenie-dlya-twitch-raskrylo-oauth-tokeny-de-2026-09-16.webp
+image: /images/news/rasshirenie-dlya-twitch-raskrylo-oauth-tokeny-de-2026-09-16.webp
 metaTitle: Расширение для Twitch раскрыло OAuth-токены десятков тысяч п
 metaDescription: Специалисты компании Socket обнаружили, что браузерное расширение Twitch Enhanced Viewer &#124; JeetBot, ориентированное на русскоязычных пользователе
 source: Xakep

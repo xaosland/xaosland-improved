@@ -1,6 +1,6 @@
 ---
 id: agentov-openai-svyazali-s-atakoy-na-rubygems-2026-09-16
-category: Обучение
+category: Новости
 title: Агентов OpenAI связали с атакой на RubyGems
 excerpt: ИБ-исследователи полагают, что за масштабной спам-кампанией, направленной на RubyGems в мае 2026 года, стоял рой автономных агентов OpenAI. Агенты загрузили в репозиторий тысячи «мусорных» пакетов, добились удаленного выполнения кода на серверах Ruby
 date: 2026-09-16
@@ -8,7 +8,7 @@ readTime: 1
 tags: [новости, технологии]
 featured: false
 popular: false
-image: /images/learning/agentov-openai-svyazali-s-atakoy-na-rubygems-2026-09-16.webp
+image: /images/news/agentov-openai-svyazali-s-atakoy-na-rubygems-2026-09-16.webp
 metaTitle: Агентов OpenAI связали с атакой на RubyGems
 metaDescription: ИБ-исследователи полагают, что за масштабной спам-кампанией, направленной на RubyGems в мае 2026 года, стоял рой автономных агентов OpenAI. Агенты заг
 source: Xakep

@@ -1,6 +1,6 @@
 ---
 id: opublikovana-programma-konferentsii-zeronights-2-2026-09-16
-category: Обучение
+category: Новости
 title: Опубликована программа конференции ZeroNights 2026
 excerpt: 30 сентября эксперты ИБ уже в двенадцатый раз соберутся в Санкт-Петербурге, чтобы поделиться опытом с хакерским комьюнити. Организаторы конференции уже опубликовали программу мероприятия. В этом году в основных треках Offensive Track и SecOps Track з
 date: 2026-09-16
@@ -8,7 +8,7 @@ readTime: 1
 tags: [новости, технологии]
 featured: false
 popular: false
-image: /images/learning/opublikovana-programma-konferentsii-zeronights-2-2026-09-16.webp
+image: /images/news/opublikovana-programma-konferentsii-zeronights-2-2026-09-16.webp
 metaTitle: Опубликована программа конференции ZeroNights 2026
 metaDescription: 30 сентября эксперты ИБ уже в двенадцатый раз соберутся в Санкт-Петербурге, чтобы поделиться опытом с хакерским комьюнити. Организаторы конференции уж
 source: Xakep
