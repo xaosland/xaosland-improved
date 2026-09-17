@@ -50,10 +50,51 @@
         { icon: 'fas fa-bug', title: 'Malware и реверс', description: 'Анализ вредоносного ПО и полезные инструменты исследователя.', tags: ['реверс и анализ'] }
     ];
 
+    // Не просто список сертификатов: каждый уровень связан с реальными статьями,
+    // практикой и проверяемым результатом. IDs должны существовать в data/content/learning.
     const CERTIFICATION_ROADMAP = [
-        { level: '01', name: 'CompTIA Tech+', oldName: 'бывший ITF+', exam: 'FC0-U71', goal: 'Старт для новичка: устройство компьютера, ОС, основы ПО, данных, сетей и безопасности.', plan: 'Пройти базовые материалы по IT и Linux, собрать простую домашнюю лабораторию и проверить себя практическими заданиями.', link: 'https://www.comptia.org/en-us/certifications/tech/' },
-        { level: '02', name: 'CompTIA Network+', oldName: 'сетевой фундамент', exam: 'N10-009 · V9', goal: 'Сети, TCP/IP, IPv4, DNS, DHCP, VLAN, Wi‑Fi, маршрутизация, мониторинг и устранение неполадок.', plan: 'Изучить сети, выполнить лаборатории Nmap, Wireshark и DNS, научиться читать сетевые схемы и объяснять результаты сканирования.', link: 'https://www.comptia.org/en-us/certifications/network/' },
-        { level: '03', name: 'CompTIA Security+', oldName: 'базовая кибербезопасность', exam: 'SY0-701 · V7', goal: 'CIA/AAA, угрозы, уязвимости, архитектура, операции, реагирование, управление рисками и криптография.', plan: 'Пройти лаборатории по веб-безопасности, OSINT, YARA и SMB, затем сверить подготовку с официальными exam objectives и решать пробные вопросы.', link: 'https://www.comptia.org/en-us/certifications/security/' }
+        {
+            level: '01', name: 'CompTIA Tech+', oldName: 'IT-фундамент', exam: 'FC0-U71',
+            goal: 'Понять, из чего состоит компьютер, как работают ОС, файлы, сеть и базовая защита.',
+            plan: 'Идите сверху вниз: сначала железо и ОС, затем данные, сеть, безопасность и диагностика. Не переходите дальше, пока не сможете объяснить проблему своими словами и показать результат в лаборатории.',
+            articles: ['comp-tech-hardware', 'comp-tech-os', 'comp-tech-files-data', 'comp-tech-networking-intro', 'comp-tech-security-basics', 'comp-tech-troubleshooting'],
+            practice: [
+                'Соберите схему домашнего ПК: CPU, RAM, накопитель, ОС и периферия; объясните узкое место для офисной работы и для виртуальной машины.',
+                'В Linux создайте пользователя, каталог с правами 700 и резервную копию; восстановите один файл и зафиксируйте команды.',
+                'Нарисуйте путь browser → DNS → роутер → web-сервер и составьте чек-лист диагностики, если сайт не открывается.',
+                'Включите MFA, проверьте резервный код и смоделируйте фишинговое письмо без отправки реальным людям.'
+            ],
+            checkpoint: 'Уметь собрать безопасную мини-лабораторию, объяснить путь запроса к сайту и по симптомам выбрать следующий диагностический тест.',
+            link: 'https://www.comptia.org/en-us/certifications/tech/'
+        },
+        {
+            level: '02', name: 'CompTIA Network+', oldName: 'сети и устранение неполадок', exam: 'N10-009 · V9',
+            goal: 'Разобраться в TCP/IP, адресации, DNS/DHCP, коммутации, маршрутизации, Wi‑Fi и сетевой диагностике.',
+            plan: 'Изучите модели и адресацию, затем сервисы, VLAN и маршруты. Каждую тему закрепляйте захватом или наблюдаемым выводом инструмента — не заучивайте порты и протоколы изолированно.',
+            articles: ['comp-net-osi-tcpip', 'comp-net-ipv4-subnetting', 'comp-net-ports-protocols', 'comp-net-dns', 'comp-net-dhcp', 'comp-net-devices', 'comp-net-switching-vlan', 'comp-net-routing-nat', 'comp-net-wifi', 'comp-net-diagnostics'],
+            practice: [
+                'Разбейте 192.168.10.0/24 на четыре /26, назовите network/broadcast и usable range каждой подсети.',
+                'Снимите Wireshark-захват своего DNS-запроса и TCP-подключения к тестовому сайту; сопоставьте кадры с OSI.',
+                'Поднимите изолированную сеть из двух виртуальных машин, задайте статические адреса и найдите намеренно сломанный gateway или DNS.',
+                'Составьте таблицу VLAN/trunk/access и объясните, почему хост из одной VLAN не должен напрямую видеть хост из другой.'
+            ],
+            checkpoint: 'Уметь рассчитать подсеть, объяснить DORA/DNS, прочитать маршрут и доказать причину сетевой неисправности выводом ping, dig, ip или tcpdump.',
+            link: 'https://www.comptia.org/en-us/certifications/network/'
+        },
+        {
+            level: '03', name: 'CompTIA Security+', oldName: 'защита, операции и реагирование', exam: 'SY0-701 · V7',
+            goal: 'Перейти от понимания инфраструктуры к управлению риском: угрозы, идентичность, криптография, контроли, архитектура и incident response.',
+            plan: 'Начните с CIA/AAA и threat model, затем IAM и криптографии, после этого сеть и malware. Закончите журналированием, реагированием и восстановлением; все эксперименты проводите только в своей изолированной лаборатории.',
+            articles: ['comp-sec-cia-aaa', 'comp-sec-threat-actors', 'comp-sec-attack-vectors', 'comp-sec-auth-mfa', 'comp-sec-controls', 'comp-sec-crypto', 'comp-sec-network-security', 'comp-sec-malware', 'comp-sec-social-engineering', 'comp-sec-incident-response', 'comp-sec-resilience'],
+            practice: [
+                'Составьте threat model для домашнего сервера: активы, угрозы, уязвимости, вероятность, ущерб и конкретный контроль.',
+                'Настройте в лаборатории SSH-ключи вместо пароля, MFA там, где доступно, и проверьте журнал успешного и неуспешного входа.',
+                'Сгенерируйте безопасный тестовый файл-индикатор, посчитайте SHA-256 и покажите, как изменение одного байта меняет хэш.',
+                'Напишите мини playbook: обнаружение подозрительного входа → сохранение логов → containment → восстановление → lessons learned.'
+            ],
+            checkpoint: 'Уметь связать угрозу с контролем, объяснить выбор MFA/TLS/сегментации и оформить воспроизводимый план реагирования с доказательствами.',
+            link: 'https://www.comptia.org/en-us/certifications/security/'
+        }
     ];
 
     // ---------- Вспомогательные функции ----------
@@ -736,7 +777,12 @@
                     .map(a => `<a href="/learning/${encodeURIComponent(a.id)}/">${escapeHtml(a.title)}</a>`).join('')).join('');
                 return `<article class="learning-route-card"><div class="learning-route-icon"><i class="${route.icon}"></i></div><h2>${escapeHtml(route.title)}</h2><p>${escapeHtml(route.description)}</p><div class="learning-route-links">${links || '<a href="/learning/">Все материалы раздела</a>'}</div></article>`;
             }).join('');
-            const certifications = CERTIFICATION_ROADMAP.map(cert => `<article class="cert-roadmap-card"><div class="cert-roadmap-number">${cert.level}</div><div class="cert-roadmap-main"><div class="cert-roadmap-kicker">${escapeHtml(cert.oldName)}</div><h3>${escapeHtml(cert.name)}</h3><p class="cert-roadmap-exam">Экзамен: <strong>${escapeHtml(cert.exam)}</strong></p><p>${escapeHtml(cert.goal)}</p><div class="cert-roadmap-plan"><strong>План подготовки</strong><span>${escapeHtml(cert.plan)}</span></div><a href="${escapeAttr(cert.link)}" target="_blank" rel="noopener noreferrer">Официальная страница CompTIA ↗</a></div></article>`).join('');
+            const certifications = CERTIFICATION_ROADMAP.map(cert => {
+                const articleLinks = cert.articles.map(id => this.articles.find(article => article.id === id)).filter(Boolean)
+                    .map(article => `<li><a href="/learning/${encodeURIComponent(article.id)}/">${escapeHtml(article.title)}</a></li>`).join('');
+                const practice = cert.practice.map(item => `<li>${escapeHtml(item)}</li>`).join('');
+                return `<article class="cert-roadmap-card"><div class="cert-roadmap-number">${escapeHtml(cert.level)}</div><div class="cert-roadmap-main"><div class="cert-roadmap-kicker">${escapeHtml(cert.oldName)}</div><h3>${escapeHtml(cert.name)}</h3><p class="cert-roadmap-exam">Экзамен: <strong>${escapeHtml(cert.exam)}</strong></p><p>${escapeHtml(cert.goal)}</p><div class="cert-roadmap-plan"><strong>Как проходить</strong><span>${escapeHtml(cert.plan)}</span></div><div class="cert-roadmap-section"><h4>Статьи этого этапа</h4><ol>${articleLinks}</ol></div><div class="cert-roadmap-section cert-roadmap-practice"><h4>Практика</h4><ol>${practice}</ol></div><div class="cert-roadmap-checkpoint"><strong>Переход дальше</strong><span>${escapeHtml(cert.checkpoint)}</span></div><a class="cert-roadmap-official" href="${escapeAttr(cert.link)}" target="_blank" rel="noopener noreferrer">Официальные objectives CompTIA ↗</a></div></article>`;
+            }).join('');
             this.container.innerHTML = `<section class="learning-routes"><div class="learning-routes-heading"><p class="eyebrow">ПРАКТИЧЕСКАЯ ТРАЕКТОРИЯ</p><h1>Учебные маршруты</h1><p>Выберите направление и переходите к существующим материалам по тегам. Маршруты обновляются вместе с разделом «Обучение».</p></div><div class="learning-route-grid">${cards}</div><section class="cert-roadmap"><div class="learning-routes-heading"><p class="eyebrow">СЕРТИФИКАЦИЯ</p><h2>Лестница CompTIA: от IT к кибербезопасности</h2><p>Последовательный путь: сначала понять IT, затем сети и только потом готовиться к Security+. Это не замена официальным exam objectives: перед покупкой экзамена обязательно проверьте актуальную версию и требования на сайте CompTIA.</p></div><div class="cert-roadmap-list">${certifications}</div></section></section>`;
         }
 
