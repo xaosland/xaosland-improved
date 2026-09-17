@@ -1,6 +1,338 @@
 {
   "articles": [
     {
+      "id": "posle-ustraneniya-utechki-v-korable-crew-dragon--2026-09-17",
+      "category": "Новости",
+      "title": "После устранения утечки в корабле Crew Dragon миссия с российским космонавтом Тетерятниковым отправится к МКС уже в октябре",
+      "excerpt": "NASA и SpaceX рассчитывают отправить миссию Crew-13 к Международной космической станции в начале октября. В составе экипажа будет космонавт Роскосмоса Сергей Тетерятников. Изначально запуск планировался на 12 сентября, однако дату пришлось перенести ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/posle-ustraneniya-utechki-v-korable-crew-dragon--2026-09-17.webp",
+      "metaTitle": "После устранения утечки в корабле Crew Dragon миссия с росси",
+      "metaDescription": "NASA и SpaceX рассчитывают отправить миссию Crew-13 к Международной космической станции в начале октября. В составе экипажа будет космонавт Роскосмоса",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436331-posle-ustraneniia-utecki-v-korablei-crew-dragon-missiia-s-rossiiskim-kosmonavtom-teteriatnikovym-otpravitsia-k-mks-uze-v-oktiabre.html"
+    },
+    {
+      "id": "galaxy-s25-gotov-poluchit-stabilnuyu-one-ui-9-fi-2026-09-17",
+      "category": "Новости",
+      "title": "Galaxy S25 готов получить стабильную One UI 9 — финальная сборка уже появилась на серверах Samsung",
+      "excerpt": "Samsung, похоже, вышла на финишную прямую перед выпуском стабильной One UI 9 для серии Galaxy S25.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/galaxy-s25-gotov-poluchit-stabilnuyu-one-ui-9-fi-2026-09-17.webp",
+      "metaTitle": "Galaxy S25 готов получить стабильную One UI 9 — финальная сб",
+      "metaDescription": "Samsung, похоже, вышла на финишную прямую перед выпуском стабильной One UI 9 для серии Galaxy S25.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436332-galaxy-s25-gotov-polucit-stabilnuiu-one-ui-9-finalnaia-sborka-uze-poiavilas-na-serverax-samsung.html"
+    },
+    {
+      "id": "iphone-18-pro-smetayut-s-virtualnyh-prilavkov-v--2026-09-17",
+      "category": "Новости",
+      "title": "iPhone 18 Pro сметают с виртуальных прилавков в Китае: 7 млн смартфонов менее чем за минуту",
+      "excerpt": "Предзаказы на iPhone 18 Pro и iPhone 18 Pro Max в Китае открылись 12 сентября в 20:00, после чего смартфоны, по данным Ice Universe, менее чем за минуту закончились на JD.com и других крупных торговых площадках. Общее число предварительных заказов, к",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-smetayut-s-virtualnyh-prilavkov-v--2026-09-17.webp",
+      "metaTitle": "iPhone 18 Pro сметают с виртуальных прилавков в Китае: 7 млн",
+      "metaDescription": "Предзаказы на iPhone 18 Pro и iPhone 18 Pro Max в Китае открылись 12 сентября в 20:00, после чего смартфоны, по данным Ice Universe, менее чем за мину",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436334-iphone-18-pro-smetaiut-s-virtualnyx-prilavkov-v-kitae-7-mln-smartfonov-menee-cem-za-minutu.html"
+    },
+    {
+      "id": "the-world-must-establish-red-lines-for-autonomou-2026-09-17",
+      "category": "Новости",
+      "title": "Мир должен установить красные линии для автономного ИИ-оружия",
+      "excerpt": "ИИ трансформирует войну и международные конфликты. Автономные системы вооружения представляют реальную угрозу гражданскому населению. Война на Украине стала испытательным полигоном для оружия, которое может перемещаться, идентифицировать цели, против",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/the-world-must-establish-red-lines-for-autonomou-2026-09-17.webp",
+      "metaTitle": "Мир должен установить красные линии для автономного ИИ-оружи",
+      "metaDescription": "ИИ трансформирует войну и международные конфликты. Автономные системы вооружения представляют реальную угрозу гражданскому населению. Война на Украине",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/"
+    },
+    {
+      "id": "poyavilos-pervoe-sravnenie-kamer-iphone-18-pro-m-2026-09-17",
+      "category": "Новости",
+      "title": "Появилось первое сравнение камер iPhone 18 Pro Max и Samsung Galaxy S26 Ultra",
+      "excerpt": "Появилось первое сравнение камер iPhone 18 Pro Max и Samsung Galaxy S26 Ultra, которое выложил Mrwhosetheboss.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/poyavilos-pervoe-sravnenie-kamer-iphone-18-pro-m-2026-09-17.webp",
+      "metaTitle": "Появилось первое сравнение камер iPhone 18 Pro Max и Samsung",
+      "metaDescription": "Появилось первое сравнение камер iPhone 18 Pro Max и Samsung Galaxy S26 Ultra, которое выложил Mrwhosetheboss.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436337-poiavilos-pervoe-sravnenie-kamer-iphone-18-pro-max-i-samsung-galaxy-s26-ultra.html"
+    },
+    {
+      "id": "v-sleduyuschem-godu-huawei-posledovatelno-vypust-2026-09-17",
+      "category": "Новости",
+      "title": "В следующем году Huawei последовательно выпустит сразу два ИИ-чипа серии Ascend",
+      "excerpt": "В условиях растущей конкуренции и высоких темпов развития систем искусственного интеллекта ускорить выход новых моделей ИИ-чипов готовы не только западные разработчики типа Nvidia и AMD, но и китайская Huawei Technologies. В следующем году она послед",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-sleduyuschem-godu-huawei-posledovatelno-vypust-2026-09-17.webp",
+      "metaTitle": "В следующем году Huawei последовательно выпустит сразу два И",
+      "metaDescription": "В условиях растущей конкуренции и высоких темпов развития систем искусственного интеллекта ускорить выход новых моделей ИИ-чипов готовы не только запа",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148611"
+    },
+    {
+      "id": "spustya-15-let-lollipop-chainsaw-vse-taki-poluch-2026-09-17",
+      "category": "Новости",
+      "title": "Спустя 15 лет Lollipop Chainsaw всё-таки получит сиквел — геймплей и первые подробности Lollipop Chainsaw 2 Back2Back",
+      "excerpt": "Культовый в узких кругах зомби-слешер про чирлидершу с бензопилой Lollipop Chainsaw, разработанный японской студией Grasshopper Manufacture, спустя 15 лет после изначального релиза всё-таки получит продолжение. Источник изображений: Dragami Games",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spustya-15-let-lollipop-chainsaw-vse-taki-poluch-2026-09-17.webp",
+      "metaTitle": "Спустя 15 лет Lollipop Chainsaw всё-таки получит сиквел — ге",
+      "metaDescription": "Культовый в узких кругах зомби-слешер про чирлидершу с бензопилой Lollipop Chainsaw, разработанный японской студией Grasshopper Manufacture, спустя 15",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148608"
+    },
+    {
+      "id": "v-apple-ios-27-obnaruzhilas-oshibka-iz-za-kotoro-2026-09-17",
+      "category": "Новости",
+      "title": "В Apple iOS 27 обнаружилась ошибка, из-за которой iPhone зависает — её просто воспроизвести",
+      "excerpt": "Всего через несколько дней после выпуска iOS 27 для широкой аудитории в ней обнаружился способ временно вывести iPhone из строя — достаточно произвести несколько простых свайпов на главном экране, сообщает 9to5Mac. В соцсетях информация быстро распро",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-apple-ios-27-obnaruzhilas-oshibka-iz-za-kotoro-2026-09-17.webp",
+      "metaTitle": "В Apple iOS 27 обнаружилась ошибка, из-за которой iPhone зав",
+      "metaDescription": "Всего через несколько дней после выпуска iOS 27 для широкой аудитории в ней обнаружился способ временно вывести iPhone из строя — достаточно произвест",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148609"
+    },
+    {
+      "id": "novyy-film-resident-evil-okazalsya-hitom-i-odnoy-2026-09-17",
+      "category": "Новости",
+      "title": "Новый фильм Resident Evil оказался хитом и одной из лучших адаптаций видеоигр в истории — 97% на Rotten Tomatoes",
+      "excerpt": "Новый фильм Resident Evil уже установил рекорд среди экранизаций видеоигр.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-film-resident-evil-okazalsya-hitom-i-odnoy-2026-09-17.webp",
+      "metaTitle": "Новый фильм Resident Evil оказался хитом и одной из лучших а",
+      "metaDescription": "Новый фильм Resident Evil уже установил рекорд среди экранизаций видеоигр.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436358-novyi-film-resident-evil-okazalsia-xitom-i-odnoi-iz-lucsix-adaptacii-videoigr-v-istorii-97-na-rotten-tomatoes.html"
+    },
+    {
+      "id": "the-ai-security-question-leaders-should-be-askin-2026-09-17",
+      "category": "Новости",
+      "title": "Вместо этого лидеры вопросов безопасности ИИ должны задавать",
+      "excerpt": "В этом интервью Help Net Security Фредерик Булл, сотрудник службы безопасности Gremlin, рассказывает о том, что ИИ означает для команд безопасности. В разговоре обсуждается, почему вопрос о том, на каких данных была обучена модель, — это только часть",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/the-ai-security-question-leaders-should-be-askin-2026-09-17.webp",
+      "metaTitle": "Вместо этого лидеры вопросов безопасности ИИ должны задавать",
+      "metaDescription": "В этом интервью Help Net Security Фредерик Булл, сотрудник службы безопасности Gremlin, рассказывает о том, что ИИ означает для команд безопасности. В",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/frederic-bull-gremlin-ai-in-cybersecurity-gap/"
+    },
+    {
+      "id": "rossiya-stroit-novyy-zavod-po-proizvodstvu-mikro-2026-09-17",
+      "category": "Новости",
+      "title": "Россия строит новый завод по производству микросхем. Закупать оборудование могут в Китае или Европе",
+      "excerpt": "Научно-производственное предприятие НПП «Гамма» при Министерстве промышленности и торговли России недавно объявило о проведении открытого тендера на поставку оборудования для своих сборочно-испытательных цехов микроэлектроники по стартовой цене 732,1",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiya-stroit-novyy-zavod-po-proizvodstvu-mikro-2026-09-17.webp",
+      "metaTitle": "Россия строит новый завод по производству микросхем. Закупат",
+      "metaDescription": "Научно-производственное предприятие НПП «Гамма» при Министерстве промышленности и торговли России недавно объявило о проведении открытого тендера на п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436363-rossiia-stroit-novyi-zavod-po-proizvodstvu-mikrosxem-zakupat-oborudovanie-mogut-v-kitae-ili-evrope.html"
+    },
+    {
+      "id": "nasa-vklyuchilo-kosmicheskiy-teleskop-roman-on-p-2026-09-17",
+      "category": "Новости",
+      "title": "NASA включило космический телескоп Roman — он прислал свой первый снимок неба",
+      "excerpt": "Инженеры NASA начали включать бортовое оборудование нового «великого» телескопа Nancy Grace Roman, который был запущен в космос 30 августа. Сейчас он совершает трёхмесячный перелёт к точке Лагранжа L2 системы Солнце Земля, расположенной примерно в 1,",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-vklyuchilo-kosmicheskiy-teleskop-roman-on-p-2026-09-17.webp",
+      "metaTitle": "NASA включило космический телескоп Roman — он прислал свой п",
+      "metaDescription": "Инженеры NASA начали включать бортовое оборудование нового «великого» телескопа Nancy Grace Roman, который был запущен в космос 30 августа. Сейчас он ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148612"
+    },
+    {
+      "id": "mintsifry-vedet-peregovory-s-apple-o-podklyuchen-2026-09-17",
+      "category": "Новости",
+      "title": "Минцифры ведёт переговоры с Apple о подключении 5G на iPhone пользователей из РФ",
+      "excerpt": "По информации СМИ, в Минцифры РФ ведут переговоры с американской компанией Apple о возможности подключения к сетям связи 5G на iPhone у российских пользователей. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mintsifry-vedet-peregovory-s-apple-o-podklyuchen-2026-09-17.webp",
+      "metaTitle": "Минцифры ведёт переговоры с Apple о подключении 5G на iPhone",
+      "metaDescription": "По информации СМИ, в Минцифры РФ ведут переговоры с американской компанией Apple о возможности подключения к сетям связи 5G на iPhone у российских пол",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083186"
+    },
+    {
+      "id": "oneplus-16-s-akb-9000-ma-ch-stanet-pervym-smartf-2026-09-17",
+      "category": "Новости",
+      "title": "OnePlus 16 с АКБ 9000 мА•ч станет первым смартфоном, в котором 165 Гц работают во всех загружаемых приложениях и в меню",
+      "excerpt": "Президент OnePlus China Ли Цзе сегодня объявил, что OnePlus 16 станет первым устройством, работающим под управлением ColorOS 17, а также первым, достигшим «глобальной сверхвысокой частоты обновления 165 Гц».",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/oneplus-16-s-akb-9000-ma-ch-stanet-pervym-smartf-2026-09-17.webp",
+      "metaTitle": "OnePlus 16 с АКБ 9000 мА•ч станет первым смартфоном, в котор",
+      "metaDescription": "Президент OnePlus China Ли Цзе сегодня объявил, что OnePlus 16 станет первым устройством, работающим под управлением ColorOS 17, а также первым, дости",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436365-oneplus-16-s-akb-9000-mac-stanet-pervym-smartfonom-v-kotorom-165-gc-rabotaiut-vo-vsex-zagruzaemyx-prilozeniiax-i-v-meniu.html"
+    },
+    {
+      "id": "wardogs-za-nedelyu-v-rannem-dostupe-steam-zarabo-2026-09-17",
+      "category": "Новости",
+      "title": "Wardogs за неделю в раннем доступе Steam заработала больше денег, чем Marathon за полгода на ПК и консолях",
+      "excerpt": "Нашумевший мультиплеерный тактический шутер Wardogs от Bulkhead и Team17 за неделю в раннем доступе Steam уже обогнал по выручке эвакуационный боевик Marathon от Bungie (принадлежит Sony). Источник изображения: Team17",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wardogs-za-nedelyu-v-rannem-dostupe-steam-zarabo-2026-09-17.webp",
+      "metaTitle": "Wardogs за неделю в раннем доступе Steam заработала больше д",
+      "metaDescription": "Нашумевший мультиплеерный тактический шутер Wardogs от Bulkhead и Team17 за неделю в раннем доступе Steam уже обогнал по выручке эвакуационный боевик ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148613"
+    },
+    {
+      "id": "u-coloros-uzhe-bolee-770-mln-aktivnyh-polzovatel-2026-09-17",
+      "category": "Новости",
+      "title": "У ColorOS уже более 770 млн активных пользователей. ColorOS 17 выйдет на Oppo, OnePlus и Realme",
+      "excerpt": "На презентации ColorOS Тан Кай, президент подразделения разработки программного обеспечения Oppo, объявил, что число активных пользователей ColorOS по всему миру превысило 770 миллионов, охватив более 90 стран и регионов.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-coloros-uzhe-bolee-770-mln-aktivnyh-polzovatel-2026-09-17.webp",
+      "metaTitle": "У ColorOS уже более 770 млн активных пользователей. ColorOS ",
+      "metaDescription": "На презентации ColorOS Тан Кай, президент подразделения разработки программного обеспечения Oppo, объявил, что число активных пользователей ColorOS по",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436369-u-coloros-uze-bolee-770-mln-aktivnyx-polzovatelei-coloros-17-vyidet-na-oppo-oneplus-i-realme.html"
+    },
+    {
       "id": "iphone-18-pro-max-zaryazhaetsya-bystree-galaxy-s-2026-09-17",
       "category": "Новости",
       "title": "iPhone 18 Pro Max заряжается быстрее Galaxy S26 Ultra — 55% за 15 минут и 100% менее чем за час",
