@@ -38,7 +38,7 @@ function copyDir(src, dest) {
 
 // Копируем статические файлы
 function copyStatic() {
-    const items = ['css', 'js', 'webfonts', 'icons', 'images', 'data', 'manifest.json', 'service-worker.js', 'robots.txt', 'rss.xml', 'sitemap.xml', 'index.html', 'about.html', 'contacts.html', 'privacy.html'];
+    const items = ['css', 'js', 'webfonts', 'icons', 'images', 'data', 'manifest.json', 'service-worker.js', 'robots.txt', 'rss.xml', 'sitemap.xml', 'index.html', 'about.html', 'contacts.html', 'privacy.html', 'latest.html'];
     for (const item of items) {
         const src = path.join(ROOT, item);
         const dest = path.join(DIST, item);
@@ -287,8 +287,13 @@ function buildSearchIndex() {
         const slug = getSlugFromCategory(article.category);
         const contentFile = path.join(CONTENT_DIR, slug, `${article.id}.md`);
         let body = '';
+        let commands = [];
         if (fs.existsSync(contentFile)) {
-            body = stripFrontmatter(fs.readFileSync(contentFile, 'utf8')).slice(0, 2500);
+            const raw = fs.readFileSync(contentFile, 'utf8');
+            body = stripFrontmatter(raw).slice(0, 2500);
+            commands = [...new Set((raw.match(/<code[^>]*>([\s\S]*?)<\/code>/gi) || [])
+                .map(x => x.replace(/<[^>]+>/g, '').replace(/&quot;/g, '"').trim())
+                .filter(x => /(^|\s)(sudo\s+)?[a-z][a-z0-9_-]{2,}(\s|$)/i.test(x)))].slice(0, 30);
         }
         idx.push({
             id: article.id,
@@ -298,6 +303,7 @@ function buildSearchIndex() {
             date: article.date,
             tags: article.tags || [],
             body,
+            commands,
         });
     }
     fs.writeFileSync(path.join(DIST, 'data', 'search-index.json'), JSON.stringify(idx), 'utf8');
@@ -392,6 +398,11 @@ async function generatePages() {
         fs.mkdirSync(dir, { recursive: true });
         fs.writeFileSync(path.join(dir, 'index.html'), shell, 'utf8');
     }
+
+    // Учебные маршруты — отдельный SPA-адрес, который должен работать и при прямом переходе.
+    const learningRoutesDir = path.join(DIST, 'learning', 'routes');
+    fs.mkdirSync(learningRoutesDir, { recursive: true });
+    fs.writeFileSync(path.join(learningRoutesDir, 'index.html'), shell, 'utf8');
 
     buildSearchIndex();
     buildRelatedMap();

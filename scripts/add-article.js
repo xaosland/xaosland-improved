@@ -51,6 +51,12 @@ function parseFrontmatter(markdown) {
     if (frontmatter.popular !== undefined) {
         frontmatter.popular = frontmatter.popular === 'true';
     }
+    if (frontmatter.lab !== undefined) {
+        frontmatter.lab = frontmatter.lab === 'true';
+    }
+    if (frontmatter.labTools) {
+        frontmatter.labTools = frontmatter.labTools.replace(/^\[|\]$/g, '').split(',').map(t => t.trim()).filter(Boolean);
+    }
 
     const content = lines.slice(contentStart).join('\n').trim();
 
@@ -120,6 +126,9 @@ function addArticle(mdFilePath) {
         featured: frontmatter.featured || false,
         popular: frontmatter.popular || false,
         image: frontmatter.image || '',
+        lab: frontmatter.lab || false,
+        labTools: frontmatter.labTools || [],
+        labLevel: frontmatter.labLevel || '',
         metaTitle: frontmatter.metaTitle || frontmatter.title,
         metaDescription: frontmatter.metaDescription || frontmatter.excerpt
     };

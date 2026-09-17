@@ -34,8 +34,21 @@
         ITEMS_PER_PAGE: 6,
         DEFAULT_META_DESCRIPTION: 'IT-блог о программах, Windows, играх и кибербезопасности. Гайды, скрипты, оптимизация и полезные инструменты.',
         CACHE_EXPIRY: 5 * 60 * 1000,
-        CACHE_VERSION: 'v5'
+        CACHE_VERSION: 'v6',
+        FETCH_RETRIES: 2,
+        FETCH_RETRY_DELAY: 350
     };
+
+    // Учебные маршруты используют существующие теги, поэтому base.json не меняется.
+    const LEARNING_ROUTES = [
+        { icon: 'fas fa-terminal', title: 'Linux и Kali', description: 'Базовые инструменты и рабочая среда для практики.', tags: ['kali'] },
+        { icon: 'fas fa-network-wired', title: 'Сети и Nmap', description: 'Разведка сети, сканирование и понимание результатов.', tags: ['nmap', 'сканирование и разведка'] },
+        { icon: 'fas fa-globe', title: 'Web security', description: 'Уязвимости веб-приложений и безопасное тестирование.', tags: ['веб-уязвимости'] },
+        { icon: 'fas fa-user-secret', title: 'OSINT и разведка', description: 'Поиск открытых данных и сбор контекста о цели.', tags: ['сканирование и разведка'] },
+        { icon: 'fas fa-wifi', title: 'Wi‑Fi и радио', description: 'Беспроводные сети, сниффинг и защита инфраструктуры.', tags: ['wi-fi и ради', 'сниффинг и спуфинг'] },
+        { icon: 'fas fa-hard-drive', title: 'Форензика', description: 'Восстановление, анализ артефактов и расследование инцидентов.', tags: ['форензика'] },
+        { icon: 'fas fa-bug', title: 'Malware и реверс', description: 'Анализ вредоносного ПО и полезные инструменты исследователя.', tags: ['реверс и анализ'] }
+    ];
 
     // ---------- Вспомогательные функции ----------
     function getIconForCategory(category) {
@@ -141,7 +154,8 @@
             this.staticPages = {
                 'about': '/about.html',
                 'contacts': '/contacts.html',
-                'privacy': '/privacy.html'
+                'privacy': '/privacy.html',
+                'latest': '/latest.html'
             };
 
             this.initScrollTop();
@@ -155,6 +169,9 @@
                     const tag = btn.dataset.tag;
                     this.filterByTag(tag);
                 }
+            });
+            document.addEventListener('click', (e) => {
+                if (e.target.closest('.retry-load')) this.init();
             });
         }
 
@@ -355,34 +372,43 @@
         // ---------- Загрузка с кэшированием ----------
         async fetchWithCache(url, cacheKey) {
             const key = `${CONFIG.CACHE_VERSION}_${cacheKey}`;
-            const cached = localStorage.getItem(key);
-            if (cached) {
-                try {
-                    const data = JSON.parse(cached);
-                    const timestamp = data._timestamp || 0;
-                    if (Date.now() - timestamp < CONFIG.CACHE_EXPIRY) {
-                        return data.value;
-                    }
-                } catch (e) { /* ignore */ }
-            }
-
+            let cachedValue = null;
             try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error(`Ошибка загрузки ${url}`);
-                const data = await response.json();
-                localStorage.setItem(key, JSON.stringify({
-                    _timestamp: Date.now(),
-                    value: data
-                }));
-                return data;
-            } catch (error) {
-                showNotification(`Не удалось загрузить данные (${url})`, 'error');
-                return null;
+                const cached = JSON.parse(localStorage.getItem(key) || 'null');
+                if (cached && cached.value) {
+                    cachedValue = cached.value;
+                    if (Date.now() - (cached._timestamp || 0) < CONFIG.CACHE_EXPIRY) return cachedValue;
+                }
+            } catch (e) { /* повреждённый кэш игнорируем */ }
+
+            let lastError;
+            for (let attempt = 0; attempt <= CONFIG.FETCH_RETRIES; attempt++) {
+                try {
+                    const response = await fetch(url, { cache: 'no-cache' });
+                    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                    const data = await response.json();
+                    try { localStorage.setItem(key, JSON.stringify({ _timestamp: Date.now(), value: data })); }
+                    catch (e) { /* storage может быть недоступен */ }
+                    return data;
+                } catch (error) {
+                    lastError = error;
+                    if (attempt < CONFIG.FETCH_RETRIES) {
+                        await new Promise(resolve => setTimeout(resolve, CONFIG.FETCH_RETRY_DELAY * (attempt + 1)));
+                    }
+                }
             }
+            if (cachedValue) {
+                showNotification('Сервер временно недоступен — показаны сохранённые данные', 'info');
+                return cachedValue;
+            }
+            showNotification('Не удалось загрузить данные. Проверьте соединение и повторите попытку.', 'error');
+            throw lastError || new Error(`Ошибка загрузки ${url}`);
         }
 
         // ---------- Инициализация ----------
         async init() {
+            if (this._initializing) return;
+            this._initializing = true;
             try {
                 const articlesData = await this.fetchWithCache('/data/base.json', 'cache_articles');
                 if (!articlesData) throw new Error('Не удалось загрузить статьи');
@@ -395,10 +421,10 @@
                 await this.renderNavigation(navData);
                 await this.renderFooter(footerData);
 
-                this.handleRoute();
                 this.setupNavigation();
                 this.initBurgerMenu();
                 this.initSearch();
+                this.handleRoute();
                 await this.render();
                 this.updateCopyrightYear();
                 this.renderTagCloud();
@@ -406,7 +432,9 @@
 
             } catch (error) {
                 showNotification('Критическая ошибка загрузки данных. Попробуйте перезагрузить страницу.', 'error');
-                this.container.innerHTML = '<p style="color: red;">Не удалось загрузить данные. Попробуйте позже.</p>';
+                this.container.innerHTML = '<div class="load-error"><p>Не удалось загрузить данные.</p><button type="button" class="retry-load">Повторить загрузку</button></div>';
+            } finally {
+                this._initializing = false;
             }
         }
 
@@ -480,6 +508,7 @@
             this.staticPage = null;
 
             const parts = path.replace(/^\/|\/$/g, '').split('/');
+            this.learningRoutes = parts[0] === 'learning' && parts[1] === 'routes';
             if (parts.length === 0 || (parts.length === 1 && parts[0] === '')) {
                 this.currentCategory = null;
                 this.currentArticleId = null;
@@ -605,11 +634,20 @@
 
         // ---------- Основной рендер ----------
         async render() {
+            const renderToken = (this._renderToken = (this._renderToken || 0) + 1);
             try {
                 if (this.searchSuggestions) this.searchSuggestions.classList.remove('show');
 
                 if (!document.querySelector('.full-article') && this.readingProgress) {
                     this.readingProgress.style.width = '0';
+                }
+
+                if (this.learningRoutes) {
+                    this.renderLearningRoutes();
+                    this.renderBreadcrumb();
+                    this.updateActiveNavLink();
+                    this.updateMetaTags('Учебные маршруты XaosLand: Linux, сети, web security, OSINT, Wi‑Fi, форензика и malware.');
+                    return;
                 }
 
                 if (this.searchQuery && this.searchQuery.length > 0) {
@@ -620,8 +658,17 @@
                     return;
                 }
 
+                if (this.staticPage === 'latest') {
+                    this.renderLatestPage();
+                    this.renderBreadcrumb();
+                    this.updateActiveNavLink();
+                    this.updateMetaTags('Новые материалы XaosLand: последние статьи, лаборатории и новости.');
+                    return;
+                }
+
                 if (this.staticPage) {
                     await this.renderStaticPage(this.staticPage);
+                    if (renderToken !== this._renderToken) return;
                     this.renderBreadcrumb();
                     this.updateActiveNavLink();
                     this.updateMetaTags('Статическая страница');
@@ -645,6 +692,7 @@
                     const article = this.articles.find(a => a.id === this.currentArticleId && a.category === this.currentCategory);
                     if (article) {
                         await this.renderArticle(article);
+                        if (renderToken !== this._renderToken) return;
                         if (this.paginationContainer) this.paginationContainer.innerHTML = '';
                     } else {
                         showNotification('Статья не найдена', 'error');
@@ -669,6 +717,29 @@
             } catch (error) {
                 showNotification('Ошибка при загрузке контента', 'error');
             }
+        }
+
+        renderLearningRoutes() {
+            document.title = 'Учебные маршруты — XaosLand';
+            if (this.filterTags) this.filterTags.innerHTML = '';
+            if (this.paginationContainer) this.paginationContainer.innerHTML = '';
+            const cards = LEARNING_ROUTES.map(route => {
+                const links = route.tags.map(tag => this.articles
+                    .filter(a => a.category === 'Обучение' && a.tags.includes(tag)).slice(0, 3)
+                    .map(a => `<a href="/learning/${encodeURIComponent(a.id)}/">${escapeHtml(a.title)}</a>`).join('')).join('');
+                return `<article class="learning-route-card"><div class="learning-route-icon"><i class="${route.icon}"></i></div><h2>${escapeHtml(route.title)}</h2><p>${escapeHtml(route.description)}</p><div class="learning-route-links">${links || '<a href="/learning/">Все материалы раздела</a>'}</div></article>`;
+            }).join('');
+            this.container.innerHTML = `<section class="learning-routes"><div class="learning-routes-heading"><p class="eyebrow">ПРАКТИЧЕСКАЯ ТРАЕКТОРИЯ</p><h1>Учебные маршруты</h1><p>Выберите направление и переходите к существующим материалам по тегам. Маршруты обновляются вместе с разделом «Обучение».</p></div><div class="learning-route-grid">${cards}</div></section>`;
+        }
+
+        // ---------- Новые материалы ----------
+        renderLatestPage() {
+            document.title = 'Новые материалы — XaosLand';
+            if (this.filterTags) this.filterTags.innerHTML = '';
+            const latest = [...this.articles].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 30);
+            this.container.innerHTML = '<section class="latest-heading"><p class="eyebrow">ЛЕНТА ОБНОВЛЕНИЙ</p><h1>Новые материалы</h1><p>Последние статьи, лаборатории и новости проекта.</p></section>' + latest.map(a => this.createCardHTML(a)).join('');
+            if (this.paginationContainer) this.paginationContainer.innerHTML = '';
+            this.updateFavoriteButtons();
         }
 
         // ---------- Рендер статической страницы ----------
@@ -725,7 +796,7 @@
             const end = Math.min(start + perPage, total);
             const pageItems = articles.slice(start, end);
 
-            this.container.innerHTML = pageItems.map(a => this.createCardHTML(a)).join('');
+            this.container.innerHTML = learningCta + pageItems.map(a => this.createCardHTML(a)).join('');
             const baseUrl = this.buildBaseUrl();
             this.renderPagination(totalPages, currentPage, baseUrl);
             this.updateFavoriteButtons();
@@ -748,6 +819,9 @@
             }
 
             this.renderFilterTags(articles);
+            const learningCta = category === 'Обучение' && !this.currentTag && this.currentPage === 1
+                ? '<div class="learning-routes-cta"><i class="fas fa-route"></i><div><strong>Учебные маршруты</strong><p>Выберите направление: от Linux и Nmap до форензики и malware.</p></div><a class="btn" href="/learning/routes/">Открыть маршруты</a></div>'
+                : '';
 
             const total = articles.length;
             const perPage = CONFIG.ITEMS_PER_PAGE;
@@ -757,7 +831,7 @@
             const end = Math.min(start + perPage, total);
             const pageItems = articles.slice(start, end);
 
-            this.container.innerHTML = pageItems.map(a => this.createCardHTML(a)).join('');
+            this.container.innerHTML = learningCta + pageItems.map(a => this.createCardHTML(a)).join('');
             const baseUrl = this.buildBaseUrl();
             this.renderPagination(totalPages, currentPage, baseUrl);
             this.updateFavoriteButtons();
@@ -935,6 +1009,7 @@
 
             const dateStr = formatDate(article.date);
             const tagsHtml = article.tags.map(t => `<span class="tag" data-tag="${escapeAttr(t)}">${escapeHtml(t)}</span>`).join(' ');
+            const labBlock = article.lab ? `<aside class="lab-card" aria-label="Практическая лаборатория"><strong><i class="fas fa-flask"></i> Практическая лаборатория</strong><span>${escapeHtml(article.labLevel || 'Учебный стенд')}</span>${Array.isArray(article.labTools) && article.labTools.length ? `<small>Инструменты: ${escapeHtml(article.labTools.join(', '))}</small>` : ''}</aside>` : '';
 
             this.container.innerHTML = `
             <article class="full-article" data-id="${article.id}">
@@ -946,6 +1021,7 @@
                         <span><i class="fas fa-tags"></i> ${tagsHtml}</span>
                         <button class="favorite-btn" data-id="${escapeAttr(article.id)}" aria-label="Добавить в избранное"><i class="fas fa-star"></i></button>
                     </div>
+                    ${labBlock}
                     <div class="article-body">
     <div class="skeleton-line"></div>
     <div class="skeleton-line"></div>
@@ -984,6 +1060,7 @@
 
                 if (!response.ok) throw new Error('Не удалось загрузить текст статьи');
                 const markdownText = await response.text();
+                if (this._renderToken !== undefined && !this.container.querySelector(`.full-article[data-id="${article.id}"]`)) return;
                 const htmlContent = marked.parse(stripFrontmatter(markdownText));
                 const body = this.container.querySelector('.article-body');
                 if (body) body.innerHTML = htmlContent;
@@ -1225,9 +1302,13 @@
                 const pageNames = {
                     'about': 'О блоге',
                     'contacts': 'Контакты',
-                    'privacy': 'Политика конфиденциальности'
+                    'privacy': 'Политика конфиденциальности',
+                    'learning/routes': 'Учебные маршруты'
                 };
                 parts.push({ name: pageNames[this.staticPage] || this.staticPage, url: '#' });
+            } else if (this.learningRoutes) {
+                parts.push({ name: 'Обучение', url: '/learning/' });
+                parts.push({ name: 'Учебные маршруты', url: '#' });
             } else {
                 if (this.currentCategory) {
                     const slug = getSlugFromCategory(this.currentCategory);

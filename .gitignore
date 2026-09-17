@@ -24,3 +24,4 @@ tmp/
 data/tg-state.json
 data/learning-state.json
 data/kali-state.json
+data/tg-command-state.json
