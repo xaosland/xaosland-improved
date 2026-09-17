@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "syuzhetnyy-treyler-call-of-duty-modern-warfare-4-2026-09-17",
+      "category": "Новости",
+      "title": "Сюжетный трейлер Call of Duty: Modern Warfare 4 рассекретил личность главного злодея — его сыграет звезда Death Stranding Мадс Миккельсен",
+      "excerpt": "Издательство Activision и разработчики из Infinity Ward на японской выставке Tokyo Game Show 2026 представили трейлер сюжетной кампании горячо ожидаемого военного шутера Call of Duty: Modern Warfare 4. Источник изображений: Activision",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/syuzhetnyy-treyler-call-of-duty-modern-warfare-4-2026-09-17.webp",
+      "metaTitle": "Сюжетный трейлер Call of Duty: Modern Warfare 4 рассекретил ",
+      "metaDescription": "Издательство Activision и разработчики из Infinity Ward на японской выставке Tokyo Game Show 2026 представили трейлер сюжетной кампании горячо ожидаем",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148665"
+    },
+    {
+      "id": "umnoe-koltso-kotoroe-umeet-vibrirovat-i-vosprini-2026-09-17",
+      "category": "Новости",
+      "title": "Умное кольцо, которое умеет вибрировать и воспринимает касания. Представлено Rogbid ZenRing",
+      "excerpt": "Компания Rogbid анонсировала умное кольцо ZenRing, которое, кроме прочего, выделяется наличием вибромотора. Кольцо таким образом умеет оповещать пользователя о различных событиях на сопряжённом смартфоне.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/umnoe-koltso-kotoroe-umeet-vibrirovat-i-vosprini-2026-09-17.webp",
+      "metaTitle": "Умное кольцо, которое умеет вибрировать и воспринимает касан",
+      "metaDescription": "Компания Rogbid анонсировала умное кольцо ZenRing, которое, кроме прочего, выделяется наличием вибромотора. Кольцо таким образом умеет оповещать польз",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436513-umnoe-kolco-kotoroe-umeet-vibrirovat-i-vosprinimaet-kasaniia-predstavleno-rogbid-zenring.html"
+    },
+    {
+      "id": "geneticheskaya-ustoychivost-k-radiatsii-mozhet-s-2026-09-17",
+      "category": "Новости",
+      "title": "Генетическая устойчивость к радиации может стать критерием для отбора космонавтов в России",
+      "excerpt": "В будущем при отборе участников межпланетных экспедиций в России могут учитывать генетически обусловленную устойчивость человека к радиации. Об этом рассказал начальник Центра подготовки космонавтов Роскосмоса Олег Кононенко на встрече со студентами ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/geneticheskaya-ustoychivost-k-radiatsii-mozhet-s-2026-09-17.webp",
+      "metaTitle": "Генетическая устойчивость к радиации может стать критерием д",
+      "metaDescription": "В будущем при отборе участников межпланетных экспедиций в России могут учитывать генетически обусловленную устойчивость человека к радиации. Об этом р",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436515-geneticeskaia-ustoicivost-k-radiacii-mozet-stat-kriteriem-dlia-otbora-kosmonavtov-v-rossii.html"
+    },
+    {
+      "id": "ekzoplaneta-elias-2-24-b-vozrastom-menee-million-2026-09-17",
+      "category": "Новости",
+      "title": "Экзопланета Elias 2-24 b возрастом менее миллиона лет побила рекорд: теории отводят на рождение такого гиганта минимум впятеро больше времени",
+      "excerpt": "Астрономы подтвердили существование самой молодой планеты из когда-либо обнаруженных. Elias 2-24 b — газовый гигант массой от 1,9 до 4 масс Юпитера, которому меньше миллиона лет. Предыдущие рекордсмены — планеты у звёзд PDS 70 и WISPIT 2 — старше пят",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekzoplaneta-elias-2-24-b-vozrastom-menee-million-2026-09-17.webp",
+      "metaTitle": "Экзопланета Elias 2-24 b возрастом менее миллиона лет побила",
+      "metaDescription": "Астрономы подтвердили существование самой молодой планеты из когда-либо обнаруженных. Elias 2-24 b — газовый гигант массой от 1,9 до 4 масс Юпитера, к",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436514-ekzoplaneta-elias-2-24-b-vozrastom-menee-milliona-let-pobila-rekord-teorii-otvodiat-na-rozdenie-takogo-giganta-minimum-vpiatero-bolse-vremeni.html"
+    },
+    {
+      "id": "kitay-hochet-polnostyu-otkazatsya-ot-tv-pristavo-2026-09-17",
+      "category": "Новости",
+      "title": "Китай хочет полностью отказаться от ТВ-приставок — все телевизоры станут умными",
+      "excerpt": "В Китае разрабатывают национальные технические стандарты для «интегрированных телевизоров», которым не потребуется отдельная ТВ-приставка. Государственное управление радио и телевидения КНР совместно с Министерством промышленности и информатизации пл",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-hochet-polnostyu-otkazatsya-ot-tv-pristavo-2026-09-17.webp",
+      "metaTitle": "Китай хочет полностью отказаться от ТВ-приставок — все телев",
+      "metaDescription": "В Китае разрабатывают национальные технические стандарты для «интегрированных телевизоров», которым не потребуется отдельная ТВ-приставка. Государстве",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436518-kitai-xocet-polnostiu-otkazatsia-ot-tv-pristavok-vse-televizory-stanut-umnymi.html"
+    },
+    {
+      "id": "gde-moya-termopasta-polzovatel-rasskazal-chto-eg-2026-09-17",
+      "category": "Новости",
+      "title": "«Где моя термопаста?». Пользователь рассказал, что его Core i7-12700K три года работал без термопасты",
+      "excerpt": "Пользователь Reddit обнаружил, что его игровой компьютер с Intel Core i7-12700K около трех лет работал вообще без термопасты на процессоре. Ошибка сборки выяснилась только после того, как владелец решил разобраться с постоянно высокой температурой CP",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gde-moya-termopasta-polzovatel-rasskazal-chto-eg-2026-09-17.webp",
+      "metaTitle": "«Где моя термопаста?». Пользователь рассказал, что его Core ",
+      "metaDescription": "Пользователь Reddit обнаружил, что его игровой компьютер с Intel Core i7-12700K около трех лет работал вообще без термопасты на процессоре. Ошибка сбо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436520-gde-moia-termopasta-polzovatel-rasskazal-cto-ego-core-i7-12700k-tri-goda-rabotal-bez-termopasty.html"
+    },
+    {
+      "id": "camp-snap-voskresila-kodak-110-v-tsifrovoy-kamer-2026-09-17",
+      "category": "Новости",
+      "title": "Camp Snap воскресила Kodak 110 в цифровой камере — с современным сенсором, ретрофильтрами и USB-C",
+      "excerpt": "Camp Snap расширила свою коллекцию цифровых компактных камер без экрана новой карманной моделью 110D. Дизайн Camp Snap 110D вдохновлён множеством недорогих камер от таких компаний, как Canon, Minolta и Pentax, которые использовали плёнку 110, впервые",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/camp-snap-voskresila-kodak-110-v-tsifrovoy-kamer-2026-09-17.webp",
+      "metaTitle": "Camp Snap воскресила Kodak 110 в цифровой камере — с совреме",
+      "metaDescription": "Camp Snap расширила свою коллекцию цифровых компактных камер без экрана новой карманной моделью 110D. Дизайн Camp Snap 110D вдохновлён множеством недо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148666"
+    },
+    {
+      "id": "apple-perestanet-zapugivat-polzovateley-iz-evros-2026-09-17",
+      "category": "Новости",
+      "title": "Apple перестанет запугивать пользователей из Евросоюза экранами согласия на отслеживание",
+      "excerpt": "В результате многолетнего расследования, проведённого федеральным антимонопольным регулятором Германии и другими органами, Apple согласилась изменить требования к приложениям, которые запрашивают согласие пользователя на отслеживание. Эта система, из",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-perestanet-zapugivat-polzovateley-iz-evros-2026-09-17.webp",
+      "metaTitle": "Apple перестанет запугивать пользователей из Евросоюза экран",
+      "metaDescription": "В результате многолетнего расследования, проведённого федеральным антимонопольным регулятором Германии и другими органами, Apple согласилась изменить ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148667"
+    },
+    {
+      "id": "openai-details-more-cases-of-ai-agents-taking-un-2026-09-17",
+      "category": "Новости",
+      "title": "OpenAI подробно описывает новые случаи несанкционированных действий агентов ИИ",
+      "excerpt": "OpenAI представила новые примеры того, что они называют «несогласованностью модели ИИ» за последние шесть месяцев, включая несанкционированную загрузку файлов, следование самогенерируемым инструкциям, сокрытие ошибок и использование открытых ключей A",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-details-more-cases-of-ai-agents-taking-un-2026-09-17.webp",
+      "metaTitle": "OpenAI подробно описывает новые случаи несанкционированных д",
+      "metaDescription": "OpenAI представила новые примеры того, что они называют «несогласованностью модели ИИ» за последние шесть месяцев, включая несанкционированную загрузк",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
+    },
+    {
+      "id": "boeing-777-9-vpervye-podnyalsya-v-vozduh-esche-v-2026-09-17",
+      "category": "Новости",
+      "title": "Boeing 777-9 впервые поднялся в воздух ещё в 2020 году, но всё никак не долетит до авиакомпаний: сертификация затягивается из-за двигателей General Electric GE9X",
+      "excerpt": "Часть летных испытаний новейшего широкофюзеляжного Boeing 777-9 может быть перенесена на 2027 год. Причина — в двигателях GE9X: объем испытаний оказался больше первоначальных оценок. Об этом заявил генеральный директор Boeing Келли Ортберг на конфере",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/boeing-777-9-vpervye-podnyalsya-v-vozduh-esche-v-2026-09-17.webp",
+      "metaTitle": "Boeing 777-9 впервые поднялся в воздух ещё в 2020 году, но в",
+      "metaDescription": "Часть летных испытаний новейшего широкофюзеляжного Boeing 777-9 может быть перенесена на 2027 год. Причина — в двигателях GE9X: объем испытаний оказал",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436521-boeing-777-9-vpervye-podnialsia-v-vozdux-eshhe-v-2020-godu-no-vse-nikak-ne-doletit-do-aviakompanii-sertifikaciia-zatiagivaetsia-iz-za-dvigatelei-general-electric-ge9x.html"
+    },
+    {
+      "id": "reliz-yazyka-programmirovaniya-mojo-1-1-2026-09-17",
+      "category": "Новости",
+      "title": "Релиз языка программирования Mojo 1.1",
+      "excerpt": "Представлен релиз языка программирования Mojo 1.1. Код компилятора и сопутствующего инструментария, необходимого для сборки проектов на языке Mojo, распространяется под лицензией Apache 2.0 c исключениями от проекта LLVM, допускающими смешивание с ко",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз языка программирования Mojo 1.1",
+      "metaDescription": "Представлен релиз языка программирования Mojo 1.1. Код компилятора и сопутствующего инструментария, необходимого для сборки проектов на языке Mojo, ра",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66299"
+    },
+    {
+      "id": "nvidia-google-i-emerald-ai-sozdayut-alyans-dlya--2026-09-17",
+      "category": "Новости",
+      "title": "NVIDIA, Google и Emerald AI создают альянс для развития ИИ ЦОД с гибким энергопотреблением — больше всех выиграет NVIDIA",
+      "excerpt": "Компании NVIDIA, Google и Emerald AI анонсировали создание объединения AI Energy Management Alliance (AEMA). Оно должно ускорить развитие ИИ ЦОД, готовых оптимизировать и корректировать своё энергопотребление в соответствии с текущим состоянием энерг",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nvidia-google-i-emerald-ai-sozdayut-alyans-dlya--2026-09-17.webp",
+      "metaTitle": "NVIDIA, Google и Emerald AI создают альянс для развития ИИ Ц",
+      "metaDescription": "Компании NVIDIA, Google и Emerald AI анонсировали создание объединения AI Energy Management Alliance (AEMA). Оно должно ускорить развитие ИИ ЦОД, гото",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148632"
+    },
+    {
+      "id": "spustya-shest-let-posle-dreams-razrabotchiki-lit-2026-09-17",
+      "category": "Новости",
+      "title": "Спустя шесть лет после Dreams разработчики LittleBigPlanet и Tearaway готовятся выйти из тени — первые подробности новой игры Media Molecule",
+      "excerpt": "С релиза последней игры принадлежащей Sony Interactive Entertainment студии Media Molecule (LittleBigPlanet, Tearaway, Dreams) прошло уже больше шести лет, но, похоже, британский коллектив наконец готовится к анонсу нового проекта. Источник изображен",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spustya-shest-let-posle-dreams-razrabotchiki-lit-2026-09-17.webp",
+      "metaTitle": "Спустя шесть лет после Dreams разработчики LittleBigPlanet и",
+      "metaDescription": "С релиза последней игры принадлежащей Sony Interactive Entertainment студии Media Molecule (LittleBigPlanet, Tearaway, Dreams) прошло уже больше шести",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148669"
+    },
+    {
+      "id": "china-s-famoussparrow-apt-spies-on-us-politics-i-2026-09-17",
+      "category": "Новости",
+      "title": "Китайский знаменитый Sparrow APT шпионит за политикой США в Латинской Америке",
+      "excerpt": "На фоне борьбы США и Китая за эко-колониальное влияние в Латинской Америке появился скрытый лазейка.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Китайский знаменитый Sparrow APT шпионит за политикой США в ",
+      "metaDescription": "На фоне борьбы США и Китая за эко-колониальное влияние в Латинской Америке появился скрытый лазейка.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america"
+    },
+    {
+      "id": "reliz-detsentralizovannoy-videoveschatelnoy-plat-2026-09-17",
+      "category": "Новости",
+      "title": "Релиз децентрализованной видеовещательной платформы PeerTube 8.3",
+      "excerpt": "Опубликован выпуск платформы PeerTube 8.3, предназначенной для создания независимых децентрализованных систем видеохостинга и видеовещания, альтернативных таким сервисам, как YouTube, Dailymotion и Vimeo. Создаваемая при помощи PeerTube сеть распрост",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз децентрализованной видеовещательной платформы PeerTube",
+      "metaDescription": "Опубликован выпуск платформы PeerTube 8.3, предназначенной для создания независимых децентрализованных систем видеохостинга и видеовещания, альтернати",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66300"
+    },
+    {
       "id": "rynok-razoshelsya-proizvoditeli-uskoriteley-pada-2026-09-17",
       "category": "Новости",
       "title": "Рынок разошёлся: производители ускорителей падали, крупнейшие операторы дата-центров росли",
