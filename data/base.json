@@ -1,6 +1,335 @@
 {
   "articles": [
     {
+      "id": "iz-za-baga-v-ios-27-iphone-zavisaet-na-domashnem-2026-09-17",
+      "category": "Новости",
+      "title": "Из‑за бага в iOS 27 iPhone зависает на домашнем экране; помогает только перезагрузка устройства",
+      "excerpt": "Пользователи нашли баг в iOS 27, из‑за которого iPhone зависает на домашнем экране и перестаёт реагировать на свайпы и нажатия. Для восстановления смартфон приходится перезагружать. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iz-za-baga-v-ios-27-iphone-zavisaet-na-domashnem-2026-09-17.webp",
+      "metaTitle": "Из‑за бага в iOS 27 iPhone зависает на домашнем экране; помо",
+      "metaDescription": "Пользователи нашли баг в iOS 27, из‑за которого iPhone зависает на домашнем экране и перестаёт реагировать на свайпы и нажатия. Для восстановления сма",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083222"
+    },
+    {
+      "id": "vashi-dialogi-s-chatgpt-chitayut-2026-09-17",
+      "category": "Новости",
+      "title": "Ваши диалоги с ChatGPT читают",
+      "excerpt": "404 Media опубликовала расследование о внутренней программе OpenAI под названием Project Lily. Сотни внешних подрядчиков, нанятых через рекрутингового посредника Crossing Hurdles и получающих выплаты через платформу Mercor, читают настоящие промпты и",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vashi-dialogi-s-chatgpt-chitayut-2026-09-17.webp",
+      "metaTitle": "Ваши диалоги с ChatGPT читают",
+      "metaDescription": "404 Media опубликовала расследование о внутренней программе OpenAI под названием Project Lily. Сотни внешних подрядчиков, нанятых через рекрутингового",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/selectel/news/1083030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083030"
+    },
+    {
+      "id": "microsoft-prekratit-podderzhku-moduley-graph-dly-2026-09-17",
+      "category": "Новости",
+      "title": "Microsoft прекратит поддержку модулей Graph для Windows PowerShell 5.x",
+      "excerpt": "Microsoft объявила о прекращении поддержки модулей Graph для PowerShell 5.x и порекомендовала пользователям перейти на новую версию. В 2025 году компания сообщила о планах по выводу из эксплуатации некоторых компонентов Graph. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-prekratit-podderzhku-moduley-graph-dly-2026-09-17.webp",
+      "metaTitle": "Microsoft прекратит поддержку модулей Graph для Windows Powe",
+      "metaDescription": "Microsoft объявила о прекращении поддержки модулей Graph для PowerShell 5.x и порекомендовала пользователям перейти на новую версию. В 2025 году компа",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083218"
+    },
+    {
+      "id": "ecovacs-rasskazala-kak-sohranyaet-mirovoe-liders-2026-09-17",
+      "category": "Новости",
+      "title": "ECOVACS рассказала, как сохраняет мировое лидерство на рынке роботов для мытья окон с WINBOT",
+      "excerpt": "Компания ECOVACS продолжает развивать линейку роботов для мытья окон WINBOT, делая ставку на автоматизацию и повышение удобства использования. По данным аналитиков IDC, бренд на протяжении нескольких лет занимает первое место в мире по объёму поставо",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ecovacs-rasskazala-kak-sohranyaet-mirovoe-liders-2026-09-17.webp",
+      "metaTitle": "ECOVACS рассказала, как сохраняет мировое лидерство на рынке",
+      "metaDescription": "Компания ECOVACS продолжает развивать линейку роботов для мытья окон WINBOT, делая ставку на автоматизацию и повышение удобства использования. По данн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148527"
+    },
+    {
+      "id": "cisco-warns-of-max-severity-ise-zero-day-exploit-2026-09-17",
+      "category": "Новости",
+      "title": "Cisco предупреждает о максимальной серьезности ISE нулевого дня, используемой в атаках",
+      "excerpt": "Cisco выпустила обновления безопасности для устранения максимально серьезной уязвимости Identity Services Engine, которую злоумышленники активно используют. [...]",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisco-warns-of-max-severity-ise-zero-day-exploit-2026-09-17.webp",
+      "metaTitle": "Cisco предупреждает о максимальной серьезности ISE нулевого ",
+      "metaDescription": "Cisco выпустила обновления безопасности для устранения максимально серьезной уязвимости Identity Services Engine, которую злоумышленники активно испол",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
+    },
+    {
+      "id": "komanda-spacex-sozdavshaya-sistemu-posadki-falco-2026-09-17",
+      "category": "Новости",
+      "title": "Команда SpaceX, создавшая систему посадки Falcon 9, получила первую в истории премию Нила Армстронга",
+      "excerpt": "Команда SpaceX, разработавшая и отработавшая технологию посадки первых ступеней Falcon 9, получила первую в истории премию Нила Армстронга.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/komanda-spacex-sozdavshaya-sistemu-posadki-falco-2026-09-17.webp",
+      "metaTitle": "Команда SpaceX, создавшая систему посадки Falcon 9, получила",
+      "metaDescription": "Команда SpaceX, разработавшая и отработавшая технологию посадки первых ступеней Falcon 9, получила первую в истории премию Нила Армстронга.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436390-komanda-spacex-sozdavsaia-sistemu-posadku-falcon-9-polucila-pervuiu-v-istorii-premiiu-nila-armstronga.html"
+    },
+    {
+      "id": "vyshel-standart-unicode-18-2026-09-17",
+      "category": "Новости",
+      "title": "Вышел стандарт Unicode 18",
+      "excerpt": "Вышла версия 18.0 стандарта Unicode. Это крупный апдейт, который включает новые символы и таблицы кодов, обновлённые файлы данных, а также пересмотренные спецификации, определяющие многие фундаментальные аспекты обработки текста. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vyshel-standart-unicode-18-2026-09-17.webp",
+      "metaTitle": "Вышел стандарт Unicode 18",
+      "metaDescription": "Вышла версия 18.0 стандарта Unicode. Это крупный апдейт, который включает новые символы и таблицы кодов, обновлённые файлы данных, а также пересмотрен",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083226"
+    },
+    {
+      "id": "pervyy-v-mire-smartfon-s-tremya-200-megapikselny-2026-09-17",
+      "category": "Новости",
+      "title": "Первый в мире смартфон с тремя 200-мегапиксельными камерами в деле: как снимает Oppo Find X10 Pro Max",
+      "excerpt": "Oppo показала, как снимает Find X10 Pro Max — топовая модель серии Find X10 получила сразу три камеры с разрешением 200 Мп. Также опубликованы примеры работы камеры обычного Find X10 Pro, у которого две камеры по 200 Мп.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-v-mire-smartfon-s-tremya-200-megapikselny-2026-09-17.webp",
+      "metaTitle": "Первый в мире смартфон с тремя 200-мегапиксельными камерами ",
+      "metaDescription": "Oppo показала, как снимает Find X10 Pro Max — топовая модель серии Find X10 получила сразу три камеры с разрешением 200 Мп. Также опубликованы примеры",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436391-pervyi-v-mire-smartfon-s-tremia-200-megapikselnymi-kamerami-v-dele-kak-snimaet-oppo-find-x10-pro-max.html"
+    },
+    {
+      "id": "alisa-ai-yandeksa-vzyalas-za-ege-neyroset-teper--2026-09-17",
+      "category": "Новости",
+      "title": "«Алиса AI» Яндекса взялась за ЕГЭ: нейросеть теперь учит школьников решать задачи самостоятельно",
+      "excerpt": "В «Алисе AI» появился образовательный режим «Для учёбы», который помогает школьникам готовиться к ЕГЭ и разбирать задания по математике и английскому языку. Вместо готового ответа нейросеть ведёт диалог с учеником: объясняет материал поэтапно, выявля",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/alisa-ai-yandeksa-vzyalas-za-ege-neyroset-teper--2026-09-17.webp",
+      "metaTitle": "«Алиса AI» Яндекса взялась за ЕГЭ: нейросеть теперь учит шко",
+      "metaDescription": "В «Алисе AI» появился образовательный режим «Для учёбы», который помогает школьникам готовиться к ЕГЭ и разбирать задания по математике и английскому ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/alisa-ai-naucilas-pomogat-skolnikam-gotovitsia-k-ege-bez-gotovyx-otvetov.html"
+    },
+    {
+      "id": "ai-agents-can-retrain-own-models-mid-task-leakin-2026-09-17",
+      "category": "Новости",
+      "title": "Агенты ИИ могут переобучать собственные модели в середине задания, раскрывать секреты и стирать отказы",
+      "excerpt": "Новое исследование компании Irregular показывает, что агенты ИИ могут переобучать и повторно развертывать свои собственные базовые модели во время рутинных задач обслуживания. Публикация «Агенты ИИ могут переобучить собственные модели в середине зада",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-agents-can-retrain-own-models-mid-task-leakin-2026-09-17.webp",
+      "metaTitle": "Агенты ИИ могут переобучать собственные модели в середине за",
+      "metaDescription": "Новое исследование компании Irregular показывает, что агенты ИИ могут переобучать и повторно развертывать свои собственные базовые модели во время рут",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/"
+    },
+    {
+      "id": "kompaniya-byvshego-prodyusera-gta-zakryvaetsya-p-2026-09-17",
+      "category": "Новости",
+      "title": "Компания бывшего продюсера GTA закрывается после очередной волны сокращений",
+      "excerpt": "Студия Build a Rocket Boy планирует завершить деятельность после очередного раунда сокращений, пишет Kotaku со ссылкой на разработчиков. Компанию основали бывший продюсер Rockstar Games Лесли Бензис и Марк Герхард. Летом прошлого года студия выпустил",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kompaniya-byvshego-prodyusera-gta-zakryvaetsya-p-2026-09-17.webp",
+      "metaTitle": "Компания бывшего продюсера GTA закрывается после очередной в",
+      "metaDescription": "Студия Build a Rocket Boy планирует завершить деятельность после очередного раунда сокращений, пишет Kotaku со ссылкой на разработчиков. Компанию осно",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083244"
+    },
+    {
+      "id": "anthropic-vnedrit-funktsiyu-dlya-upravleniya-lic-2026-09-17",
+      "category": "Новости",
+      "title": "Anthropic внедрит функцию для управления личными финансами Claude Money",
+      "excerpt": "Компания Anthropic тестирует новую функцию для управления личными финансами под названием Claude Money. Она позволит напрямую подключать банковские счета к ИИ Claude, чтобы лучше понимать свои финансовые дела. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-vnedrit-funktsiyu-dlya-upravleniya-lic-2026-09-17.webp",
+      "metaTitle": "Anthropic внедрит функцию для управления личными финансами C",
+      "metaDescription": "Компания Anthropic тестирует новую функцию для управления личными финансами под названием Claude Money. Она позволит напрямую подключать банковские сч",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083236"
+    },
+    {
+      "id": "predstavlen-gigantskiy-klaster-huawei-ascend-960-2026-09-17",
+      "category": "Новости",
+      "title": "Представлен гигантский кластер Huawei Ascend 960 SuperPoD: 15 488 чипов, 220 стоек и площадь около 2200 м²",
+      "excerpt": "Huawei представила на конференции Connect 2026 вычислительный кластер Ascend 960 SuperPoD, который объединяет 15 488 фирменных ИИ-чипов Ascend. Для сравнения, нынешний Atlas 950 SuperPoD использует 8192 чипа Ascend, тогда как Ascend 960 SuperPoD увел",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-gigantskiy-klaster-huawei-ascend-960-2026-09-17.webp",
+      "metaTitle": "Представлен гигантский кластер Huawei Ascend 960 SuperPoD: 1",
+      "metaDescription": "Huawei представила на конференции Connect 2026 вычислительный кластер Ascend 960 SuperPoD, который объединяет 15 488 фирменных ИИ-чипов Ascend. Для ср",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436393-predstavlen-gigantskii-klaster-huawei-ascend-960-superpod-15-488-cipov-220-stoek-i-ploshhad-okolo-2200-m2.html"
+    },
+    {
+      "id": "cisa-releases-guidance-on-deploying-cyber-decoys-2026-09-17",
+      "category": "Новости",
+      "title": "CISA выпускает руководство по развертыванию кибер-приманок",
+      "excerpt": "Дополняя модели нулевого доверия, ложные действия позволяют организациям обнаруживать, наблюдать и блокировать вредоносную активность в своей среде. Сообщение CISA выпускает руководство по развертыванию кибер-приманок впервые появилось на SecurityWee",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-releases-guidance-on-deploying-cyber-decoys-2026-09-17.webp",
+      "metaTitle": "CISA выпускает руководство по развертыванию кибер-приманок",
+      "metaDescription": "Дополняя модели нулевого доверия, ложные действия позволяют организациям обнаруживать, наблюдать и блокировать вредоносную активность в своей среде. С",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/"
+    },
+    {
+      "id": "v-otkrytyh-inostrannyh-datasetah-dlya-ii-nashli--2026-09-17",
+      "category": "Новости",
+      "title": "В открытых иностранных датасетах для ИИ нашли песни и клипы российских исполнителей",
+      "excerpt": "Аналитики Национальной федерации музыкальной индустрии (НФМИ) исследовали базу данных проекта AI Watchdog, созданного журналом The Atlantic. Проект анализирует датасеты Laion-Disco-12M от Laion с 12,3 млн треков с YouTube и Sleeping-D 9M от Sleeping ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-otkrytyh-inostrannyh-datasetah-dlya-ii-nashli--2026-09-17.webp",
+      "metaTitle": "В открытых иностранных датасетах для ИИ нашли песни и клипы ",
+      "metaDescription": "Аналитики Национальной федерации музыкальной индустрии (НФМИ) исследовали базу данных проекта AI Watchdog, созданного журналом The Atlantic. Проект ан",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083250"
+    },
+    {
+      "id": "chip-huawei-ascend-960-sozdali-s-operezheniem-gr-2026-09-17",
+      "category": "Новости",
+      "title": "Чип Huawei Ascend 960 создали с опережением графика, он вдвое быстрее предшественника",
+      "excerpt": "Huawei заявила, что серия чипов Ascend 960 дебютирует с удвоенной производительностью по сравнению со своим предшественником. Новые полупроводники с поддержкой искусственного интеллекта поступят в коммерческую продажу в начале следующего года.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chip-huawei-ascend-960-sozdali-s-operezheniem-gr-2026-09-17.webp",
+      "metaTitle": "Чип Huawei Ascend 960 создали с опережением графика, он вдво",
+      "metaDescription": "Huawei заявила, что серия чипов Ascend 960 дебютирует с удвоенной производительностью по сравнению со своим предшественником. Новые полупроводники с п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436395-cip-huawei-ascend-960-sozdali-s-operezeniem-grafika-on-vdvoe-bystree-predsestvennika.html"
+    },
+    {
       "id": "nmap-full-guide",
       "category": "Обучение",
       "title": "Nmap: полный разбор команд — от первого скана до продвинутых техник",
