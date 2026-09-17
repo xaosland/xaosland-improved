@@ -12,13 +12,19 @@ const ROOT = path.join(__dirname, '..');
 const BASE_PATH = path.join(ROOT, 'data', 'base.json');
 const STATE_PATH = path.join(ROOT, 'data', 'tg-state.json');
 
-const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT = process.env.NEWS_TG_CHAT || '-1003570459658';
 const MAX_PER_RUN = parseInt(process.env.NEWS_TG_MAX_PER_RUN || '5', 10);
 const SITE = 'https://xaosland.ru';
 
+// Токен: env, затем файл /etc/xaosland/tg-token (на VPS; cron так и делает)
+function loadToken() {
+    if (process.env.TELEGRAM_BOT_TOKEN) return process.env.TELEGRAM_BOT_TOKEN.trim();
+    try { return fs.readFileSync('/etc/xaosland/tg-token', 'utf8').trim(); } catch { return null; }
+}
+const TOKEN = loadToken();
+
 if (!TOKEN) {
-    console.log('tg: TELEGRAM_BOT_TOKEN не задан — пропуск (это ок, пока бот не настроен)');
+    console.log('tg: токен не задан (env или /etc/xaosland/tg-token) — пропуск');
     process.exit(0);
 }
 
