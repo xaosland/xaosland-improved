@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "rynok-razoshelsya-proizvoditeli-uskoriteley-pada-2026-09-17",
+      "category": "Новости",
+      "title": "Рынок разошёлся: производители ускорителей падали, крупнейшие операторы дата-центров росли",
+      "excerpt": "В понедельник акции производителей ИИ-чипов пошли вниз на фоне эскалации публичной дискуссии об экзистенциальных рисках искусственного интеллекта — спусковым крючком стало увольнение исследователя Anthropic Джейкоба Коксона (Jacob Coxon), обвинившего",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rynok-razoshelsya-proizvoditeli-uskoriteley-pada-2026-09-17.webp",
+      "metaTitle": "Рынок разошёлся: производители ускорителей падали, крупнейши",
+      "metaDescription": "В понедельник акции производителей ИИ-чипов пошли вниз на фоне эскалации публичной дискуссии об экзистенциальных рисках искусственного интеллекта — сп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/strax-pered-ii-apokalipsisom-razognal-akcii-microsoft-google-i-meta-na-2-za-den.html"
+    },
+    {
+      "id": "cyberattacks-on-two-oil-tankers-prompt-coast-gua-2026-09-17",
+      "category": "Новости",
+      "title": "Кибератаки на два нефтяных танкера вынудили береговую охрану и ФБР подняться на борт судов",
+      "excerpt": "Береговая охрана подтвердила доказательства злонамеренной киберактивности на VL Prosperity, но не приписала атаку Ирану. Сообщение «Кибератаки на два нефтяных танкера побудили береговую охрану и ФБР взять суда на абордаж» впервые появилось на Securit",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cyberattacks-on-two-oil-tankers-prompt-coast-gua-2026-09-17.webp",
+      "metaTitle": "Кибератаки на два нефтяных танкера вынудили береговую охрану",
+      "metaDescription": "Береговая охрана подтвердила доказательства злонамеренной киберактивности на VL Prosperity, но не приписала атаку Ирану. Сообщение «Кибератаки на два ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/"
+    },
+    {
+      "id": "brevo-supply-chain-attack-injected-clickfix-scri-2026-09-17",
+      "category": "Новости",
+      "title": "Атака на цепочку поставок Brevo привела к внедрению скриптов ClickFix на сайты клиентов",
+      "excerpt": "Брево подтвердил, что злоумышленники украли ключ API Cloudflare и использовали его для внедрения вредоносных скриптов ClickFix на свои веб-сайты и файлы JavaScript, встроенные на сайты клиентов, для распространения вредоносного ПО. [...]",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/brevo-supply-chain-attack-injected-clickfix-scri-2026-09-17.webp",
+      "metaTitle": "Атака на цепочку поставок Brevo привела к внедрению скриптов",
+      "metaDescription": "Брево подтвердил, что злоумышленники украли ключ API Cloudflare и использовали его для внедрения вредоносных скриптов ClickFix на свои веб-сайты и фай",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/"
+    },
+    {
+      "id": "v-rossii-poyavilsya-ogromnyy-zavod-po-vypusku-av-2026-09-17",
+      "category": "Новости",
+      "title": "В России появился огромный завод по выпуску автоматических коробок передач — его открыл Haval",
+      "excerpt": "В Тульской области начал работу новый завод Haval по производству автоматических коробок передач. Предприятие вошло в российский производственный кластер компании и стало первым в стране заводом такого масштаба, выпускающим АКП для легковых автомобил",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossii-poyavilsya-ogromnyy-zavod-po-vypusku-av-2026-09-17.webp",
+      "metaTitle": "В России появился огромный завод по выпуску автоматических к",
+      "metaDescription": "В Тульской области начал работу новый завод Haval по производству автоматических коробок передач. Предприятие вошло в российский производственный клас",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436495-v-rossii-poiavilsia-ogromnyi-zavod-po-vypusku-avtomaticeskix-korobok-peredac-ego-otkryl-haval.html"
+    },
+    {
+      "id": "dohodnost-vyshe-chem-u-bitcoin-ii-uskoriteli-nvi-2026-09-17",
+      "category": "Новости",
+      "title": "Доходность выше, чем у Bitcoin. ИИ-ускорители Nvidia B200 сейчас продаются дороже, чем на старте год назад",
+      "excerpt": "Ускорители для ИИ Nvidia B200 поколения Blackwell, несмотря на то, что им на смену уже пришли продуты нового поколения, не просто сохраняют цену — сейчас они дороже, чем были на старте.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dohodnost-vyshe-chem-u-bitcoin-ii-uskoriteli-nvi-2026-09-17.webp",
+      "metaTitle": "Доходность выше, чем у Bitcoin. ИИ-ускорители Nvidia B200 се",
+      "metaDescription": "Ускорители для ИИ Nvidia B200 поколения Blackwell, несмотря на то, что им на смену уже пришли продуты нового поколения, не просто сохраняют цену — сей",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436497-doxodnost-vyse-cem-u-bitcoin-ii-uskoriteli-nvidia-b200-seicas-prodaiutsia-doroze-cem-na-starte-god-nazad.html"
+    },
+    {
+      "id": "napoleonovskiy-boevik-valor-mortis-ot-avtorov-gh-2026-09-17",
+      "category": "Новости",
+      "title": "Наполеоновский боевик Valor Mortis от авторов Ghostrunner будет стоить $40, чтобы пережить «самую безумную осень за всю историю индустрии»",
+      "excerpt": "Издательство Lyrical Games и разработчики из польской студии One More Level (дилогия Ghostrunner) раскрыли стоимость своего ролевого экшена от первого лица Valor Mortis и планы на сюжетное дополнение к игре. Источник изображений: Lyrical Games",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/napoleonovskiy-boevik-valor-mortis-ot-avtorov-gh-2026-09-17.webp",
+      "metaTitle": "Наполеоновский боевик Valor Mortis от авторов Ghostrunner бу",
+      "metaDescription": "Издательство Lyrical Games и разработчики из польской студии One More Level (дилогия Ghostrunner) раскрыли стоимость своего ролевого экшена от первого",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148668"
+    },
+    {
+      "id": "kitay-razrabotal-gaa-tranzistory-dlya-proizvodst-2026-09-17",
+      "category": "Новости",
+      "title": "Китай разработал GAA-транзисторы для производства передовых чипов с помощью DUV",
+      "excerpt": "Китайская академия наук (CAS) представила архитектуру транзисторов Gate-All-Around (GAA) с применением DUV-литографии (литография в глубоком ультрафиолете). Разработка может помочь китайской полупроводниковой отрасли выпустить новое поколение чипов б",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-razrabotal-gaa-tranzistory-dlya-proizvodst-2026-09-17.webp",
+      "metaTitle": "Китай разработал GAA-транзисторы для производства передовых ",
+      "metaDescription": "Китайская академия наук (CAS) представила архитектуру транзисторов Gate-All-Around (GAA) с применением DUV-литографии (литография в глубоком ультрафио",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436499-kitai-razrabotal-gaa-tranzistory-dlia-proizvodstva-peredovyx-cipov-s-pomoshhiu-duv.html"
+    },
+    {
+      "id": "intel-gotovit-zamenu-protsessoru-core-i5-14600k--2026-09-17",
+      "category": "Новости",
+      "title": "Intel готовит замену процессору Core i5-14600K, причём у новинки будет больше ядер",
+      "excerpt": "Компания Intel уже говорила, что сохранит сокет LGA 1700 до окончания кризиса памяти, и теперь стало известно, что как минимум для модели Core i5-14600K должна выйти замена.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/intel-gotovit-zamenu-protsessoru-core-i5-14600k--2026-09-17.webp",
+      "metaTitle": "Intel готовит замену процессору Core i5-14600K, причём у нов",
+      "metaDescription": "Компания Intel уже говорила, что сохранит сокет LGA 1700 до окончания кризиса памяти, и теперь стало известно, что как минимум для модели Core i5-1460",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436501-intel-gotovit-zamenu-processoru-core-i5-14600k-pricem-u-novinki-budet-bolse-iader.html"
+    },
+    {
+      "id": "istoricheskomu-zapusku-starship-flight-14-pomesh-2026-09-17",
+      "category": "Новости",
+      "title": "Историческому запуску Starship Flight 14 помешала бюрократия",
+      "excerpt": "SpaceX скорректировала дату следующего испытательного полёта Starship. Ранее компания ориентировалась на 22 сентября 2026 года, однако теперь Flight 14 запланирован не ранее 28 сентября. При этом окончательные сроки по-прежнему зависят от получения н",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/istoricheskomu-zapusku-starship-flight-14-pomesh-2026-09-17.webp",
+      "metaTitle": "Историческому запуску Starship Flight 14 помешала бюрократия",
+      "metaDescription": "SpaceX скорректировала дату следующего испытательного полёта Starship. Ранее компания ориентировалась на 22 сентября 2026 года, однако теперь Flight 1",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436503-istoriceskomu-zapusku-starship-flight-14-pomesala-biurokratiia.html"
+    },
+    {
+      "id": "meta-razvernet-sobstvennye-ii-chipy-mtia-450-v-d-2026-09-17",
+      "category": "Новости",
+      "title": "Meta* развернёт собственные ИИ-чипы MTIA 450 в дата-центрах в первой половине 2027 года",
+      "excerpt": "Meta* планирует начать установку собственного ИИ-чипа MTIA 450 в дата-центрах в первой половине 2027 года. Об этом 15 сентября сообщила Los Angeles Times со ссылкой на интервью с И Джун Сонгом, одним из руководителей инженерного направления Meta*. Чи",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/meta-razvernet-sobstvennye-ii-chipy-mtia-450-v-d-2026-09-17.webp",
+      "metaTitle": "Meta* развернёт собственные ИИ-чипы MTIA 450 в дата-центрах ",
+      "metaDescription": "Meta* планирует начать установку собственного ИИ-чипа MTIA 450 в дата-центрах в первой половине 2027 года. Об этом 15 сентября сообщила Los Angeles Ti",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436502-meta-razvernet-sobstvennye-ii-cipy-mtia-450-v-data-centrax-v-pervoi-polovine-2027-goda.html"
+    },
+    {
+      "id": "ifixit-vypustili-18-rukovodstv-opisyvayuschih-re-2026-09-17",
+      "category": "Новости",
+      "title": "iFixit выпустили 18 руководств, описывающих ремонт и обслуживание Steam Machine",
+      "excerpt": "Авторы iFixit опубликовали почти два десятка различных руководств по ременту и обслуживанию консоли Valve Steam Machine.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ifixit-vypustili-18-rukovodstv-opisyvayuschih-re-2026-09-17.webp",
+      "metaTitle": "iFixit выпустили 18 руководств, описывающих ремонт и обслужи",
+      "metaDescription": "Авторы iFixit опубликовали почти два десятка различных руководств по ременту и обслуживанию консоли Valve Steam Machine.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436504-ifixit-vypustili-18-rukovodstv-opisyvaiushhix-remont-i-obsluzivanie-steam-machine.html"
+    },
+    {
+      "id": "nam-ne-nuzhny-novye-zakony-glava-nvidia-otverg-p-2026-09-17",
+      "category": "Новости",
+      "title": "«Нам не нужны новые законы»: глава Nvidia отверг призывы Anthropic замедлить гонку ИИ",
+      "excerpt": "Глава Nvidia Дженсен Хуанг выступил с жёсткой позицией на конференции Dreamforce: индустрии ИИ не нужны новые законы или регуляторы для обеспечения безопасности. Заявление прозвучало на той же сцене и в тот же день, когда глава Anthropic Дарио Амодеи",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nam-ne-nuzhny-novye-zakony-glava-nvidia-otverg-p-2026-09-17.webp",
+      "metaTitle": "«Нам не нужны новые законы»: глава Nvidia отверг призывы Ant",
+      "metaDescription": "Глава Nvidia Дженсен Хуанг выступил с жёсткой позицией на конференции Dreamforce: индустрии ИИ не нужны новые законы или регуляторы для обеспечения бе",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436505-nam-ne-nuzny-novye-zakony-glava-nvidia-otverg-prizyvy-anthropic-zamedlit-gonku-ii.html"
+    },
+    {
+      "id": "rocket-lab-osporila-vybor-nasa-v-polzu-blue-orig-2026-09-17",
+      "category": "Новости",
+      "title": "Rocket Lab оспорила выбор NASA в пользу Blue Origin: запуск марсианского спутника связи теперь под угрозой срыва в 2028 году",
+      "excerpt": "Rocket Lab подала официальный протест в Счётную палату США на решение NASA выбрать Blue Origin для создания марсианского телекоммуникационного спутника.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rocket-lab-osporila-vybor-nasa-v-polzu-blue-orig-2026-09-17.webp",
+      "metaTitle": "Rocket Lab оспорила выбор NASA в пользу Blue Origin: запуск ",
+      "metaDescription": "Rocket Lab подала официальный протест в Счётную палату США на решение NASA выбрать Blue Origin для создания марсианского телекоммуникационного спутник",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436507-rocket-lab-osporila-vybor-nasa-v-polzu-blue-origin-zapusk-marsianskogo-sputnika-sviazi-teper-pod-ugrozoi-sryva-v-2028-godu.html"
+    },
+    {
+      "id": "portativnaya-konsol-sony-psp3-poluchit-gpu-proiz-2026-09-17",
+      "category": "Новости",
+      "title": "Портативная консоль Sony PSP3 получит GPU производительностью почти до 7 TFLOPS, но разрешение рендеринга составит 540p",
+      "excerpt": "Ресурс GameGPU опубликовал характеристики портативной игровой консоли Sony PlayStation. Согласно их данным, устройство сейчас фигурирует под кодовым именем Project Canis, а называться вполне может PSP 3, но это лишь предположение.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/portativnaya-konsol-sony-psp3-poluchit-gpu-proiz-2026-09-17.webp",
+      "metaTitle": "Портативная консоль Sony PSP3 получит GPU производительность",
+      "metaDescription": "Ресурс GameGPU опубликовал характеристики портативной игровой консоли Sony PlayStation. Согласно их данным, устройство сейчас фигурирует под кодовым и",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436511-portativnaia-konsol-sony-psp3-polucit-gpu-proizvoditelnostiu-pocti-do-7-tflops-no-razresenie-renderinga-sostavit-540p.html"
+    },
+    {
+      "id": "v-rossii-razrabotayut-98-novyh-materialov-dlya-p-2026-09-17",
+      "category": "Новости",
+      "title": "В России разработают 98 новых материалов для производства чипов",
+      "excerpt": "Минпромторг России планирует направить 4,68 млрд рублей на разработку и запуск серийного производства отечественных материалов для микроэлектроники в 2026–2028 годах. К концу программы в стране рассчитывают создать 98 новых материалов для электронной",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossii-razrabotayut-98-novyh-materialov-dlya-p-2026-09-17.webp",
+      "metaTitle": "В России разработают 98 новых материалов для производства чи",
+      "metaDescription": "Минпромторг России планирует направить 4,68 млрд рублей на разработку и запуск серийного производства отечественных материалов для микроэлектроники в ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436510-v-rossii-razrabotaiut-98-novyx-materialov-dlia-proizvodstva-cipov.html"
+    },
+    {
       "id": "populyarnyy-elektricheskiy-krossover-galaxy-ex5--2026-09-17",
       "category": "Новости",
       "title": "Популярный электрический кроссовер Galaxy EX5 станет лучше: 800 вольт, 333 л.с., задний привод и новые системы помощи водителю",
