@@ -1,6 +1,334 @@
 {
   "articles": [
     {
+      "id": "iphone-18-pro-max-zaryazhaetsya-bystree-galaxy-s-2026-09-17",
+      "category": "Новости",
+      "title": "iPhone 18 Pro Max заряжается быстрее Galaxy S26 Ultra — 55% за 15 минут и 100% менее чем за час",
+      "excerpt": "Скорость зарядки iPhone 18 Pro Max заметно выросла и, по данным теста Xiaobai’s Tech Reviews, теперь превосходит показатель Galaxy S26 Ultra.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-max-zaryazhaetsya-bystree-galaxy-s-2026-09-17.webp",
+      "metaTitle": "iPhone 18 Pro Max заряжается быстрее Galaxy S26 Ultra — 55% ",
+      "metaDescription": "Скорость зарядки iPhone 18 Pro Max заметно выросла и, по данным теста Xiaobai’s Tech Reviews, теперь превосходит показатель Galaxy S26 Ultra.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436341-iphone-18-pro-max-zariazaetsia-bystree-galaxy-s26-ultra-55-za-15-minut-i-100-menee-cem-za-cas.html"
+    },
+    {
+      "id": "zayavleniya-rukovodstva-openai-i-anthropic-o-neo-2026-09-17",
+      "category": "Новости",
+      "title": "Заявления руководства OpenAI и Anthropic о необходимости замедления развития ИИ посеяли смуту внутри компаний",
+      "excerpt": "По данным Financial Times, главы OpenAI и Anthropic не ограничились заявлениями о необходимости замедления ИИ, они дали подчинённым поручения приступить к реализации соответствующих мер, и эти идеи местами соседствуют с отсутствием реального прогресс",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zayavleniya-rukovodstva-openai-i-anthropic-o-neo-2026-09-17.webp",
+      "metaTitle": "Заявления руководства OpenAI и Anthropic о необходимости зам",
+      "metaDescription": "По данным Financial Times, главы OpenAI и Anthropic не ограничились заявлениями о необходимости замедления ИИ, они дали подчинённым поручения приступи",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148607"
+    },
+    {
+      "id": "predstavleny-televizory-viewsonic-diagonalyu-32--2026-09-17",
+      "category": "Новости",
+      "title": "Представлены телевизоры ViewSonic диагональю 32, 43, 50, 55 и 65 дюймов",
+      "excerpt": "ViewSonic представила серию телевизоров на платформе Google TV, ориентированную на коммерческое использование.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavleny-televizory-viewsonic-diagonalyu-32--2026-09-17.webp",
+      "metaTitle": "Представлены телевизоры ViewSonic диагональю 32, 43, 50, 55 ",
+      "metaDescription": "ViewSonic представила серию телевизоров на платформе Google TV, ориентированную на коммерческое использование.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436344-predstavleny-televizory-viewsonic-diagonaliu-32-43-50-55-i-65-diuimov.html"
+    },
+    {
+      "id": "mir-imeet-polnoe-pravo-boyatsya-ii-altman-zayavi-2026-09-17",
+      "category": "Новости",
+      "title": "«Мир имеет полное право бояться ИИ». Альтман заявил, что инцидентов с искусственным интеллектом не избежать",
+      "excerpt": "Сэм Альтман не делает вид, что искусственный интеллект будет абсолютно безопасен всегда. Выступая на конференции Salesforce Dreamforce, генеральный директор OpenAI заявил, что, по его мнению, определенное количество инцидентов с новыми технологиями п",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mir-imeet-polnoe-pravo-boyatsya-ii-altman-zayavi-2026-09-17.webp",
+      "metaTitle": "«Мир имеет полное право бояться ИИ». Альтман заявил, что инц",
+      "metaDescription": "Сэм Альтман не делает вид, что искусственный интеллект будет абсолютно безопасен всегда. Выступая на конференции Salesforce Dreamforce, генеральный ди",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436346-mir-imeet-polnoe-pravo-boiatsia-ii-altman-zaiavil-cto-incidentov-s-iskusstvennym-intellektom-ne-izbezat.html"
+    },
+    {
+      "id": "ai-is-adding-to-the-review-load-on-open-source-p-2026-09-17",
+      "category": "Новости",
+      "title": "ИИ увеличивает нагрузку на обзоры проектов с открытым исходным кодом, многие из которых недостаточно финансируются.",
+      "excerpt": "По мнению шести авторов, пишущих для Совета по технологической политике Ассоциации вычислительной техники, инструменты ИИ-кодирования усложняют поддержку и безопасность программного обеспечения с открытым исходным кодом, в том числе Симсона Гарфинкел",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-is-adding-to-the-review-load-on-open-source-p-2026-09-17.webp",
+      "metaTitle": "ИИ увеличивает нагрузку на обзоры проектов с открытым исходн",
+      "metaDescription": "По мнению шести авторов, пишущих для Совета по технологической политике Ассоциации вычислительной техники, инструменты ИИ-кодирования усложняют поддер",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/ai-and-open-source-projects/"
+    },
+    {
+      "id": "gnome-51-adds-passkey-logins-offline-maps-and-dr-2026-09-17",
+      "category": "Новости",
+      "title": "В GNOME 51 добавлены пароли для входа в систему, автономные карты и нарисованные подписи в формате PDF.",
+      "excerpt": "GNOME 51, новая версия рабочего стола Linux, вышла 16 сентября под кодовым названием A Coruña. В этом выпуске в Карты добавлены офлайн-карты и информация о транспорте в реальном времени, новые параметры входа в систему на экране входа, нарисованные о",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gnome-51-adds-passkey-logins-offline-maps-and-dr-2026-09-17.webp",
+      "metaTitle": "В GNOME 51 добавлены пароли для входа в систему, автономные ",
+      "metaDescription": "GNOME 51, новая версия рабочего стола Linux, вышла 16 сентября под кодовым названием A Coruña. В этом выпуске в Карты добавлены офлайн-карты и информа",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/gnome-51-new-features/"
+    },
+    {
+      "id": "batareya-7000-ma-ch-kotoraya-rasschitana-na-1800-2026-09-17",
+      "category": "Новости",
+      "title": "Батарея 7000 мА•ч, которая рассчитана на 1800 циклов и 6 лет службы, обратная зарядка и влагозащита. Представлен Oppo K14 Lite",
+      "excerpt": "Oppo представила новый смартфон K14 Lite, главной особенностью которого стала батарея ёмкостью 7000 мА•ч.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/batareya-7000-ma-ch-kotoraya-rasschitana-na-1800-2026-09-17.webp",
+      "metaTitle": "Батарея 7000 мА•ч, которая рассчитана на 1800 циклов и 6 лет",
+      "metaDescription": "Oppo представила новый смартфон K14 Lite, главной особенностью которого стала батарея ёмкостью 7000 мА•ч.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436349-batareia-7000-mac-kotoraia-rasscitana-na-1800-ciklov-i-6-let-sluzby-obratnaia-zariadka-i-vlagozashhita-predstavlen-oppo-k14-lite.html"
+    },
+    {
+      "id": "reliz-otkrytoy-platformy-obmena-faylami-openclou-2026-09-17",
+      "category": "Новости",
+      "title": "Релиз открытой платформы обмена файлами OpenCloud 8.0",
+      "excerpt": "15 сентября 2026 года состоялся восьмой мажорный релиз открытой платформы обмена файлами OpenCloud . Решение позволяет развернуть на локальном сервере систему для обмена файлами и организации совместной работы над контентом. Проект является открытой ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/reliz-otkrytoy-platformy-obmena-faylami-openclou-2026-09-17.webp",
+      "metaTitle": "Релиз открытой платформы обмена файлами OpenCloud 8.0",
+      "metaDescription": "15 сентября 2026 года состоялся восьмой мажорный релиз открытой платформы обмена файлами OpenCloud . Решение позволяет развернуть на локальном сервере",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083090"
+    },
+    {
+      "id": "predstavlen-135-dyuymovyy-ekran-benq-2026-09-17",
+      "category": "Новости",
+      "title": "Представлен 135-дюймовый экран BenQ",
+      "excerpt": "BenQ представила на выставке InfoComm India 2026 новую линейку устройств для офисов, рассчитанную на переговорные комнаты, крупные презентационные пространства и индивидуальные рабочие места. В число новинок вошли интерактивная панель BenQ Board CP55",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-135-dyuymovyy-ekran-benq-2026-09-17.webp",
+      "metaTitle": "Представлен 135-дюймовый экран BenQ",
+      "metaDescription": "BenQ представила на выставке InfoComm India 2026 новую линейку устройств для офисов, рассчитанную на переговорные комнаты, крупные презентационные про",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436351-predstavlen-135-diuimovyi-ekran-benq.html"
+    },
+    {
+      "id": "novuyu-gpt-5-5-uzhe-otpravlyayut-na-pensiyu-mode-2026-09-17",
+      "category": "Новости",
+      "title": "Новую GPT-5.5 уже отправляют на пенсию. Модель исчезнет из ChatGPT 14 октября",
+      "excerpt": "OpenAI объявила, что 14 октября 2026 года прекратит поддержку GPT-5.5 в ChatGPT, ChatGPT Work и Codex. Изменение затронет все тарифы, включая пользовательские, Business, Enterprise и Edu.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novuyu-gpt-5-5-uzhe-otpravlyayut-na-pensiyu-mode-2026-09-17.webp",
+      "metaTitle": "Новую GPT-5.5 уже отправляют на пенсию. Модель исчезнет из C",
+      "metaDescription": "OpenAI объявила, что 14 октября 2026 года прекратит поддержку GPT-5.5 в ChatGPT, ChatGPT Work и Codex. Изменение затронет все тарифы, включая пользова",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436352-novuiu-gpt-55-uze-otpravliaiut-na-pensiiu-model-isceznet-iz-chatgpt-14-oktiabria.html"
+    },
+    {
+      "id": "aws-8217-s-new-sign-up-gives-accounts-spend-caps-2026-09-17",
+      "category": "Новости",
+      "title": "Новая регистрация AWS дает ограничения на расходы учетных записей, приглашения по электронной почте и разрешения для установки агентов.",
+      "excerpt": "Новые клиенты AWS теперь могут зарегистрироваться, используя учетную запись Google, GitHub или Apple, начать со 100 долларов США в виде кредитов уровня бесплатного пользования и создавать внутри «проекта», где AWS и агенты кодирования автоматически н",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/aws-8217-s-new-sign-up-gives-accounts-spend-caps-2026-09-17.webp",
+      "metaTitle": "Новая регистрация AWS дает ограничения на расходы учетных за",
+      "metaDescription": "Новые клиенты AWS теперь могут зарегистрироваться, используя учетную запись Google, GitHub или Apple, начать со 100 долларов США в виде кредитов уровн",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/aws-spend-limit-agent-set-permissions/"
+    },
+    {
+      "id": "umnye-chasy-huawei-watch-ultimate-2-poluchili-dv-2026-09-17",
+      "category": "Новости",
+      "title": "Умные часы Huawei Watch Ultimate 2 получили две новые версии — они уже поступили в продажу в Китае",
+      "excerpt": "Huawei начала продажи двух новых версий Watch Ultimate 2 — Snow White и Mountain Gray, созданной в сотрудничестве с брендом DESCENTE.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/umnye-chasy-huawei-watch-ultimate-2-poluchili-dv-2026-09-17.webp",
+      "metaTitle": "Умные часы Huawei Watch Ultimate 2 получили две новые версии",
+      "metaDescription": "Huawei начала продажи двух новых версий Watch Ultimate 2 — Snow White и Mountain Gray, созданной в сотрудничестве с брендом DESCENTE.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436353-umnye-casy-huawei-watch-ultimate-2-polucili-dve-novye-versii-oni-uze-postupili-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "huawei-mate-90-mozhno-zakazat-do-ofitsialnogo-an-2026-09-17",
+      "category": "Новости",
+      "title": "Huawei Mate 90 можно заказать до официального анонса",
+      "excerpt": "Huawei уже перешла к стадии так называемых «слепых» предварительных заказов на смартфоны серии Huawei Mate 90. Некоторые офлайн-магазины в Китае принимают заявки на флагманскую серию до её официальной презентации. При этом оформить заказ через интерн",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huawei-mate-90-mozhno-zakazat-do-ofitsialnogo-an-2026-09-17.webp",
+      "metaTitle": "Huawei Mate 90 можно заказать до официального анонса",
+      "metaDescription": "Huawei уже перешла к стадии так называемых «слепых» предварительных заказов на смартфоны серии Huawei Mate 90. Некоторые офлайн-магазины в Китае прини",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436354-huawei-mate-90-mozno-zakazat-do-oficialnogo-anonsa.html"
+    },
+    {
+      "id": "a-flat-cybersecurity-budget-doesn-8217-t-have-to-2026-09-17",
+      "category": "Новости",
+      "title": "Плоский бюджет на кибербезопасность не обязательно означает более слабый охват",
+      "excerpt": "Чери Хотман, управляющий партнер Hotman Group, работает руководителем vCISO и vGRC. В этом видеоролике Help Net Security она рассказывает о том, как обеспечить стабильное покрытие, когда финансовый директор требует фиксированного бюджета или сокращен",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/a-flat-cybersecurity-budget-doesn-8217-t-have-to-2026-09-17.webp",
+      "metaTitle": "Плоский бюджет на кибербезопасность не обязательно означает ",
+      "metaDescription": "Чери Хотман, управляющий партнер Hotman Group, работает руководителем vCISO и vGRC. В этом видеоролике Help Net Security она рассказывает о том, как о",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/flat-cybersecurity-budget-video/"
+    },
+    {
+      "id": "predstavlen-ochistitel-vozduha-xiaomi-mijia-air--2026-09-17",
+      "category": "Новости",
+      "title": "Представлен очиститель воздуха Xiaomi Mijia Air Purifier 6C: площадь до 68 м² и производительность 603 м³/ч",
+      "excerpt": "Xiaomi начала предварительные продажи Mijia Air Purifier 6C в Китае. Очиститель рассчитан на помещения площадью до 68 м², обеспечивает производительность 603 м³/ч. При этом основание устройства занимает около 0,063 м² — примерно как лист бумаги А4.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-ochistitel-vozduha-xiaomi-mijia-air--2026-09-17.webp",
+      "metaTitle": "Представлен очиститель воздуха Xiaomi Mijia Air Purifier 6C:",
+      "metaDescription": "Xiaomi начала предварительные продажи Mijia Air Purifier 6C в Китае. Очиститель рассчитан на помещения площадью до 68 м², обеспечивает производительно",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436355-predstavlen-ocistitel-vozduxa-xiaomi-mijia-air-purifier-6c-ploshhad-do-68-m2-i-proizvoditelnost-603-m3c.html"
+    },
+    {
+      "id": "vannochka-dlya-nog-xiaomi-s-effektom-tropichesko-2026-09-17",
+      "category": "Новости",
+      "title": "Ванночка для ног Xiaomi с «эффектом тропического дождя» и массажем Mijia Sterilizing Foot Bath 2 уже доступна в Китае",
+      "excerpt": "Xiaomi открыла предварительные заказы на Mijia Sterilizing Foot Bath 2 — новую ванночку для ног с функцией стерилизации и массажа. Рекомендованная цена устройства составляет 499 юаней, стартовая — 419 юаней, а фактическая цена на этапе предпродажи за",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vannochka-dlya-nog-xiaomi-s-effektom-tropichesko-2026-09-17.webp",
+      "metaTitle": "Ванночка для ног Xiaomi с «эффектом тропического дождя» и ма",
+      "metaDescription": "Xiaomi открыла предварительные заказы на Mijia Sterilizing Foot Bath 2 — новую ванночку для ног с функцией стерилизации и массажа. Рекомендованная цен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436356-vannocka-dlia-nog-xiaomi-s-effektom-tropiceskogo-dozdia-i-massazem-mijia-sterilizing-foot-bath-2-uze-dostupna-v-kitae.html"
+    },
+    {
       "id": "haker-ispolzoval-sotni-ii-agentov-dlya-atak-na-p-2026-09-16",
       "category": "Обучение",
       "title": "Хакер использовал сотни ИИ-агентов для атак на PaperCut",
