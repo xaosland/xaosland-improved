@@ -50,6 +50,12 @@
         { icon: 'fas fa-bug', title: 'Malware и реверс', description: 'Анализ вредоносного ПО и полезные инструменты исследователя.', tags: ['реверс и анализ'] }
     ];
 
+    const CERTIFICATION_ROADMAP = [
+        { level: '01', name: 'CompTIA Tech+', oldName: 'бывший ITF+', exam: 'FC0-U71', goal: 'Старт для новичка: устройство компьютера, ОС, основы ПО, данных, сетей и безопасности.', plan: 'Пройти базовые материалы по IT и Linux, собрать простую домашнюю лабораторию и проверить себя практическими заданиями.', link: 'https://www.comptia.org/en-us/certifications/tech/' },
+        { level: '02', name: 'CompTIA Network+', oldName: 'сетевой фундамент', exam: 'N10-009 · V9', goal: 'Сети, TCP/IP, IPv4, DNS, DHCP, VLAN, Wi‑Fi, маршрутизация, мониторинг и устранение неполадок.', plan: 'Изучить сети, выполнить лаборатории Nmap, Wireshark и DNS, научиться читать сетевые схемы и объяснять результаты сканирования.', link: 'https://www.comptia.org/en-us/certifications/network/' },
+        { level: '03', name: 'CompTIA Security+', oldName: 'базовая кибербезопасность', exam: 'SY0-701 · V7', goal: 'CIA/AAA, угрозы, уязвимости, архитектура, операции, реагирование, управление рисками и криптография.', plan: 'Пройти лаборатории по веб-безопасности, OSINT, YARA и SMB, затем сверить подготовку с официальными exam objectives и решать пробные вопросы.', link: 'https://www.comptia.org/en-us/certifications/security/' }
+    ];
+
     // ---------- Вспомогательные функции ----------
     function getIconForCategory(category) {
         return CONFIG.categoryIcons[category] || 'fas fa-folder';
@@ -730,7 +736,8 @@
                     .map(a => `<a href="/learning/${encodeURIComponent(a.id)}/">${escapeHtml(a.title)}</a>`).join('')).join('');
                 return `<article class="learning-route-card"><div class="learning-route-icon"><i class="${route.icon}"></i></div><h2>${escapeHtml(route.title)}</h2><p>${escapeHtml(route.description)}</p><div class="learning-route-links">${links || '<a href="/learning/">Все материалы раздела</a>'}</div></article>`;
             }).join('');
-            this.container.innerHTML = `<section class="learning-routes"><div class="learning-routes-heading"><p class="eyebrow">ПРАКТИЧЕСКАЯ ТРАЕКТОРИЯ</p><h1>Учебные маршруты</h1><p>Выберите направление и переходите к существующим материалам по тегам. Маршруты обновляются вместе с разделом «Обучение».</p></div><div class="learning-route-grid">${cards}</div></section>`;
+            const certifications = CERTIFICATION_ROADMAP.map(cert => `<article class="cert-roadmap-card"><div class="cert-roadmap-number">${cert.level}</div><div class="cert-roadmap-main"><div class="cert-roadmap-kicker">${escapeHtml(cert.oldName)}</div><h3>${escapeHtml(cert.name)}</h3><p class="cert-roadmap-exam">Экзамен: <strong>${escapeHtml(cert.exam)}</strong></p><p>${escapeHtml(cert.goal)}</p><div class="cert-roadmap-plan"><strong>План подготовки</strong><span>${escapeHtml(cert.plan)}</span></div><a href="${escapeAttr(cert.link)}" target="_blank" rel="noopener noreferrer">Официальная страница CompTIA ↗</a></div></article>`).join('');
+            this.container.innerHTML = `<section class="learning-routes"><div class="learning-routes-heading"><p class="eyebrow">ПРАКТИЧЕСКАЯ ТРАЕКТОРИЯ</p><h1>Учебные маршруты</h1><p>Выберите направление и переходите к существующим материалам по тегам. Маршруты обновляются вместе с разделом «Обучение».</p></div><div class="learning-route-grid">${cards}</div><section class="cert-roadmap"><div class="learning-routes-heading"><p class="eyebrow">СЕРТИФИКАЦИЯ</p><h2>Лестница CompTIA: от IT к кибербезопасности</h2><p>Последовательный путь: сначала понять IT, затем сети и только потом готовиться к Security+. Это не замена официальным exam objectives: перед покупкой экзамена обязательно проверьте актуальную версию и требования на сайте CompTIA.</p></div><div class="cert-roadmap-list">${certifications}</div></section></section>`;
         }
 
         // ---------- Новые материалы ----------

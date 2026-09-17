@@ -1634,6 +1634,19 @@ h2:hover {
     }
 }
 
+/* Сертификационный roadmap */
+.cert-roadmap { margin-top: 56px; padding-top: 34px; border-top: 1px solid var(--border-color); }
+.cert-roadmap h2 { margin: 6px 0 12px; font-size: 1.55rem; }
+.cert-roadmap-list { display: grid; gap: 16px; }
+.cert-roadmap-card { display: grid; grid-template-columns: 58px 1fr; gap: 18px; padding: 20px; border: 1px solid var(--border-color); background: var(--card-bg); }
+.cert-roadmap-number { color: var(--accent-color); font: 700 1.5rem/1 'JetBrains Mono', monospace; padding-top: 3px; }
+.cert-roadmap-kicker { color: var(--text-secondary); font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; }
+.cert-roadmap-card h3 { margin: 5px 0 8px; font-size: 1.25rem; }
+.cert-roadmap-exam { margin: 0 0 10px; color: var(--accent-color); font-family: 'JetBrains Mono', monospace; font-size: .85rem; }
+.cert-roadmap-card p { color: var(--text-secondary); line-height: 1.6; }
+.cert-roadmap-plan { display: grid; gap: 5px; margin: 14px 0; padding: 12px 14px; border-left: 2px solid var(--accent-color); background: rgba(147,255,0,.04); }
+.cert-roadmap-plan span { color: var(--text-primary); line-height: 1.55; }
+.cert-roadmap-card a { color: var(--accent-color); font-size: .88rem; }
 /* Практические лаборатории и новые материалы */
 .lab-card { display:flex; flex-wrap:wrap; align-items:center; gap:10px 16px; margin:18px 0; padding:16px 18px; border:1px solid var(--accent-color); background:rgba(147,255,0,.06); }
 .lab-card strong { color:var(--accent-color); }
