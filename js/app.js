@@ -797,7 +797,7 @@
             const end = Math.min(start + perPage, total);
             const pageItems = articles.slice(start, end);
 
-            this.container.innerHTML = learningCta + pageItems.map(a => this.createCardHTML(a)).join('');
+            this.container.innerHTML = pageItems.map(a => this.createCardHTML(a)).join('');
             const baseUrl = this.buildBaseUrl();
             this.renderPagination(totalPages, currentPage, baseUrl);
             this.updateFavoriteButtons();
