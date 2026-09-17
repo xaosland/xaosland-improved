@@ -1,6 +1,334 @@
 {
   "articles": [
     {
+      "id": "vzlomschik-igr-voices38-otvetil-na-isk-denuvo-iz-2026-09-17",
+      "category": "Новости",
+      "title": "Взломщик игр voices38 ответил на иск Denuvo из‑за обхода систем защиты игр",
+      "excerpt": "В середине сентября австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions подала в суд на анонимного пользователя voices38 за взлом 26 тайтлов. На иск взломщик ответил так: «Всё в порядке. Всё будет продолжаться ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vzlomschik-igr-voices38-otvetil-na-isk-denuvo-iz-2026-09-17.webp",
+      "metaTitle": "Взломщик игр voices38 ответил на иск Denuvo из‑за обхода сис",
+      "metaDescription": "В середине сентября австрийская компания‑разработчик цифровых средств защиты видеоигр Denuvo Software Solutions подала в суд на анонимного пользовател",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083286"
+    },
+    {
+      "id": "v-rossii-rezko-vyros-spros-na-kassetnye-magnitof-2026-09-17",
+      "category": "Новости",
+      "title": "В России резко вырос спрос на кассетные магнитофоны и CD‑плееры",
+      "excerpt": "По данным аналитического центра «Чек Индекс» компании «Платформа ОФД», в России растёт спрос на покупку фото‑ и музыкальной ретротехники, в том числе магнитофонов и CD‑плееров. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossii-rezko-vyros-spros-na-kassetnye-magnitof-2026-09-17.webp",
+      "metaTitle": "В России резко вырос спрос на кассетные магнитофоны и CD‑пле",
+      "metaDescription": "По данным аналитического центра «Чек Индекс» компании «Платформа ОФД», в России растёт спрос на покупку фото‑ и музыкальной ретротехники, в том числе ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083284"
+    },
+    {
+      "id": "xbox-oprovergla-sluhi-o-transformatsii-game-pass-2026-09-17",
+      "category": "Новости",
+      "title": "Xbox опровергла слухи о трансформации Game Pass в 2027 году, но всё не так просто",
+      "excerpt": "Всколыхнувшие общественность слухи о глобальных переменах популярной среди аудитории Xbox подписки Game Pass в 2027 году не остались без внимания Microsoft и получили уточнение от авторитетного инсайдера. Источник изображения: Supergiant Games",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xbox-oprovergla-sluhi-o-transformatsii-game-pass-2026-09-17.webp",
+      "metaTitle": "Xbox опровергла слухи о трансформации Game Pass в 2027 году,",
+      "metaDescription": "Всколыхнувшие общественность слухи о глобальных переменах популярной среди аудитории Xbox подписки Game Pass в 2027 году не остались без внимания Micr",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148630"
+    },
+    {
+      "id": "reliz-openide-2026-2-odna-ide-dlya-java-kotlin-g-2026-09-17",
+      "category": "Новости",
+      "title": "Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python и веб‑разработки",
+      "excerpt": "Обновили базовую платформу до версии 2026.2, расширили поддержку Java и Kotlin, улучшили работу с Git и обновили Java-профилировщик . Доработали редактор и подсказки в терминале, добавили проверки настроек Gradle и упростили переход к исходникам библ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/reliz-openide-2026-2-odna-ide-dlya-java-kotlin-g-2026-09-17.webp",
+      "metaTitle": "Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python ",
+      "metaDescription": "Обновили базовую платформу до версии 2026.2, расширили поддержку Java и Kotlin, улучшили работу с Git и обновили Java-профилировщик . Доработали редак",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/haulmont/news/1083296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083296"
+    },
+    {
+      "id": "naydeny-soedineniya-sposobnye-uderzhivat-okeany--2026-09-17",
+      "category": "Новости",
+      "title": "Найдены соединения, способные удерживать океаны внутри Земли, на глубине 2900 км",
+      "excerpt": "Учёные экспериментально получили два новых соединения железа, способных захватывать и удерживать воду при условиях, характерных для нижней мантии Земли, — на глубине около 2900 км. Открытие даёт первое убедительное минералогическое объяснение тому, г",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/naydeny-soedineniya-sposobnye-uderzhivat-okeany--2026-09-17.webp",
+      "metaTitle": "Найдены соединения, способные удерживать океаны внутри Земли",
+      "metaDescription": "Учёные экспериментально получили два новых соединения железа, способных захватывать и удерживать воду при условиях, характерных для нижней мантии Земл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436409-naideny-soedineniia-sposobnye-uderzivat-okeany-vnutri-zemli-na-glubine-2900-km.html"
+    },
+    {
+      "id": "microsoft-prizvala-polzovateley-copilot-cowork-v-2026-09-17",
+      "category": "Новости",
+      "title": "Microsoft призвала пользователей Copilot Cowork внимательнее подтверждать действия ИИ",
+      "excerpt": "Microsoft недавно представила Copilot Cowork — инструмент на базе ИИ‑агентов, способный автоматизировать множество рабочих процессов, включая разработку приложений. Теперь компания предупредила пользователей о мерах предосторожности при работе с ним.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-prizvala-polzovateley-copilot-cowork-v-2026-09-17.webp",
+      "metaTitle": "Microsoft призвала пользователей Copilot Cowork внимательнее",
+      "metaDescription": "Microsoft недавно представила Copilot Cowork — инструмент на базе ИИ‑агентов, способный автоматизировать множество рабочих процессов, включая разработ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083294"
+    },
+    {
+      "id": "na-orbitu-vyveli-sputniki-spacety-dlya-distantsi-2026-09-17",
+      "category": "Новости",
+      "title": "На орбиту вывели спутники SpaceTY для дистанционного зондирования Земли",
+      "excerpt": "Китайская компания ExPace Technology успешно вывела на орбиту два спутника дистанционного зондирования Земли SpaceTY-51 и SpaceTY-52. Запуск состоялся 17 сентября в 10:40 по пекинскому времени с космодрома Цзюцюань на севере страны. Для вывода аппара",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/na-orbitu-vyveli-sputniki-spacety-dlya-distantsi-2026-09-17.webp",
+      "metaTitle": "На орбиту вывели спутники SpaceTY для дистанционного зондиро",
+      "metaDescription": "Китайская компания ExPace Technology успешно вывела на орбиту два спутника дистанционного зондирования Земли SpaceTY-51 и SpaceTY-52. Запуск состоялся",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436416-na-orbitu-vyveli-sputniki-spacety-dlia-distancionnogo-zondirovaniia-zemli.html"
+    },
+    {
+      "id": "pervye-rossiyskie-seti-5g-pochti-ne-dadut-priros-2026-09-17",
+      "category": "Новости",
+      "title": "Первые российские сети 5G почти не дадут прироста скорости — это признали в МТС",
+      "excerpt": "Пользователи не почувствуют заметного увеличения скорости после первоначального запуска 5G в России, признали в МТС в комментарии ТАСС.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervye-rossiyskie-seti-5g-pochti-ne-dadut-priros-2026-09-17.webp",
+      "metaTitle": "Первые российские сети 5G почти не дадут прироста скорости —",
+      "metaDescription": "Пользователи не почувствуют заметного увеличения скорости после первоначального запуска 5G в России, признали в МТС в комментарии ТАСС.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436418-pervye-rossiiskie-seti-5g-pocti-ne-dadut-prirosta-skorosti-eto-priznali-v-mts.html"
+    },
+    {
+      "id": "glavnye-anonsy-capcom-na-vystavke-tokyo-game-sho-2026-09-17",
+      "category": "Новости",
+      "title": "Главные анонсы Capcom на выставке Tokyo Game Show 2026",
+      "excerpt": "Выставка Tokyo Game Show 2026 официально началась, и компания Capcom открыла мероприятие своей презентацией. Кратенько пройдемся по главным анонсам. Читать полную новость",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/glavnye-anonsy-capcom-na-vystavke-tokyo-game-sho-2026-09-17.webp",
+      "metaTitle": "Главные анонсы Capcom на выставке Tokyo Game Show 2026",
+      "metaDescription": "Выставка Tokyo Game Show 2026 официально началась, и компания Capcom открыла мероприятие своей презентацией. Кратенько пройдемся по главным анонсам. Ч",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/companies/ggsel/news/1083316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083316"
+    },
+    {
+      "id": "softbank-privlek-11-87-mlrd-kredita-dlya-investi-2026-09-17",
+      "category": "Новости",
+      "title": "SoftBank привлёк $11,87 млрд кредита для инвестиций в OpenAI",
+      "excerpt": "SoftBank Group привлёк $11,87 млрд по двухлетней кредитной линии для финансирования своих инвестиций в OpenAI. Как сообщает Bloomberg, соглашение было заключено на прошлой неделе, а объём привлечённых средств превысил первоначальную цель SoftBank в $",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/softbank-privlek-11-87-mlrd-kredita-dlya-investi-2026-09-17.webp",
+      "metaTitle": "SoftBank привлёк $11,87 млрд кредита для инвестиций в OpenAI",
+      "metaDescription": "SoftBank Group привлёк $11,87 млрд по двухлетней кредитной линии для финансирования своих инвестиций в OpenAI. Как сообщает Bloomberg, соглашение было",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436422-softbank-privlek-1187-mlrd-kredita-dlia-investicii-v-openai.html"
+    },
+    {
+      "id": "google-uvernulas-ot-prinuditelnogo-razdeleniya-r-2026-09-17",
+      "category": "Новости",
+      "title": "Google увернулась от принудительного разделения рекламного бизнеса, но ей придётся открыть конкурентам доступ к AdX",
+      "excerpt": "Федеральный судья в США постановила, что Google должна изменить ряд правил в сфере интернет-рекламы и ввести внутренний контроль за соблюдением антимонопольных требований. При этом суд, по сообщению Reuters, отказался требовать разделения рекламного ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-uvernulas-ot-prinuditelnogo-razdeleniya-r-2026-09-17.webp",
+      "metaTitle": "Google увернулась от принудительного разделения рекламного б",
+      "metaDescription": "Федеральный судья в США постановила, что Google должна изменить ряд правил в сфере интернет-рекламы и ввести внутренний контроль за соблюдением антимо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148626"
+    },
+    {
+      "id": "klassicheskiy-avtomat-i-prostoy-atmosfernyy-moto-2026-09-17",
+      "category": "Новости",
+      "title": "Классический «автомат» и простой атмосферный мотор. В Белоруссии стартовали продажи самого доступного кроссовера Belgee X50 — 54,9 тыс. BYN (1,5 млн рублей)",
+      "excerpt": "В Белоруссии начались продажи обновленного компактного кроссовера Belgee X50. Автомобиль представлен в единственной комплектации Standard, стоимость начинается от 54,9 тыс. BYN (с учетом скидки по программе «Лояльный трейд-ин»). В пересчете на россий",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/klassicheskiy-avtomat-i-prostoy-atmosfernyy-moto-2026-09-17.webp",
+      "metaTitle": "Классический «автомат» и простой атмосферный мотор. В Белору",
+      "metaDescription": "В Белоруссии начались продажи обновленного компактного кроссовера Belgee X50. Автомобиль представлен в единственной комплектации Standard, стоимость н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436425-klassiceskii-avtomat-i-prostoi-atmosfernyi-motor-v-belorussii-startovali-prodazi-samogo-dostupnogo-krossovera-belgee-x50-549-tys-byn-15-mln-rublei.html"
+    },
+    {
+      "id": "ii-agenty-nauchilis-menyat-sami-sebya-bez-uchast-2026-09-17",
+      "category": "Новости",
+      "title": "ИИ-агенты научились менять сами себя без участия человека — и это настораживает",
+      "excerpt": "ИИ-агенты могут заменять свои базовые модели, не получая для этого соответствующих указаний, обнаружила специализирующаяся на тестировании систем искусственного интеллекта на безопасность лаборатория Irregular. Все операции производились в тестовой с",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-agenty-nauchilis-menyat-sami-sebya-bez-uchast-2026-09-17.webp",
+      "metaTitle": "ИИ-агенты научились менять сами себя без участия человека — ",
+      "metaDescription": "ИИ-агенты могут заменять свои базовые модели, не получая для этого соответствующих указаний, обнаружила специализирующаяся на тестировании систем иску",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148628"
+    },
+    {
+      "id": "kitayskaya-kinoindustriya-nachala-aktivno-osvaiv-2026-09-17",
+      "category": "Новости",
+      "title": "Китайская киноиндустрия начала активно осваивать ИИ",
+      "excerpt": "Китайские актёры начали разрешать студиям использовать свои аватары в фильмах, чтобы не остаться без заработка. Такие цифровые копии затем используют в видео, полностью сгенерированных нейросетями. Читать далее",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "habr"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-kinoindustriya-nachala-aktivno-osvaiv-2026-09-17.webp",
+      "metaTitle": "Китайская киноиндустрия начала активно осваивать ИИ",
+      "metaDescription": "Китайские актёры начали разрешать студиям использовать свои аватары в фильмах, чтобы не остаться без заработка. Такие цифровые копии затем используют ",
+      "source": "Habr",
+      "sourceUrl": "https://habr.com/ru/news/1083320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083320"
+    },
+    {
+      "id": "honor-snova-skopirovala-apple-predstavlena-magic-2026-09-17",
+      "category": "Новости",
+      "title": "Honor снова скопировала Apple: представлена MagicOS 11 с дизайном «жидкое стекло»",
+      "excerpt": "Honor анонсировала на конференции для разработчиков Global Developer Conference операционную систему MagicOS 11 на базе Android 17. Новая платформа построена на архитектуре Luminous Glass, которая обеспечивает более прозрачный и плавный визуальный ст",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-snova-skopirovala-apple-predstavlena-magic-2026-09-17.webp",
+      "metaTitle": "Honor снова скопировала Apple: представлена MagicOS 11 с диз",
+      "metaDescription": "Honor анонсировала на конференции для разработчиков Global Developer Conference операционную систему MagicOS 11 на базе Android 17. Новая платформа по",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148629"
+    },
+    {
+      "id": "v-bolshinstve-rayonov-moskvy-seti-5g-okazalis-ne-2026-09-17",
+      "category": "Новости",
+      "title": "В большинстве районов Москвы сети 5G оказались не быстрее LTE",
+      "excerpt": "Сети стандарта 5G в Москве пока не дают заметных преимуществ перед LTE — в большинстве районов скорость сетей пятого поколения не превышает результатов четвёртого. Эксперимент поставили корреспонденты «Известий», протестировав сети всех четырёх основ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-bolshinstve-rayonov-moskvy-seti-5g-okazalis-ne-2026-09-17.webp",
+      "metaTitle": "В большинстве районов Москвы сети 5G оказались не быстрее LT",
+      "metaDescription": "Сети стандарта 5G в Москве пока не дают заметных преимуществ перед LTE — в большинстве районов скорость сетей пятого поколения не превышает результато",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148631"
+    },
+    {
       "id": "yara-files-lab",
       "category": "Обучение",
       "title": "YARA: лаборатория поиска признаков в безопасных файлах",
