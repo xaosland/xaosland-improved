@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "check-point-kaspersky-tanium-patch-product-vulne-2026-09-18",
+      "category": "Новости",
+      "title": "Уязвимости продуктов Check Point, Kaspersky, Tanium Patch",
+      "excerpt": "Серверы управления безопасностью и журналирования Check Point подвержены критической уязвимости, которая делает возможным удаленное выполнение кода с правами root. Пост Check Point, Kaspersky, Tanium Patch Product Vulnerabilities появился впервые на ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/check-point-kaspersky-tanium-patch-product-vulne-2026-09-18.webp",
+      "metaTitle": "Уязвимости продуктов Check Point, Kaspersky, Tanium Patch",
+      "metaDescription": "Серверы управления безопасностью и журналирования Check Point подвержены критической уязвимости, которая делает возможным удаленное выполнение кода с ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/"
+    },
+    {
+      "id": "ot-razgovorov-k-delu-toyota-vnedrit-40-tysyach-r-2026-09-18",
+      "category": "Новости",
+      "title": "От разговоров — к делу: Toyota внедрит 40 тысяч роботов-гуманоидов на заводах по всему миру",
+      "excerpt": "Toyota Motor планирует развернуть около 40 тыс. человекообразных роботов на своих предприятиях по всему миру. По данным Nikkei, внедрение машин станет частью программы модернизации заводов, которая стартует в 2028 году. На обновление производственной",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ot-razgovorov-k-delu-toyota-vnedrit-40-tysyach-r-2026-09-18.webp",
+      "metaTitle": "От разговоров — к делу: Toyota внедрит 40 тысяч роботов-гума",
+      "metaDescription": "Toyota Motor планирует развернуть около 40 тыс. человекообразных роботов на своих предприятиях по всему миру. По данным Nikkei, внедрение машин станет",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436617-ot-razgovorov-k-delu-toyota-vnedrit-40-tysiac-robotov-gumanoidov-na-zavodax-po-vsemu-miru.html"
+    },
+    {
+      "id": "mind-secures-72-million-for-ai-powered-dlp-2026-09-18",
+      "category": "Новости",
+      "title": "MIND получает 72 миллиона долларов на DLP на базе искусственного интеллекта",
+      "excerpt": "Компания будет использовать финансирование для ускорения разработки платформы и расширения своего присутствия на ключевых корпоративных рынках. Сообщение MIND обеспечивает 72 миллиона долларов для DLP на основе искусственного интеллекта впервые появи",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mind-secures-72-million-for-ai-powered-dlp-2026-09-18.webp",
+      "metaTitle": "MIND получает 72 миллиона долларов на DLP на базе искусствен",
+      "metaDescription": "Компания будет использовать финансирование для ускорения разработки платформы и расширения своего присутствия на ключевых корпоративных рынках. Сообще",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/"
+    },
+    {
+      "id": "gumanoidnyy-robot-vpervye-zahodit-v-neznakomyy-d-2026-09-18",
+      "category": "Новости",
+      "title": "Гуманоидный робот впервые заходит в незнакомый дом и сразу начинает работать: Figure показала модель Helix 2.5",
+      "excerpt": "Компания Figure представила новую версию нейросети для гуманоидных роботов — Helix 2.5.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gumanoidnyy-robot-vpervye-zahodit-v-neznakomyy-d-2026-09-18.webp",
+      "metaTitle": "Гуманоидный робот впервые заходит в незнакомый дом и сразу н",
+      "metaDescription": "Компания Figure представила новую версию нейросети для гуманоидных роботов — Helix 2.5.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436618-gumanoidnyi-robot-vpervye-zaxodit-v-neznakomyi-dom-i-srazu-nacinaet-rabotat-figure-pokazala-model-helix-25.html"
+    },
+    {
+      "id": "curiosity-otmetil-5000-solov-na-marse-i-prislal--2026-09-18",
+      "category": "Новости",
+      "title": "Curiosity отметил 5000 солов на Марсе и прислал NASA открытку, на которой встретились утро и вечер",
+      "excerpt": "На днях марсоход NASA Curiosity отметил 5000-й марсианский день (сол) своей работы на поверхности Красной планеты, отправив на Землю необычную открытку из кратера Гейл. Панорамное изображение было создано из снимков навигационных камер ровера, и пока",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/curiosity-otmetil-5000-solov-na-marse-i-prislal--2026-09-18.webp",
+      "metaTitle": "Curiosity отметил 5000 солов на Марсе и прислал NASA открытк",
+      "metaDescription": "На днях марсоход NASA Curiosity отметил 5000-й марсианский день (сол) своей работы на поверхности Красной планеты, отправив на Землю необычную открытк",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148682"
+    },
+    {
+      "id": "noveyshiy-pyatiyadernyy-protsessor-intel-pozvoli-2026-09-18",
+      "category": "Новости",
+      "title": "Новейший пятиядерный процессор Intel позволил создать пассивный NAS с поддержкой 40 ТБ памяти. Предствлен Minisforum S5",
+      "excerpt": "В последнее время на рынок вышло немало NAS, оснащённых довольно мощными платформами, которые можно использовать даже для игр. Компания Minisforum решила создать нечто для противоположной части рынка и представила модель S5, основанную на новейших пр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/noveyshiy-pyatiyadernyy-protsessor-intel-pozvoli-2026-09-18.webp",
+      "metaTitle": "Новейший пятиядерный процессор Intel позволил создать пассив",
+      "metaDescription": "В последнее время на рынок вышло немало NAS, оснащённых довольно мощными платформами, которые можно использовать даже для игр. Компания Minisforum реш",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436620-noveisii-piatiiadernyi-processor-intel-pozvolil-sozdat-passivnyi-nas-s-podderzkoi-40-tb-pamiati-predstvlen-minisforum-s5.html"
+    },
+    {
+      "id": "gears-of-war-e-day-ushla-na-zoloto-i-poluchila-o-2026-09-18",
+      "category": "Новости",
+      "title": "Gears of War: E-Day ушла на золото и получила окончательные системные требования — без трассировки лучей, но с апскейлерами",
+      "excerpt": "Принадлежащая Xbox канадская студия The Coalition представила окончательные системные требования приключенческого шутера Gears of War: E-Day и сообщила о достижении игрой важного этапа разработки. Источник изображений: Xbox",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gears-of-war-e-day-ushla-na-zoloto-i-poluchila-o-2026-09-18.webp",
+      "metaTitle": "Gears of War: E-Day ушла на золото и получила окончательные ",
+      "metaDescription": "Принадлежащая Xbox канадская студия The Coalition представила окончательные системные требования приключенческого шутера Gears of War: E-Day и сообщил",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148683"
+    },
+    {
+      "id": "microsoft-fixes-broken-copy-and-paste-for-excel--2026-09-18",
+      "category": "Новости",
+      "title": "Microsoft исправляет некорректное копирование и вставку для пользователей Excel 2016",
+      "excerpt": "Microsoft исправила известную проблему, которая вызывала сбои при копировании и вставке у некоторых пользователей Excel после установки обновления безопасности KB5002914 от сентября 2026 г. [...]",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-fixes-broken-copy-and-paste-for-excel--2026-09-18.webp",
+      "metaTitle": "Microsoft исправляет некорректное копирование и вставку для ",
+      "metaDescription": "Microsoft исправила известную проблему, которая вызывала сбои при копировании и вставке у некоторых пользователей Excel после установки обновления без",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/"
+    },
+    {
+      "id": "google-uchredila-deepmind-institute-dlya-obsuzhd-2026-09-18",
+      "category": "Новости",
+      "title": "Google учредила DeepMind Institute для обсуждения проблем сильного ИИ",
+      "excerpt": "Исследователи Google и Google DeepMind объявили о создании DeepMind Institute — новая площадка призвана активизировать обсуждение вопросов, связанных с сильным искусственным интеллектом (AGI). Источник изображения: institute.deepmind.com",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-uchredila-deepmind-institute-dlya-obsuzhd-2026-09-18.webp",
+      "metaTitle": "Google учредила DeepMind Institute для обсуждения проблем си",
+      "metaDescription": "Исследователи Google и Google DeepMind объявили о создании DeepMind Institute — новая площадка призвана активизировать обсуждение вопросов, связанных ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148684"
+    },
+    {
+      "id": "toyota-sozdast-armiyu-iz-400-000-robotov-oni-bud-2026-09-18",
+      "category": "Новости",
+      "title": "Toyota создаст армию из 400 000 роботов — они будут работать на заводах и обучать людей",
+      "excerpt": "Японские автопроизводители темой создания человекоподобных роботов интересуются уже давно, но непосредственно на своих предприятиях до сих пор их почти не использовали в силу их сомнительной эффективности с точки зрения классических канонов автоматиз",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/toyota-sozdast-armiyu-iz-400-000-robotov-oni-bud-2026-09-18.webp",
+      "metaTitle": "Toyota создаст армию из 400 000 роботов — они будут работать",
+      "metaDescription": "Японские автопроизводители темой создания человекоподобных роботов интересуются уже давно, но непосредственно на своих предприятиях до сих пор их почт",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148685"
+    },
+    {
+      "id": "na-falcon-9-v-kosmos-otpravyat-ohotnika-za-gamma-2026-09-18",
+      "category": "Новости",
+      "title": "На Falcon 9 в космос отправят охотника за гамма-всплесками StarBurst",
+      "excerpt": "NASA выбрало SpaceX для запуска научной миссии StarBurst. Небольшой спутник отправится в космос в рамках попутного запуска Bandwagon на ракете Falcon 9 не ранее 2028 года.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/na-falcon-9-v-kosmos-otpravyat-ohotnika-za-gamma-2026-09-18.webp",
+      "metaTitle": "На Falcon 9 в космос отправят охотника за гамма-всплесками S",
+      "metaDescription": "NASA выбрало SpaceX для запуска научной миссии StarBurst. Небольшой спутник отправится в космос в рамках попутного запуска Bandwagon на ракете Falcon ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436624-na-falcon-9-v-kosmos-otpraviat-oxotnika-za-gamma-vspleskami-starburst.html"
+    },
+    {
+      "id": "prismml-predstavila-ne-ochen-bolshuyu-yazykovuyu-2026-09-18",
+      "category": "Новости",
+      "title": "PrismML представила не очень большую языковую модель, которая почти не хуже большого оригинала",
+      "excerpt": "Лаборатория искусственного интеллекта PrismML представила новую языковую модель, которая имеет достаточно компактные размеры, чтобы работать на обычных ПК и мощных смартфонах. Компания делает ставку на то, что подобные системы не обязательно должны и",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/prismml-predstavila-ne-ochen-bolshuyu-yazykovuyu-2026-09-18.webp",
+      "metaTitle": "PrismML представила не очень большую языковую модель, котора",
+      "metaDescription": "Лаборатория искусственного интеллекта PrismML представила новую языковую модель, которая имеет достаточно компактные размеры, чтобы работать на обычны",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148687"
+    },
+    {
+      "id": "na-servise-vk-mesta-teper-mozhno-zabronirovat-tu-2026-09-18",
+      "category": "Новости",
+      "title": "На сервисе «VK Места» теперь можно забронировать тур",
+      "excerpt": "Сервис «VK Места» расширил возможности для путешественников, сообщает пресс-служба VK. Теперь на сайте стало доступно бронирование организованных поездок по России и другим странам. Сейчас можно забронировать более 500 туров по городам России, а такж",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/na-servise-vk-mesta-teper-mozhno-zabronirovat-tu-2026-09-18.webp",
+      "metaTitle": "На сервисе «VK Места» теперь можно забронировать тур",
+      "metaDescription": "Сервис «VK Места» расширил возможности для путешественников, сообщает пресс-служба VK. Теперь на сайте стало доступно бронирование организованных поез",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436628-na-servise-vk-mesta-teper-mozno-zabronirovat-tur.html"
+    },
+    {
+      "id": "starlink-mobile-stanovitsya-globalnym-mobilnym-o-2026-09-18",
+      "category": "Новости",
+      "title": "Starlink Mobile становится глобальным мобильным оператором: SpaceX получила разрешение на международную спутниковую связь",
+      "excerpt": "Федеральная комиссия по связи США (FCC) выдала SpaceX международную лицензию Section 214 для Starlink Mobile.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/starlink-mobile-stanovitsya-globalnym-mobilnym-o-2026-09-18.webp",
+      "metaTitle": "Starlink Mobile становится глобальным мобильным оператором: ",
+      "metaDescription": "Федеральная комиссия по связи США (FCC) выдала SpaceX международную лицензию Section 214 для Starlink Mobile.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436627-starlink-mobile-stanovitsia-globalnym-mobilnym-operatorom-spacex-polucila-razresenie-na-mezdunarodnuiu-sputnikovuiu-sviaz.html"
+    },
+    {
+      "id": "apple-reshila-esche-odnu-problemu-testy-pokazali-2026-09-18",
+      "category": "Новости",
+      "title": "Apple решила ещё одну проблему. Тесты показали, что iPhone 18 Pro Max греется меньше Android-флагманов",
+      "excerpt": "Похоже, компания Apple в новом поколении своих смартфонов окончательно решила как минимум две старых проблемы. Мы уже писали, что iPhone 18 Pro Max заряжается весьма быстро, а теперь стало понятно, что аппарат ещё и довольно холодный.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-reshila-esche-odnu-problemu-testy-pokazali-2026-09-18.webp",
+      "metaTitle": "Apple решила ещё одну проблему. Тесты показали, что iPhone 1",
+      "metaDescription": "Похоже, компания Apple в новом поколении своих смартфонов окончательно решила как минимум две старых проблемы. Мы уже писали, что iPhone 18 Pro Max за",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436629-apple-resila-eshhe-odnu-problemu-testy-pokazali-cto-iphone-18-pro-max-greetsia-mense-android-flagmanov.html"
+    },
+    {
       "id": "98-of-fraudulent-hires-have-company-credentials--2026-09-18",
       "category": "Новости",
       "title": "98% нанятых мошенников уже имеют учетные данные компании к моменту, когда их поймают.",
