@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "aliexpress-samye-populyarnye-portativnye-igrovye-2026-09-18",
+      "category": "Новости",
+      "title": "AliExpress: самые популярные портативные игровые консоли в России лета 2026 года",
+      "excerpt": "Продажи портативных игровых консолей на AliExpress в России во втором квартале 2026 года увеличились на 28% по сравнению с аналогичным периодом прошлого года. Аналитики AliExpress СНГ отмечают, что спрос в основном приходится на недорогие ретро-прист",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/aliexpress-samye-populyarnye-portativnye-igrovye-2026-09-18.webp",
+      "metaTitle": "AliExpress: самые популярные портативные игровые консоли в Р",
+      "metaDescription": "Продажи портативных игровых консолей на AliExpress в России во втором квартале 2026 года увеличились на 28% по сравнению с аналогичным периодом прошло",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/aliexpress-samye-populiarnye-portativnye-igrovye-konsoli-v-rossii-leta-2026-goda.html"
+    },
+    {
+      "id": "cxmt-zahotela-byt-kak-samsung-i-micron-kitayskay-2026-09-18",
+      "category": "Новости",
+      "title": "CXMT захотела быть как Samsung и Micron — китайская компания взялась за разработку флеш-памяти NAND",
+      "excerpt": "До сих пор китайские компании CXMT и YMTC вполне себе сосуществовали на китайском рынке микросхем памяти. Первая предлагала оперативную память DRAM, вторая специализировалась на NAND. Их интересы пересекались разве что в сегменте HBM, который они обе",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cxmt-zahotela-byt-kak-samsung-i-micron-kitayskay-2026-09-18.webp",
+      "metaTitle": "CXMT захотела быть как Samsung и Micron — китайская компания",
+      "metaDescription": "До сих пор китайские компании CXMT и YMTC вполне себе сосуществовали на китайском рынке микросхем памяти. Первая предлагала оперативную память DRAM, в",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148692"
+    },
+    {
+      "id": "arcjet-brings-security-controls-and-audit-trails-2026-09-18",
+      "category": "Новости",
+      "title": "Arcjet обеспечивает средства контроля безопасности и контрольные журналы для агентов ИИ",
+      "excerpt": "Arcjet выпустила систему безопасности во время выполнения агентов — новый продукт, который помогает инженерным командам защитить создаваемых ими агентов искусственного интеллекта, одновременно предоставляя командам безопасности необходимые доказатель",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/arcjet-brings-security-controls-and-audit-trails-2026-09-18.webp",
+      "metaTitle": "Arcjet обеспечивает средства контроля безопасности и контрол",
+      "metaDescription": "Arcjet выпустила систему безопасности во время выполнения агентов — новый продукт, который помогает инженерным командам защитить создаваемых ими агент",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/arcjet-agent-runtime-security/"
+    },
+    {
+      "id": "xiaomi-pokazala-zavod-buduschego-kotoryy-uchitsy-2026-09-18",
+      "category": "Новости",
+      "title": "Xiaomi показала завод будущего, который учится и становится умнее: скорость выросла на порядок, проблемы решаются за минуты",
+      "excerpt": "Xiaomi показала работу интеллектуальной системы производства iBrain на заводе в Чанпине.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-pokazala-zavod-buduschego-kotoryy-uchitsy-2026-09-18.webp",
+      "metaTitle": "Xiaomi показала завод будущего, который учится и становится ",
+      "metaDescription": "Xiaomi показала работу интеллектуальной системы производства iBrain на заводе в Чанпине.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436648-xiaomi-pokazala-zavod-budushhego-kotoryi-ucitsia-i-stanovitsia-umnee-skorost-vyrosla-na-poriadok-problemy-resaiutsia-za-minuty.html"
+    },
+    {
+      "id": "chto-nadet-wildberries-nauchilsya-sobirat-obrazy-2026-09-18",
+      "category": "Новости",
+      "title": "Что надеть? Wildberries научился собирать образы с помощью ИИ",
+      "excerpt": "Команда Wildberries запустила ИИ-инструмент «Идеи образов», который помогает подобрать одежду, обувь и аксессуары к выбранной вещи. Рекомендации доступны непосредственно в карточке товара.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chto-nadet-wildberries-nauchilsya-sobirat-obrazy-2026-09-18.webp",
+      "metaTitle": "Что надеть? Wildberries научился собирать образы с помощью И",
+      "metaDescription": "Команда Wildberries запустила ИИ-инструмент «Идеи образов», который помогает подобрать одежду, обувь и аксессуары к выбранной вещи. Рекомендации досту",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/cto-nadet-wildberries-naucilsia-sobirat-obrazy-s-pomoshhiu-ii.html"
+    },
+    {
+      "id": "etogo-ne-pokazyvali-na-prezentatsii-iphone-18-pr-2026-09-18",
+      "category": "Новости",
+      "title": "Этого не показывали на презентации: iPhone 18 Pro получил датчик в углу экрана",
+      "excerpt": "В iPhone 18 Pro используется инфракрасная подсветка, размещённая непосредственно в верхней левой части экрана.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/etogo-ne-pokazyvali-na-prezentatsii-iphone-18-pr-2026-09-18.webp",
+      "metaTitle": "Этого не показывали на презентации: iPhone 18 Pro получил да",
+      "metaDescription": "В iPhone 18 Pro используется инфракрасная подсветка, размещённая непосредственно в верхней левой части экрана.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436654-etogo-ne-pokazyvala-ne-prezentacii-iphone-18-pro-polucil-datcik-v-uglu-ekrana.html"
+    },
+    {
+      "id": "uchenye-sozdali-pervyy-dnk-kompyuter-kotoryy-sam-2026-09-18",
+      "category": "Новости",
+      "title": "Учёные создали первый ДНК-компьютер, который сам складывает и умножает — без постоянного питания и участия человека",
+      "excerpt": "Учёные из ирландского Университета Мейнута (Maynooth University) создали один из наиболее интересных на сегодняшний день молекулярных компьютеров на основе ДНК. Система способна выполнять математические операции — сложение, умножение и деление — испо",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-sozdali-pervyy-dnk-kompyuter-kotoryy-sam-2026-09-18.webp",
+      "metaTitle": "Учёные создали первый ДНК-компьютер, который сам складывает ",
+      "metaDescription": "Учёные из ирландского Университета Мейнута (Maynooth University) создали один из наиболее интересных на сегодняшний день молекулярных компьютеров на о",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148694"
+    },
+    {
+      "id": "claimed-bug-bounty-hunter-likely-used-llm-to-bui-2026-09-18",
+      "category": "Новости",
+      "title": "Заявленный охотник за ошибками, вероятно, использовал LLM для создания похитителя npm PhantomRaven",
+      "excerpt": "Финансово мотивированный злоумышленник был связан с разработкой и распространением программы для кражи информации на основе JavaScript (JS), известной как PhantomRaven, через реестр пакетов npm. «Разработчик, вероятно, написал вредоносное ПО, использ",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/claimed-bug-bounty-hunter-likely-used-llm-to-bui-2026-09-18.webp",
+      "metaTitle": "Заявленный охотник за ошибками, вероятно, использовал LLM дл",
+      "metaDescription": "Финансово мотивированный злоумышленник был связан с разработкой и распространением программы для кражи информации на основе JavaScript (JS), известной",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+    },
+    {
+      "id": "samsung-i-qualcomm-izobreli-organicheskiy-most-o-2026-09-18",
+      "category": "Новости",
+      "title": "Samsung и Qualcomm изобрели «органический мост» — он упростит и удешевит выпуск многокристалльных ИИ-чипов",
+      "excerpt": "Samsung и Qualcomm разработали новый тип процессоров, в котором для интеграции нескольких слоёв кристаллов используется не кремний или его альтернативы, а органические материалы, позаимствованные в области печатных плат. Технология «органического мос",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-i-qualcomm-izobreli-organicheskiy-most-o-2026-09-18.webp",
+      "metaTitle": "Samsung и Qualcomm изобрели «органический мост» — он упрости",
+      "metaDescription": "Samsung и Qualcomm разработали новый тип процессоров, в котором для интеграции нескольких слоёв кристаллов используется не кремний или его альтернатив",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148696"
+    },
+    {
+      "id": "gendirektor-twitch-rasskazal-kogda-razrabotchiki-2026-09-18",
+      "category": "Новости",
+      "title": "Гендиректор Twitch рассказал, когда разработчики GTA VI выпустят GTA Online 2",
+      "excerpt": "Амбициозный криминальный боевик с открытым миром GTA VI от Rockstar Games на релизе будет однопользовательской игрой. Планы на GTA Online 2 студия до сих пор не подтвердила, однако руководство стримингового сервиса Twitch что-то знает. Источник изобр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gendirektor-twitch-rasskazal-kogda-razrabotchiki-2026-09-18.webp",
+      "metaTitle": "Гендиректор Twitch рассказал, когда разработчики GTA VI выпу",
+      "metaDescription": "Амбициозный криминальный боевик с открытым миром GTA VI от Rockstar Games на релизе будет однопользовательской игрой. Планы на GTA Online 2 студия до ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148695"
+    },
+    {
+      "id": "nastoyaschiy-monstr-avtonomnosti-ot-honor-honor--2026-09-18",
+      "category": "Новости",
+      "title": "Настоящий монстр автономности от Honor — Honor X9e Pro выйдет на следующей неделе и получит батарею 11 000 мАч",
+      "excerpt": "Honor готовится представить новый смартфон X9e Pro, «фишкой» которого станет аккумулятор емкостью 11 000 мА·ч. Официальная премьера устройства в Малайзии состоится 24 сентября, однако часть характеристик уже раскрыта и самой Honor, и местными СМИ. По",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nastoyaschiy-monstr-avtonomnosti-ot-honor-honor--2026-09-18.webp",
+      "metaTitle": "Настоящий монстр автономности от Honor — Honor X9e Pro выйде",
+      "metaDescription": "Honor готовится представить новый смартфон X9e Pro, «фишкой» которого станет аккумулятор емкостью 11 000 мА·ч. Официальная премьера устройства в Малай",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436660-nastoiashhii-monstr-avtonomnosti-ot-honor-honor-x9e-pro-vyidet-na-sleduiushhei-nedele-i-polucit-batareiu-11-000-mac.html"
+    },
+    {
+      "id": "new-check-point-flaw-lets-hackers-execute-code-w-2026-09-18",
+      "category": "Новости",
+      "title": "Новая уязвимость Check Point позволяет хакерам выполнять код с правами root",
+      "excerpt": "Check Point Software выпустила обновления безопасности для устранения критической уязвимости, которая может позволить злоумышленникам выполнить код с правами root в системах управления. [...]",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-check-point-flaw-lets-hackers-execute-code-w-2026-09-18.webp",
+      "metaTitle": "Новая уязвимость Check Point позволяет хакерам выполнять код",
+      "metaDescription": "Check Point Software выпустила обновления безопасности для устранения критической уязвимости, которая может позволить злоумышленникам выполнить код с ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+    },
+    {
+      "id": "kompaktnaya-deshevaya-67-vattnaya-zaryadka-kotor-2026-09-18",
+      "category": "Новости",
+      "title": "Компактная дешевая 67-ваттная зарядка, которая работает более в 200 странах: новинка Ugreen стоит всего 25 долларов",
+      "excerpt": "Ugreen представила компактное зарядное устройство мощностью 67 Вт, рассчитанное на путешественников. Новинка объединяет сменные вилки разных стандартов, три USB-порта и информационный дисплей в одном корпусе и может использоваться более чем в 200 стр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kompaktnaya-deshevaya-67-vattnaya-zaryadka-kotor-2026-09-18.webp",
+      "metaTitle": "Компактная дешевая 67-ваттная зарядка, которая работает боле",
+      "metaDescription": "Ugreen представила компактное зарядное устройство мощностью 67 Вт, рассчитанное на путешественников. Новинка объединяет сменные вилки разных стандарто",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436664-kompaktnaia-desevaia-67-vattnaia-zariadka-kotoraia-rabotaet-bolee-v-200-stranax-novinka-ugreen-stoit-vsego-25-dollarov.html"
+    },
+    {
+      "id": "brevo-supply-chain-attack-injects-malware-into-1-2026-09-18",
+      "category": "Новости",
+      "title": "Атака на цепочку поставок Brevo привела к внедрению вредоносного ПО на 100 000 веб-сайтов",
+      "excerpt": "Хакеры использовали скомпрометированный ключ API для развертывания работника Cloudflare, который внедрял вредоносные скрипты. Сообщение Brevo Supply Chain Attack внедрило вредоносное ПО на 100 000 веб-сайтов впервые появилось на SecurityWeek.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/brevo-supply-chain-attack-injects-malware-into-1-2026-09-18.webp",
+      "metaTitle": "Атака на цепочку поставок Brevo привела к внедрению вредонос",
+      "metaDescription": "Хакеры использовали скомпрометированный ключ API для развертывания работника Cloudflare, который внедрял вредоносные скрипты. Сообщение Brevo Supply C",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/"
+    },
+    {
+      "id": "smartfony-google-pixel-mozhno-bylo-vzlomat-po-ti-2026-09-18",
+      "category": "Новости",
+      "title": "Смартфоны Google Pixel можно было взломать по-тихому — без звонка, ссылки или приложения. Google выпустила срочный патч",
+      "excerpt": "Google выпустила обновление безопасности для смартфонов Pixel, устраняющее опасную уязвимость CVE-2026-58704. Компания подтвердила, что ошибка уже использовалась в целевых кибератаках.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/smartfony-google-pixel-mozhno-bylo-vzlomat-po-ti-2026-09-18.webp",
+      "metaTitle": "Смартфоны Google Pixel можно было взломать по-тихому — без з",
+      "metaDescription": "Google выпустила обновление безопасности для смартфонов Pixel, устраняющее опасную уязвимость CVE-2026-58704. Компания подтвердила, что ошибка уже исп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436668-smartfony-google-pixel-mozno-bylo-vzlomat-po-tixomu-bez-zvonka-ssylki-ili-prilozeniia-google-vypustila-srocnyi-patc.html"
+    },
+    {
       "id": "check-point-kaspersky-tanium-patch-product-vulne-2026-09-18",
       "category": "Новости",
       "title": "Уязвимости продуктов Check Point, Kaspersky, Tanium Patch",
