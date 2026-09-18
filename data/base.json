@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "gyazo-server-flaw-exploited-to-steal-23-6-millio-2026-09-18",
+      "category": "Новости",
+      "title": "Уязвимость сервера Gyazo использовалась для кражи 23,6 миллиона пользовательских записей",
+      "excerpt": "Платформа обмена изображениями Gyazo подтвердила, что произошла утечка данных после того, как хакеры воспользовались уязвимостью сервера, которая позволила им украсть 23,6 миллиона пользовательских записей. [...]",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gyazo-server-flaw-exploited-to-steal-23-6-millio-2026-09-18.webp",
+      "metaTitle": "Уязвимость сервера Gyazo использовалась для кражи 23,6 милли",
+      "metaDescription": "Платформа обмена изображениями Gyazo подтвердила, что произошла утечка данных после того, как хакеры воспользовались уязвимостью сервера, которая позв",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/"
+    },
+    {
+      "id": "takim-budet-oneplus-16-insayder-opisal-pochti-vs-2026-09-18",
+      "category": "Новости",
+      "title": "Таким будет OnePlus 16. Инсайдер описал почти все основные характеристики будущего флагмана",
+      "excerpt": "Инсайдер Digital Chat Station раскрыл почти все основные характеристики смартфона OnePlus 16, который, учитывая состояние компании, вполне вероятно, не будет доступен на глобальном рынке.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/takim-budet-oneplus-16-insayder-opisal-pochti-vs-2026-09-18.webp",
+      "metaTitle": "Таким будет OnePlus 16. Инсайдер описал почти все основные х",
+      "metaDescription": "Инсайдер Digital Chat Station раскрыл почти все основные характеристики смартфона OnePlus 16, который, учитывая состояние компании, вполне вероятно, н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436735-takim-budet-oneplus-16-insaider-opisal-pocti-vse-osnovnye-xarakteristiki-budushhego-flagmana.html"
+    },
+    {
+      "id": "mfa-won-t-save-you-from-oauth-consent-abuse-2026-09-18",
+      "category": "Новости",
+      "title": "MFA не спасет вас от злоупотребления согласием OAuth",
+      "excerpt": "MFA необходим, но он не может заменить управление OAuth, области с наименьшими привилегиями, мониторинг согласия и быстрый отзыв.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "MFA не спасет вас от злоупотребления согласием OAuth",
+      "metaDescription": "MFA необходим, но он не может заменить управление OAuth, области с наименьшими привилегиями, мониторинг согласия и быстрый отзыв.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse"
+    },
+    {
+      "id": "mars-express-pokazal-fioletovye-skaly-u-yuzhnogo-2026-09-18",
+      "category": "Новости",
+      "title": "Mars Express показал фиолетовые скалы у южного полюса планеты: необычную палитру создают сочетание льда, пыли, минералов и утреннего освещения",
+      "excerpt": "Камера High Resolution Stereo Camera (HRSC) на борту аппарата Mars Express сняла ледяной и скалистый участок у южного полюса Марса. Скалы здесь местами поднимаются более чем на 1 км, а сама система уступов протягивается на сотни километров через покр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mars-express-pokazal-fioletovye-skaly-u-yuzhnogo-2026-09-18.webp",
+      "metaTitle": "Mars Express показал фиолетовые скалы у южного полюса планет",
+      "metaDescription": "Камера High Resolution Stereo Camera (HRSC) на борту аппарата Mars Express сняла ледяной и скалистый участок у южного полюса Марса. Скалы здесь местам",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436736-mars-express-pokazal-fioletovye-skaly-u-iuznogo-poliusa-planety-neobycnuiu-palitru-sozdaiut-socetanie-lda-pyli-mineralov-i-utrennego-osveshheniia.html"
+    },
+    {
+      "id": "astra-space-obeschaet-dostavku-na-orbitu-po-1000-2026-09-18",
+      "category": "Новости",
+      "title": "Astra Space обещает доставку на орбиту по $1000 за килограмм — в 30 раз дешевле рынка",
+      "excerpt": "Американская компания Astra Space готовит на первый квартал 2027 года запуск ракеты Rocket 4, которая, по утверждению компании, сможет доставлять грузы на орбиту по цене около $1000 за килограмм. Это примерно в 30 раз дешевле текущих рыночных расцено",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/astra-space-obeschaet-dostavku-na-orbitu-po-1000-2026-09-18.webp",
+      "metaTitle": "Astra Space обещает доставку на орбиту по $1000 за килограмм",
+      "metaDescription": "Американская компания Astra Space готовит на первый квартал 2027 года запуск ракеты Rocket 4, которая, по утверждению компании, сможет доставлять груз",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436737-astra-space-obeshhaet-dostavku-na-orbitu-po-1000-za-kilogramm-v-30-raz-desevle-rynka.html"
+    },
+    {
+      "id": "obnovlenie-dlya-22-letney-igry-world-of-warcraft-2026-09-18",
+      "category": "Новости",
+      "title": "Обновление для 22-летней игры World of Warcraft требует более современных видеокарт",
+      "excerpt": "Студия Blizzard изменила системные требования игры World of Warcraft с выходом дополнения Forever, закрытое бета-тестирование которого стартовало вчера.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/obnovlenie-dlya-22-letney-igry-world-of-warcraft-2026-09-18.webp",
+      "metaTitle": "Обновление для 22-летней игры World of Warcraft требует боле",
+      "metaDescription": "Студия Blizzard изменила системные требования игры World of Warcraft с выходом дополнения Forever, закрытое бета-тестирование которого стартовало вчер",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436738-obnovlenie-dlia-22-letnei-igry-world-of-warcraft-trebuet-bolee-sovremennyx-videokart.html"
+    },
+    {
+      "id": "nesmotrya-na-negativ-v-sotssetyah-marvel-s-wolve-2026-09-18",
+      "category": "Новости",
+      "title": "Несмотря на негатив в соцсетях, Marvel’s Wolverine уже стала хитом и за три дня обошла по продажам Death Stranding 2: On the Beach",
+      "excerpt": "Несмотря на прохладный приём от критиков, вышедший на днях супергеройский боевик Marvel s Wolverine от американской студии Insomniac Games (дилогия Marvel s Spider-Man), похоже, не разочарует PlayStation продажами. Источник изображения: ResetEra (Nam",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nesmotrya-na-negativ-v-sotssetyah-marvel-s-wolve-2026-09-18.webp",
+      "metaTitle": "Несмотря на негатив в соцсетях, Marvel’s Wolverine уже стала",
+      "metaDescription": "Несмотря на прохладный приём от критиков, вышедший на днях супергеройский боевик Marvel s Wolverine от американской студии Insomniac Games (дилогия Ma",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148731"
+    },
+    {
+      "id": "robot-joy-otrabotal-22-minuty-v-nevesomosti-pere-2026-09-18",
+      "category": "Новости",
+      "title": "Робот JOY отработал 22 минуты в невесомости перед отправкой на МКС в 2027 году",
+      "excerpt": "Робот JOY, созданный компанией Icarus Robotics для работы на МКС, успешно провёл 22 минуты в невесомости за четыре параболических полёта с 9 по 11 сентября 2026 года. Это первая полноценная проверка критических систем аппарата в условиях, приближенны",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/robot-joy-otrabotal-22-minuty-v-nevesomosti-pere-2026-09-18.webp",
+      "metaTitle": "Робот JOY отработал 22 минуты в невесомости перед отправкой ",
+      "metaDescription": "Робот JOY, созданный компанией Icarus Robotics для работы на МКС, успешно провёл 22 минуты в невесомости за четыре параболических полёта с 9 по 11 сен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436739-robot-joy-otrabotal-22-minuty-v-nevesomosti-pered-otpravkoi-na-mks-v-2027-godu.html"
+    },
+    {
+      "id": "opublikovana-biblioteka-upravleniya-pamyatyu-jem-2026-09-18",
+      "category": "Новости",
+      "title": "Опубликована библиотека управления памятью jemalloc 5.3",
+      "excerpt": "Представлен релиз библиотеки управления памятью jemalloc 5.4.0, предлагающей альтернативную реализацию функций malloc, оптимизированную для снижения фрагментации и работы на многопроцессорных системах. Для решения проблем с блокировками на многоядерн",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Опубликована библиотека управления памятью jemalloc 5.3",
+      "metaDescription": "Представлен релиз библиотеки управления памятью jemalloc 5.4.0, предлагающей альтернативную реализацию функций malloc, оптимизированную для снижения ф",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66304"
+    },
+    {
+      "id": "kitayskiy-teleskop-s-ii-agentom-voshel-v-otchet--2026-09-18",
+      "category": "Новости",
+      "title": "Китайский телескоп с ИИ-агентом вошёл в отчёт Стэнфорда как эталон применения ИИ в науке",
+      "excerpt": "Телескоп Xingyu, разработанный Национальными астрономическими обсерваториями Китая (NAOC) при Академии наук КНР, включен в отчёт Stanford University* AI Index Report за 2026 год как образцовый случай применения искусственного интеллекта в физике и ас",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskiy-teleskop-s-ii-agentom-voshel-v-otchet--2026-09-18.webp",
+      "metaTitle": "Китайский телескоп с ИИ-агентом вошёл в отчёт Стэнфорда как ",
+      "metaDescription": "Телескоп Xingyu, разработанный Национальными астрономическими обсерваториями Китая (NAOC) при Академии наук КНР, включен в отчёт Stanford University* ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436740-kitaiskii-teleskop-s-ii-agentom-vosel-v-otcet-stenforda-kak-etalon-primeneniia-ii-v-nauke.html"
+    },
+    {
+      "id": "astronomy-katalogizirovali-40-tysyachnyy-okoloze-2026-09-18",
+      "category": "Новости",
+      "title": "Астрономы каталогизировали 40-тысячный околоземный астероид — и предупреждают, что это лишь «верхушка айсберга»",
+      "excerpt": "Астрономы объявили о преодолении отметки в 40 000 обнаруженных околоземных астероидов, орбиты которых проходят в пределах 45 миллионов километров от орбиты Земли. Из них около 10 000 найдены только за последние 3 года.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/astronomy-katalogizirovali-40-tysyachnyy-okoloze-2026-09-18.webp",
+      "metaTitle": "Астрономы каталогизировали 40-тысячный околоземный астероид ",
+      "metaDescription": "Астрономы объявили о преодолении отметки в 40 000 обнаруженных околоземных астероидов, орбиты которых проходят в пределах 45 миллионов километров от о",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436742-astronomy-katalogizirovali-40-tysiacnyi-okolozemnyi-asteroid-i-preduprezdaiut-cto-eto-lis-verxuska-aisberga.html"
+    },
+    {
+      "id": "putin-rasskazal-o-novoy-gosprogramme-vooruzheniy-2026-09-18",
+      "category": "Новости",
+      "title": "Путин рассказал о новой госпрограмме вооружений",
+      "excerpt": "Путин рассказал о новой госпрограмме вооружений",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/putin-rasskazal-o-novoy-gosprogramme-vooruzheniy-2026-09-18.webp",
+      "metaTitle": "Путин рассказал о новой госпрограмме вооружений",
+      "metaDescription": "Путин рассказал о новой госпрограмме вооружений",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/18/putin-rasskazal-o-novoy-gosprogramme-vooruzheniy/"
+    },
+    {
+      "id": "cisco-zero-day-highlights-api-endpoint-authentic-2026-09-18",
+      "category": "Новости",
+      "title": "Cisco Zero-Day освещает проблемы аутентификации конечных точек API",
+      "excerpt": "Уязвимость обхода аутентификации CVE-2026-76460 влияет на механизм служб идентификации Cisco (ISE) и получила максимальную оценку 10 из 10 по CVSS.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Cisco Zero-Day освещает проблемы аутентификации конечных точ",
+      "metaDescription": "Уязвимость обхода аутентификации CVE-2026-76460 влияет на механизм служб идентификации Cisco (ISE) и получила максимальную оценку 10 из 10 по CVSS.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues"
+    },
+    {
+      "id": "bolee-100-ekspertov-predupredili-nezavisimaya-pr-2026-09-18",
+      "category": "Новости",
+      "title": "Более 100 экспертов предупредили: независимая проверка безопасности ИИ сейчас почти невозможна",
+      "excerpt": "Более 100 экспертов и специалистов по оценке рисков в области искусственного интеллекта опубликовали открытое письмо, в котором предупреждают, что у них нет необходимых ресурсов для проверки безопасности технологий ИИ. Источник изображения: Steve A J",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bolee-100-ekspertov-predupredili-nezavisimaya-pr-2026-09-18.webp",
+      "metaTitle": "Более 100 экспертов предупредили: независимая проверка безоп",
+      "metaDescription": "Более 100 экспертов и специалистов по оценке рисков в области искусственного интеллекта опубликовали открытое письмо, в котором предупреждают, что у н",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148730"
+    },
+    {
+      "id": "fenteziynaya-4x-strategiya-endless-legend-2-poki-2026-09-18",
+      "category": "Новости",
+      "title": "Фэнтезийная 4X-стратегия Endless Legend 2 покинула ранний доступ — онлайн в Steam вырос в 10 раз",
+      "excerpt": "Разработчики из французской студии Amplitude при поддержке издательства Hooded Horse выпустили в продажу полную версию своей амбициозной фэнтезийной 4X-стратегии Endless Legend 2, которая находилась в раннем доступе с осени прошлого года. Источник из",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fenteziynaya-4x-strategiya-endless-legend-2-poki-2026-09-18.webp",
+      "metaTitle": "Фэнтезийная 4X-стратегия Endless Legend 2 покинула ранний до",
+      "metaDescription": "Разработчики из французской студии Amplitude при поддержке издательства Hooded Horse выпустили в продажу полную версию своей амбициозной фэнтезийной 4",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148732"
+    },
+    {
       "id": "edinstvennaya-sovremennaya-nastolnaya-videokarta-2026-09-18",
       "category": "Новости",
       "title": "Единственная современная настольная видеокарта с 4 ГБ памяти. Первые тесты Radeon RX 9050 4GB показали, насколько она слабая",
