@@ -1,6 +1,297 @@
 {
   "articles": [
     {
+      "id": "studiya-razrabotchikov-hyper-light-drifter-i-sol-2026-09-18",
+      "category": "Новости",
+      "title": "Студия разработчиков Hyper Light Drifter и Solar Ash оказалась на грани закрытия — из-за отмены новой игры пришлось уволить «почти всех» сотрудников",
+      "excerpt": "Американская студия Heart Machine, известная по Hyper Light Drifter, Solar Ash, Possessor(s) и заброшенной в раннем доступе Hyper Light Breaker, понесла очередные потери. И на этот раз они могут оказаться фатальными. Источник изображений: Heart Machi",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/studiya-razrabotchikov-hyper-light-drifter-i-sol-2026-09-18.webp",
+      "metaTitle": "Студия разработчиков Hyper Light Drifter и Solar Ash оказала",
+      "metaDescription": "Американская студия Heart Machine, известная по Hyper Light Drifter, Solar Ash, Possessor(s) и заброшенной в раннем доступе Hyper Light Breaker, понес",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148637"
+    },
+    {
+      "id": "scammers-leave-ai-fingerprints-all-over-fake-ant-2026-09-18",
+      "category": "Новости",
+      "title": "Мошенники оставляют отпечатки пальцев искусственного интеллекта на поддельной странице обновления антивируса",
+      "excerpt": "По данным Malwarebytes, искусственный интеллект, похоже, помогает мошенникам с небольшими навыками веб-разработки создавать убедительные поддельные страницы обновления антивируса. Исследователи наткнулись на мошенническую страницу, выдающую себя за A",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/scammers-leave-ai-fingerprints-all-over-fake-ant-2026-09-18.webp",
+      "metaTitle": "Мошенники оставляют отпечатки пальцев искусственного интелле",
+      "metaDescription": "По данным Malwarebytes, искусственный интеллект, похоже, помогает мошенникам с небольшими навыками веб-разработки создавать убедительные поддельные ст",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/ai-antivirus-renewal-scam-fake-pages/"
+    },
+    {
+      "id": "unauthenticated-attackers-are-bypassing-cisco-is-2026-09-18",
+      "category": "Новости",
+      "title": "Злоумышленники, не прошедшие проверку подлинности, обходят интерфейс управления Cisco ISE (CVE-2026-76460).",
+      "excerpt": "Через два дня после того, как компания предупредила клиентов об активно эксплуатируемом шлюзе электронной почты нулевого дня, Cisco подтвердила, что целью является еще одна уязвимость: CVE-2026-76460, ошибка обхода аутентификации в API Cisco Identity",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/unauthenticated-attackers-are-bypassing-cisco-is-2026-09-18.webp",
+      "metaTitle": "Злоумышленники, не прошедшие проверку подлинности, обходят и",
+      "metaDescription": "Через два дня после того, как компания предупредила клиентов об активно эксплуатируемом шлюзе электронной почты нулевого дня, Cisco подтвердила, что ц",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/cisco-ise-vulnerability-exploited-cve-2026-76460/"
+    },
+    {
+      "id": "openai-obnaruzhila-kak-nevypuschennaya-astra-sam-2026-09-18",
+      "category": "Новости",
+      "title": "OpenAI обнаружила, как невыпущенная Astra сама писала себе инструкции для обхода ограничений",
+      "excerpt": "OpenAI обнаружила 27 сводок во время обучения одной из моделей семейства Astra. Сводки нужны для продолжения длинных задач в новом контексте: модель записывает, что уже сделано, а следующий контекст использует эту информацию для продолжения работы.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-obnaruzhila-kak-nevypuschennaya-astra-sam-2026-09-18.webp",
+      "metaTitle": "OpenAI обнаружила, как невыпущенная Astra сама писала себе и",
+      "metaDescription": "OpenAI обнаружила 27 сводок во время обучения одной из моделей семейства Astra. Сводки нужны для продолжения длинных задач в новом контексте: модель з",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436433-openai-obnaruzila-kak-nevypushhennaia-astra-sama-pisala-sebe-instrukcii-dlia-obxoda-ogranicenii.html"
+    },
+    {
+      "id": "v-velikobritanii-sozdayut-svoyu-alternativu-sput-2026-09-18",
+      "category": "Новости",
+      "title": "В Великобритании создают свою альтернативу спутниковому интернету Starlink — мобильный интернет будут раздавать из стратосферы",
+      "excerpt": "Великобритания решила развивать альтернативу спутниковым системам связи вроде Starlink, но в этот раз ставка сделана на высотные беспилотники, способные неделями находиться в стратосфере. Британское агентство перспективных исследований и изобретений ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-velikobritanii-sozdayut-svoyu-alternativu-sput-2026-09-18.webp",
+      "metaTitle": "В Великобритании создают свою альтернативу спутниковому инте",
+      "metaDescription": "Великобритания решила развивать альтернативу спутниковым системам связи вроде Starlink, но в этот раз ставка сделана на высотные беспилотники, способн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436435-v-velikobritanii-sozdaiut-svoiu-alternativu-sputnikovomu-internetu-starlink-mobilnyi-internet-budut-razdavat-iz-stratosfery.html"
+    },
+    {
+      "id": "ssha-zapustili-kosmicheskuyu-programmu-s-inostra-2026-09-18",
+      "category": "Новости",
+      "title": "США запустили космическую программу с иностранной помощью для американских компаний",
+      "excerpt": "Госсекретарь США Марко Рубио 10 сентября объявил в Лиме о запуске Space Catalyst Partnership (SCP) — новой программы Государственного департамента, которая должна расширить доступ зарубежных правительств и космических агентств к американскому граждан",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ssha-zapustili-kosmicheskuyu-programmu-s-inostra-2026-09-18.webp",
+      "metaTitle": "США запустили космическую программу с иностранной помощью дл",
+      "metaDescription": "Госсекретарь США Марко Рубио 10 сентября объявил в Лиме о запуске Space Catalyst Partnership (SCP) — новой программы Государственного департамента, ко",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436437-ssa-zapustili-kosmiceskuiu-programmu-s-inostrannoi-pomoshhiu-dlia-amerikanskix-kompanii.html"
+    },
+    {
+      "id": "ciso-s-expert-guide-to-agentic-pentesting-for-we-2026-09-18",
+      "category": "Новости",
+      "title": "Экспертное руководство CISO по агентскому пентестированию веб-сайтов",
+      "excerpt": "Злоумышленники теперь используют новые уязвимости примерно за пять дней (Mandiant, часть Google Cloud). В среднем организации требуется 43 дня на установку одного исправления (Verizon DBIR 2026). Новое бесплатное руководство объясняет, как автономные",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ciso-s-expert-guide-to-agentic-pentesting-for-we-2026-09-18.webp",
+      "metaTitle": "Экспертное руководство CISO по агентскому пентестированию ве",
+      "metaDescription": "Злоумышленники теперь используют новые уязвимости примерно за пять дней (Mandiant, часть Google Cloud). В среднем организации требуется 43 дня на уста",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html"
+    },
+    {
+      "id": "x-stala-blizhe-k-superprilozheniyu-polzovatelyam-2026-09-18",
+      "category": "Новости",
+      "title": "X стала ближе к «суперприложению»: пользователям разрешили торговать акциями и криптой через кештеги",
+      "excerpt": "Пользователи соцсети X получили возможность совершать торговые операции прямо в ленте новостей. Принадлежащая Илону Маску (Elon Musk) платформа запустила функцию кештегов (Cashtag), которая позволяет пользователям из США торговать акциями через высту",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/x-stala-blizhe-k-superprilozheniyu-polzovatelyam-2026-09-18.webp",
+      "metaTitle": "X стала ближе к «суперприложению»: пользователям разрешили т",
+      "metaDescription": "Пользователи соцсети X получили возможность совершать торговые операции прямо в ленте новостей. Принадлежащая Илону Маску (Elon Musk) платформа запуст",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148635"
+    },
+    {
+      "id": "can-you-prove-a-new-cve-is-exploitable-before-at-2026-09-18",
+      "category": "Новости",
+      "title": "Можете ли вы доказать возможность использования новой CVE раньше, чем это сделают злоумышленники? Узнайте, как это сделать, на этом вебинаре",
+      "excerpt": "Выходит новый CVE. Ваш сканер его находит. Оценка серьезности выглядит некрасиво. Но это все еще не дает ответа на важный вопрос: можно ли использовать эту технологию в вашей среде? ИИ класса Mythos сокращает время между раскрытием и эксплуатацией, в",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/can-you-prove-a-new-cve-is-exploitable-before-at-2026-09-18.webp",
+      "metaTitle": "Можете ли вы доказать возможность использования новой CVE ра",
+      "metaDescription": "Выходит новый CVE. Ваш сканер его находит. Оценка серьезности выглядит некрасиво. Но это все еще не дает ответа на важный вопрос: можно ли использоват",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
+    },
+    {
+      "id": "huawei-mate-90-pro-max-poluchit-200-megapikselny-2026-09-18",
+      "category": "Новости",
+      "title": "Huawei Mate 90 Pro Max получит 200-мегапиксельный перископ и внешний объектив — инсайдеры раскрыли подробности",
+      "excerpt": "В Сети появились новые подробности о Huawei Mate 90 Pro Max, полноценная премьера которого ожидается в октябре. По данным сразу нескольких китайских инсайдеров, Huawei готовит серьезное обновление камер, а одной из особенностей флагмана может стать с",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huawei-mate-90-pro-max-poluchit-200-megapikselny-2026-09-18.webp",
+      "metaTitle": "Huawei Mate 90 Pro Max получит 200-мегапиксельный перископ и",
+      "metaDescription": "В Сети появились новые подробности о Huawei Mate 90 Pro Max, полноценная премьера которого ожидается в октябре. По данным сразу нескольких китайских и",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/huawei-mate-90-pro-max-polucit-200-megapikselnyi-periskop-i-vnesnii-obieektiv-insaidery-raskryli-podrobnosti.html"
+    },
+    {
+      "id": "iran-linked-handala-hack-tied-to-heavygram-teleg-2026-09-18",
+      "category": "Новости",
+      "title": "Связанный с Ираном взлом Handala связан с бэкдором HEAVYGRAM Telegram, который может украсть пароли",
+      "excerpt": "Связанная с Ираном личность «хактивиста», известная как Handala Hack, связана с бэкдором для наблюдения на базе Telegram под названием HEAVYGRAM и утилитой на базе Delphi, известной как CRUDEEXCLUDE. «HEAVYGRAM предлагает встроенные команды, поддержи",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iran-linked-handala-hack-tied-to-heavygram-teleg-2026-09-18.webp",
+      "metaTitle": "Связанный с Ираном взлом Handala связан с бэкдором HEAVYGRAM",
+      "metaDescription": "Связанная с Ираном личность «хактивиста», известная как Handala Hack, связана с бэкдором для наблюдения на базе Telegram под названием HEAVYGRAM и ути",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html"
+    },
+    {
+      "id": "critical-docker-sandboxes-flaw-lets-malicious-gu-2026-09-18",
+      "category": "Новости",
+      "title": "Критическая ошибка в песочнице Docker позволяет вредоносному гостевому коду читать и изменять файлы хоста macOS",
+      "excerpt": "Вредоносный код, работающий внутри виртуальной машины Docker Sandboxes в macOS, может выйти из общего каталога проекта и прочитать или изменить файлы в любом другом месте хоста, предупреждает Docker в объявлении о безопасности от 15 сентября. Побег в",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-docker-sandboxes-flaw-lets-malicious-gu-2026-09-18.webp",
+      "metaTitle": "Критическая ошибка в песочнице Docker позволяет вредоносному",
+      "metaDescription": "Вредоносный код, работающий внутри виртуальной машины Docker Sandboxes в macOS, может выйти из общего каталога проекта и прочитать или изменить файлы ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html"
+    },
+    {
+      "id": "threatsday-self-rewriting-agents-800-flaws-patch-2026-09-18",
+      "category": "Новости",
+      "title": "ThreatsDay: самопереписывающиеся агенты, более 800 исправленных ошибок, инсайдерская замена SIM-карт и еще 22 новые истории",
+      "excerpt": "Злоумышленники продолжают находить новые ключи. Самое смешное, что защитники продолжают придумывать, где их хранить. На этой неделе эти ключи находятся в инструментах искусственного интеллекта, открытых сервисах, старых ошибках, слабых входах в систе",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/threatsday-self-rewriting-agents-800-flaws-patch-2026-09-18.webp",
+      "metaTitle": "ThreatsDay: самопереписывающиеся агенты, более 800 исправлен",
+      "metaDescription": "Злоумышленники продолжают находить новые ключи. Самое смешное, что защитники продолжают придумывать, где их хранить. На этой неделе эти ключи находятс",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html"
+    },
+    {
+      "id": "critical-check-point-management-flaw-lets-unauth-2026-09-18",
+      "category": "Новости",
+      "title": "Критическая ошибка управления контрольной точкой позволяет неаутентифицированным злоумышленникам запускать код от имени пользователя root",
+      "excerpt": "Критическая уязвимость в серверах управления безопасностью и журналирования Check Point может позволить злоумышленнику без учетных данных для входа запустить код на этих серверах по сети от имени пользователя root. Сервер управления безопасностью — э",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-check-point-management-flaw-lets-unauth-2026-09-18.webp",
+      "metaTitle": "Критическая ошибка управления контрольной точкой позволяет н",
+      "metaDescription": "Критическая уязвимость в серверах управления безопасностью и журналирования Check Point может позволить злоумышленнику без учетных данных для входа за",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
+    },
+    {
       "id": "israeli-contractor-blackcore-trained-angolan-off-2026-09-18",
       "category": "Новости",
       "title": "Израильский подрядчик BlackCore обучил ангольских чиновников операциям онлайн-влияния",
