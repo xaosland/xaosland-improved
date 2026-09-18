@@ -1,6 +1,312 @@
 {
   "articles": [
     {
+      "id": "kitayskiy-ii-esche-ne-nauchilsya-zarabatyvat-kak-2026-09-18",
+      "category": "Новости",
+      "title": "Китайский ИИ ещё не научился зарабатывать как американский — DeepSeek, Alibaba и ещё пять разработчиков вместе не догнали OpenAI и Anthropic",
+      "excerpt": "Проблема монетизации разработок ИИ-стартапов стоит достаточно остро на фоне многомиллиардных расходов, но китайские конкуренты лидеров американского рынка в этом смысле уступают им в десять раз, причём все вместе взятые, как отмечают аналитики Rhodiu",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskiy-ii-esche-ne-nauchilsya-zarabatyvat-kak-2026-09-18.webp",
+      "metaTitle": "Китайский ИИ ещё не научился зарабатывать как американский —",
+      "metaDescription": "Проблема монетизации разработок ИИ-стартапов стоит достаточно остро на фоне многомиллиардных расходов, но китайские конкуренты лидеров американского р",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148716"
+    },
+    {
+      "id": "in-other-news-ransomware-developer-sentenced-plu-2026-09-18",
+      "category": "Новости",
+      "title": "Другие новости: Приговорен разработчик программы-вымогателя, Атака искусственного интеллекта Plugin4Shell, Критическая ошибка SAP",
+      "excerpt": "Примечательные истории, которые могли ускользнуть от внимания: отчет Mandiant о рисках искусственного интеллекта за 2026 год, вредоносное ПО PhantomRaven, используемое охотником за головами, обнаруженная ошибка в плагине WordPress. Пост в других ново",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/in-other-news-ransomware-developer-sentenced-plu-2026-09-18.webp",
+      "metaTitle": "Другие новости: Приговорен разработчик программы-вымогателя,",
+      "metaDescription": "Примечательные истории, которые могли ускользнуть от внимания: отчет Mandiant о рисках искусственного интеллекта за 2026 год, вредоносное ПО PhantomRa",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/"
+    },
+    {
+      "id": "nations-take-action-on-north-korean-it-workers-a-2026-09-18",
+      "category": "Новости",
+      "title": "Страны принимают меры в отношении северокорейских ИТ-работников после доклада ООН",
+      "excerpt": "В отчете, опубликованном в среду, говорится, что по состоянию на июль Вьетнам, Лаос, Пакистан и Аргентина предприняли значимые шаги в ответ на обвинения в отношении Северной Кореи, перечисленные в октябрьском исследовании.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nations-take-action-on-north-korean-it-workers-a-2026-09-18.webp",
+      "metaTitle": "Страны принимают меры в отношении северокорейских ИТ-работни",
+      "metaDescription": "В отчете, опубликованном в среду, говорится, что по состоянию на июль Вьетнам, Лаос, Пакистан и Аргентина предприняли значимые шаги в ответ на обвинен",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes"
+    },
+    {
+      "id": "effektnoe-no-utomitelnoe-priklyuchenie-kritiki-v-2026-09-18",
+      "category": "Новости",
+      "title": "Эффектное, но утомительное приключение: критики вынесли вердикт Control Resonant",
+      "excerpt": "Как и было обещано, 18 сентября первые оценки от западных критиков получил разработанный финской студией Remedy Entertainment паранормальный ролевой боевик Control Resonant — амбициозное продолжение Control. Источник изображений: Remedy Entertainment",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/effektnoe-no-utomitelnoe-priklyuchenie-kritiki-v-2026-09-18.webp",
+      "metaTitle": "Эффектное, но утомительное приключение: критики вынесли верд",
+      "metaDescription": "Как и было обещано, 18 сентября первые оценки от западных критиков получил разработанный финской студией Remedy Entertainment паранормальный ролевой б",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148715"
+    },
+    {
+      "id": "openai-vserez-vzyalas-za-robotov-kompaniya-nabir-2026-09-18",
+      "category": "Новости",
+      "title": "OpenAI всерьёз взялась за роботов — компания набирает десятки инженеров и обещает им до $500 000 в год",
+      "excerpt": "За последние полгода на странице вакансий OpenAI число позиций, связанных с робототехникой, выросло с 11 до 27, что говорит о долгосрочных амбициях компании в этой сфере. OpenAI нанимает специалистов не только для разработки управляющего ПО, но и для",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-vserez-vzyalas-za-robotov-kompaniya-nabir-2026-09-18.webp",
+      "metaTitle": "OpenAI всерьёз взялась за роботов — компания набирает десятк",
+      "metaDescription": "За последние полгода на странице вакансий OpenAI число позиций, связанных с робототехникой, выросло с 11 до 27, что говорит о долгосрочных амбициях ко",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148717"
+    },
+    {
+      "id": "krupneyshiy-kontrakt-v-istorii-rossiyskoy-grazhd-2026-09-18",
+      "category": "Новости",
+      "title": "Крупнейший контракт в истории российской гражданской авиации: «Аэрофлот» получит 90 самолетов МС-21, поставки первых машин — с 2029 года",
+      "excerpt": "«Аэрофлот» заключил контракт на поставку 90 российских среднемагистральных самолетов МС-21. Сделка, которую в Минпромторге называют крупнейшим контрактом в истории российской гражданской авиации на поставку и послепродажное обслуживание отечественных",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/krupneyshiy-kontrakt-v-istorii-rossiyskoy-grazhd-2026-09-18.webp",
+      "metaTitle": "Крупнейший контракт в истории российской гражданской авиации",
+      "metaDescription": "«Аэрофлот» заключил контракт на поставку 90 российских среднемагистральных самолетов МС-21. Сделка, которую в Минпромторге называют крупнейшим контрак",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436706-krupneisii-kontrakt-v-istorii-rossiiskoi-grazdanskoi-aviacii-aeroflot-polucit-90-samoletov-ms-21-postavki-pervyx-masin-s-2029-goda.html"
+    },
+    {
+      "id": "rossiyskiy-analog-boeing-737-i-airbus-a320-otsen-2026-09-18",
+      "category": "Новости",
+      "title": "Российский аналог Boeing 737 и Airbus A320 оценили в 7,5 млрд рублей, но в будущем МС-21 должен подешеветь на пару миллионов",
+      "excerpt": "Стоимость российского среднемагистрального самолета МС-21 планируют снизить за счет увеличения объемов производства и сокращения затрат предприятий — об этом сегодня рассказал глава Минпромторга России Антон Алиханов.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskiy-analog-boeing-737-i-airbus-a320-otsen-2026-09-18.webp",
+      "metaTitle": "Российский аналог Boeing 737 и Airbus A320 оценили в 7,5 млр",
+      "metaDescription": "Стоимость российского среднемагистрального самолета МС-21 планируют снизить за счет увеличения объемов производства и сокращения затрат предприятий — ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436708-rossiiskii-analog-boeing-737-i-aibrus-a320-ocenili-v-75-mlrd-rublei-no-v-budushhem-samolet-dolzen-podesevet-na-paru-millionov.html"
+    },
+    {
+      "id": "fake-lastpass-authenticator-github-repos-push-ne-2026-09-18",
+      "category": "Новости",
+      "title": "Поддельные репозитории LastPass Authenticator на GitHub продвигают новый инфокрад Rapuncel",
+      "excerpt": "Продолжающаяся кампания по распространению вредоносного ПО использует оптимизированные для SEO репозитории GitHub, чтобы выдать себя за известные фирмы-разработчики программного обеспечения и продвигать ранее недокументированный похититель информации",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fake-lastpass-authenticator-github-repos-push-ne-2026-09-18.webp",
+      "metaTitle": "Поддельные репозитории LastPass Authenticator на GitHub прод",
+      "metaDescription": "Продолжающаяся кампания по распространению вредоносного ПО использует оптимизированные для SEO репозитории GitHub, чтобы выдать себя за известные фирм",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
+    },
+    {
+      "id": "rebel-wolves-uslyshala-fanatov-the-blood-of-dawn-2026-09-18",
+      "category": "Новости",
+      "title": "Rebel Wolves услышала фанатов — The Blood of Dawnwalker получит режим «Новая игра +»",
+      "excerpt": "За прошедшие с релиза две недели геймеры уже успели пройти вампирскую ролевую игру The Blood of Dawnwalker от польской студии Rebel Wolves и теперь ищут поводы для повторного прохождения. И, похоже, скоро найдут. Источник изображения: Steam (Dol)",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rebel-wolves-uslyshala-fanatov-the-blood-of-dawn-2026-09-18.webp",
+      "metaTitle": "Rebel Wolves услышала фанатов — The Blood of Dawnwalker полу",
+      "metaDescription": "За прошедшие с релиза две недели геймеры уже успели пройти вампирскую ролевую игру The Blood of Dawnwalker от польской студии Rebel Wolves и теперь ищ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148722"
+    },
+    {
+      "id": "intel-bolshe-ne-hochet-platit-za-poisk-uyazvimos-2026-09-18",
+      "category": "Новости",
+      "title": "Intel больше не хочет платить за поиск уязвимостей в чипах и ПО — багхантерам оставят только благодарности",
+      "excerpt": "На фоне общего всплеска активности по выявлению уязвимостей, вызванного использованием ИИ во всей экосистеме программного обеспечения, Intel, судя по всему, прекратила действие программы выплаты вознаграждений за найденные ошибки (Bug Bounty). Одновр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/intel-bolshe-ne-hochet-platit-za-poisk-uyazvimos-2026-09-18.webp",
+      "metaTitle": "Intel больше не хочет платить за поиск уязвимостей в чипах и",
+      "metaDescription": "На фоне общего всплеска активности по выявлению уязвимостей, вызванного использованием ИИ во всей экосистеме программного обеспечения, Intel, судя по ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148721"
+    },
+    {
+      "id": "transparent-tribe-deploys-new-rust-backdoor-usin-2026-09-18",
+      "category": "Новости",
+      "title": "Transparent Tribe развертывает новый бэкдор Rust, используя частные репозитории GitHub для C2",
+      "excerpt": "Связанная с Пакистаном группа угроз, отслеживаемая как «Прозрачное племя» (также известная как APT36 и «Земля Каркаддан»), связана с новой серией кибератак, направленных против правительственных и оборонных предприятий в Индии и Афганистане. По данны",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/transparent-tribe-deploys-new-rust-backdoor-usin-2026-09-18.webp",
+      "metaTitle": "Transparent Tribe развертывает новый бэкдор Rust, используя ",
+      "metaDescription": "Связанная с Пакистаном группа угроз, отслеживаемая как «Прозрачное племя» (также известная как APT36 и «Земля Каркаддан»), связана с новой серией кибе",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    },
+    {
+      "id": "videokarta-s-anime-ambassadorom-palit-predstavil-2026-09-18",
+      "category": "Новости",
+      "title": "Видеокарта с аниме-амбассадором: Palit представила GeForce RTX 5060 Ti RiTONA OC",
+      "excerpt": "Компания Palit выпустила GeForce RTX 5060 Ti 8GB RiTONA OC — видеокарту специальной серии, оформленную с использованием образа фирменного виртуального аниме-персонажа, цифрового амбассадора бренда. RiTONA была представлена компанией в 2022 году в Япо",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/videokarta-s-anime-ambassadorom-palit-predstavil-2026-09-18.webp",
+      "metaTitle": "Видеокарта с аниме-амбассадором: Palit представила GeForce R",
+      "metaDescription": "Компания Palit выпустила GeForce RTX 5060 Ti 8GB RiTONA OC — видеокарту специальной серии, оформленную с использованием образа фирменного виртуального",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148719"
+    },
+    {
+      "id": "ssha-stroyat-fabriki-dlya-chipov-no-rabotat-na-n-2026-09-18",
+      "category": "Новости",
+      "title": "США строят фабрики для чипов, но работать на них некому — к 2030 году отрасли будет не хватать 157 000 специалистов",
+      "excerpt": "Возрождение американской полупроводниковой промышленности, помимо прочего, подразумевает доступ к достаточному количеству квалифицированной рабочей силы, а обзавестись таким ресурсом в одночасье тоже нельзя. По некоторым оценкам, к концу десятилетия ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ssha-stroyat-fabriki-dlya-chipov-no-rabotat-na-n-2026-09-18.webp",
+      "metaTitle": "США строят фабрики для чипов, но работать на них некому — к ",
+      "metaDescription": "Возрождение американской полупроводниковой промышленности, помимо прочего, подразумевает доступ к достаточному количеству квалифицированной рабочей си",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148698"
+    },
+    {
+      "id": "pentagon-pokazal-video-s-nlo-letyaschim-so-skoro-2026-09-18",
+      "category": "Новости",
+      "title": "Пентагон показал видео с НЛО, летящим со скоростью более 800 км/ч",
+      "excerpt": "Военное министерство США опубликовало пятиминутную видеозапись с неопознанным летающим объектом, скорость которого оценивается примерно в 800 км/ч. Ролик вошел в шестой пакет рассекреченных архивных материалов американских властей о неопознанных аном",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pentagon-pokazal-video-s-nlo-letyaschim-so-skoro-2026-09-18.webp",
+      "metaTitle": "Пентагон показал видео с НЛО, летящим со скоростью более 800",
+      "metaDescription": "Военное министерство США опубликовало пятиминутную видеозапись с неопознанным летающим объектом, скорость которого оценивается примерно в 800 км/ч. Ро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436710-pentagon-pokazal-video-s-nlo-letiashhim-so-skorostiu-bolee-800-kmc.html"
+    },
+    {
+      "id": "novyy-rossiyskiy-plazmennyy-dvigatel-pozvolit-pr-2026-09-18",
+      "category": "Новости",
+      "title": "Новый российский плазменный двигатель позволит превратить рой наноспутников в один гигантский телескоп",
+      "excerpt": "Инженеры Московского авиационного института и Самарского университета имени С. П. Королева создали импульсный плазменный двигатель для наноспутников массой до 10 кг. Компактная силовая установка работает на газе и позволит небольшим космическим аппар",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-rossiyskiy-plazmennyy-dvigatel-pozvolit-pr-2026-09-18.webp",
+      "metaTitle": "Новый российский плазменный двигатель позволит превратить ро",
+      "metaDescription": "Инженеры Московского авиационного института и Самарского университета имени С. П. Королева создали импульсный плазменный двигатель для наноспутников м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436712-novyi-rossiiskii-plazmennyi-dvigatel-pozvolit-prevratit-roi-nanosputnikov-v-odin-gigantskii-teleskop.html"
+    },
+    {
       "id": "k-2050-godu-ii-othody-zapolnyat-23-milliona-kont-2026-09-18",
       "category": "Новости",
       "title": "К 2050 году ИИ-отходы заполнят 23 миллиона контейнеров — в шесть оборотов вокруг Земли",
