@@ -1,6 +1,312 @@
 {
   "articles": [
     {
+      "id": "k-2050-godu-ii-othody-zapolnyat-23-milliona-kont-2026-09-18",
+      "category": "Новости",
+      "title": "К 2050 году ИИ-отходы заполнят 23 миллиона контейнеров — в шесть оборотов вокруг Земли",
+      "excerpt": "К 2050 году инфраструктура для искусственного интеллекта оставит после себя от 395 до 617 миллионов тонн электронных отходов — столько мусора поместится в 23 миллиона контейнеров, которыми можно обернуть Землю 6 раз. Такую оценку опубликовала некомме",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/k-2050-godu-ii-othody-zapolnyat-23-milliona-kont-2026-09-18.webp",
+      "metaTitle": "К 2050 году ИИ-отходы заполнят 23 миллиона контейнеров — в ш",
+      "metaDescription": "К 2050 году инфраструктура для искусственного интеллекта оставит после себя от 395 до 617 миллионов тонн электронных отходов — столько мусора поместит",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436692-k-2050-godu-ii-otxody-zapolniat-23-milliona-konteinerov-v-sest-oborotov-vokrug-zemli.html"
+    },
+    {
+      "id": "microsoft-fixes-bug-behind-defender-antivirus-is-2026-09-18",
+      "category": "Новости",
+      "title": "Microsoft исправляет ошибку, связанную с оповещениями «Антивирусная программа Defender отключена»",
+      "excerpt": "Microsoft устранила известную проблему, из-за которой появлялись неверные предупреждения о том, что антивирусная программа Defender была отключена после установки последних обновлений. [...]",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-fixes-bug-behind-defender-antivirus-is-2026-09-18.webp",
+      "metaTitle": "Microsoft исправляет ошибку, связанную с оповещениями «Антив",
+      "metaDescription": "Microsoft устранила известную проблему, из-за которой появлялись неверные предупреждения о том, что антивирусная программа Defender была отключена пос",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/"
+    },
+    {
+      "id": "osen-na-kalendare-38-c-za-oknom-leto-na-yuge-ssh-2026-09-18",
+      "category": "Новости",
+      "title": "Осень на календаре, +38 °C за окном: лето на юге США заканчивается в тепловом куполе",
+      "excerpt": "15 сентября 2026 года, за несколько дней до осеннего равноденствия, юг и центр США попали под тепловой купол — метеорологическое явление, при котором горячий воздух прижимается к земле областью высокого давления. Температура в Нэшвилле достигла +38 °",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/osen-na-kalendare-38-c-za-oknom-leto-na-yuge-ssh-2026-09-18.webp",
+      "metaTitle": "Осень на календаре, +38 °C за окном: лето на юге США заканчи",
+      "metaDescription": "15 сентября 2026 года, за несколько дней до осеннего равноденствия, юг и центр США попали под тепловой купол — метеорологическое явление, при котором ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436694-osen-na-kalendare-38-c-za-oknom-leto-na-iuge-ssa-zakancivaetsia-v-teplovom-kupole.html"
+    },
+    {
+      "id": "peredovoy-displey-qd-oled-penta-tandem-uwqhd-i-2-2026-09-18",
+      "category": "Новости",
+      "title": "Передовой дисплей QD-OLED Penta Tandem, UWQHD и 280 Гц: Philips представила геймерский монитор Evnia 34M2C8600P",
+      "excerpt": "Компания Philips представила 34-дюймовый изогнутый игровой монитор Evnia 34M2C8600P. В новинке используется передовая QD-OLED-матрица пятого поколения со структурой пикселей Penta Tandem, а также структурой субпикселей V-stripe (RGB) для уменьшения ц",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/peredovoy-displey-qd-oled-penta-tandem-uwqhd-i-2-2026-09-18.webp",
+      "metaTitle": "Передовой дисплей QD-OLED Penta Tandem, UWQHD и 280 Гц: Phil",
+      "metaDescription": "Компания Philips представила 34-дюймовый изогнутый игровой монитор Evnia 34M2C8600P. В новинке используется передовая QD-OLED-матрица пятого поколения",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148704"
+    },
+    {
+      "id": "malenkie-no-po-tri-rublya-openai-i-anthropic-nac-2026-09-18",
+      "category": "Новости",
+      "title": "«Маленькие, но по три рубля»: OpenAI и Anthropic начали искать небольшие дата-центры, пока строительство гигафабрик буксует",
+      "excerpt": "После анонса проекта Stargate, который подразумевал выделение $500 млрд на строительство ЦОД для ИИ в США за четыре года, OpenAI старалась «не мелочиться» в сфере заключения сделок по аренде мощностей. Но новые дата-центры вводятся в строй не так быс",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/malenkie-no-po-tri-rublya-openai-i-anthropic-nac-2026-09-18.webp",
+      "metaTitle": "«Маленькие, но по три рубля»: OpenAI и Anthropic начали иска",
+      "metaDescription": "После анонса проекта Stargate, который подразумевал выделение $500 млрд на строительство ЦОД для ИИ в США за четыре года, OpenAI старалась «не мелочит",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148706"
+    },
+    {
+      "id": "poka-vse-sporyat-ob-opasnosti-ii-anthropic-otkry-2026-09-18",
+      "category": "Новости",
+      "title": "Пока все спорят об опасности ИИ, Anthropic открыла биолабораторию для разработки лекарств с помощью ИИ",
+      "excerpt": "Anthropic без громких анонсов открыла экспериментальную лабораторию в стремлении расширить сферу применения своих технологий искусственного интеллекта до области разработки лекарственных препаратов. Объект начал работу в районе залива Сан-Франциско, ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/poka-vse-sporyat-ob-opasnosti-ii-anthropic-otkry-2026-09-18.webp",
+      "metaTitle": "Пока все спорят об опасности ИИ, Anthropic открыла биолабора",
+      "metaDescription": "Anthropic без громких анонсов открыла экспериментальную лабораторию в стремлении расширить сферу применения своих технологий искусственного интеллекта",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148707"
+    },
+    {
+      "id": "ai-built-exploit-and-sign-in-flaw-opened-path-to-2026-09-18",
+      "category": "Новости",
+      "title": "Эксплойт, созданный искусственным интеллектом, и ошибка входа в систему открыли путь к внутреннему коду OpenAI",
+      "excerpt": "Исследователи Hacktron получили награду за обнаружение ошибок после демонстрации доступа к учетным записям сотрудников OpenAI. Публикация «Эксплойт, созданный искусственным интеллектом, и ошибка входа в систему, открывающая путь к внутреннему коду Op",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-built-exploit-and-sign-in-flaw-opened-path-to-2026-09-18.webp",
+      "metaTitle": "Эксплойт, созданный искусственным интеллектом, и ошибка вход",
+      "metaDescription": "Исследователи Hacktron получили награду за обнаружение ошибок после демонстрации доступа к учетным записям сотрудников OpenAI. Публикация «Эксплойт, с",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/"
+    },
+    {
+      "id": "uchenye-pridelali-dronam-usiki-chtoby-nauchit-ih-2026-09-18",
+      "category": "Новости",
+      "title": "Учёные приделали дронам усики, чтобы научить их облетать препятствия на ощупь",
+      "excerpt": "Учёные из Технического университета Делфта (Нидерланды) разработали миниатюрную систему тактильной навигации для беспилотников массой менее 100 г. Вместо камер и лидаров, которые тяжёлые и плохо работают в дыму, пыли и полной темноте, используется па",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-pridelali-dronam-usiki-chtoby-nauchit-ih-2026-09-18.webp",
+      "metaTitle": "Учёные приделали дронам усики, чтобы научить их облетать пре",
+      "metaDescription": "Учёные из Технического университета Делфта (Нидерланды) разработали миниатюрную систему тактильной навигации для беспилотников массой менее 100 г. Вме",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148708"
+    },
+    {
+      "id": "microsoft-patches-cvss-10-0-azure-ai-foundry-fla-2026-09-18",
+      "category": "Новости",
+      "title": "Microsoft исправляет ошибку CVSS 10.0 Azure AI Foundry, позволяющую несанкционированное повышение привилегий",
+      "excerpt": "Microsoft выпустила исправления для уязвимости безопасности максимальной серьезности в Azure AI Foundry, которую можно было использовать для повышения привилегий. Никаких действий со стороны клиента не требуется. Уязвимость, отслеживаемая как CVE-202",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-patches-cvss-10-0-azure-ai-foundry-fla-2026-09-18.webp",
+      "metaTitle": "Microsoft исправляет ошибку CVSS 10.0 Azure AI Foundry, позв",
+      "metaDescription": "Microsoft выпустила исправления для уязвимости безопасности максимальной серьезности в Azure AI Foundry, которую можно было использовать для повышения",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+    },
+    {
+      "id": "apple-google-i-samsung-popali-pod-patentnuyu-ata-2026-09-18",
+      "category": "Новости",
+      "title": "Apple, Google и Samsung попали под патентную атаку — их наушники с пространственным звуком хотят запретить в США",
+      "excerpt": "Некая компания BoomCloud 360 бросила вызов трём технологическим гигантам. Apple, Google и Samsung оказались втянуты в новое патентное разбирательство в США — исход дела может повлиять на возможность продавать в стране такие устройства как AirPods 5 и",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-google-i-samsung-popali-pod-patentnuyu-ata-2026-09-18.webp",
+      "metaTitle": "Apple, Google и Samsung попали под патентную атаку — их науш",
+      "metaDescription": "Некая компания BoomCloud 360 бросила вызов трём технологическим гигантам. Apple, Google и Samsung оказались втянуты в новое патентное разбирательство ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148709"
+    },
+    {
+      "id": "predstavlen-dizaynerskiy-smartfon-tecno-pova-8-p-2026-09-18",
+      "category": "Новости",
+      "title": "Представлен дизайнерский смартфон Tecno Pova 8 Pro 5G Tonino Lamborghini Limited Edition",
+      "excerpt": "Производитель электроники Tecno в сотрудничестве в брендом Tonino Lamborghini представил смартфон Pova 8 Pro 5G Tonino Lamborghini Limited Edition, отличительной особенностью которого стали итальянский дизайн и эстетика механики. Источник изображений",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-dizaynerskiy-smartfon-tecno-pova-8-p-2026-09-18.webp",
+      "metaTitle": "Представлен дизайнерский смартфон Tecno Pova 8 Pro 5G Tonino",
+      "metaDescription": "Производитель электроники Tecno в сотрудничестве в брендом Tonino Lamborghini представил смартфон Pova 8 Pro 5G Tonino Lamborghini Limited Edition, от",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148711"
+    },
+    {
+      "id": "webinar-which-google-workspace-security-controls-2026-09-18",
+      "category": "Новости",
+      "title": "Вебинар: Какие элементы управления безопасностью Google Workspace действительно важны?",
+      "excerpt": "Быстрорастущие компании сталкиваются с бесчисленными рекомендациями по обеспечению безопасности Google Workspace, но не все элементы управления имеют одинаковую ценность. На этом вебинаре рассматриваются реальные нарушения безопасности, чтобы выяснит",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/webinar-which-google-workspace-security-controls-2026-09-18.webp",
+      "metaTitle": "Вебинар: Какие элементы управления безопасностью Google Work",
+      "metaDescription": "Быстрорастущие компании сталкиваются с бесчисленными рекомендациями по обеспечению безопасности Google Workspace, но не все элементы управления имеют ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/"
+    },
+    {
+      "id": "hacking-group-nighteagle-targeting-china-s-high--2026-09-18",
+      "category": "Новости",
+      "title": "Хакерская группа NightEagle, нацеленная на сектор высоких технологий Китая, расширяет свою деятельность на Россию",
+      "excerpt": "За последний год российская фирма по кибербезопасности «Касперский» заявила, что расследовала несколько инцидентов с участием группы в российских предприятиях.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hacking-group-nighteagle-targeting-china-s-high--2026-09-18.webp",
+      "metaTitle": "Хакерская группа NightEagle, нацеленная на сектор высоких те",
+      "metaDescription": "За последний год российская фирма по кибербезопасности «Касперский» заявила, что расследовала несколько инцидентов с участием группы в российских пред",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/hacking-group-nighteagle-expands-russia-china"
+    },
+    {
+      "id": "anthropic-otkryla-sekretnuyu-biolaboratoriyu-2026-09-18",
+      "category": "Новости",
+      "title": "Anthropic открыла секретную биолабораторию",
+      "excerpt": "Anthropic открыла в районе залива Сан-Франциско «мокрую лабораторию» — помещение для реальных биологических экспериментов, а не для компьютерных симуляций. О её существовании сообщило агентство Reuters со ссылкой на главу направления наук о жизни ком",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-otkryla-sekretnuyu-biolaboratoriyu-2026-09-18.webp",
+      "metaTitle": "Anthropic открыла секретную биолабораторию",
+      "metaDescription": "Anthropic открыла в районе залива Сан-Франциско «мокрую лабораторию» — помещение для реальных биологических экспериментов, а не для компьютерных симул",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436701-anthropic-otkryla-sekretnuiu-biolaboratoriiu.html"
+    },
+    {
+      "id": "vnedrenie-vodyanyh-znakov-mozhet-sdelat-povedeni-2026-09-18",
+      "category": "Новости",
+      "title": "Внедрение «водяных знаков» может сделать поведение ИИ-моделей непредсказуемым",
+      "excerpt": "Использование «водяных знаков», то есть маркировки генерируемого контента, может оказать влияние на поведение больших языковых моделей искусственного интеллекта. К такому выводу пришли эксперты компании Lasso, проведя анализ технологии SynthID-Text л",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vnedrenie-vodyanyh-znakov-mozhet-sdelat-povedeni-2026-09-18.webp",
+      "metaTitle": "Внедрение «водяных знаков» может сделать поведение ИИ-моделе",
+      "metaDescription": "Использование «водяных знаков», то есть маркировки генерируемого контента, может оказать влияние на поведение больших языковых моделей искусственного ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148713"
+    },
+    {
       "id": "v-rossii-sozdali-sistemu-vysokotochnoy-posadki-s-2026-09-18",
       "category": "Новости",
       "title": "В России создали систему высокоточной посадки самолетов и космических ракет без GPS и ГЛОНАСС",
