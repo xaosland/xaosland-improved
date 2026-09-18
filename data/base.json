@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "v-rossii-sozdali-sistemu-vysokotochnoy-posadki-s-2026-09-18",
+      "category": "Новости",
+      "title": "В России создали систему высокоточной посадки самолетов и космических ракет без GPS и ГЛОНАСС",
+      "excerpt": "Ученые Южно-Уральского государственного университета (ЮУрГУ) разработали компьютерную программу, позволяющую более чем в четыре раза повысить точность посадки ракет и авиалайнеров без использования сигналов глобальных спутниковых навигационных систем",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossii-sozdali-sistemu-vysokotochnoy-posadki-s-2026-09-18.webp",
+      "metaTitle": "В России создали систему высокоточной посадки самолетов и ко",
+      "metaDescription": "Ученые Южно-Уральского государственного университета (ЮУрГУ) разработали компьютерную программу, позволяющую более чем в четыре раза повысить точность",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436670-v-rossii-sozdali-sistemu-vysokotocnoi-posadki-samoletov-i-kosmiceskix-raket-bez-gps-i-glonass.html"
+    },
+    {
+      "id": "nightmarestresser-ddos-service-disrupted-in-inte-2026-09-18",
+      "category": "Новости",
+      "title": "DDoS-сервис NightmareStresser прерван в международной работе",
+      "excerpt": "NightmareStresser, действующий как минимум с 2022 года, был одним из старейших в мире сервисов по найму DDoS-атак. Сообщение NightmareStresser DDoS Service Disrupted in International Operation появилось впервые на SecurityWeek.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nightmarestresser-ddos-service-disrupted-in-inte-2026-09-18.webp",
+      "metaTitle": "DDoS-сервис NightmareStresser прерван в международной работе",
+      "metaDescription": "NightmareStresser, действующий как минимум с 2022 года, был одним из старейших в мире сервисов по найму DDoS-атак. Сообщение NightmareStresser DDoS Se",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/"
+    },
+    {
+      "id": "mir-upersya-v-trehletnyuyu-ochered-za-komponenta-2026-09-18",
+      "category": "Новости",
+      "title": "Мир уперся в трехлетнюю очередь за компонентами для фабрик чипов — некоторые детали приходится ждать 40 месяцев",
+      "excerpt": "На фоне бурного роста искусственного интеллекта возник дефицит не только чипов и памяти, но и оборудования для их производства. По данным TrendForce со ссылкой на южнокорейское издание ETNews, сроки поставки отдельных компонентов для полупроводниково",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mir-upersya-v-trehletnyuyu-ochered-za-komponenta-2026-09-18.webp",
+      "metaTitle": "Мир уперся в трехлетнюю очередь за компонентами для фабрик ч",
+      "metaDescription": "На фоне бурного роста искусственного интеллекта возник дефицит не только чипов и памяти, но и оборудования для их производства. По данным TrendForce с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436674-mir-upersia-v-trexletniuiu-ocered-za-komponentami-dlia-fabrik-cipov-nekotorye-detali-prixoditsia-zdat-40-mesiacev.html"
+    },
+    {
+      "id": "bots-with-good-manners-are-better-at-fooling-peo-2026-09-18",
+      "category": "Новости",
+      "title": "Боты с хорошими манерами лучше обманывают людей в социальных сетях",
+      "excerpt": "Согласно новому исследованию Surfshark, большинство людей не могут отличить бота от человека в сети, и боты, которые, скорее всего, обманут их, — это вежливые боты. Компания проанализировала 1722 участника по всему миру, проверяя их способность отдел",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bots-with-good-manners-are-better-at-fooling-peo-2026-09-18.webp",
+      "metaTitle": "Боты с хорошими манерами лучше обманывают людей в социальных",
+      "metaDescription": "Согласно новому исследованию Surfshark, большинство людей не могут отличить бота от человека в сети, и боты, которые, скорее всего, обманут их, — это ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/social-media-bot-detection-study/"
+    },
+    {
+      "id": "sorukovoditel-cd-projekt-red-obyasnil-pochemu-dl-2026-09-18",
+      "category": "Новости",
+      "title": "Соруководитель CD Projekt Red объяснил, почему для The Witcher 4 выбрали Unreal Engine 5, а не REDengine — дело не в скандальном запуске Cyberpunk 2077",
+      "excerpt": "Соруководитель CD Projekt Red Михал Новаковский (Michał Nowakowski) в интервью YouTube-каналу Deconstructor of Fun объяснил, почему после 20 лет развития польская студия променяла собственный движок REDengine на Unreal Engine 5. Источник изображения:",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sorukovoditel-cd-projekt-red-obyasnil-pochemu-dl-2026-09-18.webp",
+      "metaTitle": "Соруководитель CD Projekt Red объяснил, почему для The Witch",
+      "metaDescription": "Соруководитель CD Projekt Red Михал Новаковский (Michał Nowakowski) в интервью YouTube-каналу Deconstructor of Fun объяснил, почему после 20 лет разви",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148699"
+    },
+    {
+      "id": "weaselbiscuit-stealer-spreads-via-13-npm-package-2026-09-18",
+      "category": "Новости",
+      "title": "WeaselBiscuit Stealer распространяется через пакеты 13 npm, чтобы получить доступ к хранилищу расширений Chrome",
+      "excerpt": "Исследователи кибербезопасности обнаружили кластер из 13 пакетов npm, которые, как выяснилось, доставляют ранее недокументированный похититель JavaScript под кодовым названием WeaselBiscuit. Новое семейство вредоносных программ, согласно OpenSourceMa",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/weaselbiscuit-stealer-spreads-via-13-npm-package-2026-09-18.webp",
+      "metaTitle": "WeaselBiscuit Stealer распространяется через пакеты 13 npm, ",
+      "metaDescription": "Исследователи кибербезопасности обнаружили кластер из 13 пакетов npm, которые, как выяснилось, доставляют ранее недокументированный похититель JavaScr",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
+    },
+    {
+      "id": "u-vseh-ii-agentov-dlya-programmirovaniya-nashlas-2026-09-18",
+      "category": "Новости",
+      "title": "У всех ИИ-агентов для программирования нашлась опасная уязвимость — вредоносный код запускается без участия пользователя",
+      "excerpt": "Эксперты в области кибербезопасности из стартапа Air, занимающегося разработкой агентов искусственного интеллекта, обнаружили уязвимость, которая позволяет выполнять произвольный код без участия пользователя и затрагивает все основные приложения ИИ-а",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-vseh-ii-agentov-dlya-programmirovaniya-nashlas-2026-09-18.webp",
+      "metaTitle": "У всех ИИ-агентов для программирования нашлась опасная уязви",
+      "metaDescription": "Эксперты в области кибербезопасности из стартапа Air, занимающегося разработкой агентов искусственного интеллекта, обнаружили уязвимость, которая позв",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148700"
+    },
+    {
+      "id": "kitayskie-uchenye-sozdali-krasku-kotoraya-ohlazh-2026-09-18",
+      "category": "Новости",
+      "title": "Китайские учёные создали краску, которая охлаждает стены на 25 °C — без электричества и воды",
+      "excerpt": "Китайские учёные разработали краску, которая во время летних испытаний показала снижение температуры окрашенных поверхностей на 25 C. Краска сочетает два способа снижения нагрева стен — светоотражающий и радиационное охлаждение в инфракрасном диапазо",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskie-uchenye-sozdali-krasku-kotoraya-ohlazh-2026-09-18.webp",
+      "metaTitle": "Китайские учёные создали краску, которая охлаждает стены на ",
+      "metaDescription": "Китайские учёные разработали краску, которая во время летних испытаний показала снижение температуры окрашенных поверхностей на 25 C. Краска сочетает ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148701"
+    },
+    {
+      "id": "sk-hynix-mozhet-zapustit-proizvodstvo-nand-v-ssh-2026-09-18",
+      "category": "Новости",
+      "title": "SK hynix может запустить производство NAND в США — дочерняя Solidigm ищет место для завода",
+      "excerpt": "В конце 2021 года американское подразделение южнокорейской SK hynix учредило компанию Solidigm, которой достались активы Intel, связанные с производством флеш-памяти и твердотельных накопителей. Теперь эта компания рассматривает возможность строитель",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sk-hynix-mozhet-zapustit-proizvodstvo-nand-v-ssh-2026-09-18.webp",
+      "metaTitle": "SK hynix может запустить производство NAND в США — дочерняя ",
+      "metaDescription": "В конце 2021 года американское подразделение южнокорейской SK hynix учредило компанию Solidigm, которой достались активы Intel, связанные с производст",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148702"
+    },
+    {
+      "id": "microsoft-patches-18-vulnerabilities-in-ai-cloud-2026-09-18",
+      "category": "Новости",
+      "title": "Microsoft исправляет 18 уязвимостей в ИИ и облачных продуктах",
+      "excerpt": "Microsoft устранила уязвимости в Azure и продуктах под брендом AI, причем большинство из них составляют недостатки повышения привилегий. Сообщение Microsoft исправляет 18 уязвимостей в ИИ и облачных продуктах впервые появилось на SecurityWeek.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-patches-18-vulnerabilities-in-ai-cloud-2026-09-18.webp",
+      "metaTitle": "Microsoft исправляет 18 уязвимостей в ИИ и облачных продукта",
+      "metaDescription": "Microsoft устранила уязвимости в Azure и продуктах под брендом AI, причем большинство из них составляют недостатки повышения привилегий. Сообщение Mic",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/"
+    },
+    {
+      "id": "organoidy-chelovecheskogo-mozga-prozhili-5-let-v-2026-09-18",
+      "category": "Новости",
+      "title": "Органоиды человеческого мозга прожили 5 лет в лаборатории и запомнили время",
+      "excerpt": "Международная команда под руководством из Гарвардского университета впервые вырастила церебральные органоиды человека, сохранявшие жизнеспособность на протяжении 5 лет. Предыдущий рекорд — 694 дня — был установлен в 2021 году. За это время клеточные ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/organoidy-chelovecheskogo-mozga-prozhili-5-let-v-2026-09-18.webp",
+      "metaTitle": "Органоиды человеческого мозга прожили 5 лет в лаборатории и ",
+      "metaDescription": "Международная команда под руководством из Гарвардского университета впервые вырастила церебральные органоиды человека, сохранявшие жизнеспособность на",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436684-organoidy-celoveceskogo-mozga-prozili-5-let-v-laboratorii-i-zapomnili-vremia.html"
+    },
+    {
+      "id": "9-iz-10-nauchnyh-biomeditsinskih-statey-k-kontsu-2026-09-18",
+      "category": "Новости",
+      "title": "9 из 10 научных биомедицинских статей к концу 2025 года написаны с участием ИИ",
+      "excerpt": "К концу 2025 года 89% биомедицинских статей в открытом доступе несут следы редактирования или написания с помощью больших языковых моделей. Это оценка, полученная международной группой исследователей, разработавшей новый статистический метод, который",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/9-iz-10-nauchnyh-biomeditsinskih-statey-k-kontsu-2026-09-18.webp",
+      "metaTitle": "9 из 10 научных биомедицинских статей к концу 2025 года напи",
+      "metaDescription": "К концу 2025 года 89% биомедицинских статей в открытом доступе несут следы редактирования или написания с помощью больших языковых моделей. Это оценка",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436687-9-iz-10-naucnyx-biomedicinskix-statei-k-koncu-2025-goda-napisany-s-ucastiem-ii.html"
+    },
+    {
+      "id": "23-million-user-records-compromised-in-gyazo-dat-2026-09-18",
+      "category": "Новости",
+      "title": "23 миллиона пользовательских записей были скомпрометированы в результате утечки данных Gyazo",
+      "excerpt": "Производитель Gyazo Helpfeel заявил, что злоумышленник воспользовался уязвимостью на своем сервере загрузки изображений для получения несанкционированного доступа. Сообщение «23 миллиона пользовательских записей скомпрометировано в результате утечки ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/23-million-user-records-compromised-in-gyazo-dat-2026-09-18.webp",
+      "metaTitle": "23 миллиона пользовательских записей были скомпрометированы ",
+      "metaDescription": "Производитель Gyazo Helpfeel заявил, что злоумышленник воспользовался уязвимостью на своем сервере загрузки изображений для получения несанкционирован",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/"
+    },
+    {
+      "id": "apogey-modeli-anthropic-vzlomali-openai-2026-09-18",
+      "category": "Новости",
+      "title": "Апогей: модели Anthropic взломали OpenAI",
+      "excerpt": "25 июля команда Hacktron с помощью Claude Opus 5 проникла во внутреннюю инфраструктуру репозитория OpenAI. Схема состояла из двух шагов: сначала через уязвимость в форуме community.openai.com, обрабатывающем загружаемые изображения без должной изоляц",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apogey-modeli-anthropic-vzlomali-openai-2026-09-18.webp",
+      "metaTitle": "Апогей: модели Anthropic взломали OpenAI",
+      "metaDescription": "25 июля команда Hacktron с помощью Claude Opus 5 проникла во внутреннюю инфраструктуру репозитория OpenAI. Схема состояла из двух шагов: сначала через",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436689-apogei-modeli-anthropic-vzlomali-openai.html"
+    },
+    {
+      "id": "curiosity-prislal-otkrytku-v-chest-5000-marsians-2026-09-18",
+      "category": "Новости",
+      "title": "Curiosity прислал открытку в честь 5000 марсианских суток на поверхности",
+      "excerpt": "Марсоход Curiosity отметил 5000 солов — марсианских суток — на планете, в честь этого NASA опубликовало открытку, которую снял сам ровер. Два снимка с чёрно-белых навигационных камер сделаны с одной точки у гряды «Чоколаталь» (Chocolatal): первый — у",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/curiosity-prislal-otkrytku-v-chest-5000-marsians-2026-09-18.webp",
+      "metaTitle": "Curiosity прислал открытку в честь 5000 марсианских суток на",
+      "metaDescription": "Марсоход Curiosity отметил 5000 солов — марсианских суток — на планете, в честь этого NASA опубликовало открытку, которую снял сам ровер. Два снимка с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436691-curiosity-prislal-otkrytku-v-cest-5000-marsianskix-sutok-na-poverxnosti.html"
+    },
+    {
       "id": "aliexpress-samye-populyarnye-portativnye-igrovye-2026-09-18",
       "category": "Новости",
       "title": "AliExpress: самые популярные портативные игровые консоли в России лета 2026 года",
