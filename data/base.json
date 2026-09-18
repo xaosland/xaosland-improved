@@ -1,6 +1,292 @@
 {
   "articles": [
     {
+      "id": "isc-patches-14-vulnerabilities-in-bind-9-securit-2026-09-18",
+      "category": "Новости",
+      "title": "ISC исправляет 14 уязвимостей в обновлении безопасности BIND 9",
+      "excerpt": "Злоумышленники могут воспользоваться уязвимостями для увеличения использования ресурсов, вызвать неожиданный выход из программы или завершить указанный процесс. Сообщение ISC исправляет 14 уязвимостей в обновлении безопасности BIND 9 впервые появилос",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/isc-patches-14-vulnerabilities-in-bind-9-securit-2026-09-18.webp",
+      "metaTitle": "ISC исправляет 14 уязвимостей в обновлении безопасности BIND",
+      "metaDescription": "Злоумышленники могут воспользоваться уязвимостями для увеличения использования ресурсов, вызвать неожиданный выход из программы или завершить указанны",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/"
+    },
+    {
+      "id": "politsiya-germanii-chitaet-whatsapp-signal-i-tel-2026-09-18",
+      "category": "Новости",
+      "title": "Полиция Германии читает WhatsApp*, Signal и Telegram без взлома шифрования",
+      "excerpt": "Правоохранительные органы Германии используют метод «клонирования аккаунтов», который позволяет получать доступ к переписке пользователей WhatsApp, Signal и Telegram. Об этом сообщил Netzpolitik со ссылкой на секретный документ Таможенного криминальн",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/politsiya-germanii-chitaet-whatsapp-signal-i-tel-2026-09-18.webp",
+      "metaTitle": "Полиция Германии читает WhatsApp*, Signal и Telegram без взл",
+      "metaDescription": "Правоохранительные органы Германии используют метод «клонирования аккаунтов», который позволяет получать доступ к переписке пользователей WhatsApp, Si",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436460-policiia-germanii-citaet-whatsapp-signal-i-telegram-bez-vzloma-sifrovaniia.html"
+    },
+    {
+      "id": "cisa-wants-critical-infrastructure-orgs-and-smal-2026-09-18",
+      "category": "Новости",
+      "title": "CISA хочет, чтобы организации критической инфраструктуры и небольшие группы безопасности начали использовать кибер-приманки",
+      "excerpt": "Киберобман уже давно стал прерогативой хорошо обеспеченных специалистов по безопасности, но последнее руководство CISA под названием «Использование кибер-приманок для усиления обнаружения и реагирования» представляет собой попытку изменить ситуацию. ",
+      "date": "2026-09-17",
+      "readTime": 3,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-wants-critical-infrastructure-orgs-and-smal-2026-09-18.webp",
+      "metaTitle": "CISA хочет, чтобы организации критической инфраструктуры и н",
+      "metaDescription": "Киберобман уже давно стал прерогативой хорошо обеспеченных специалистов по безопасности, но последнее руководство CISA под названием «Использование ки",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/cisa-guidance-for-implementing-cyber-decoys/"
+    },
+    {
+      "id": "energiya-dlya-vsego-chelovechestva-na-50-tysyach-2026-09-18",
+      "category": "Новости",
+      "title": "Энергия для всего человечества на 50 тысяч лет: американский стартап хочет добывать уран прямо из морской воды",
+      "excerpt": "Американский стартап Fluxnium разрабатывает технологию извлечения растворенного урана непосредственно из морской воды. Компания рассчитывает превратить океан в новый источник сырья для атомной энергетики на фоне планов США утроить мощности АЭС к 2050",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/energiya-dlya-vsego-chelovechestva-na-50-tysyach-2026-09-18.webp",
+      "metaTitle": "Энергия для всего человечества на 50 тысяч лет: американский",
+      "metaDescription": "Американский стартап Fluxnium разрабатывает технологию извлечения растворенного урана непосредственно из морской воды. Компания рассчитывает превратит",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436462-energiia-dlia-vsego-celovecestva-na-50-tysiac-let-amerikanskii-startap-xocet-dobyvat-uran-priamo-iz-morskoi-vody.html"
+    },
+    {
+      "id": "comp-ai-raises-34-million-for-ai-native-complian-2026-09-18",
+      "category": "Новости",
+      "title": "Comp AI привлекает 34 миллиона долларов на обеспечение соответствия требованиям и безопасности AI-Native",
+      "excerpt": "Компания планирует заняться непрерывной кибербезопасностью, предлагая тестирование безопасности приложений и инфраструктуры. Сообщение Comp AI привлекает 34 миллиона долларов на обеспечение соответствия требованиям и безопасности AI-Native впервые по",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/comp-ai-raises-34-million-for-ai-native-complian-2026-09-18.webp",
+      "metaTitle": "Comp AI привлекает 34 миллиона долларов на обеспечение соотв",
+      "metaDescription": "Компания планирует заняться непрерывной кибербезопасностью, предлагая тестирование безопасности приложений и инфраструктуры. Сообщение Comp AI привлек",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/"
+    },
+    {
+      "id": "hackers-claim-breach-of-russian-election-systems-2026-09-18",
+      "category": "Новости",
+      "title": "Хакеры заявили о взломе российских избирательных систем за несколько дней до парламентских выборов",
+      "excerpt": "Анонимная хакерская группа заявила, что взломала компьютерные системы, подключенные к избирательной инфраструктуре России, всего за несколько дней до начала голосования в новом парламенте.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hackers-claim-breach-of-russian-election-systems-2026-09-18.webp",
+      "metaTitle": "Хакеры заявили о взломе российских избирательных систем за н",
+      "metaDescription": "Анонимная хакерская группа заявила, что взломала компьютерные системы, подключенные к избирательной инфраструктуре России, всего за несколько дней до ",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/russia-election-hackers-breach"
+    },
+    {
+      "id": "polzovateli-pozhalovalis-na-uskorennuyu-razryadk-2026-09-18",
+      "category": "Новости",
+      "title": "Пользователи пожаловались на ускоренную разрядку iPhone после обновления до iOS 27, но это пройдёт",
+      "excerpt": "Некоторые владельцы iPhone обратили внимание, что после обновления до iOS 27 заряд аккумулятора начинает расходоваться быстрее. Проблема вызвана фоновыми процессами, которые смартфон продолжает выполнять после завершения установки, поэтому она носит ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/polzovateli-pozhalovalis-na-uskorennuyu-razryadk-2026-09-18.webp",
+      "metaTitle": "Пользователи пожаловались на ускоренную разрядку iPhone посл",
+      "metaDescription": "Некоторые владельцы iPhone обратили внимание, что после обновления до iOS 27 заряд аккумулятора начинает расходоваться быстрее. Проблема вызвана фонов",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148651"
+    },
+    {
+      "id": "what-recent-ai-powered-attacks-mean-for-your-ide-2026-09-18",
+      "category": "Новости",
+      "title": "Что недавние атаки с использованием искусственного интеллекта означают для безопасности вашей личности",
+      "excerpt": "ИИ ускоряет кражу учетных данных и упрощает ее масштабирование, предоставляя злоумышленникам больше возможностей для злоупотребления действительными личностями. Specops объясняет, почему безопасность идентификации должна выходить за рамки успешной ау",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/what-recent-ai-powered-attacks-mean-for-your-ide-2026-09-18.webp",
+      "metaTitle": "Что недавние атаки с использованием искусственного интеллект",
+      "metaDescription": "ИИ ускоряет кражу учетных данных и упрощает ее масштабирование, предоставляя злоумышленникам больше возможностей для злоупотребления действительными л",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/"
+    },
+    {
+      "id": "data-tsentry-stali-glavnym-drayverom-novogo-vala-2026-09-18",
+      "category": "Новости",
+      "title": "Дата-центры стали главным драйвером нового вала «вечных химикатов»",
+      "excerpt": "Бум строительства дата-центров для ИИ спровоцировал резкий рост производства «вечных химикатов» — полифторалкильных соединений (ПФАС), которые не разлагаются в природе десятилетиями и накапливаются в живых организмах. По данным расследования The Guar",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/data-tsentry-stali-glavnym-drayverom-novogo-vala-2026-09-18.webp",
+      "metaTitle": "Дата-центры стали главным драйвером нового вала «вечных хими",
+      "metaDescription": "Бум строительства дата-центров для ИИ спровоцировал резкий рост производства «вечных химикатов» — полифторалкильных соединений (ПФАС), которые не разл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/17/436477-data-centry-stali-glavnym-draiverom-novogo-vala-vecnyx-ximikatov.html"
+    },
+    {
+      "id": "mediatek-perevypustila-proshlogodniy-flagman-dim-2026-09-18",
+      "category": "Новости",
+      "title": "MediaTek перевыпустила прошлогодний флагман Dimensity 9500 под именем Dimensity 9600M",
+      "excerpt": "Ранее MediaTek анонсировала флагманский мобильный процессор Dimensity 9600 Pro, теперь же выяснилось, что это не единственная новинка тайваньской компании. Она также подготовила Dimensity 9600M — он привнесёт новые программные функции и функции искус",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mediatek-perevypustila-proshlogodniy-flagman-dim-2026-09-18.webp",
+      "metaTitle": "MediaTek перевыпустила прошлогодний флагман Dimensity 9500 п",
+      "metaDescription": "Ранее MediaTek анонсировала флагманский мобильный процессор Dimensity 9600 Pro, теперь же выяснилось, что это не единственная новинка тайваньской комп",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148652"
+    },
+    {
+      "id": "ssha-zakryli-servis-zakaza-ddos-atak-nightmarest-2026-09-18",
+      "category": "Новости",
+      "title": "США закрыли сервис заказа DDoS-атак NightmareStresser",
+      "excerpt": "ФБР США закрыло сайт NightmareStresser, который использовался для организации сотен тысяч DDoS-атак, в результате которых из строя выводились различные интернет-ресурсы. Как минимум с 2020 года на сайте продавался доступ пользователям, желающим запус",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ssha-zakryli-servis-zakaza-ddos-atak-nightmarest-2026-09-18.webp",
+      "metaTitle": "США закрыли сервис заказа DDoS-атак NightmareStresser",
+      "metaDescription": "ФБР США закрыло сайт NightmareStresser, который использовался для организации сотен тысяч DDoS-атак, в результате которых из строя выводились различны",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148654"
+    },
+    {
+      "id": "kitay-gotovit-sverhzvukovoy-passazhirskiy-samole-2026-09-18",
+      "category": "Новости",
+      "title": "Китай готовит сверхзвуковой пассажирский самолет: Пекин — Шанхай за 30 минут",
+      "excerpt": "Китай активизировал разработку технологий для сверхзвукового пассажирского самолета. Экспериментальный аппарат TMS-10 с системой снижения звукового удара планируют впервые разогнать до сверхзвуковой скорости до конца 2026 года, сообщил государственны",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-gotovit-sverhzvukovoy-passazhirskiy-samole-2026-09-18.webp",
+      "metaTitle": "Китай готовит сверхзвуковой пассажирский самолет: Пекин — Ша",
+      "metaDescription": "Китай активизировал разработку технологий для сверхзвукового пассажирского самолета. Экспериментальный аппарат TMS-10 с системой снижения звукового уд",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436547-kitai-gotovit-sverxzvukovoi-passazirskii-samolet-pekin-sanxai-za-30-minut.html"
+    },
+    {
+      "id": "britantsy-rabotayut-nad-besprovodnoy-zaryadkoy-b-2026-09-18",
+      "category": "Новости",
+      "title": "Британцы работают над беспроводной зарядкой беспилотника на высоте 20 км, чтобы тот летал месяцами без посадки",
+      "excerpt": "Prismatic — дочерняя компания BAE Systems — получила контракт стоимостью 15,7 млн фунтов на интеграцию беспроводной передачи энергии в высотный беспилотник PHASA-35. Технология должна позволить аппарату оставаться в стратосфере круглосуточно независи",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/britantsy-rabotayut-nad-besprovodnoy-zaryadkoy-b-2026-09-18.webp",
+      "metaTitle": "Британцы работают над беспроводной зарядкой беспилотника на ",
+      "metaDescription": "Prismatic — дочерняя компания BAE Systems — получила контракт стоимостью 15,7 млн фунтов на интеграцию беспроводной передачи энергии в высотный беспил",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436549-britancy-rabotaiut-nad-besprovodnoi-zariadkoi-bespilotnika-na-vysote-20-km-ctoby-tot-letal-mesiacami-bez-posadki.html"
+    },
+    {
+      "id": "smartfony-samsung-galaxy-s26-nachali-poluchat-va-2026-09-18",
+      "category": "Новости",
+      "title": "Смартфоны Samsung Galaxy S26 начали получать важное сентябрьское обновление Google",
+      "excerpt": "Google начала распространять сентябрьское обновление Google Play System за 2026 год для смартфонов Samsung Galaxy. Первыми новую версию ПО получили аппараты линейки Galaxy S26 с оболочкой One UI 9.0 на базе Android 17. Размер обновления составляет 96",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/smartfony-samsung-galaxy-s26-nachali-poluchat-va-2026-09-18.webp",
+      "metaTitle": "Смартфоны Samsung Galaxy S26 начали получать важное сентябрь",
+      "metaDescription": "Google начала распространять сентябрьское обновление Google Play System за 2026 год для смартфонов Samsung Galaxy. Первыми новую версию ПО получили ап",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436550-smartfony-samsung-galaxy-s26-nacali-polucat-vaznoe-sentiabrskoe-obnovlenie-google.html"
+    },
+    {
       "id": "yandeks-vypustil-svoy-analog-microsoft-office-do-2026-09-17",
       "category": "Новости",
       "title": "«Яндекс» выпустил свой аналог Microsoft Office — «Документы» работают офлайн, но требуют платную подписку",
