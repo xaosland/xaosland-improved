@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "edinstvennaya-sovremennaya-nastolnaya-videokarta-2026-09-18",
+      "category": "Новости",
+      "title": "Единственная современная настольная видеокарта с 4 ГБ памяти. Первые тесты Radeon RX 9050 4GB показали, насколько она слабая",
+      "excerpt": "Авторы Hardware Unboxed, которые недавно первыми опубликовали обзор видеокарты Radeon RX 9050 8GB, как и обещали, раздобыли версию с 4 ГБ, которая не предназначена для продажи в рознице, а поставляется только OEM-производителям. Тесты этой модели пок",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/edinstvennaya-sovremennaya-nastolnaya-videokarta-2026-09-18.webp",
+      "metaTitle": "Единственная современная настольная видеокарта с 4 ГБ памяти",
+      "metaDescription": "Авторы Hardware Unboxed, которые недавно первыми опубликовали обзор видеокарты Radeon RX 9050 8GB, как и обещали, раздобыли версию с 4 ГБ, которая не ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436714-edinstvennaia-sovremennaia-nastolnaia-videokarta-s-4-gb-pamiati-pervye-testy-radeon-rx-9050-4gb-pokazali-naskolko-ona-slabaia.html"
+    },
+    {
+      "id": "honor-predstavila-moschnuyu-rabochuyu-stantsiyu--2026-09-18",
+      "category": "Новости",
+      "title": "Honor представила мощную рабочую станцию на платформе Nvidia RTX Spark в корпусе объемом всего 2 литра",
+      "excerpt": "Honor анонсировала семейство компактных рабочих станций Tiangong AXB35, предназначенных для локального запуска и разработки систем искусственного интеллекта. Старшая модель AXB35 Ultra построена на платформе Nvidia RTX Spark и имеет 128 ГБ объединенн",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-predstavila-moschnuyu-rabochuyu-stantsiyu--2026-09-18.webp",
+      "metaTitle": "Honor представила мощную рабочую станцию на платформе Nvidia",
+      "metaDescription": "Honor анонсировала семейство компактных рабочих станций Tiangong AXB35, предназначенных для локального запуска и разработки систем искусственного инте",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436715-honor-predstavila-moshhnuiu-rabocuiu-stanciiu-na-platforme-nvidia-rtx-spark-v-korpuse-obieemom-vsego-2-litra.html"
+    },
+    {
+      "id": "ochen-trebovatelnaya-igra-gde-videokarty-radeon--2026-09-18",
+      "category": "Новости",
+      "title": "Очень требовательная игра, где видеокарты Radeon удивительно сильны. Опубликованы тесты в Control Resonant",
+      "excerpt": "24 сентября выйдет игра Control Resonant финнской студии Remedy, но эмбарго на публикацию обзоров и тестов производительности спало сегодня. Поэтому мы можем сейчас оценить, насколько мощный ПК нужен для этой игры.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ochen-trebovatelnaya-igra-gde-videokarty-radeon--2026-09-18.webp",
+      "metaTitle": "Очень требовательная игра, где видеокарты Radeon удивительно",
+      "metaDescription": "24 сентября выйдет игра Control Resonant финнской студии Remedy, но эмбарго на публикацию обзоров и тестов производительности спало сегодня. Поэтому м",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436716-ocen-trebovatelnaia-igra-gde-videokarty-radeon-udivitelno-silny-opublikovany-testy-v-control-resonant.html"
+    },
+    {
+      "id": "bolee-treh-millionov-igrokov-dobavili-ambitsiozn-2026-09-18",
+      "category": "Новости",
+      "title": "Более трёх миллионов игроков добавили амбициозный китайский боевик Phantom Blade Zero в список желаемого",
+      "excerpt": "Разработчики из независимой китайской студии S-Game поделились информацией об уровне ажиотажа вокруг своего амбициозного фэнтезийного ролевого боевика с полуоткрытым миром Phantom Blade Zero. Источник изображений: S-Game",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bolee-treh-millionov-igrokov-dobavili-ambitsiozn-2026-09-18.webp",
+      "metaTitle": "Более трёх миллионов игроков добавили амбициозный китайский ",
+      "metaDescription": "Разработчики из независимой китайской студии S-Game поделились информацией об уровне ажиотажа вокруг своего амбициозного фэнтезийного ролевого боевика",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148727"
+    },
+    {
+      "id": "palit-sdelala-videokartu-geforce-rtx-5060-ti-na--2026-09-18",
+      "category": "Новости",
+      "title": "Palit сделала видеокарту GeForce RTX 5060 Ti на 8 ГБ в аниме-оформлении RiTONA",
+      "excerpt": "Palit представила видеокарту GeForce RTX 5060 Ti 8GB RiTONA OC — тематическую версию, оформленную в аниме-стилистике. Поводом стал мировой дебют цифрового амбассадора компании: персонаж RiTONA появился в Японии ещё в 2022 году, а теперь выходит на гл",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/palit-sdelala-videokartu-geforce-rtx-5060-ti-na--2026-09-18.webp",
+      "metaTitle": "Palit сделала видеокарту GeForce RTX 5060 Ti на 8 ГБ в аниме",
+      "metaDescription": "Palit представила видеокарту GeForce RTX 5060 Ti 8GB RiTONA OC — тематическую версию, оформленную в аниме-стилистике. Поводом стал мировой дебют цифро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436717-palit-vypustila-videokartu-geforce-rtx-5060-ti-na-8-gb-v-anime-oformlenii-ritona.html"
+    },
+    {
+      "id": "iphone-18-pro-razobrali-na-kameru-stalo-ponyatno-2026-09-18",
+      "category": "Новости",
+      "title": "iPhone 18 Pro разобрали на камеру — стало понятно, как Apple удалось уменьшить Dynamic Island",
+      "excerpt": "YouTube-канал REWA Technology сегодня опубликовал одно из первых видео с разборкой iPhone 18 Pro, позволяющее заглянуть внутрь нового устройства. В ходе разборки можно увидеть перемещённую инфракрасную камеру, а также другие изменения — например, уве",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-razobrali-na-kameru-stalo-ponyatno-2026-09-18.webp",
+      "metaTitle": "iPhone 18 Pro разобрали на камеру — стало понятно, как Apple",
+      "metaDescription": "YouTube-канал REWA Technology сегодня опубликовал одно из первых видео с разборкой iPhone 18 Pro, позволяющее заглянуть внутрь нового устройства. В хо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148724"
+    },
+    {
+      "id": "200-mp-i-ekran-s-diagonalyu-1-72-dyuyma-takoy-sm-2026-09-18",
+      "category": "Новости",
+      "title": "200 Мп и экран с диагональю 1,72 дюйма — такой смартфон разрабатывает китайская компания",
+      "excerpt": "Известный инсайдер Digital Chat Station раскрыл характеристики будущего китайского смартфона. Информатор традиционно не сообщает, что за компания состоит за разработкой, но, возможно, это Honor: Digital Chat Station говорит об устройстве номерной лин",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/200-mp-i-ekran-s-diagonalyu-1-72-dyuyma-takoy-sm-2026-09-18.webp",
+      "metaTitle": "200 Мп и экран с диагональю 1,72 дюйма — такой смартфон разр",
+      "metaDescription": "Известный инсайдер Digital Chat Station раскрыл характеристики будущего китайского смартфона. Информатор традиционно не сообщает, что за компания сост",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436718-200-mp-i-ekran-s-diagonaliu-172-diuima-takoi-smartfon-razrabatyvaet-kitaiskaia-kompaniia.html"
+    },
+    {
+      "id": "new-wordpress-click2shell-flaw-forces-theme-inst-2026-09-18",
+      "category": "Новости",
+      "title": "Новая тема WordPress Click2Shell, вызывающая дефекты, может быть связана с выполнением кода",
+      "excerpt": "Сегодня WordPress выпустила исправления для исправления нового набора уязвимостей в своем основном программном обеспечении, одна из которых может позволить созданной веб-ссылке, открытой вошедшим в систему администратором, установить тему из официаль",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-wordpress-click2shell-flaw-forces-theme-inst-2026-09-18.webp",
+      "metaTitle": "Новая тема WordPress Click2Shell, вызывающая дефекты, может ",
+      "metaDescription": "Сегодня WordPress выпустила исправления для исправления нового набора уязвимостей в своем основном программном обеспечении, одна из которых может позв",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
+    },
+    {
+      "id": "bmw-prishlos-perevesti-svoy-zavod-na-kruglosutoc-2026-09-18",
+      "category": "Новости",
+      "title": "BMW пришлось перевести свой завод на круглосуточный режим работы: новый кроссовер BMW iX3 вызвал настоящий ажиотаж",
+      "excerpt": "BMW увеличила выпуск электрического кроссовера iX3 на новом заводе в венгерском Дебрецене. Предприятие перешло на работу в три смены и теперь собирает автомобили круглосуточно, семь дней в неделю. Причиной стал высокий спрос: только в Европе компания",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bmw-prishlos-perevesti-svoy-zavod-na-kruglosutoc-2026-09-18.webp",
+      "metaTitle": "BMW пришлось перевести свой завод на круглосуточный режим ра",
+      "metaDescription": "BMW увеличила выпуск электрического кроссовера iX3 на новом заводе в венгерском Дебрецене. Предприятие перешло на работу в три смены и теперь собирает",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436721-bmw-prislos-perevesti-svoi-zavod-na-kruglosutocnyi-rezim-raboty-novyi-krossover-bmw-ix3-vyzval-nastoiashhii-aziotaz.html"
+    },
+    {
+      "id": "apskeyler-autosr-vstroennyy-pryamo-v-windows-11--2026-09-18",
+      "category": "Новости",
+      "title": "Апскейлер AutoSR, встроенный прямо в Windows 11, теперь поддерживает процессоры Intel Core Ultra Series 3",
+      "excerpt": "Компания Microsoft реализовала поддержку технологии Auto SR в Windows 11 для процессоров Intel Core Ultra Series 3, то есть для Panther Lake.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apskeyler-autosr-vstroennyy-pryamo-v-windows-11--2026-09-18.webp",
+      "metaTitle": "Апскейлер AutoSR, встроенный прямо в Windows 11, теперь подд",
+      "metaDescription": "Компания Microsoft реализовала поддержку технологии Auto SR в Windows 11 для процессоров Intel Core Ultra Series 3, то есть для Panther Lake.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436724-apskeiler-autosr-vstroennyi-priamo-v-windows-11-teper-podderzivaet-processory-intel-core-ultra-series-3.html"
+    },
+    {
+      "id": "korpus-dlya-sozdaniya-passivnogo-mini-pk-no-dlya-2026-09-18",
+      "category": "Новости",
+      "title": "Корпус для создания пассивного мини-ПК, но для начала нужно купить Asus NUC. Представлен Akasa Newton N16",
+      "excerpt": "Компания Akasa представила корпус Newton N16 для создания пассивного мини-ПК. Правда, не любого, а на основе актуальной линейки Asus NUC 16 Pro.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/korpus-dlya-sozdaniya-passivnogo-mini-pk-no-dlya-2026-09-18.webp",
+      "metaTitle": "Корпус для создания пассивного мини-ПК, но для начала нужно ",
+      "metaDescription": "Компания Akasa представила корпус Newton N16 для создания пассивного мини-ПК. Правда, не любого, а на основе актуальной линейки Asus NUC 16 Pro.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436725-korpus-dlia-sozdaniia-passivnogo-mini-pk-no-dlia-nacala-nuzno-kupit-asus-nuc-predstavlen-akasa-newton-n16.html"
+    },
+    {
+      "id": "aaa-po-tsene-aa-raskryt-byudzhet-vampirskoy-role-2026-09-18",
+      "category": "Новости",
+      "title": "AAA по цене AA: раскрыт бюджет вампирской ролевой игры The Blood of Dawnwalker от ведущих разработчиков The Witcher 3 и Cyberpunk 2077",
+      "excerpt": "Производство вампирской ролевой игры The Blood of Dawnwalker от основанной ведущими разработчиками The Witcher 3 и Cyberpunk 2077 студии Rebel Wolves оказалось на удивление дешёвым по меркам современных блокбастеров. Источник изображений: Rebel Wolve",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/aaa-po-tsene-aa-raskryt-byudzhet-vampirskoy-role-2026-09-18.webp",
+      "metaTitle": "AAA по цене AA: раскрыт бюджет вампирской ролевой игры The B",
+      "metaDescription": "Производство вампирской ролевой игры The Blood of Dawnwalker от основанной ведущими разработчиками The Witcher 3 и Cyberpunk 2077 студии Rebel Wolves ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148729"
+    },
+    {
+      "id": "vorovstvo-bespretsedentnyh-masshtabov-openai-i-m-2026-09-18",
+      "category": "Новости",
+      "title": "«Воровство беспрецедентных масштабов»: OpenAI и Microsoft признали, что ИИ построен на краже данных и неумолимо разрушает интернет",
+      "excerpt": "Судя по рассекреченным недавно документам, руководители Microsoft и OpenAI осознавали, что большие языковые модели — это хищнические технологии, построенные на том, что один из руководителей Microsoft назвал «поразительным воровством беспрецедентных ",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vorovstvo-bespretsedentnyh-masshtabov-openai-i-m-2026-09-18.webp",
+      "metaTitle": "«Воровство беспрецедентных масштабов»: OpenAI и Microsoft пр",
+      "metaDescription": "Судя по рассекреченным недавно документам, руководители Microsoft и OpenAI осознавали, что большие языковые модели — это хищнические технологии, постр",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148728"
+    },
+    {
+      "id": "kitayskiy-gigant-cxmt-ne-hochet-dovolstvovatsya--2026-09-18",
+      "category": "Новости",
+      "title": "Китайский гигант CXMT не хочет довольствоваться только DRAM. Компания собирается наладить выпуск памяти NAND",
+      "excerpt": "Китайская компания CXMT специализируется на выпуске памяти DRAM, но в ближайшее время может выйти и на рынок чипов NAND.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskiy-gigant-cxmt-ne-hochet-dovolstvovatsya--2026-09-18.webp",
+      "metaTitle": "Китайский гигант CXMT не хочет довольствоваться только DRAM.",
+      "metaDescription": "Китайская компания CXMT специализируется на выпуске памяти DRAM, но в ближайшее время может выйти и на рынок чипов NAND.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436727-kitaiskii-gigant-cxmt-ne-xocet-dovolstvovatsia-tolko-dram-kompaniia-sobiraetsia-naladit-vypusk-pamiati-nand.html"
+    },
+    {
+      "id": "defitsit-kadrov-v-sfere-razrabotki-mikroshem-dly-2026-09-18",
+      "category": "Новости",
+      "title": "Дефицит кадров в сфере разработки микросхем для ИИ в США через три года может превысить 150 000 человек",
+      "excerpt": "Согласно данным аналитиков McKinsey и SEMI Foundation, в США наблюдается настолько серьёзный дефицит кадров в сфере разработки микросхем для ИИ, что уже через несколько лет речь будет идти более чем о 150 000 работниках.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/defitsit-kadrov-v-sfere-razrabotki-mikroshem-dly-2026-09-18.webp",
+      "metaTitle": "Дефицит кадров в сфере разработки микросхем для ИИ в США чер",
+      "metaDescription": "Согласно данным аналитиков McKinsey и SEMI Foundation, в США наблюдается настолько серьёзный дефицит кадров в сфере разработки микросхем для ИИ, что у",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436729-deficit-kadrov-v-sfere-razrabotki-mikrosxem-dlia-ii-v-ssa-cerez-tri-goda-mozet-prevysit-150-000-celovek.html"
+    },
+    {
       "id": "kitayskiy-ii-esche-ne-nauchilsya-zarabatyvat-kak-2026-09-18",
       "category": "Новости",
       "title": "Китайский ИИ ещё не научился зарабатывать как американский — DeepSeek, Alibaba и ещё пять разработчиков вместе не догнали OpenAI и Anthropic",
