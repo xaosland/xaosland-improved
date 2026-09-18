@@ -1,6 +1,294 @@
 {
   "articles": [
     {
+      "id": "israeli-contractor-blackcore-trained-angolan-off-2026-09-18",
+      "category": "Новости",
+      "title": "Израильский подрядчик BlackCore обучил ангольских чиновников операциям онлайн-влияния",
+      "excerpt": "Исследователи обнаружили, что израильская компания по найму влияния обучила правительственных чиновников Анголы проводить операции по оказанию влияния в Интернете, в том числе путем создания фейковых персонажей в социальных сетях и СМИ.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/israeli-contractor-blackcore-trained-angolan-off-2026-09-18.webp",
+      "metaTitle": "Израильский подрядчик BlackCore обучил ангольских чиновников",
+      "metaDescription": "Исследователи обнаружили, что израильская компания по найму влияния обучила правительственных чиновников Анголы проводить операции по оказанию влияния",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/angola-israel-influence-operations-blackcore"
+    },
+    {
+      "id": "cisco-fixes-dozens-of-flaws-across-fmc-ise-and-n-2026-09-18",
+      "category": "Новости",
+      "title": "Cisco исправляет десятки ошибок в FMC, ISE и панели мониторинга Nexus",
+      "excerpt": "Уязвимости могут привести к корневому доступу, выполнению команд, обходам, внедрению SQL и удаленному выполнению кода. Сообщение Cisco исправляет десятки ошибок в FMC, ISE и Nexus Dashboard впервые появилось на SecurityWeek.",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-n-2026-09-18.webp",
+      "metaTitle": "Cisco исправляет десятки ошибок в FMC, ISE и панели монитори",
+      "metaDescription": "Уязвимости могут привести к корневому доступу, выполнению команд, обходам, внедрению SQL и удаленному выполнению кода. Сообщение Cisco исправляет деся",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/"
+    },
+    {
+      "id": "es-ofitsialno-predlozhil-polnostyu-zapretit-dety-2026-09-18",
+      "category": "Новости",
+      "title": "ЕС официально предложил полностью запретить детям до 13 лет соцсети и отключить несовершеннолетним ИИ-ботов и компаньонов",
+      "excerpt": "Председатель Еврокомиссии Урсула фон дер Ляйен (Ursula von der Leyen) официально представила инициативу о запрете детям до 13 лет пользоваться соцсетями и об обязательстве онлайн-сервисов создавать безопасные учётные записи для несовершеннолетних. Ис",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/es-ofitsialno-predlozhil-polnostyu-zapretit-dety-2026-09-18.webp",
+      "metaTitle": "ЕС официально предложил полностью запретить детям до 13 лет ",
+      "metaDescription": "Председатель Еврокомиссии Урсула фон дер Ляйен (Ursula von der Leyen) официально представила инициативу о запрете детям до 13 лет пользоваться соцсетя",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148645"
+    },
+    {
+      "id": "iran-vse-taki-dobil-oblako-aws-v-bahreyne-2026-09-18",
+      "category": "Новости",
+      "title": "Иран всё-таки «добил» облако AWS в Бахрейне",
+      "excerpt": "Amazon Web Services (AWS) заявила, что не может восстановить доступ к ресурсам и данным в некоторых зонах доступности на Ближнем Востоке после того, как дата-центрам был нанесён урон в ходе противостояния США, Израиля и Ирана, сообщает The Register. ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iran-vse-taki-dobil-oblako-aws-v-bahreyne-2026-09-18.webp",
+      "metaTitle": "Иран всё-таки «добил» облако AWS в Бахрейне",
+      "metaDescription": "Amazon Web Services (AWS) заявила, что не может восстановить доступ к ресурсам и данным в некоторых зонах доступности на Ближнем Востоке после того, к",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148615"
+    },
+    {
+      "id": "kitayskiy-kosmicheskiy-internet-nabiraet-oboroty-2026-09-18",
+      "category": "Новости",
+      "title": "Китайский космический интернет набирает обороты — запущена 25-я партия интернет-спутников SatNet",
+      "excerpt": "В Китае произвели успешный запуск 25-й группы низкоорбитальных спутников связи SatNet, сообщила Китайская корпорация аэрокосмической науки и техники (CASC). Источник изображения: CASC",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskiy-kosmicheskiy-internet-nabiraet-oboroty-2026-09-18.webp",
+      "metaTitle": "Китайский космический интернет набирает обороты — запущена 2",
+      "metaDescription": "В Китае произвели успешный запуск 25-й группы низкоорбитальных спутников связи SatNet, сообщила Китайская корпорация аэрокосмической науки и техники (",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148648"
+    },
+    {
+      "id": "druva-expands-identity-resilience-with-ransomwar-2026-09-18",
+      "category": "Новости",
+      "title": "Druva повышает устойчивость идентификационных данных за счет обнаружения программ-вымогателей",
+      "excerpt": "Druva объявила о новых возможностях Druva Identity Resilience наряду с запуском функции обнаружения программ-вымогателей, новой функции, основанной на запатентованном конвейере угроз искусственного интеллекта. Новые предложения, основанные на Dru Met",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/druva-expands-identity-resilience-with-ransomwar-2026-09-18.webp",
+      "metaTitle": "Druva повышает устойчивость идентификационных данных за счет",
+      "metaDescription": "Druva объявила о новых возможностях Druva Identity Resilience наряду с запуском функции обнаружения программ-вымогателей, новой функции, основанной на",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/17/druva-identity-resilience-ransomware-detection/"
+    },
+    {
+      "id": "ransomware-attacks-on-manufacturers-surge-as-sup-2026-09-18",
+      "category": "Новости",
+      "title": "Атаки программ-вымогателей на производителей растут по мере роста рисков в цепочке поставок",
+      "excerpt": "Исследования показывают, что в начале 2026 года количество атак на производителей выросло на 40%, поскольку группы вымогателей все чаще используют сбои в цепочках поставок, вызванные остановками работы. Сообщение «Атаки программ-вымогателей на произв",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ransomware-attacks-on-manufacturers-surge-as-sup-2026-09-18.webp",
+      "metaTitle": "Атаки программ-вымогателей на производителей растут по мере ",
+      "metaDescription": "Исследования показывают, что в начале 2026 года количество атак на производителей выросло на 40%, поскольку группы вымогателей все чаще используют сбо",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/"
+    },
+    {
+      "id": "critical-unbound-dnssec-validator-flaw-could-all-2026-09-18",
+      "category": "Новости",
+      "title": "Критическая ошибка валидатора несвязанного DNSSEC может позволить RCE проходить через вредоносную зону DNS",
+      "excerpt": "В каждом выпуске Unbound DNS Resolver до 1.26.1 наблюдается критическое переполнение кучи в валидаторе DNSSEC, сообщил в среду специалист по обслуживанию NLnet Labs. Злоумышленник, который контролирует вредоносную зону и запрашивает уязвимый преобраз",
+      "date": "2026-09-17",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-unbound-dnssec-validator-flaw-could-all-2026-09-18.webp",
+      "metaTitle": "Критическая ошибка валидатора несвязанного DNSSEC может позв",
+      "metaDescription": "В каждом выпуске Unbound DNS Resolver до 1.26.1 наблюдается критическое переполнение кучи в валидаторе DNSSEC, сообщил в среду специалист по обслужива",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html"
+    },
+    {
+      "id": "pervyy-v-mire-termoyadernyy-vodorodno-bornyy-rea-2026-09-18",
+      "category": "Новости",
+      "title": "Первый в мире термоядерный водородно-борный реактор начали строить в Китае — почти без «фонящих» нейтронов",
+      "excerpt": "Китайская частная компания ENN начала строительство экспериментальной установки Helong-2 для исследования протон-борного термоядерного синтеза. Церемония закладки фундамента состоялась 15 сентября в научно-исследовательском центре ENN в городе Ланфан",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-v-mire-termoyadernyy-vodorodno-bornyy-rea-2026-09-18.webp",
+      "metaTitle": "Первый в мире термоядерный водородно-борный реактор начали с",
+      "metaDescription": "Китайская частная компания ENN начала строительство экспериментальной установки Helong-2 для исследования протон-борного термоядерного синтеза. Церемо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148646"
+    },
+    {
+      "id": "vypusk-miracle-wm-0-11-kompozitnogo-menedzhera-n-2026-09-18",
+      "category": "Новости",
+      "title": "Выпуск miracle-wm 0.11, композитного менеджера на базе Wayland и Mir",
+      "excerpt": "Опубликован выпуск композитного менеджера miracle-wm 0.11, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Miracle-wm поддерживает мозаичную (tiling) компоновку окон, схожую с аналогичной в проектах i3 и Sway. В",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск miracle-wm 0.11, композитного менеджера на базе Wayla",
+      "metaDescription": "Опубликован выпуск композитного менеджера miracle-wm 0.11, использующего протокол Wayland и компоненты для построения композитных менеджеров Mir. Mira",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66296"
+    },
+    {
+      "id": "predsedatel-huawei-kitayskiy-ii-poka-ne-doros-do-2026-09-18",
+      "category": "Новости",
+      "title": "Председатель Huawei: китайский ИИ пока не дорос до того, чтобы угрожать существованию человечества",
+      "excerpt": "Китайские разработчики систем искусственного интеллекта, возможно, пока не достигли того уровня развития технологий, при котором возникают угрозы безопасности, наблюдаемые у ведущих американских лабораторий, заявил председатель Huawei Эрик Сюй (Eric ",
+      "date": "2026-09-17",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predsedatel-huawei-kitayskiy-ii-poka-ne-doros-do-2026-09-18.webp",
+      "metaTitle": "Председатель Huawei: китайский ИИ пока не дорос до того, что",
+      "metaDescription": "Китайские разработчики систем искусственного интеллекта, возможно, пока не достигли того уровня развития технологий, при котором возникают угрозы безо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148649"
+    },
+    {
+      "id": "vypusk-esp-kvm-0-51-0-otkrytoy-proshivki-ip-kvm--2026-09-18",
+      "category": "Новости",
+      "title": "Выпуск ESP-KVM 0.51.0, открытой прошивки IP-KVM , с записью экрана на microSD",
+      "excerpt": "Опубликован выпуск ESP-KVM 0.51.2, открытой прошивки, превращающей плату на микроконтроллере ESP32-P4 в IP-KVM с доступом к экрану, клавиатуре и мыши удалённого компьютера через браузер, без установки агента на управляемую машину. Код написан на язык",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск ESP-KVM 0.51.0, открытой прошивки IP-KVM , с записью ",
+      "metaDescription": "Опубликован выпуск ESP-KVM 0.51.2, открытой прошивки, превращающей плату на микроконтроллере ESP32-P4 в IP-KVM с доступом к экрану, клавиатуре и мыши ",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66301"
+    },
+    {
+      "id": "neskolko-ii-agentov-nauchilis-rabotat-parallelno-2026-09-18",
+      "category": "Новости",
+      "title": "Несколько ИИ-агентов научились работать параллельно в обновлённом Claude Code Projects",
+      "excerpt": "Компания Anthropic обновила раздел «Проекты» (Projects) в Claude Code, превратив их в рабочее пространство для нескольких ИИ-агентов. Они могут одновременно выполнять разные задачи в рамках одного проекта, используя общую память, цели, файлы и артефа",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/neskolko-ii-agentov-nauchilis-rabotat-parallelno-2026-09-18.webp",
+      "metaTitle": "Несколько ИИ-агентов научились работать параллельно в обновл",
+      "metaDescription": "Компания Anthropic обновила раздел «Проекты» (Projects) в Claude Code, превратив их в рабочее пространство для нескольких ИИ-агентов. Они могут одновр",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148672"
+    },
+    {
+      "id": "glava-nvidia-uveren-chto-v-sleduyuschem-godu-kom-2026-09-18",
+      "category": "Новости",
+      "title": "Глава Nvidia уверен, что в следующем году компания сможет продать вдвое больше чипов",
+      "excerpt": "На минувшей квартальной отчётной конференции Nvidia в несвойственной для себя манере дала прогноз по росту выручки на 70 % до $673 млрд в течение следующего фискального года, отдельно отметив, что выручка могла бы вырасти сильнее, если бы не дефицит ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/glava-nvidia-uveren-chto-v-sleduyuschem-godu-kom-2026-09-18.webp",
+      "metaTitle": "Глава Nvidia уверен, что в следующем году компания сможет пр",
+      "metaDescription": "На минувшей квартальной отчётной конференции Nvidia в несвойственной для себя манере дала прогноз по росту выручки на 70 % до $673 млрд в течение след",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148673"
+    },
+    {
       "id": "isc-patches-14-vulnerabilities-in-bind-9-securit-2026-09-18",
       "category": "Новости",
       "title": "ISC исправляет 14 уязвимостей в обновлении безопасности BIND 9",
