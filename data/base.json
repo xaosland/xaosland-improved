@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "ey-survey-finds-autonomous-ai-implementation-out-2026-09-18",
+      "category": "Новости",
+      "title": "Исследование EY показало, что внедрение автономного искусственного интеллекта опережает надзор",
+      "excerpt": "Новый опрос старших руководителей ИИ показывает, что, хотя организации быстро внедряют ИИ и автономные системы, их процессы и средства контроля отстают.",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Исследование EY показало, что внедрение автономного искусств",
+      "metaDescription": "Новый опрос старших руководителей ИИ показывает, что, хотя организации быстро внедряют ИИ и автономные системы, их процессы и средства контроля отстаю",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight"
+    },
+    {
+      "id": "vectra-ai-launches-ascent-to-help-address-new-er-2026-09-18",
+      "category": "Новости",
+      "title": "Vectra AI запускает Ascent, чтобы помочь противостоять новой эре атак с использованием искусственного интеллекта",
+      "excerpt": "Новая программа расширяет партнерскую стратегию Vectra AI, поскольку все более сложные среды безопасности и растущее использование ИИ создают спрос на более широкий опыт, услуги и результаты в области безопасности в области ИИ.",
+      "date": "2026-09-18",
+      "readTime": 3,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Vectra AI запускает Ascent, чтобы помочь противостоять новой",
+      "metaDescription": "Новая программа расширяет партнерскую стратегию Vectra AI, поскольку все более сложные среды безопасности и растущее использование ИИ создают спрос на",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks"
+    },
+    {
+      "id": "200-megapikselnaya-kamera-zeiss-ekran-2k-batarey-2026-09-18",
+      "category": "Новости",
+      "title": "200-мегапиксельная камера Zeiss, экран 2К, батарея больше 7000 мА·ч и Dimensity 9600 Pro. Подробные характеристики Vivo X500 Pro Max раскрыты до премьеры",
+      "excerpt": "В Сети появились подробные характеристики будущего флагманского смартфона Vivo X500 Pro Max. Одновременно модель вместе с базовым Vivo X500 прошла сертификацию телекоммуникационного регулятора TDRA в ОАЭ — каталожные номера устройств V2619 и V2610 со",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/200-megapikselnaya-kamera-zeiss-ekran-2k-batarey-2026-09-18.webp",
+      "metaTitle": "200-мегапиксельная камера Zeiss, экран 2К, батарея больше 70",
+      "metaDescription": "В Сети появились подробные характеристики будущего флагманского смартфона Vivo X500 Pro Max. Одновременно модель вместе с базовым Vivo X500 прошла сер",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436745-200-megapikselnaia-kamera-zeiss-ekran-2k-batareia-bolse-7000-mac-i-dimensity-9600-pro-podrobnye-xarakteristiki-vivo-x500-pro-max-raskryty-do-premery.html"
+    },
+    {
+      "id": "v-otkrytyy-dostup-popalo-pochti-200-gigabayt-fay-2026-09-18",
+      "category": "Новости",
+      "title": "В открытый доступ попало почти 200 гигабайт файлов Rockstar, включая вырезанный Либерти-Сити для GTA V и наработки по GTA VI за 2015 год",
+      "excerpt": "Сообщество фанатов Rockstar Games сотрясла новая масштабная утечка, содержащая закулисные материалы горячо ожидаемого криминального боевика с открытым миром GTA VI и его предшественника в лице GTA V. Источник изображений: Rockstar Games",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-otkrytyy-dostup-popalo-pochti-200-gigabayt-fay-2026-09-18.webp",
+      "metaTitle": "В открытый доступ попало почти 200 гигабайт файлов Rockstar,",
+      "metaDescription": "Сообщество фанатов Rockstar Games сотрясла новая масштабная утечка, содержащая закулисные материалы горячо ожидаемого криминального боевика с открытым",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148733"
+    },
+    {
+      "id": "ot-nefti-k-chipam-yaponiya-i-ssha-gotovyat-pervy-2026-09-18",
+      "category": "Новости",
+      "title": "От нефти к чипам: Япония и США готовят первый полупроводниковый проект на $19,3 млрд",
+      "excerpt": "Япония и США обсуждают строительство завода GlobalFoundries стоимостью от 2 до 3 триллионов иен ($12,9 – 19,3 миллиарда долларов). Это первый полупроводниковый проект в рамках 550-миллиардного инвестиционного соглашения между двумя странами. О перего",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ot-nefti-k-chipam-yaponiya-i-ssha-gotovyat-pervy-2026-09-18.webp",
+      "metaTitle": "От нефти к чипам: Япония и США готовят первый полупроводнико",
+      "metaDescription": "Япония и США обсуждают строительство завода GlobalFoundries стоимостью от 2 до 3 триллионов иен ($12,9 – 19,3 миллиарда долларов). Это первый полупров",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436746-ot-nefti-k-cipam-iaponiia-i-ssa-gotoviat-pervyi-poluprovodnikovyi-proekt-na-193-mlrd.html"
+    },
+    {
+      "id": "batareya-9000-ma-ch-200-mp-ekran-185-gts-i-snapd-2026-09-18",
+      "category": "Новости",
+      "title": "Батарея 9000 мА·ч, 200 Мп, экран 185 Гц и Snapdragon 8 Elite Gen 6 Pro: раскрыты все характеристики OnePlus 16",
+      "excerpt": "Инсайдер Абишек Ядав опубликовал подробный перечень характеристик будущего флагмана OnePlus — OnePlus 16.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/batareya-9000-ma-ch-200-mp-ekran-185-gts-i-snapd-2026-09-18.webp",
+      "metaTitle": "Батарея 9000 мА·ч, 200 Мп, экран 185 Гц и Snapdragon 8 Elite",
+      "metaDescription": "Инсайдер Абишек Ядав опубликовал подробный перечень характеристик будущего флагмана OnePlus — OnePlus 16.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436748-batareia-9000-mac-200-mp-ekran-185-gc-i-snapdragon-8-elite-gen-6-pro-raskryty-vse-xarakteristiki-oneplus-16.html"
+    },
+    {
+      "id": "novaya-statya-doloc-town-dostoynaya-naslednitsa--2026-09-18",
+      "category": "Новости",
+      "title": "Новая статья: Doloc Town — достойная наследница Stardew Valley. Рецензия",
+      "excerpt": "Doloc Town — симулятор фермера, но многие его элементы сделаны совсем не так, как в других представителях жанра. О том, чем новинка отличается от Stardew Valley и почему любителям таких игр не стоит её пропускать, рассказываем в рецензии",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-doloc-town-dostoynaya-naslednitsa--2026-09-18.webp",
+      "metaTitle": "Новая статья: Doloc Town — достойная наследница Stardew Vall",
+      "metaDescription": "Doloc Town — симулятор фермера, но многие его элементы сделаны совсем не так, как в других представителях жанра. О том, чем новинка отличается от Star",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148232"
+    },
+    {
+      "id": "honor-vypustila-2-litrovuyu-rabochuyu-stantsiyu--2026-09-18",
+      "category": "Новости",
+      "title": "Honor выпустила 2-литровую рабочую станцию с Nvidia RTX Spark и 128 Гбайт памяти",
+      "excerpt": "Компания Honor представила семейство компактных рабочих станций Tiangong AXB35 для задач искусственного интеллекта, включая модель Ultra на базе платформы Nvidia RTX Spark. Этот мини-ПК с внутренним объёмом около 2 литров предлагает 128 Гбайт унифици",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-vypustila-2-litrovuyu-rabochuyu-stantsiyu--2026-09-18.webp",
+      "metaTitle": "Honor выпустила 2-литровую рабочую станцию с Nvidia RTX Spar",
+      "metaDescription": "Компания Honor представила семейство компактных рабочих станций Tiangong AXB35 для задач искусственного интеллекта, включая модель Ultra на базе платф",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148734"
+    },
+    {
+      "id": "nasa-vybralo-spacex-dlya-zapuska-gamma-detektora-2026-09-18",
+      "category": "Новости",
+      "title": "NASA выбрало SpaceX для запуска гамма-детектора StarBurst",
+      "excerpt": "NASA заключило со SpaceX контракт на запуск миссии StarBurst — небольшого детектора для изучения слияний нейтронных звёзд и природы коротких гамма-всплесков. Старт состоится не ранее 2028 года с площадки SLC-40 на мысе Канаверал во Флориде, детектор ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-vybralo-spacex-dlya-zapuska-gamma-detektora-2026-09-18.webp",
+      "metaTitle": "NASA выбрало SpaceX для запуска гамма-детектора StarBurst",
+      "metaDescription": "NASA заключило со SpaceX контракт на запуск миссии StarBurst — небольшого детектора для изучения слияний нейтронных звёзд и природы коротких гамма-всп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436751-nasa-vybralo-spacex-dlia-zapuska-gamma-detektora-starburst.html"
+    },
+    {
+      "id": "gamma-teleskop-cosi-sobran-missiya-po-izucheniyu-2026-09-18",
+      "category": "Новости",
+      "title": "Гамма-телескоп COSI собран: миссия по изучению антиматерии в Галактике приближается к запуску",
+      "excerpt": "Инженеры и руководители Калифорнийского университета в Беркли зафиксировали ключевую веху: 8 июля 2026 года детекторная сборка телескопа COSI (Compton Spectrometer and Imager) была поднята с монтажного стола и установлена в рабочее положение.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gamma-teleskop-cosi-sobran-missiya-po-izucheniyu-2026-09-18.webp",
+      "metaTitle": "Гамма-телескоп COSI собран: миссия по изучению антиматерии в",
+      "metaDescription": "Инженеры и руководители Калифорнийского университета в Беркли зафиксировали ключевую веху: 8 июля 2026 года детекторная сборка телескопа COSI (Compton",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436752-gamma-teleskop-cosi-sobran-missiia-po-izuceniiu-antimaterii-v-galaktike-priblizaetsia-k-zapusku.html"
+    },
+    {
+      "id": "chandra-otkryla-novyy-klass-kosmicheskih-obektov-2026-09-18",
+      "category": "Новости",
+      "title": "«Чандра» открыла новый класс космических объектов, способных разрешить две загадки астрофизики: «гипермягкие» источники",
+      "excerpt": "Астрономы, работающие с архивом данных рентгеновской обсерватории «Чандра» (Chandra), идентифицировали 84 необычных космических объекта в шести галактиках, включая спиральные Андромеду и Вертушку. Объекты излучают мощный ультрафиолет, но имеют аномал",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chandra-otkryla-novyy-klass-kosmicheskih-obektov-2026-09-18.webp",
+      "metaTitle": "«Чандра» открыла новый класс космических объектов, способных",
+      "metaDescription": "Астрономы, работающие с архивом данных рентгеновской обсерватории «Чандра» (Chandra), идентифицировали 84 необычных космических объекта в шести галакт",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436755-candra-otkryla-novyi-klass-kosmiceskix-obieektov-sposobnyx-razresit-dve-zagadki-astrofiziki-gipermiagkie-istocniki.html"
+    },
+    {
+      "id": "temnuyu-materiyu-rano-spisyvat-so-schetov-neobya-2026-09-18",
+      "category": "Новости",
+      "title": "Тёмную материю рано списывать со счетов: необъяснённые гамма-лучи в центре Галактики могут быть результатом самоаннигиляции тёмной материи",
+      "excerpt": "Избыток гамма-излучения в центре Млечного Пути, известный как Galactic Center GeV Excess (GCE), остаётся одной из самых упорных загадок астрофизики. Обнаруженный в 2009 году космическим гамма-телескопом Fermi, он не имеет очевидного источника. Новое ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/temnuyu-materiyu-rano-spisyvat-so-schetov-neobya-2026-09-18.webp",
+      "metaTitle": "Тёмную материю рано списывать со счетов: необъяснённые гамма",
+      "metaDescription": "Избыток гамма-излучения в центре Млечного Пути, известный как Galactic Center GeV Excess (GCE), остаётся одной из самых упорных загадок астрофизики. О",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436756-temnuiu-materiiu-rano-spisyvat-so-scetov-neobieiasnennye-gamma-luci-v-centre-galaktiki-mogut-byt-rezultatom-samoannigiliacii-temnoi-materii.html"
+    },
+    {
+      "id": "hakery-opublikovali-dannye-tysyach-voditeley-pos-2026-09-18",
+      "category": "Новости",
+      "title": "Хакеры опубликовали данные тысяч водителей после взлома баз данных транспортных средств штата Флорида",
+      "excerpt": "Хакерская группировка ShinyHunters опубликовала сотни тысяч файлов из базы данных транспортных средств и информации о водителях штата Флорида. На своём сайте злоумышленники заявили, что «сделали это, потому что жертва не заплатила выкуп и не стала со",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hakery-opublikovali-dannye-tysyach-voditeley-pos-2026-09-18.webp",
+      "metaTitle": "Хакеры опубликовали данные тысяч водителей после взлома баз ",
+      "metaDescription": "Хакерская группировка ShinyHunters опубликовала сотни тысяч файлов из базы данных транспортных средств и информации о водителях штата Флорида. На своё",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436758-xakery-opublikovali-dannye-tysiac-voditelei-posle-vzloma-baz-dannyx-transportnyx-sredstv-stata-florida.html"
+    },
+    {
+      "id": "vodorodnyy-hilux-ot-toyota-prevzoshel-elektriche-2026-09-18",
+      "category": "Новости",
+      "title": "Водородный Hilux от Toyota превзошёл электрический по всем параметрам. Но заправляться ему негде",
+      "excerpt": "Toyota подтвердила выпуск водородного пикапа Hilux на топливных ячейках к 2028 году — первого коммерчески доступного среднеразмерного пикапа на водороде в Европе. Целевые характеристики: 400 км запаса хода, 2500 кг буксировки и заправка за 5 минут. Д",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vodorodnyy-hilux-ot-toyota-prevzoshel-elektriche-2026-09-18.webp",
+      "metaTitle": "Водородный Hilux от Toyota превзошёл электрический по всем п",
+      "metaDescription": "Toyota подтвердила выпуск водородного пикапа Hilux на топливных ячейках к 2028 году — первого коммерчески доступного среднеразмерного пикапа на водоро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436759-vodorodnyi-hilux-ot-toyota-prevzosel-elektriceskii-po-vsem-parametram-no-zapravliatsia-emu-negde.html"
+    },
+    {
+      "id": "porsche-razrabotala-akkumulyatornuyu-batareyu-ko-2026-09-18",
+      "category": "Новости",
+      "title": "Porsche разработала аккумуляторную батарею, которая полностью состоит из переработанных материалов, питающихся от старых аккумуляторных блоков",
+      "excerpt": "Porsche и переработчик Cylib произвели пилотные аккумуляторные ячейки, в которых 100% катодного активного материала — литий, никель, кобальт и марганец — получены из собственных отработанных батарейных блоков Porsche. Это полностью замкнутый цикл в п",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/porsche-razrabotala-akkumulyatornuyu-batareyu-ko-2026-09-18.webp",
+      "metaTitle": "Porsche разработала аккумуляторную батарею, которая полность",
+      "metaDescription": "Porsche и переработчик Cylib произвели пилотные аккумуляторные ячейки, в которых 100% катодного активного материала — литий, никель, кобальт и маргане",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436761-porsche-razrabotala-akkumuliatornuiu-batareiu-kotoraia-polnostiu-sostoit-iz-pererabotannyx-materialov-pitaiushhixsia-ot-staryx-akkumuliatornyx-blokov.html"
+    },
+    {
       "id": "gyazo-server-flaw-exploited-to-steal-23-6-millio-2026-09-18",
       "category": "Новости",
       "title": "Уязвимость сервера Gyazo использовалась для кражи 23,6 миллиона пользовательских записей",
