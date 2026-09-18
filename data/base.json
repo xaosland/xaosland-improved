@@ -1,6 +1,311 @@
 {
   "articles": [
     {
+      "id": "98-of-fraudulent-hires-have-company-credentials--2026-09-18",
+      "category": "Новости",
+      "title": "98% нанятых мошенников уже имеют учетные данные компании к моменту, когда их поймают.",
+      "excerpt": "Согласно отчету HYPR «State of HR Identity Fraud Detection», 90-дневный период между приемом на работу и адаптацией создает «слепую зону» в обеспечении безопасности корпоративных идентификационных данных. «Злоумышленникам больше не нужно взламывать с",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/98-of-fraudulent-hires-have-company-credentials--2026-09-18.webp",
+      "metaTitle": "98% нанятых мошенников уже имеют учетные данные компании к м",
+      "metaDescription": "Согласно отчету HYPR «State of HR Identity Fraud Detection», 90-дневный период между приемом на работу и адаптацией создает «слепую зону» в обеспечени",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/"
+    },
+    {
+      "id": "opublikovano-bolshoe-sravnenie-kamer-iphone-18-p-2026-09-18",
+      "category": "Новости",
+      "title": "Опубликовано большое сравнение камер iPhone 18 Pro Max и Samsung Galaxy S26 Ultra",
+      "excerpt": "Техноблогер SuperSaf опубликовал большое сравнение камер iPhone 18 Pro Max и Galaxy S26 Ultra. На фотографиях заметна разница в обработке цвета и передаче деталей.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/opublikovano-bolshoe-sravnenie-kamer-iphone-18-p-2026-09-18.webp",
+      "metaTitle": "Опубликовано большое сравнение камер iPhone 18 Pro Max и Sam",
+      "metaDescription": "Техноблогер SuperSaf опубликовал большое сравнение камер iPhone 18 Pro Max и Galaxy S26 Ultra. На фотографиях заметна разница в обработке цвета и пере",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436584-opublikovano-bolsoe-sravnenie-kamer-iphone-18-pro-max-i-samsung-galaxy-s26-ultra.html"
+    },
+    {
+      "id": "t2-obschaetsya-s-apple-po-povodu-aktivatsii-5g-v-2026-09-18",
+      "category": "Новости",
+      "title": "Т2 общается с Apple по поводу активации 5G в России",
+      "excerpt": "Оператор Т2 общается с Apple по поводу активации 5G для России.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/t2-obschaetsya-s-apple-po-povodu-aktivatsii-5g-v-2026-09-18.webp",
+      "metaTitle": "Т2 общается с Apple по поводу активации 5G в России",
+      "metaDescription": "Оператор Т2 общается с Apple по поводу активации 5G для России.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436585-t2-obshhaetsia-s-apple-po-povodu-aktivacii-5g-v-rossii.html"
+    },
+    {
+      "id": "6100-iso-lyumen-i-zaderzhka-1-ms-predstavlen-laz-2026-09-18",
+      "category": "Новости",
+      "title": "6100 ISO люмен и задержка 1 мс — представлен лазерный 4K-проектор для домашнего кинотеатра и игр Dangbei X9 Ultra",
+      "excerpt": "Компания Dangbei представила новый флагманский проектор X9 Ultra. Модель получила 0,47-дюймовый DMD-чип и тройной RGB-лазер QuaLas 42. Заявленная яркость составляет 5600 люмен CVIA, или около 6100 ISO люмен. Для отвода тепла используется обновлённая ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/6100-iso-lyumen-i-zaderzhka-1-ms-predstavlen-laz-2026-09-18.webp",
+      "metaTitle": "6100 ISO люмен и задержка 1 мс — представлен лазерный 4K-про",
+      "metaDescription": "Компания Dangbei представила новый флагманский проектор X9 Ultra. Модель получила 0,47-дюймовый DMD-чип и тройной RGB-лазер QuaLas 42. Заявленная ярко",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436587-6100-iso-liumen-i-zaderzka-1-ms-predstavlen-lazernyi-4k-proektor-dlia-domasnego-kinoteatra-i-igr-dangbei-x9-ultra.html"
+    },
+    {
+      "id": "samsung-namerena-uvelichivat-obemy-proizvodstva--2026-09-18",
+      "category": "Новости",
+      "title": "Samsung намерена увеличивать объёмы производства модулей памяти DDR5 исключительно силами подрядчиков",
+      "excerpt": "Кризис на рынке DRAM как раз и начался из-за стремления его участников выпускать больше дорогой и востребованной HBM, тогда как под нужды выпуска DDR5 и DDR4 выделялось всё меньше площадей и ресурсов. Samsung Electronics сейчас просит своих партнёров",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-namerena-uvelichivat-obemy-proizvodstva--2026-09-18.webp",
+      "metaTitle": "Samsung намерена увеличивать объёмы производства модулей пам",
+      "metaDescription": "Кризис на рынке DRAM как раз и начался из-за стремления его участников выпускать больше дорогой и востребованной HBM, тогда как под нужды выпуска DDR5",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148676"
+    },
+    {
+      "id": "xpeng-priznala-sozdanie-robotov-v-20-raz-slozhne-2026-09-18",
+      "category": "Новости",
+      "title": "XPeng признала: создание роботов в 20 раз сложнее разработки автомобилей",
+      "excerpt": "Председатель и гендиректор XPeng Group Хэ Сяопэн заявил, что разработка человекоподобных роботов примерно в 20 раз сложнее создания автомобилей.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xpeng-priznala-sozdanie-robotov-v-20-raz-slozhne-2026-09-18.webp",
+      "metaTitle": "XPeng признала: создание роботов в 20 раз сложнее разработки",
+      "metaDescription": "Председатель и гендиректор XPeng Group Хэ Сяопэн заявил, что разработка человекоподобных роботов примерно в 20 раз сложнее создания автомобилей.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436588-xpeng-priznala-sozdanie-robotov-v-20-raz-sloznee-razrabotki-avtomobilei.html"
+    },
+    {
+      "id": "nasa-poruchit-boeing-dopilit-mnogostradalnyy-sta-2026-09-18",
+      "category": "Новости",
+      "title": "NASA поручит Boeing «допилить» многострадальный Starliner — к этому толкают планы SpaceX завершить полёты Crew Dragon",
+      "excerpt": "По данным источников, NASA вернёт космический корабль Boeing Starliner в число основных кораблей для доставки астронавтов на низкую околоземную орбиту. Вскоре агентство намерено заказать у Boeing ещё две пилотируемые миссии Starliner, частично профин",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-poruchit-boeing-dopilit-mnogostradalnyy-sta-2026-09-18.webp",
+      "metaTitle": "NASA поручит Boeing «допилить» многострадальный Starliner — ",
+      "metaDescription": "По данным источников, NASA вернёт космический корабль Boeing Starliner в число основных кораблей для доставки астронавтов на низкую околоземную орбиту",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148675"
+    },
+    {
+      "id": "4k-do-200-dyuymov-5000-iso-lyumen-i-240-gts-pri--2026-09-18",
+      "category": "Новости",
+      "title": "4K, до 200 дюймов, 5000 ISO люмен и 240 Гц при цене около 1000 долларов — проектор Dangbei X9 Max поступил в продажу в Китае",
+      "excerpt": "Компания Dangbei выпустила новый домашний проектор X9 Max стоимостью 6999 юаней или около 1000 долларов в Китае.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/4k-do-200-dyuymov-5000-iso-lyumen-i-240-gts-pri--2026-09-18.webp",
+      "metaTitle": "4K, до 200 дюймов, 5000 ISO люмен и 240 Гц при цене около 10",
+      "metaDescription": "Компания Dangbei выпустила новый домашний проектор X9 Max стоимостью 6999 юаней или около 1000 долларов в Китае.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436589-4k-do-200-diuimov-5000-iso-liumen-i-240-gc-pri-cene-okolo-1000-dollarov-proektor-dangbei-x9-max-postupil-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "predstavlena-posudomoechnaya-mashina-xiaomi-na-2-2026-09-18",
+      "category": "Новости",
+      "title": "Представлена посудомоечная машина Xiaomi на 20 комплектов с паровой сушкой при 115 °C",
+      "excerpt": "Xiaomi представила полностью встраиваемую посудомоечную машину Mijia Smart Dishwasher Built-in 20-Set-Top. Модель рассчитана на 20 комплектов посуды, вмещает до 144 столовых приборов и имеет рабочую камеру объёмом 156 л. Стоимость устройства составля",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlena-posudomoechnaya-mashina-xiaomi-na-2-2026-09-18.webp",
+      "metaTitle": "Представлена посудомоечная машина Xiaomi на 20 комплектов с ",
+      "metaDescription": "Xiaomi представила полностью встраиваемую посудомоечную машину Mijia Smart Dishwasher Built-in 20-Set-Top. Модель рассчитана на 20 комплектов посуды, ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436590-predstavlena-posudomoecnaia-masina-xiaomi-na-20-komplektov-s-parovoi-suskoi-pri-115-c.html"
+    },
+    {
+      "id": "hardcoded-mcp-credentials-found-in-public-github-2026-09-18",
+      "category": "Новости",
+      "title": "Жестко закодированные учетные данные MCP найдены в общедоступных файлах GitHub",
+      "excerpt": "Согласно исследованию Hush Security «Состояние конфигурации MCP: пробелы в безопасности идентификации», жестко запрограммированные ключи API, токены доступа и другие учетные данные, используемые инструментами кодирования AI, были обнаружены в общедос",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hardcoded-mcp-credentials-found-in-public-github-2026-09-18.webp",
+      "metaTitle": "Жестко закодированные учетные данные MCP найдены в общедосту",
+      "metaDescription": "Согласно исследованию Hush Security «Состояние конфигурации MCP: пробелы в безопасности идентификации», жестко запрограммированные ключи API, токены д",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/"
+    },
+    {
+      "id": "predstavlen-nochnik-xiaomi-kotoryy-rabotaet-do-8-2026-09-18",
+      "category": "Новости",
+      "title": "Представлен ночник Xiaomi, который работает до 8 месяцев и распознает движения",
+      "excerpt": "Xiaomi начала продажи в Китае нового ночника Mijia Night Light 4. Цена новинки — 69 юаней, продажи на JD.com стартуют 22 сентября.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-nochnik-xiaomi-kotoryy-rabotaet-do-8-2026-09-18.webp",
+      "metaTitle": "Представлен ночник Xiaomi, который работает до 8 месяцев и р",
+      "metaDescription": "Xiaomi начала продажи в Китае нового ночника Mijia Night Light 4. Цена новинки — 69 юаней, продажи на JD.com стартуют 22 сентября.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436593-predstavlen-nocnik-xiaomi-kotoryi-rabotaet-do-8-mesiacev-i-raspoznaet-dvizeniia.html"
+    },
+    {
+      "id": "predstavlen-gadzhet-iflytek-dlya-zapisi-i-rasshi-2026-09-18",
+      "category": "Новости",
+      "title": "Представлен гаджет iFlytek для записи и расшифровки разговоров: 30 часов работы и перевод на 10 языков",
+      "excerpt": "Компания iFlytek представила AI Recording Card — тонкий гаджет для записи разговоров и совещаний с глубокой интеграцией ИИ.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-gadzhet-iflytek-dlya-zapisi-i-rasshi-2026-09-18.webp",
+      "metaTitle": "Представлен гаджет iFlytek для записи и расшифровки разговор",
+      "metaDescription": "Компания iFlytek представила AI Recording Card — тонкий гаджет для записи разговоров и совещаний с глубокой интеграцией ИИ.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436596-predstavlen-gadzet-iflytek-dlia-zapisi-i-rassifrovki-razgovorov-30-casov-raboty-i-perevod-na-10-iazykov.html"
+    },
+    {
+      "id": "samsung-pristupila-k-probnomu-proizvodstvu-ii-ch-2026-09-18",
+      "category": "Новости",
+      "title": "Samsung приступила к пробному производству ИИ-чипов Tesla в Техасе по 2-нм технологии",
+      "excerpt": "Принято считать, что именно контракт с Tesla на контрактное производство чипов оживил проект Samsung Electronics по строительству профильного предприятия в техасском Тейлоре и дал компании возможность привлечь к новой площадке внимание других потенци",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-pristupila-k-probnomu-proizvodstvu-ii-ch-2026-09-18.webp",
+      "metaTitle": "Samsung приступила к пробному производству ИИ-чипов Tesla в ",
+      "metaDescription": "Принято считать, что именно контракт с Tesla на контрактное производство чипов оживил проект Samsung Electronics по строительству профильного предприя",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148680"
+    },
+    {
+      "id": "rossiyanam-perechislili-priznaki-vzloma-akkaunta-2026-09-18",
+      "category": "Новости",
+      "title": "Россиянам перечислили признаки взлома аккаунта на «Госуслугах»",
+      "excerpt": "Россиянам перечислили признаки взлома аккаунта на «Госуслугах»",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyanam-perechislili-priznaki-vzloma-akkaunta-2026-09-18.webp",
+      "metaTitle": "Россиянам перечислили признаки взлома аккаунта на «Госуслуга",
+      "metaDescription": "Россиянам перечислили признаки взлома аккаунта на «Госуслугах»",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/18/rossiyanam-perechislili-priznaki-vzloma-akkaunta-na-gosuslugah/"
+    },
+    {
+      "id": "na-xiaomi-youpin-predstavlen-fonar-za-15-luch-na-2026-09-18",
+      "category": "Новости",
+      "title": "На Xiaomi Youpin представлен фонарь за $15: луч на 448 метров, 12 600 люкс и до 45 часов работы",
+      "excerpt": "На платформе Xiaomi Youpin запустили краудфандинг нового мощного фонарика Xiaomi Ecue, рекомендованная цена которого составляет 199 юаней, а на этапе сбора средств устройство можно приобрести за 99 юаней.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/na-xiaomi-youpin-predstavlen-fonar-za-15-luch-na-2026-09-18.webp",
+      "metaTitle": "На Xiaomi Youpin представлен фонарь за $15: луч на 448 метро",
+      "metaDescription": "На платформе Xiaomi Youpin запустили краудфандинг нового мощного фонарика Xiaomi Ecue, рекомендованная цена которого составляет 199 юаней, а на этапе ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436598-na-xiaomi-youpin-predstavlen-fonar-za-15-luc-na-448-metrov-12-600-liuks-i-do-45-casov-raboty.html"
+    },
+    {
       "id": "studiya-razrabotchikov-hyper-light-drifter-i-sol-2026-09-18",
       "category": "Новости",
       "title": "Студия разработчиков Hyper Light Drifter и Solar Ash оказалась на грани закрытия — из-за отмены новой игры пришлось уволить «почти всех» сотрудников",
