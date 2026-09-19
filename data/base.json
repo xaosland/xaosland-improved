@@ -1,6 +1,88 @@
 {
   "articles": [
     {
+      "id": "anthropic-reshila-provesti-ipo-v-noyabre-i-skoro-2026-09-19",
+      "category": "Новости",
+      "title": "Anthropic решила провести IPO в ноябре, и скоро выйдет на уровень годовой выручки в $100 млрд",
+      "excerpt": "Этим летом считалось, что Anthropic выйдет на биржу либо в конце сентября, либо в октябре. Первый месяц осени движется к своему завершению, и теперь The Wall Street Journal сообщает, что этот американский стартап собирается провести IPO в ноябре, что",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-reshila-provesti-ipo-v-noyabre-i-skoro-2026-09-19.webp",
+      "metaTitle": "Anthropic решила провести IPO в ноябре, и скоро выйдет на ур",
+      "metaDescription": "Этим летом считалось, что Anthropic выйдет на биржу либо в конце сентября, либо в октябре. Первый месяц осени движется к своему завершению, и теперь T",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148736"
+    },
+    {
+      "id": "vyruchka-openai-k-kontsu-2030-goda-vyrastet-do-3-2026-09-19",
+      "category": "Новости",
+      "title": "Выручка OpenAI к концу 2030 года вырастет до $350 млрд, но всё равно не сможет покрыть расходы",
+      "excerpt": "Хотя OpenAI из-за всей этой шумихи с безопасностью ИИ и не торопится выходить на IPO в текущем году, информацию о своих планах и финансовых достижениях компания инвесторам регулярно предоставляет. Новая порция этих данных гласит, что в период с 2026 ",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vyruchka-openai-k-kontsu-2030-goda-vyrastet-do-3-2026-09-19.webp",
+      "metaTitle": "Выручка OpenAI к концу 2030 года вырастет до $350 млрд, но в",
+      "metaDescription": "Хотя OpenAI из-за всей этой шумихи с безопасностью ИИ и не торопится выходить на IPO в текущем году, информацию о своих планах и финансовых достижения",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148737"
+    },
+    {
+      "id": "kosmodrom-vostochnyy-pereveli-na-gaz-pyat-koteln-2026-09-19",
+      "category": "Новости",
+      "title": "Космодром Восточный перевели на газ: пять котельных получили подключение к системе газоснабжения",
+      "excerpt": "Пять котельных космодрома Восточный подключили к системе газоснабжения. Церемония состоялась 18 сентября в формате видеоконференции под руководством президента России Владимира Путина. Восточный стал одной из семи площадок в стране, где в этот день о",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kosmodrom-vostochnyy-pereveli-na-gaz-pyat-koteln-2026-09-19.webp",
+      "metaTitle": "Космодром Восточный перевели на газ: пять котельных получили",
+      "metaDescription": "Пять котельных космодрома Восточный подключили к системе газоснабжения. Церемония состоялась 18 сентября в формате видеоконференции под руководством п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436779-kosmodrom-vostocnyi-pereveli-na-gaz-piat-kotelnyx-polucili-podkliucenie-k-sisteme-gazosnabzeniia.html"
+    },
+    {
+      "id": "novye-smartfony-samsung-galaxy-m08-i-f08-poyavil-2026-09-19",
+      "category": "Новости",
+      "title": "Новые смартфоны Samsung Galaxy M08 и F08 появились в Сети до анонса",
+      "excerpt": "На официальных сайтах Samsung в Индии и Бангладеш появились страницы поддержки Galaxy M08 и Galaxy F08.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novye-smartfony-samsung-galaxy-m08-i-f08-poyavil-2026-09-19.webp",
+      "metaTitle": "Новые смартфоны Samsung Galaxy M08 и F08 появились в Сети до",
+      "metaDescription": "На официальных сайтах Samsung в Индии и Бангладеш появились страницы поддержки Galaxy M08 и Galaxy F08.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436780-novye-smartfony-samsung-galaxy-m08-i-f08-poiavilis-v-seti-do-anonsa.html"
+    },
+    {
       "id": "data-broker-radaris-loses-domains-in-privacy-fig-2026-09-19",
       "category": "Новости",
       "title": "Брокер данных Radaris теряет домены в борьбе за конфиденциальность",
