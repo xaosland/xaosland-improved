@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "solarwinds-patches-arm-hard-coded-key-flaw-enabl-2026-09-19",
+      "category": "Новости",
+      "title": "SolarWinds исправляет дефект жестко запрограммированного ключа ARM, позволяющий использовать неаутентифицированный RCE",
+      "excerpt": "SolarWinds выпустила обновления безопасности для устранения серьезной ошибки в Access Rights Manager (ARM), которая в случае успешной эксплуатации может привести к уязвимости удаленного выполнения кода без аутентификации. Уязвимость, отслеживаемая ка",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/solarwinds-patches-arm-hard-coded-key-flaw-enabl-2026-09-19.webp",
+      "metaTitle": "SolarWinds исправляет дефект жестко запрограммированного клю",
+      "metaDescription": "SolarWinds выпустила обновления безопасности для устранения серьезной ошибки в Access Rights Manager (ARM), которая в случае успешной эксплуатации мож",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    },
+    {
+      "id": "spacexai-udvoila-tochnost-raspoznavaniya-rechi-v-2026-09-19",
+      "category": "Новости",
+      "title": "SpaceXAI удвоила точность распознавания речи в новой модели Grok Voice Transcribe 2.0",
+      "excerpt": "SpaceXAI выпустила новую модель Grok Voice Transcribe 2.0 для преобразования речи в текст. По заявлению разработчиков, она допускает вдвое меньше ошибок, чем предыдущая версия, при той же стоимости. Модель ориентирована на сложные записи, включая тел",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spacexai-udvoila-tochnost-raspoznavaniya-rechi-v-2026-09-19.webp",
+      "metaTitle": "SpaceXAI удвоила точность распознавания речи в новой модели ",
+      "metaDescription": "SpaceXAI выпустила новую модель Grok Voice Transcribe 2.0 для преобразования речи в текст. По заявлению разработчиков, она допускает вдвое меньше ошиб",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148748"
+    },
+    {
+      "id": "claude-opus-5-helped-researchers-take-over-opena-2026-09-19",
+      "category": "Новости",
+      "title": "Claude Opus 5 помог исследователям завладеть учетными записями сотрудников OpenAI с помощью связанных ошибок",
+      "excerpt": "Трое исследователей из охранной фирмы Hacktron использовали Claude Opus 5 от Anthropic, чтобы объединить две уязвимости и завладеть учетными записями ChatGPT и Codex нескольких сотрудников OpenAI, а затем добраться до внутреннего хранилища кода OpenA",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/claude-opus-5-helped-researchers-take-over-opena-2026-09-19.webp",
+      "metaTitle": "Claude Opus 5 помог исследователям завладеть учетными запися",
+      "metaDescription": "Трое исследователей из охранной фирмы Hacktron использовали Claude Opus 5 от Anthropic, чтобы объединить две уязвимости и завладеть учетными записями ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    },
+    {
+      "id": "predstavlena-kamera-caim-1-s-ventilyatorom-noctu-2026-09-19",
+      "category": "Новости",
+      "title": "Представлена камера CAIM 1 с вентилятором Noctua внутри, которая создаёт криптографическую подпись для каждого фото и видео",
+      "excerpt": "Компания Noctua обычно ассоциируется с компьютерным охлаждением, но вчера была представлена цифровая камера, созданная совместно с Noctua. Более того, у неё внутри есть вентилятор от Noctua.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlena-kamera-caim-1-s-ventilyatorom-noctu-2026-09-19.webp",
+      "metaTitle": "Представлена камера CAIM 1 с вентилятором Noctua внутри, кот",
+      "metaDescription": "Компания Noctua обычно ассоциируется с компьютерным охлаждением, но вчера была представлена цифровая камера, созданная совместно с Noctua. Более того,",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436870-predstavlena-kamera-caim-1-s-ventiliatorom-noctua-vnutri-kotoraia-sozdaet-kriptograficeskuiu-podpis-dlia-kazdogo-foto-i-video.html"
+    },
+    {
+      "id": "pikachu-otpravili-na-mks-plyushevaya-igrushka-pr-2026-09-19",
+      "category": "Новости",
+      "title": "Пикачу отправили на МКС: плюшевая игрушка провела на орбите 67 дней",
+      "excerpt": "Европейское космическое агентство (ESA) и The Pokemon Company International объявили совместную программу к Всемирной неделе космоса, которая пройдёт 4 – 10 октября. Её центральной частью станет новая семейная выставка: ESA и Pokemon будут рассказыва",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pikachu-otpravili-na-mks-plyushevaya-igrushka-pr-2026-09-19.webp",
+      "metaTitle": "Пикачу отправили на МКС: плюшевая игрушка провела на орбите ",
+      "metaDescription": "Европейское космическое агентство (ESA) и The Pokemon Company International объявили совместную программу к Всемирной неделе космоса, которая пройдёт ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436873-pikacu-otpravili-na-mks-pliusevaia-igruska-provela-na-orbite-67-dnei.html"
+    },
+    {
+      "id": "videokarta-s-frantsuzskimi-notkami-sapphire-poka-2026-09-19",
+      "category": "Новости",
+      "title": "Видеокарта с французскими нотками. Sapphire показала Nitro+ Radeon RX 9070 XT OC Valor Mortis Edition",
+      "excerpt": "Компания Sapphire готовит к запуску видеокарту Nitro+ Radeon RX 9070 XT OC Valor Mortis Edition, которая приурочена к выходу игры Valor Mortis.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/videokarta-s-frantsuzskimi-notkami-sapphire-poka-2026-09-19.webp",
+      "metaTitle": "Видеокарта с французскими нотками. Sapphire показала Nitro+ ",
+      "metaDescription": "Компания Sapphire готовит к запуску видеокарту Nitro+ Radeon RX 9070 XT OC Valor Mortis Edition, которая приурочена к выходу игры Valor Mortis.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436877-videokarta-s-francuzskimi-notkami-sapphire-pokazala-nitro-radeon-rx-9070-xt-oc-valor-mortis-edition.html"
+    },
+    {
+      "id": "nasa-otpravit-na-lunu-3-robota-kotorye-budut-iss-2026-09-19",
+      "category": "Новости",
+      "title": "NASA отправит на Луну 3 робота, которые будут исследовать её без команд с Земли. Запуск в 2026 году",
+      "excerpt": "NASA готовит миссию CADRE (Cooperative Autonomous Distributed Robotic Exploration), в рамках которой 3 автономных ровера впервые должны вместе исследовать поверхность Луны практически без прямого управления с Земли. Запуск запланирован на 2026 год. К",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-otpravit-na-lunu-3-robota-kotorye-budut-iss-2026-09-19.webp",
+      "metaTitle": "NASA отправит на Луну 3 робота, которые будут исследовать её",
+      "metaDescription": "NASA готовит миссию CADRE (Cooperative Autonomous Distributed Robotic Exploration), в рамках которой 3 автономных ровера впервые должны вместе исследо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436876-nasa-otpravit-na-lunu-3-robota-kotorye-budut-issledovat-ee-bez-komand-s-zemli-zapusk-v-2026-godu.html"
+    },
+    {
+      "id": "intel-bolshe-ne-hochet-platit-nikomu-za-obnaruzh-2026-09-19",
+      "category": "Новости",
+      "title": "Intel больше не хочет платить никому за обнаружения уязвимостей в её продуктах. Ранее можно было получить до 100 000 долларов",
+      "excerpt": "Компания Intel больше не хочет платить специалистам, которые обнаружат уязвимости в её продуктах. Как обнаружили авторы Phoronix, Intel перезапустила программу, через которую энтузиасты могли сообщать компании об обнаруженных ими уязвимостях. Теперь ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/intel-bolshe-ne-hochet-platit-nikomu-za-obnaruzh-2026-09-19.webp",
+      "metaTitle": "Intel больше не хочет платить никому за обнаружения уязвимос",
+      "metaDescription": "Компания Intel больше не хочет платить специалистам, которые обнаружат уязвимости в её продуктах. Как обнаружили авторы Phoronix, Intel перезапустила ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436879-intel-bolse-ne-xocet-platit-nikomu-za-obnaruzeniia-uiazvimostei-v-ee-produktax-ranee-mozno-bylo-polucit-do-100-000-dollarov.html"
+    },
+    {
+      "id": "vpervye-v-istorii-ssha-na-territorii-strany-mogu-2026-09-19",
+      "category": "Новости",
+      "title": "Впервые в истории США на территории страны могут начать производить чипы DRAM. Intel ведёт переговоры с Hynix",
+      "excerpt": "Согласно данным Reuters, компания Hynix ведёт переговоры с Intel о том, чтобы впервые в истории запустить производство чипов памяти на территории США.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vpervye-v-istorii-ssha-na-territorii-strany-mogu-2026-09-19.webp",
+      "metaTitle": "Впервые в истории США на территории страны могут начать прои",
+      "metaDescription": "Согласно данным Reuters, компания Hynix ведёт переговоры с Intel о том, чтобы впервые в истории запустить производство чипов памяти на территории США.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436881-vpervye-v-istorii-ssa-na-territorii-strany-mogut-nacat-proizvodit-cipy-dram-intel-vedet-peregovory-s-hynix.html"
+    },
+    {
+      "id": "kitay-vzyal-pod-kontrol-rynok-zhk-paneley-teper--2026-09-19",
+      "category": "Новости",
+      "title": "Китай взял под контроль рынок ЖК-панелей — теперь Samsung и LG придётся платить больше",
+      "excerpt": "Южнокорейские производители телевизоров Samsung и LG столкнутся с ростом издержек в преддверии пикового сезона продаж в конце года. Китайские производители ЖК-панелей уже уведомили заказчиков о повышении цен. Таким образом, опасения, что доминировани",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-vzyal-pod-kontrol-rynok-zhk-paneley-teper--2026-09-19.webp",
+      "metaTitle": "Китай взял под контроль рынок ЖК-панелей — теперь Samsung и ",
+      "metaDescription": "Южнокорейские производители телевизоров Samsung и LG столкнутся с ростом издержек в преддверии пикового сезона продаж в конце года. Китайские производ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148749"
+    },
+    {
+      "id": "ii-model-google-gemini-pereputala-test-s-realnos-2026-09-19",
+      "category": "Новости",
+      "title": "ИИ-модель Google Gemini перепутала тест с реальностью и случайно взломала три компании",
+      "excerpt": "Модель искусственного интеллекта Google Gemini в ходе тестирования возможностей в области кибербезопасности получила несанкционированный доступ к системам трёх сторонних компаний. По утверждению Google, во всех трёх случаях модель остановилась, опред",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-model-google-gemini-pereputala-test-s-realnos-2026-09-19.webp",
+      "metaTitle": "ИИ-модель Google Gemini перепутала тест с реальностью и случ",
+      "metaDescription": "Модель искусственного интеллекта Google Gemini в ходе тестирования возможностей в области кибербезопасности получила несанкционированный доступ к сист",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148750"
+    },
+    {
+      "id": "personalnyy-ii-agent-muse-ot-m-a-vozglavil-reyti-2026-09-19",
+      "category": "Новости",
+      "title": "Персональный ИИ-агент Muse от M**a возглавил рейтинг App Store всего через неделю после релиза",
+      "excerpt": "Новый персональный ИИ-агент Muse от компании M**a возглавил рейтинг бесплатных приложений в американском App Store, опередив ChatGPT всего за неделю после релиза, сообщает Business Insider. Источник изображения: Mariia Shalabaieva/Unsplash",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/personalnyy-ii-agent-muse-ot-m-a-vozglavil-reyti-2026-09-19.webp",
+      "metaTitle": "Персональный ИИ-агент Muse от M**a возглавил рейтинг App Sto",
+      "metaDescription": "Новый персональный ИИ-агент Muse от компании M**a возглавил рейтинг бесплатных приложений в американском App Store, опередив ChatGPT всего за неделю п",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148751"
+    },
+    {
+      "id": "sistemnye-trebovaniya-gears-of-war-e-day-podrazu-2026-09-19",
+      "category": "Новости",
+      "title": "Системные требования Gears of War: E-Day подразумевают включение апскейлеров даже в Full HD",
+      "excerpt": "Разработчики Gears of War: E-Day незадолго до выхода игры (состоится 29 сентября) обновили и расширили системные требования проекта. Оказалось, что то, что мы видели изначально, всегда подразумевало работу апскейлеров.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sistemnye-trebovaniya-gears-of-war-e-day-podrazu-2026-09-19.webp",
+      "metaTitle": "Системные требования Gears of War: E-Day подразумевают включ",
+      "metaDescription": "Разработчики Gears of War: E-Day незадолго до выхода игры (состоится 29 сентября) обновили и расширили системные требования проекта. Оказалось, что то",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436884-sistemnye-trebovaniia-gears-of-war-e-day-podrazumevaiut-vkliucenie-apskeilerov-daze-v-full-hd.html"
+    },
+    {
+      "id": "samsung-vnov-vyshla-na-pervoe-mesto-po-prodazham-2026-09-19",
+      "category": "Новости",
+      "title": "Samsung вновь вышла на первое место по продажам смартфонов благодаря флагманам",
+      "excerpt": "В первом полугодии 2026 года Samsung вновь возглавила мировой рынок смартфонов с долей в 22 %, увеличив поставки на 9 % в годовом исчислении, несмотря на общее сокращение рынка на 7 %, пишет Android Headlines со ссылкой на данные аналитических агентс",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-vnov-vyshla-na-pervoe-mesto-po-prodazham-2026-09-19.webp",
+      "metaTitle": "Samsung вновь вышла на первое место по продажам смартфонов б",
+      "metaDescription": "В первом полугодии 2026 года Samsung вновь возглавила мировой рынок смартфонов с долей в 22 %, увеличив поставки на 9 % в годовом исчислении, несмотря",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148752"
+    },
+    {
+      "id": "calling-viral-ai-actress-tilly-norwood-agree-to--2026-09-19",
+      "category": "Новости",
+      "title": "Звоню актрисе с вирусным искусственным интеллектом Тилли Норвуд? Сначала согласитесь на сканирование лица",
+      "excerpt": "Актриса с искусственным интеллектом Тилли Норвуд стала вирусной после того, как вчера вечером случайно заговорила на китайском языке в программе «Пирс Морган без цензуры». Ее служба видеозвонков «Говорящая Тилли» сканирует лицо каждого звонящего на п",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/calling-viral-ai-actress-tilly-norwood-agree-to--2026-09-19.webp",
+      "metaTitle": "Звоню актрисе с вирусным искусственным интеллектом Тилли Нор",
+      "metaDescription": "Актриса с искусственным интеллектом Тилли Норвуд стала вирусной после того, как вчера вечером случайно заговорила на китайском языке в программе «Пирс",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/"
+    },
+    {
       "id": "pervyy-smartfon-s-chastotoy-165-gts-vo-vseh-pril-2026-09-19",
       "category": "Новости",
       "title": "Первый смартфон с частотой 165 Гц во всех приложениях и до 185 Гц в играх, 100-ваттной зарядкой и аккумулятором на 9000 мА•ч. OnePlus 16 получил одобрение для выхода",
