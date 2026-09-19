@@ -1,6 +1,315 @@
 {
   "articles": [
     {
+      "id": "samsung-menyaet-pravila-igry-gallery-teper-sinhr-2026-09-19",
+      "category": "Новости",
+      "title": "Samsung меняет правила игры: Gallery теперь синхронизируется с Google Фото",
+      "excerpt": "Samsung начала внедрять интеграцию приложения Gallery с Google Фото. Как сообщает Ice Universe, после установки последней версии Gallery у некоторых пользователей в настройках появляется новый пункт «Синхронизация фото и видео». Через него можно подк",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-menyaet-pravila-igry-gallery-teper-sinhr-2026-09-19.webp",
+      "metaTitle": "Samsung меняет правила игры: Gallery теперь синхронизируется",
+      "metaDescription": "Samsung начала внедрять интеграцию приложения Gallery с Google Фото. Как сообщает Ice Universe, после установки последней версии Gallery у некоторых п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436785-samsung-meniaet-pravila-igry-gallery-teper-sinxroniziruetsia-s-google-foto.html"
+    },
+    {
+      "id": "huawei-gotovit-perevorot-v-obuchenii-ii-k-2027-g-2026-09-19",
+      "category": "Новости",
+      "title": "Huawei готовит переворот в обучении ИИ к 2027 году",
+      "excerpt": "Компания Huawei планирует масштабную трансформацию в области обучения моделей искусственного интеллекта к 2027 году. Компания заявила, что она собирается значительно изменить свою вычислительную инфраструктуру для обучения моделей искусственного инте",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huawei-gotovit-perevorot-v-obuchenii-ii-k-2027-g-2026-09-19.webp",
+      "metaTitle": "Huawei готовит переворот в обучении ИИ к 2027 году",
+      "metaDescription": "Компания Huawei планирует масштабную трансформацию в области обучения моделей искусственного интеллекта к 2027 году. Компания заявила, что она собирае",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436786-huawei-gotovit-perevorot-v-obucenii-ii-k-2027-godu.html"
+    },
+    {
+      "id": "anthropic-do-ipo-sobiraetsya-vypustit-ii-model-k-2026-09-19",
+      "category": "Новости",
+      "title": "Anthropic до IPO собирается выпустить ИИ-модель, которая станет ответом на OpenAI GPT-6 Astra",
+      "excerpt": "Призывы к замедлению темпов развития ИИ ради обеспечения общественной безопасности не мешают руководству Anthropic пристально следить за конкурентной обстановкой на рынке. По данным Reuters, ещё до запланированного на ноябрь IPO стартап собирается пр",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-do-ipo-sobiraetsya-vypustit-ii-model-k-2026-09-19.webp",
+      "metaTitle": "Anthropic до IPO собирается выпустить ИИ-модель, которая ста",
+      "metaDescription": "Призывы к замедлению темпов развития ИИ ради обеспечения общественной безопасности не мешают руководству Anthropic пристально следить за конкурентной ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148738"
+    },
+    {
+      "id": "novye-chasy-garmin-zasvetilis-ranshe-premery-gar-2026-09-19",
+      "category": "Новости",
+      "title": "Новые часы Garmin засветились раньше премьеры: Garmin tactix 9, tactix 9 Ballistics Edition и Enduro 4",
+      "excerpt": "Следы новых тактических смарт-часов Garmin Tactix 9 заметили в Сети до анонса. Регуляторные материалы упоминают сразу три устройства: Garmin tactix 9, tactix 9 Ballistics Edition и Enduro 4, однако их характеристики пока не раскрываются.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novye-chasy-garmin-zasvetilis-ranshe-premery-gar-2026-09-19.webp",
+      "metaTitle": "Новые часы Garmin засветились раньше премьеры: Garmin tactix",
+      "metaDescription": "Следы новых тактических смарт-часов Garmin Tactix 9 заметили в Сети до анонса. Регуляторные материалы упоминают сразу три устройства: Garmin tactix 9,",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436811-novye-casy-garmin-zasvetilis-ranse-premery-garmin-tactix-9-tactix-9-ballistics-edition-i-enduro-4.html"
+    },
+    {
+      "id": "12-gb-ozu-android-i-nastoyaschaya-klaviatura-cli-2026-09-19",
+      "category": "Новости",
+      "title": "12 ГБ ОЗУ, Android и настоящая клавиатура. Clicks Communicator доработали перед релизом — больше памяти и больше батарея",
+      "excerpt": "Компания Clicks раскрыла новые подробности о Communicator — своем первом смартфоне с физической QWERTY-клавиатурой, дизайн которого напоминает классические устройства BlackBerry. Разработчики улучшили характеристики устройства перед запланированным н",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/12-gb-ozu-android-i-nastoyaschaya-klaviatura-cli-2026-09-19.webp",
+      "metaTitle": "12 ГБ ОЗУ, Android и настоящая клавиатура. Clicks Communicat",
+      "metaDescription": "Компания Clicks раскрыла новые подробности о Communicator — своем первом смартфоне с физической QWERTY-клавиатурой, дизайн которого напоминает классич",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436810-12-gb-ozu-android-i-nastoiashhaia-klaviatura-clicks-communicator-dorabotali-pered-relizom-bolse-pamiati-i-bolse-batareia.html"
+    },
+    {
+      "id": "cisa-flags-three-linux-kernel-vulnerabilities-ex-2026-09-19",
+      "category": "Новости",
+      "title": "CISA отмечает три уязвимости ядра Linux, эксплуатируемые в дикой природе",
+      "excerpt": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) в пятницу добавило три уязвимости безопасности, влияющие на ядро ​​Linux, в свой каталог известных эксплуатируемых уязвимостей (KEV), сославшись на доказательства активной эксплуата",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-flags-three-linux-kernel-vulnerabilities-ex-2026-09-19.webp",
+      "metaTitle": "CISA отмечает три уязвимости ядра Linux, эксплуатируемые в д",
+      "metaDescription": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) в пятницу добавило три уязвимости безопасности, влияющие на ядро ​​Linux, в свой ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+    },
+    {
+      "id": "iphone-18-pro-ne-prozhil-i-dnya-novyy-flagman-ap-2026-09-19",
+      "category": "Новости",
+      "title": "iPhone 18 Pro не прожил и дня: новый флагман Apple уже полностью разобрали",
+      "excerpt": "В день начала продаж iPhone 18 Pro в Сети появился видеоролик с первой разборкой нового флагмана Apple. Видео позволяет рассмотреть внутреннее устройство смартфона и подтверждает некоторые характеристики. Например, емкость аккумулятора. А еще очень х",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-ne-prozhil-i-dnya-novyy-flagman-ap-2026-09-19.webp",
+      "metaTitle": "iPhone 18 Pro не прожил и дня: новый флагман Apple уже полно",
+      "metaDescription": "В день начала продаж iPhone 18 Pro в Сети появился видеоролик с первой разборкой нового флагмана Apple. Видео позволяет рассмотреть внутреннее устройс",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436815-iphone-18-pro-ne-prozil-i-dnia-novyi-flagman-apple-uze-polnostiu-razobrali.html"
+    },
+    {
+      "id": "alibaba-vypustila-vseyadnuyu-model-qwen3-8-omni--2026-09-19",
+      "category": "Новости",
+      "title": "Alibaba выпустила всеядную модель Qwen3.8-Omni-Flash с контекстом на 1 млн токенов",
+      "excerpt": "Alibaba пополнила арсенал моделей искусственного интеллекта мультимодальной системой Qwen3.8-Omni-Flash. В рамках единой архитектуры она обрабатывает текст, изображения, аудио и видео, а также поддерживает контекстное окно размером 1 млн токенов. Нов",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/alibaba-vypustila-vseyadnuyu-model-qwen3-8-omni--2026-09-19.webp",
+      "metaTitle": "Alibaba выпустила всеядную модель Qwen3.8-Omni-Flash с конте",
+      "metaDescription": "Alibaba пополнила арсенал моделей искусственного интеллекта мультимодальной системой Qwen3.8-Omni-Flash. В рамках единой архитектуры она обрабатывает ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148742"
+    },
+    {
+      "id": "bolee-60-smartfonov-vivo-i-iqoo-poluchat-origino-2026-09-19",
+      "category": "Новости",
+      "title": "Более 60 смартфонов Vivo и iQOO получат OriginOS 7 на Android 17: полный список со сроками",
+      "excerpt": "Vivo официально анонсировала OriginOS 7 — новую версию фирменной оболочки на базе Android 17. Обновление принесет переработанный интерфейс, системные улучшения и новые функции на базе искусственного интеллекта. Одновременно компания опубликовала подр",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bolee-60-smartfonov-vivo-i-iqoo-poluchat-origino-2026-09-19.webp",
+      "metaTitle": "Более 60 смартфонов Vivo и iQOO получат OriginOS 7 на Androi",
+      "metaDescription": "Vivo официально анонсировала OriginOS 7 — новую версию фирменной оболочки на базе Android 17. Обновление принесет переработанный интерфейс, системные ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/bolee-60-smartfonov-vivo-i-iqoo-polucat-originos-7-na-android-17-polnyi-spisok-so-srokami.html"
+    },
+    {
+      "id": "kontrakt-na-milliard-nasa-zakazalo-esche-tri-pil-2026-09-19",
+      "category": "Новости",
+      "title": "Контракт на миллиард: NASA заказало ещё три пилотируемых миссии SpaceX Crew Dragon",
+      "excerpt": "NASA объявило о заключении со SpaceX нового соглашения на три пилотируемых полёта к Международной космической станции — Crew-15, Crew-16 и Crew-17. Контракт является модификацией действующего соглашения о коммерческой доставке экипажей на станцию, а ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kontrakt-na-milliard-nasa-zakazalo-esche-tri-pil-2026-09-19.webp",
+      "metaTitle": "Контракт на миллиард: NASA заказало ещё три пилотируемых мис",
+      "metaDescription": "NASA объявило о заключении со SpaceX нового соглашения на три пилотируемых полёта к Международной космической станции — Crew-15, Crew-16 и Crew-17. Ко",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148741"
+    },
+    {
+      "id": "crowdsec-says-tanstack-npm-attack-led-to-copy-of-2026-09-19",
+      "category": "Новости",
+      "title": "CrowdSec сообщает, что атака TanStack npm привела к копированию 170 частных репозиториев GitHub",
+      "excerpt": "Злоумышленник скопировал около 170 частных репозиториев CrowdSec на GitHub 22 мая, используя учетную запись только что уволившегося сотрудника, сообщила CrowdSec 18 сентября. Французская охранная компания держала его доступ к GitHub открытым. CrowdSe",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/crowdsec-says-tanstack-npm-attack-led-to-copy-of-2026-09-19.webp",
+      "metaTitle": "CrowdSec сообщает, что атака TanStack npm привела к копирова",
+      "metaDescription": "Злоумышленник скопировал около 170 частных репозиториев CrowdSec на GitHub 22 мая, используя учетную запись только что уволившегося сотрудника, сообщи",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html"
+    },
+    {
+      "id": "iphone-18-pro-mog-by-stat-luchshim-kamerofonom-v-2026-09-19",
+      "category": "Новости",
+      "title": "iPhone 18 Pro мог бы стать лучшим камерофоном в мире, если бы не Huawei Pura 80 Ultra. А пока у нового флагмана Apple второе место в рейтинге DxOMark",
+      "excerpt": "Специалисты DxOMark протестировали камеру нового Apple iPhone 18 Pro. По итогам испытаний смартфон получил 172 балла и занял второе место как в глобальном рейтинге камер. На первом месте с результатом 175 баллов Huawei Pura 80 Ultra. Надо отметить, ч",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-mog-by-stat-luchshim-kamerofonom-v-2026-09-19.webp",
+      "metaTitle": "iPhone 18 Pro мог бы стать лучшим камерофоном в мире, если б",
+      "metaDescription": "Специалисты DxOMark протестировали камеру нового Apple iPhone 18 Pro. По итогам испытаний смартфон получил 172 балла и занял второе место как в глобал",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436836-iphone-18-pro-mog-by-stat-lucsim-kamerofonom-v-mire-esli-by-ne-huawei-pura-80-ultra-a-poka-u-novogo-flagmana-apple-vtoroe-mesto-v-reitinge-dxomark.html"
+    },
+    {
+      "id": "evropeyskie-razrabotchiki-ii-vystupili-protiv-pr-2026-09-19",
+      "category": "Новости",
+      "title": "Европейские разработчики ИИ выступили против призывов США замедлить темп",
+      "excerpt": "Ведущий европейский разработчик систем искусственного интеллекта Mistral и другие игроки рынка обвинили своих американских конкурентов в злоупотреблении опасениями по поводу безопасности для укрепления собственного доминирующего положения. Европейцы ",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/evropeyskie-razrabotchiki-ii-vystupili-protiv-pr-2026-09-19.webp",
+      "metaTitle": "Европейские разработчики ИИ выступили против призывов США за",
+      "metaDescription": "Ведущий европейский разработчик систем искусственного интеллекта Mistral и другие игроки рынка обвинили своих американских конкурентов в злоупотреблен",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148744"
+    },
+    {
+      "id": "nasa-sluchayno-udarilo-po-marsu-oblomkami-spuska-2026-09-19",
+      "category": "Новости",
+      "title": "NASA случайно ударило по Марсу обломками спускаемого аппарата и получило неожиданные данные о его грунте",
+      "excerpt": "В исследовании космоса даже вышедшее из строя оборудование способно приносить научную пользу. Так было недавно с падением обломка ракеты на Луну, чуть раньше с изучением пыли на солнечных панелях марсианских аппаратов и теперь в новой работе, которая",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-sluchayno-udarilo-po-marsu-oblomkami-spuska-2026-09-19.webp",
+      "metaTitle": "NASA случайно ударило по Марсу обломками спускаемого аппарат",
+      "metaDescription": "В исследовании космоса даже вышедшее из строя оборудование способно приносить научную пользу. Так было недавно с падением обломка ракеты на Луну, чуть",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148743"
+    },
+    {
+      "id": "vpervye-v-istorii-uchenye-uvideli-kak-neytronnay-2026-09-19",
+      "category": "Новости",
+      "title": "Впервые в истории ученые увидели, как нейтронная звезда пожирает материю",
+      "excerpt": "Японская рентгеновская космическая обсерватория XRISM впервые позволила астрономам подробно проследить движение вещества, падающего на пульсар — быстро вращающуюся нейтронную звезду. Наблюдения показали, что материя может достигать поверхности звезды",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vpervye-v-istorii-uchenye-uvideli-kak-neytronnay-2026-09-19.webp",
+      "metaTitle": "Впервые в истории ученые увидели, как нейтронная звезда пожи",
+      "metaDescription": "Японская рентгеновская космическая обсерватория XRISM впервые позволила астрономам подробно проследить движение вещества, падающего на пульсар — быстр",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436839-vpervye-v-istorii-ucenye-uvideli-kak-neitronnaia-zvezda-poziraet-materiiu.html"
+    },
+    {
       "id": "tp-link-vryvaetsya-v-epohu-wi-fi-8-skorost-do-22-2026-09-19",
       "category": "Новости",
       "title": "TP-Link врывается в эпоху Wi-Fi 8: скорость до 22 Гбит/с и 200+ устройств",
