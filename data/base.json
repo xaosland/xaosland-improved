@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "novaya-statya-the-blood-of-dawnwalker-nachalo-ch-2026-09-19",
+      "category": "Новости",
+      "title": "Новая статья: The Blood of Dawnwalker — начало чего-то выдающегося. Рецензия",
+      "excerpt": "Руководитель разработки третьего «Ведьмака» Конрад Томашкевич покинул CD Projekt Red и основал в 2022 году коллектив Rebel Wolves, который и создал The Blood of Dawnwalker. Можно было подумать, что эта игра получилась новым «Ведьмаком», только без Ге",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-the-blood-of-dawnwalker-nachalo-ch-2026-09-19.webp",
+      "metaTitle": "Новая статья: The Blood of Dawnwalker — начало чего-то выдаю",
+      "metaDescription": "Руководитель разработки третьего «Ведьмака» Конрад Томашкевич покинул CD Projekt Red и основал в 2022 году коллектив Rebel Wolves, который и создал Th",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148718"
+    },
+    {
       "id": "ii-google-gemini-sluchayno-vzlomal-tri-realnye-k-2026-09-19",
       "category": "Новости",
       "title": "ИИ Google Gemini случайно взломал три реальные компании",
