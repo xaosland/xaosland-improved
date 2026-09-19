@@ -1,6 +1,296 @@
 {
   "articles": [
     {
+      "id": "novye-versii-wine-11-18-i-wine-staging-11-18-2026-09-19",
+      "category": "Новости",
+      "title": "Новые версии Wine 11.18 и Wine-staging 11.18",
+      "excerpt": "Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.18. С момента выпуска 11.17 был закрыто 44 отчёта об ошибках и внесено 380 изменений.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Новые версии Wine 11.18 и Wine-staging 11.18",
+      "metaDescription": "Опубликован экспериментальный выпуск открытой реализации Win32 API - Wine 11.18. С момента выпуска 11.17 был закрыто 44 отчёта об ошибках и внесено 38",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66307"
+    },
+    {
+      "id": "rossiyskie-mikroshemy-sposobnye-rabotat-pri-temp-2026-09-19",
+      "category": "Новости",
+      "title": "Российские микросхемы, способные работать при температурах от -60 до +125 °C, задержались больше чем на год — разработчика оштрафовали",
+      "excerpt": "Минпромторг России выставил АО НТЦ «Модуль» штраф в размере 91,66 млн рублей за нарушение сроков разработки радиационно-стойких малошумящих операционных усилителей для космической техники. Как сообщает CNews со ссылкой на документы с портала госзакуп",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskie-mikroshemy-sposobnye-rabotat-pri-temp-2026-09-19.webp",
+      "metaTitle": "Российские микросхемы, способные работать при температурах о",
+      "metaDescription": "Минпромторг России выставил АО НТЦ «Модуль» штраф в размере 91,66 млн рублей за нарушение сроков разработки радиационно-стойких малошумящих операционн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436886-rossiiskie-mikrosxemy-sposobnye-rabotat-pri-temperaturax-ot-60-do-125-c-zaderzalis-bolse-cem-na-god-razrabotcika-ostrafovali.html"
+    },
+    {
+      "id": "sozdavaemyy-maskom-krupneyshiy-v-mire-zavod-po-p-2026-09-19",
+      "category": "Новости",
+      "title": "Создаваемый Маском крупнейший в мире завод по производству чипов еще не начал работать, но Terafab уже грозит иск о недобросовестной конкуренции",
+      "excerpt": "Компании Илона Маска оказались втянуты в судебный спор из-за названия Terafab, которое выбрали для будущего предприятия по производству полупроводников. Tesla, SpaceX и связанная с Маском ИИ-компания обратились в федеральный суд США после претензий с",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sozdavaemyy-maskom-krupneyshiy-v-mire-zavod-po-p-2026-09-19.webp",
+      "metaTitle": "Создаваемый Маском крупнейший в мире завод по производству ч",
+      "metaDescription": "Компании Илона Маска оказались втянуты в судебный спор из-за названия Terafab, которое выбрали для будущего предприятия по производству полупроводнико",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436887-sozdavaemyi-maskom-krupneisii-v-mire-zavod-po-proizvodstvu-cipov-eshhe-ne-nacal-rabotat-no-terafab-uze-grozit-isk-o-nedobrosovestnoi-konkurencii.html"
+    },
+    {
+      "id": "zarabotal-pervyy-v-istorii-obscheevropeyskiy-pro-2026-09-19",
+      "category": "Новости",
+      "title": "Заработал первый в истории общеевропейский проект по сбору и захоронению углекислого газа в толще морского дна",
+      "excerpt": "18 сентября 2026 года в датском Эсбьерге открылась первая в Европейском союзе промышленная система, объединяющая улавливание, транспортировку и вечное хранение углекислого газа под землёй. Проект Greensand Future реализован консорциумом INEOS Energy,",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zarabotal-pervyy-v-istorii-obscheevropeyskiy-pro-2026-09-19.webp",
+      "metaTitle": "Заработал первый в истории общеевропейский проект по сбору и",
+      "metaDescription": "18 сентября 2026 года в датском Эсбьерге открылась первая в Европейском союзе промышленная система, объединяющая улавливание, транспортировку и вечное",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148753"
+    },
+    {
+      "id": "ne-pk-a-proizvedenie-iskusstva-polzovatel-reddit-2026-09-19",
+      "category": "Новости",
+      "title": "Не ПК, а произведение искусства: пользователь Reddit показал свой медный компьютер на базе Ryzen 7 9800X3D",
+      "excerpt": "Пользователь форума Reddit под ником Old-Mate-Fetus показал необычный игровой компьютер на компонентах AMD. Вместо традиционного корпуса энтузиаст использовал деревянную конструкцию, медные трубки и элементы старинного оборудования — такой ПК одновре",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ne-pk-a-proizvedenie-iskusstva-polzovatel-reddit-2026-09-19.webp",
+      "metaTitle": "Не ПК, а произведение искусства: пользователь Reddit показал",
+      "metaDescription": "Пользователь форума Reddit под ником Old-Mate-Fetus показал необычный игровой компьютер на компонентах AMD. Вместо традиционного корпуса энтузиаст исп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436888-ne-pk-a-proizvedenie-iskusstva-polzovatel-reddit-pokazal-svoi-mednyi-kompiuter-na-baze-ryzen-7-9800x3d.html"
+    },
+    {
+      "id": "nevozmozhnoe-stalo-vozmozhnym-dlss-5-zapustili-n-2026-09-19",
+      "category": "Новости",
+      "title": "Невозможное стало возможным: DLSS 5 запустили на встроенной графике Intel",
+      "excerpt": "Энтузиасту удалось запустить DLSS 5 Neural Rendering на встроенной графике Intel Arc 140V. Эксперимент примечателен тем, что нейросетевой рендеринг работает без CUDA и фирменных библиотек Nvidia.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nevozmozhnoe-stalo-vozmozhnym-dlss-5-zapustili-n-2026-09-19.webp",
+      "metaTitle": "Невозможное стало возможным: DLSS 5 запустили на встроенной ",
+      "metaDescription": "Энтузиасту удалось запустить DLSS 5 Neural Rendering на встроенной графике Intel Arc 140V. Эксперимент примечателен тем, что нейросетевой рендеринг ра",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436890-nevozmoznoe-stalo-vozmoznym-dlss-5-zapustili-na-vstroennoi-grafike-intel.html"
+    },
+    {
+      "id": "openai-zapustila-yuridicheskuyu-konfiguratsiyu-a-2026-09-19",
+      "category": "Новости",
+      "title": "OpenAI запустила юридическую конфигурацию Astra for Law",
+      "excerpt": "17 сентября OpenAI представила Astra for Law — специализированную конфигурацию модели GPT-6 Astra для юрфирм и разработчиков правовых технологий. Это не новая модель, а сборка из GPT-6 Astra с подключённым индексом прецедентного права, сводов законов",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-zapustila-yuridicheskuyu-konfiguratsiyu-a-2026-09-19.webp",
+      "metaTitle": "OpenAI запустила юридическую конфигурацию Astra for Law",
+      "metaDescription": "17 сентября OpenAI представила Astra for Law — специализированную конфигурацию модели GPT-6 Astra для юрфирм и разработчиков правовых технологий. Это ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436891-openai-zapustila-iuridiceskuiu-konfiguraciiu-astra-for-law.html"
+    },
+    {
+      "id": "uchenye-sozdali-dnk-kompyuter-kotoryy-vypolnyaet-2026-09-19",
+      "category": "Новости",
+      "title": "Ученые создали ДНК-компьютер, который выполняет вычисления без электричества",
+      "excerpt": "Исследователи из Университета Мейнута в Ирландии разработали необычный молекулярный компьютер, в котором роль транзисторов выполняют молекулы ДНК. Система способна выполнять математические вычисления без использования электронных логических схем.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-sozdali-dnk-kompyuter-kotoryy-vypolnyaet-2026-09-19.webp",
+      "metaTitle": "Ученые создали ДНК-компьютер, который выполняет вычисления б",
+      "metaDescription": "Исследователи из Университета Мейнута в Ирландии разработали необычный молекулярный компьютер, в котором роль транзисторов выполняют молекулы ДНК. Сис",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/ucenye-sozdali-dnk-kompiuter-kotoryi-vypolniaet-vycisleniia-bez-elektricestva.html"
+    },
+    {
+      "id": "ofitsialnye-testy-amd-ukazali-na-34-nyy-prirost--2026-09-19",
+      "category": "Новости",
+      "title": "Официальные тесты AMD указали на 34%-ный прирост производительности ядра Zen 6 по сравнению с Zen 5",
+      "excerpt": "AMD опубликовала (PDF) первые подробные результаты тестирования серверных процессоров Epyc Venice. В тесте SPECrate 2026_int_base флагманский 256-ядерный Epyc 9996 оказался на 78 % быстрее 192-ядерного Epyc 9965 с архитектурой Zen 5c. Простым увеличе",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ofitsialnye-testy-amd-ukazali-na-34-nyy-prirost--2026-09-19.webp",
+      "metaTitle": "Официальные тесты AMD указали на 34%-ный прирост производите",
+      "metaDescription": "AMD опубликовала (PDF) первые подробные результаты тестирования серверных процессоров Epyc Venice. В тесте SPECrate 2026_int_base флагманский 256-ядер",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148755"
+    },
+    {
+      "id": "pervyy-iz-28-kitay-gotovitsya-zapustit-xiguang-4-2026-09-19",
+      "category": "Новости",
+      "title": "Первый из 28: Китай готовится запустить Xiguang-4 01 — первый аппарат первой в мире низконаклонной спутниковой системы дистанционного зондирования Земли",
+      "excerpt": "Китайский спутник Xiguang-4 01, также известный как Wuyang Constellation Pioneer A, готовится к отправке на космодром. Он станет первым аппаратом перспективной группировки Wuyang, которую разработчики называют первой в мире низконаклонной спутниковой",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-iz-28-kitay-gotovitsya-zapustit-xiguang-4-2026-09-19.webp",
+      "metaTitle": "Первый из 28: Китай готовится запустить Xiguang-4 01 — первы",
+      "metaDescription": "Китайский спутник Xiguang-4 01, также известный как Wuyang Constellation Pioneer A, готовится к отправке на космодром. Он станет первым аппаратом перс",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436895-pervyi-iz-28-kitai-gotovitsia-zapustit-xiguang-4-01-pervyi-apparat-pervoi-v-mire-nizkonaklonnoi-sputnikovoi-sistemoi-distancionnogo-zondirovaniia-zemli.html"
+    },
+    {
+      "id": "samsung-nakonets-to-uvelichit-batareyu-svoego-fl-2026-09-19",
+      "category": "Новости",
+      "title": "Samsung наконец-то увеличит батарею своего флагмана — Galaxy S27 Ultra сертифицирован с батареей емкостью 5534 мАч",
+      "excerpt": "Китайский регулятор 3C ранее раскрыл мощность зарядки будущих флагманов Samsung — Galaxy S27 Ultra (каталожный номер EB-958DBY) и Galaxy S27 Pro (EB-BS957CBY), а сейчас на сайте 3C раскрыта емкость батарей этих моделей. И тут есть хорошие новости: ак",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-nakonets-to-uvelichit-batareyu-svoego-fl-2026-09-19.webp",
+      "metaTitle": "Samsung наконец-то увеличит батарею своего флагмана — Galaxy",
+      "metaDescription": "Китайский регулятор 3C ранее раскрыл мощность зарядки будущих флагманов Samsung — Galaxy S27 Ultra (каталожный номер EB-958DBY) и Galaxy S27 Pro (EB-B",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436750-samsung-nakonec-to-uvelicit-batareiu-svoego-flagmana-galaxy-s27-ultra-sertificirovan-s-batareei-emkostiu-5534-mac.html"
+    },
+    {
+      "id": "sozdana-ne-imeyuschaya-analogov-plenochnaya-tepl-2026-09-19",
+      "category": "Новости",
+      "title": "Создана не имеющая аналогов плёночная теплоизоляция — она сдерживает тепло в пять раз лучше силикона",
+      "excerpt": "Учёные из Университета штата Северная Каролина создали плотный, непористый материал, который одновременно обладает крайне низкой теплопроводностью и высокой механической жёсткостью. Обычно это не сочетаемые свойства, и открытие стало настоящим прорыв",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sozdana-ne-imeyuschaya-analogov-plenochnaya-tepl-2026-09-19.webp",
+      "metaTitle": "Создана не имеющая аналогов плёночная теплоизоляция — она сд",
+      "metaDescription": "Учёные из Университета штата Северная Каролина создали плотный, непористый материал, который одновременно обладает крайне низкой теплопроводностью и в",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148754"
+    },
+    {
+      "id": "shinyhunters-hacks-clop-leak-site-threatens-to-e-2026-09-19",
+      "category": "Новости",
+      "title": "ShinyHunters взломали сайт утечки Clop и угрожают вымогать деньги у банды-вымогателя",
+      "excerpt": "Банда вымогателей ShinyHunters взломала сайт утечки данных операции-вымогателя Clop (также известной как Cl0p), испортив сайт Tor и предположительно похитив данные сервера и закрытые ключи для его лукового сервиса. [...]",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/shinyhunters-hacks-clop-leak-site-threatens-to-e-2026-09-19.webp",
+      "metaTitle": "ShinyHunters взломали сайт утечки Clop и угрожают вымогать д",
+      "metaDescription": "Банда вымогателей ShinyHunters взломала сайт утечки данных операции-вымогателя Clop (также известной как Cl0p), испортив сайт Tor и предположительно п",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/"
+    },
+    {
+      "id": "novyy-smartfon-xiaomi-s-batareey-10-000-mach-i-z-2026-09-19",
+      "category": "Новости",
+      "title": "Новый смартфон Xiaomi с батареей 10 000 мАч и защитой IP68. В Китае сертифицировали модель M786BC — это, предположительно, Redmi K100",
+      "excerpt": "Новый смартфон Xiaomi с модельным номером M786BC прошел регистрацию в Министерстве промышленности и информатизации Китая (MIIT). Ресурс ITHome и Ximitime (последний специализируется на утечках о смартфонах Xiaomi) полагают, что этот каталожный номер ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-smartfon-xiaomi-s-batareey-10-000-mach-i-z-2026-09-19.webp",
+      "metaTitle": "Новый смартфон Xiaomi с батареей 10 000 мАч и защитой IP68. ",
+      "metaDescription": "Новый смартфон Xiaomi с модельным номером M786BC прошел регистрацию в Министерстве промышленности и информатизации Китая (MIIT). Ресурс ITHome и Ximit",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436897-novyi-smartfon-xiaomi-s-batareei-10-000-mac-i-zashhitoi-ip68-v-kitae-sertificirovali-model-m786bc-eto-predpolozitelno-redmi-k100.html"
+    },
+    {
       "id": "solarwinds-patches-arm-hard-coded-key-flaw-enabl-2026-09-19",
       "category": "Новости",
       "title": "SolarWinds исправляет дефект жестко запрограммированного ключа ARM, позволяющий использовать неаутентифицированный RCE",
