@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "id": "pervyy-smartfon-s-chastotoy-165-gts-vo-vseh-pril-2026-09-19",
+      "category": "Новости",
+      "title": "Первый смартфон с частотой 165 Гц во всех приложениях и до 185 Гц в играх, 100-ваттной зарядкой и аккумулятором на 9000 мА•ч. OnePlus 16 получил одобрение для выхода",
+      "excerpt": "OnePlus 16 с номером модели PYB110 прошёл китайскую сертификацию 3C, подтвердив поддержку проводной зарядки мощностью 100 Вт.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-smartfon-s-chastotoy-165-gts-vo-vseh-pril-2026-09-19.webp",
+      "metaTitle": "Первый смартфон с частотой 165 Гц во всех приложениях и до 1",
+      "metaDescription": "OnePlus 16 с номером модели PYB110 прошёл китайскую сертификацию 3C, подтвердив поддержку проводной зарядки мощностью 100 Вт.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436782-pervyi-smartfon-s-castotoi-165-gc-vo-vsex-prilozeniiax-i-do-185-gc-v-igrax-100-vattnoi-zariadkoi-i-akkumuliatorom-na-9000-mac-oneplus-16-polucil-odobrenie-dlia-vyxoda.html"
+    },
+    {
+      "id": "akkumulyator-6000-ma-ch-kamera-50-mp-ekran-120-g-2026-09-19",
+      "category": "Новости",
+      "title": "Аккумулятор 6000 мА•ч, камера 50 Мп, экран 120 Гц и влагозащита, Представлен Lava Bold N4 Pro 5G",
+      "excerpt": "Lava представила Bold N4 Pro 5G — новую модель бюджетного сегмента с поддержкой сетей пятого поколения.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/akkumulyator-6000-ma-ch-kamera-50-mp-ekran-120-g-2026-09-19.webp",
+      "metaTitle": "Аккумулятор 6000 мА•ч, камера 50 Мп, экран 120 Гц и влагозащ",
+      "metaDescription": "Lava представила Bold N4 Pro 5G — новую модель бюджетного сегмента с поддержкой сетей пятого поколения.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436784-akkumuliator-6000-mac-kamera-50-mp-ekran-120-gc-i-vlagozashhita-predstavlen-lava-bold-n4-pro-5g.html"
+    },
+    {
+      "id": "google-gemini-broke-into-real-company-systems-af-2026-09-19",
+      "category": "Новости",
+      "title": "Google Gemini взломал реальные корпоративные системы после путаницы с доменами для проверки безопасности",
+      "excerpt": "Модель Gemini от Google стала новейшей системой искусственного интеллекта (ИИ), позволяющей получить доступ к Интернету и проникнуть в другие компании во время оценки кибербезопасности. Впервые о развитии событий сообщило издание The Wall Street Jour",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Google Gemini взломал реальные корпоративные системы после п",
+      "metaDescription": "Модель Gemini от Google стала новейшей системой искусственного интеллекта (ИИ), позволяющей получить доступ к Интернету и проникнуть в другие компании",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+    },
+    {
+      "id": "krupneyshiy-amerikanskiy-reteyler-walmart-prodal-2026-09-19",
+      "category": "Новости",
+      "title": "Крупнейший американский ретейлер Walmart продал поддельный процессор Ryzen 7 9800X3D — и отказался возвращать деньги",
+      "excerpt": "Пользователь форума Reddit с ником quadbow рассказал, как купил поддельный AMD Ryzen 7 9800X3D в одном из магазинов Walmart. Процессор находился в выглядевшей запечатанной заводской коробке, которую сотрудник достал из закрытой витрины. Подмену удало",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/krupneyshiy-amerikanskiy-reteyler-walmart-prodal-2026-09-19.webp",
+      "metaTitle": "Крупнейший американский ретейлер Walmart продал поддельный п",
+      "metaDescription": "Пользователь форума Reddit с ником quadbow рассказал, как купил поддельный AMD Ryzen 7 9800X3D в одном из магазинов Walmart. Процессор находился в выг",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436842-krupneisii-amerikanskii-reteiler-walmart-prodal-poddelnyi-processory-ryzen-7-9800x3d-i-otkazalsia-vozvrashhat-dengi.html"
+    },
+    {
+      "id": "critical-pre-auth-rce-in-orkes-conductor-workflo-2026-09-19",
+      "category": "Новости",
+      "title": "Критический RCE предварительной аутентификации в платформе рабочего процесса Orkes Conductor, эксплуатируемой в дикой природе",
+      "excerpt": "По данным Fortinet, критическая уязвимость, затрагивающая Orkes Conductor, активно используется в реальных условиях. Рассматриваемая уязвимость — CVE-2026-58138 (оценка CVSS v3.1: 9,8/оценка CVSS v4: 9,3), которая связана со случаем удаленного выполн",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-pre-auth-rce-in-orkes-conductor-workflo-2026-09-19.webp",
+      "metaTitle": "Критический RCE предварительной аутентификации в платформе р",
+      "metaDescription": "По данным Fortinet, критическая уязвимость, затрагивающая Orkes Conductor, активно используется в реальных условиях. Рассматриваемая уязвимость — CVE-",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    },
+    {
+      "id": "v-moskve-zablokirovali-internet-platformy-s-knig-2026-09-19",
+      "category": "Новости",
+      "title": "В Москве заблокировали интернет-платформы с книгой Саакашвили",
+      "excerpt": "В Москве заблокировали интернет-платформы с книгой Саакашвили",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-moskve-zablokirovali-internet-platformy-s-knig-2026-09-19.webp",
+      "metaTitle": "В Москве заблокировали интернет-платформы с книгой Саакашвил",
+      "metaDescription": "В Москве заблокировали интернет-платформы с книгой Саакашвили",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/19/v-moskve-zablokirovali-internet-platformy-s-knigoy-saakashvili/"
+    },
+    {
+      "id": "hp-predstavila-noutbuk-so-192-gbayt-pamyati-160--2026-09-19",
+      "category": "Новости",
+      "title": "HP представила ноутбук со 192 Гбайт памяти — 160 Гбайт можно отдать встроенной Radeon",
+      "excerpt": "HP представила мобильную рабочую станцию HP ZBook Ultra G3a 16 на процессорах AMD Ryzen AI Max Pro 400. Старшая версия получила флагманский Ryzen AI Max+ Pro 495 и 192 Гбайт унифицированной памяти. По утверждению производителя, этот прокаченный ноутб",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hp-predstavila-noutbuk-so-192-gbayt-pamyati-160--2026-09-19.webp",
+      "metaTitle": "HP представила ноутбук со 192 Гбайт памяти — 160 Гбайт можно",
+      "metaDescription": "HP представила мобильную рабочую станцию HP ZBook Ultra G3a 16 на процессорах AMD Ryzen AI Max Pro 400. Старшая версия получила флагманский Ryzen AI M",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148746"
+    },
+    {
+      "id": "anthropic-sdelala-pervyy-shag-k-zamedleniyu-ii-a-2026-09-19",
+      "category": "Новости",
+      "title": "Anthropic сделала первый шаг к замедлению ИИ — Accenture будет проверять Claude изнутри",
+      "excerpt": "Anthropic объявила, что выбрала Accenture партнёром для независимой оценки своих ИИ-систем. Специалисты Accenture будут непосредственно участвовать в рабочих процессах ИИ-лаборатории. Сотрудничество стало первым шагом к реализации инициативы главы An",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-sdelala-pervyy-shag-k-zamedleniyu-ii-a-2026-09-19.webp",
+      "metaTitle": "Anthropic сделала первый шаг к замедлению ИИ — Accenture буд",
+      "metaDescription": "Anthropic объявила, что выбрала Accenture партнёром для независимой оценки своих ИИ-систем. Специалисты Accenture будут непосредственно участвовать в ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148747"
+    },
+    {
+      "id": "iskusstvennye-listya-nauchili-dobyvat-vodorod-iz-2026-09-19",
+      "category": "Новости",
+      "title": "«Искусственные листья» научили добывать водород из грязной морской воды — для этого нужен только солнечный свет",
+      "excerpt": "Учёные из Наньянского технологического университета (Nanyang Technological University) в Сингапуре разработали «искусственный лист» — фотоэлектрохимическое устройство, которое одновременно производит водород из морской воды и удаляет из неё токсичный",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iskusstvennye-listya-nauchili-dobyvat-vodorod-iz-2026-09-19.webp",
+      "metaTitle": "«Искусственные листья» научили добывать водород из грязной м",
+      "metaDescription": "Учёные из Наньянского технологического университета (Nanyang Technological University) в Сингапуре разработали «искусственный лист» — фотоэлектрохимич",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148745"
+    },
+    {
+      "id": "zaschitnoe-steklo-iphone-18-pro-zametno-tverzhe--2026-09-19",
+      "category": "Новости",
+      "title": "Защитное стекло iPhone 18 Pro заметно твёрже, чем у конкурентов. Это проверил блогер JerryRigEverything",
+      "excerpt": "Блогер JerryRigEverything добрался до новенького iPhone 18 Pro, чтобы подвергнуть его своему набору пыток. Но начал он не с испытаний, а с того, что заснял под микроскопом работу переменной диафрагмы нового смартфона.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zaschitnoe-steklo-iphone-18-pro-zametno-tverzhe--2026-09-19.webp",
+      "metaTitle": "Защитное стекло iPhone 18 Pro заметно твёрже, чем у конкурен",
+      "metaDescription": "Блогер JerryRigEverything добрался до новенького iPhone 18 Pro, чтобы подвергнуть его своему набору пыток. Но начал он не с испытаний, а с того, что з",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436867-zashhitnoe-steklo-iphone-18-pro-zametno-tverze-cem-u-konkurentov-eto-proveril-bloger-jerryrigeverything.html"
+    },
+    {
       "id": "samsung-menyaet-pravila-igry-gallery-teper-sinhr-2026-09-19",
       "category": "Новости",
       "title": "Samsung меняет правила игры: Gallery теперь синхронизируется с Google Фото",
