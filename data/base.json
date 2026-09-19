@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "id": "viral-ai-actress-hotline-face-scans-every-caller-2026-09-19",
+      "category": "Новости",
+      "title": "Горячая линия актрисы с вирусным искусственным интеллектом сканирует лицо каждого звонящего и следит за его настроением",
+      "excerpt": "Актриса с искусственным интеллектом Тилли Норвуд стала вирусной после того, как вчера вечером случайно заговорила на китайском языке в программе «Пирс Морган без цензуры». Ее служба видеозвонков «Говорящая Тилли» сканирует лицо каждого звонящего на п",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/viral-ai-actress-hotline-face-scans-every-caller-2026-09-19.webp",
+      "metaTitle": "Горячая линия актрисы с вирусным искусственным интеллектом с",
+      "metaDescription": "Актриса с искусственным интеллектом Тилли Норвуд стала вирусной после того, как вчера вечером случайно заговорила на китайском языке в программе «Пирс",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/"
+    },
+    {
+      "id": "85-8-yaponskih-razrabotchikov-igr-uzhe-ispolzuyu-2026-09-19",
+      "category": "Новости",
+      "title": "85,8% японских разработчиков игр уже используют генеративный ИИ — и почти две трети делают это каждый день",
+      "excerpt": "Японская ассоциация производителей компьютерных развлечений (CESA) 17 сентября опубликовала превью ежегодного отчёта Game Industry Report 2026, приуроченного к выставке Tokyo Game Show. В основу легли два собственных опроса — разработчиков и компаний",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/85-8-yaponskih-razrabotchikov-igr-uzhe-ispolzuyu-2026-09-19.webp",
+      "metaTitle": "85,8% японских разработчиков игр уже используют генеративный",
+      "metaDescription": "Японская ассоциация производителей компьютерных развлечений (CESA) 17 сентября опубликовала превью ежегодного отчёта Game Industry Report 2026, приуро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436918-858-iaponskix-razrabotcikov-igr-uze-ispolzuiut-generativnyi-ii-i-pocti-dve-treti-delaiut-eto-kazdyi-den.html"
+    },
+    {
+      "id": "google-labs-prevratila-ii-agenta-v-semeynogo-sov-2026-09-19",
+      "category": "Новости",
+      "title": "Google Labs превратила ИИ-агента в семейного советника",
+      "excerpt": "Google Labs 17 сентября официально расширила экспериментального ИИ-агента CC до уровня домохозяйства. Новая версия, выросшая из персонального помощника, который ранее превратился в функцию Gemini Daily Brief, теперь работает как ресурс для группы до ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-labs-prevratila-ii-agenta-v-semeynogo-sov-2026-09-19.webp",
+      "metaTitle": "Google Labs превратила ИИ-агента в семейного советника",
+      "metaDescription": "Google Labs 17 сентября официально расширила экспериментального ИИ-агента CC до уровня домохозяйства. Новая версия, выросшая из персонального помощник",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436919-google-labs-prevratila-ii-agenta-v-semeinogo-sovetnika.html"
+    },
+    {
+      "id": "krupneyshaya-krazha-truda-v-istorii-tehlid-micro-2026-09-19",
+      "category": "Новости",
+      "title": "«Крупнейшая кража труда в истории»: техлид Microsoft назвал ИИ-парсинг новостей беспрецедентным воровством",
+      "excerpt": "Внутренние документы Microsoft и OpenAI, рассекреченные 17 сентября по ходатайству The New York Times и других новостных издателей, раскрывают, как руководство двух компаний оценивало угрозу для прессы перед запуском ChatGPT и Copilot.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/krupneyshaya-krazha-truda-v-istorii-tehlid-micro-2026-09-19.webp",
+      "metaTitle": "«Крупнейшая кража труда в истории»: техлид Microsoft назвал ",
+      "metaDescription": "Внутренние документы Microsoft и OpenAI, рассекреченные 17 сентября по ходатайству The New York Times и других новостных издателей, раскрывают, как ру",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436921-krupneisaia-kraza-truda-v-istorii-texlid-microsoft-nazval-ii-parsing-novostei-besprecedentnym-vorovstvom.html"
+    },
+    {
+      "id": "claude-sozdaet-svoego-preemnika-26-rabot-nad-sle-2026-09-19",
+      "category": "Новости",
+      "title": "Claude создаёт своего преемника: 26% работ над следующей моделью Anthropic ИИ ведёт полностью сам",
+      "excerpt": "Anthropic официально поделилась: её модель Claude активно участвует в создании следующей, более мощной версии самой себя.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/claude-sozdaet-svoego-preemnika-26-rabot-nad-sle-2026-09-19.webp",
+      "metaTitle": "Claude создаёт своего преемника: 26% работ над следующей мод",
+      "metaDescription": "Anthropic официально поделилась: её модель Claude активно участвует в создании следующей, более мощной версии самой себя.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436923-claude-sozdaet-svoego-preemnika-26-rabot-nad-sleduiushhei-modeliu-anthropic-ii-vedet-polnostiu-sam.html"
+    },
+    {
+      "id": "novaya-bolee-dostupnaya-versiya-konsoli-gpd-win--2026-09-19",
+      "category": "Новости",
+      "title": "Новая более доступная версия консоли GPD Win 5 всё равно обеспечивает рекордную производительность в играх",
+      "excerpt": "Портативная игровая консоль GPD Win 5 обзавелась более доступной версией, которая должна обеспечивать в играх ту же производительность, что и более дорогая.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-bolee-dostupnaya-versiya-konsoli-gpd-win--2026-09-19.webp",
+      "metaTitle": "Новая более доступная версия консоли GPD Win 5 всё равно обе",
+      "metaDescription": "Портативная игровая консоль GPD Win 5 обзавелась более доступной версией, которая должна обеспечивать в играх ту же производительность, что и более до",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436924-novaia-bolee-dostupnaia-versiia-konsoli-gpd-win-5-vse-ravno-obespecivaet-rekordnuiu-proizvoditelnost-v-igrax.html"
+    },
+    {
+      "id": "rav4-stal-pohozh-na-bronevik-populyarnyy-krossov-2026-09-19",
+      "category": "Новости",
+      "title": "RAV4 стал похож на броневик — популярный кроссовер получил брутальный тюнинг",
+      "excerpt": "Австралийская компания TUFF Australia представила массивный силовой обвес для Toyota RAV4 последнего поколения. Конструкция не только придает популярному кроссоверу брутальный вид, но и имеет вполне практическое применение — она защищает кроссовер пр",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rav4-stal-pohozh-na-bronevik-populyarnyy-krossov-2026-09-19.webp",
+      "metaTitle": "RAV4 стал похож на броневик — популярный кроссовер получил б",
+      "metaDescription": "Австралийская компания TUFF Australia представила массивный силовой обвес для Toyota RAV4 последнего поколения. Конструкция не только придает популярн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436925-rav4-stal-poxoz-na-bronevik-populiarnyi-krossover-polucil-brutalnyi-tiuning.html"
+    },
+    {
+      "id": "eta-videokarta-pahnet-ax-gaming-predstavila-limi-2026-09-19",
+      "category": "Новости",
+      "title": "Эта видеокарта пахнет. AX Gaming представила лимитированную модель RTX 5070 Autumn Edition",
+      "excerpt": "Компания AX Gaming представила видеокарту RTX 5070 Autumn Edition, которая выделяется тем, что пахнет. Производитель говорит о некоем специальном игровом ароматизаторе, но подробностей нет ни о запахе, ни о том, как долго он держится и можно ли потом",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/eta-videokarta-pahnet-ax-gaming-predstavila-limi-2026-09-19.webp",
+      "metaTitle": "Эта видеокарта пахнет. AX Gaming представила лимитированную ",
+      "metaDescription": "Компания AX Gaming представила видеокарту RTX 5070 Autumn Edition, которая выделяется тем, что пахнет. Производитель говорит о некоем специальном игро",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436926-eta-videokarta-paxnet-ax-gaming-predstavila-limitirovannuiu-model-rtx-5070-autumn-edition.html"
+    },
+    {
+      "id": "portativnyh-konsoley-moschnee-v-etom-segmente-ne-2026-09-19",
+      "category": "Новости",
+      "title": "Портативных консолей мощнее в этом сегменте нет. Стартовали продажи Acer Predator Atlas 8",
+      "excerpt": "Компания Acer запустила продажи своей портативной игровой приставки Predator Atlas 8 ранее изначально назначенного срока. Новинку уже можно купить как минимум в Великобритании, хотя запуск был намечен на 23 сентября.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/portativnyh-konsoley-moschnee-v-etom-segmente-ne-2026-09-19.webp",
+      "metaTitle": "Портативных консолей мощнее в этом сегменте нет. Стартовали ",
+      "metaDescription": "Компания Acer запустила продажи своей портативной игровой приставки Predator Atlas 8 ранее изначально назначенного срока. Новинку уже можно купить как",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436927-portativnyx-konsolei-moshhnee-v-etom-segmente-net-startovali-prodazi-acer-predator-atlas-8.html"
+    },
+    {
+      "id": "106-let-nikto-ne-mog-prochitat-nemetskiy-shifr-v-2026-09-19",
+      "category": "Новости",
+      "title": "106 лет никто не мог прочитать немецкий шифр времени Первой мировой волны — ChatGPT раскрыла вековой секрет",
+      "excerpt": "Зашифрованное немецкое военное сообщение времен Первой мировой войны, остававшееся неразгаданным более ста лет, удалось расшифровать с помощью искусственного интеллекта GPT-Astra. Радиограмма содержала сведения о передвижении британских и союзных кор",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/106-let-nikto-ne-mog-prochitat-nemetskiy-shifr-v-2026-09-19.webp",
+      "metaTitle": "106 лет никто не мог прочитать немецкий шифр времени Первой ",
+      "metaDescription": "Зашифрованное немецкое военное сообщение времен Первой мировой войны, остававшееся неразгаданным более ста лет, удалось расшифровать с помощью искусст",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436928-106-let-nikto-ne-mog-procitat-nemeckii-sifr-vremeni-pervoi-mirovoi-volny-chatgpt-raskryla-vekovoi-sekret.html"
+    },
+    {
       "id": "identity-visibility-in-2026-the-foundation-of-id-2026-09-19",
       "category": "Новости",
       "title": "Видимость личных данных в 2026 году: основа безопасности личных данных",
