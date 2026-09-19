@@ -1,6 +1,294 @@
 {
   "articles": [
     {
+      "id": "data-broker-radaris-loses-domains-in-privacy-fig-2026-09-19",
+      "category": "Новости",
+      "title": "Брокер данных Radaris теряет домены в борьбе за конфиденциальность",
+      "excerpt": "Брокер потребительских данных Radaris.com уже давно имеет репутацию компании, игнорирующей запросы на удаление личной информации из своей обширной империи служб поиска людей в Интернете. Эта репутация недавно настигла компанию в судебном процессе, в ",
+      "date": "2026-09-16",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "krebs on security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Брокер данных Radaris теряет домены в борьбе за конфиденциал",
+      "metaDescription": "Брокер потребительских данных Radaris.com уже давно имеет репутацию компании, игнорирующей запросы на удаление личной информации из своей обширной имп",
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+    },
+    {
+      "id": "north-korean-hackers-infect-thousands-of-devices-2026-09-19",
+      "category": "Новости",
+      "title": "Северокорейские хакеры заразили тысячи устройств в 100 странах в рамках кампании WaterPlum",
+      "excerpt": "ФБР и Министерство обороны заключили партнерские отношения с Национальным полицейским управлением Японии и правоохранительными органами Австралии и Германии для подготовки новой рекомендации о «WaterPlum» — группе киберпреступников, предположительно ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/north-korean-hackers-infect-thousands-of-devices-2026-09-19.webp",
+      "metaTitle": "Северокорейские хакеры заразили тысячи устройств в 100 стран",
+      "metaDescription": "ФБР и Министерство обороны заключили партнерские отношения с Национальным полицейским управлением Японии и правоохранительными органами Австралии и Ге",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme"
+    },
+    {
+      "id": "new-infosec-products-of-the-week-september-18-20-2026-09-19",
+      "category": "Новости",
+      "title": "Новые продукты недели в области информационной безопасности: 18 сентября 2026 г.",
+      "excerpt": "Вот обзор самых интересных продуктов прошедшей недели, включая релизы от Akuity, Bitsight, Cohesity, Dataminr, Nozomi Networks и Tuskira. Dataminr использует агентный ИИ для прогнозирования и проверки угроз безопасности. Dataminr анонсировала Datamin",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-infosec-products-of-the-week-september-18-20-2026-09-19.webp",
+      "metaTitle": "Новые продукты недели в области информационной безопасности:",
+      "metaDescription": "Вот обзор самых интересных продуктов прошедшей недели, включая релизы от Akuity, Bitsight, Cohesity, Dataminr, Nozomi Networks и Tuskira. Dataminr исп",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/new-infosec-products-of-the-week-september-18-2026/"
+    },
+    {
+      "id": "anthropic-zayavila-chto-ii-teper-rukovodit-26-de-2026-09-19",
+      "category": "Новости",
+      "title": "Anthropic заявила, что ИИ теперь руководит 26 % деятельности по разработке и исследованиям внутри компании",
+      "excerpt": "Пока участники рынка робототехники стремятся добиться того, что «машины будут делать машины», разработчики систем искусственного интеллекта тоже движутся к подобным целям самовоспроизведения. В компании Anthropic, например, до 26 % активности в сфере",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-zayavila-chto-ii-teper-rukovodit-26-de-2026-09-19.webp",
+      "metaTitle": "Anthropic заявила, что ИИ теперь руководит 26 % деятельности",
+      "metaDescription": "Пока участники рынка робототехники стремятся добиться того, что «машины будут делать машины», разработчики систем искусственного интеллекта тоже движу",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148674"
+    },
+    {
+      "id": "most-wordpress-pros-still-lack-a-breach-recovery-2026-09-19",
+      "category": "Новости",
+      "title": "Большинству профессионалов WordPress до сих пор не хватает плана восстановления после взлома.",
+      "excerpt": "Компания Melapress, производитель плагинов безопасности WordPress, опросила 319 специалистов WordPress и обнаружила, что большинство из них сталкивались как минимум с одним известным инцидентом безопасности. Респонденты зарабатывают на жизнь создание",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/most-wordpress-pros-still-lack-a-breach-recovery-2026-09-19.webp",
+      "metaTitle": "Большинству профессионалов WordPress до сих пор не хватает п",
+      "metaDescription": "Компания Melapress, производитель плагинов безопасности WordPress, опросила 319 специалистов WordPress и обнаружила, что большинство из них сталкивали",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/"
+    },
+    {
+      "id": "yadro-investirovala-1-2-mlrd-rubley-v-razrabotku-2026-09-19",
+      "category": "Новости",
+      "title": "Yadro инвестировала 1,2 млрд рублей в разработку двухдиапазонного радиомодуля для сетей LTE и 5G",
+      "excerpt": "Компания Yadro вложила 1,2 млрд руб. в разработку двухдиапазонного радиомодуля для базовых станций, предназначенного для работы в сетях четвёртого и пятого поколений. Серийный выпуск оборудования производитель намерен наладить уже до конца осени 2026",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yadro-investirovala-1-2-mlrd-rubley-v-razrabotku-2026-09-19.webp",
+      "metaTitle": "Yadro инвестировала 1,2 млрд рублей в разработку двухдиапазо",
+      "metaDescription": "Компания Yadro вложила 1,2 млрд руб. в разработку двухдиапазонного радиомодуля для базовых станций, предназначенного для работы в сетях четвёртого и п",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148678"
+    },
+    {
+      "id": "abandoned-iot-apps-keep-sending-sensitive-data-t-2026-09-19",
+      "category": "Новости",
+      "title": "Заброшенные приложения Интернета вещей продолжают отправлять конфиденциальные данные на сломанные серверы",
+      "excerpt": "Миллионы людей по-прежнему используют приложения для умного дома и сопутствующие приложения IoT — приложения, используемые для управления такими устройствами, как интеллектуальные розетки, камеры и термостаты, которые перестали получать обновления мн",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/abandoned-iot-apps-keep-sending-sensitive-data-t-2026-09-19.webp",
+      "metaTitle": "Заброшенные приложения Интернета вещей продолжают отправлять",
+      "metaDescription": "Миллионы людей по-прежнему используют приложения для умного дома и сопутствующие приложения IoT — приложения, используемые для управления такими устро",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/abandoned-iot-apps-data-security-risks/"
+    },
+    {
+      "id": "glava-take-two-sravnil-gta-vi-s-barbi-2026-09-19",
+      "category": "Новости",
+      "title": "Глава Take-Two сравнил GTA VI с Барби",
+      "excerpt": "Гендиректор Take-Two Interactive Штраус Зельник (Strauss Zelnick) в интервью GamesBeat объяснил, зачем горячо ожидаемому криминальному боевику с открытым миром GTA VI от Rockstar Games нужна дорогостоящая рекламная кампания. Источник изображений: Roc",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/glava-take-two-sravnil-gta-vi-s-barbi-2026-09-19.webp",
+      "metaTitle": "Глава Take-Two сравнил GTA VI с Барби",
+      "metaDescription": "Гендиректор Take-Two Interactive Штраус Зельник (Strauss Zelnick) в интервью GamesBeat объяснил, зачем горячо ожидаемому криминальному боевику с откры",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148677"
+    },
+    {
+      "id": "rathat-android-malware-abuses-adb-to-retain-shel-2026-09-19",
+      "category": "Новости",
+      "title": "Вредоносное ПО RatHat для Android злоупотребляет ADB, чтобы сохранить доступ к оболочке после удаления",
+      "excerpt": "Исследователи кибербезопасности заметили новое вредоносное ПО для Android под названием RatHat, которое, по оценкам, эксплуатируется китайскими злоумышленниками и оснащено системой на базе искусственного интеллекта (ИИ) для навигации и контроля взлом",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rathat-android-malware-abuses-adb-to-retain-shel-2026-09-19.webp",
+      "metaTitle": "Вредоносное ПО RatHat для Android злоупотребляет ADB, чтобы ",
+      "metaDescription": "Исследователи кибербезопасности заметили новое вредоносное ПО для Android под названием RatHat, которое, по оценкам, эксплуатируется китайскими злоумы",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
+    },
+    {
+      "id": "google-cc-stal-semeynym-ii-sekretarem-on-sobirae-2026-09-19",
+      "category": "Новости",
+      "title": "Google CC стал семейным ИИ-секретарём — он собирает письма, чеки и документы и превращает их в планы",
+      "excerpt": "В конце минувшего года Google выпустила экспериментальный проект CC, призванный сделать модель Gemini полезной в повседневной жизни. Это был ИИ-агент, который готовил ежедневные сводки и помогал отслеживать выполнение задач, анализируя информацию из ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-cc-stal-semeynym-ii-sekretarem-on-sobirae-2026-09-19.webp",
+      "metaTitle": "Google CC стал семейным ИИ-секретарём — он собирает письма, ",
+      "metaDescription": "В конце минувшего года Google выпустила экспериментальный проект CC, призванный сделать модель Gemini полезной в повседневной жизни. Это был ИИ-агент,",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148681"
+    },
+    {
+      "id": "ai-agent-breaches-spanish-organization-modifies--2026-09-19",
+      "category": "Новости",
+      "title": "Агент искусственного интеллекта взломал испанскую организацию и изменил персональные данные",
+      "excerpt": "Кибератаки с использованием искусственного интеллекта раньше были экзотикой. Вскоре будет странно, если злоумышленники не будут использовать агентов для выполнения всех своих приказов.",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Агент искусственного интеллекта взломал испанскую организаци",
+      "metaDescription": "Кибератаки с использованием искусственного интеллекта раньше были экзотикой. Вскоре будет странно, если злоумышленники не будут использовать агентов д",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data"
+    },
+    {
+      "id": "demoversiya-hardkornogo-skorostnogo-shutera-hmur-2026-09-19",
+      "category": "Новости",
+      "title": "Демоверсия хардкорного скоростного шутера Hmur от российского разработчика-одиночки вышла в Steam, но ненадолго",
+      "excerpt": "Хардкорный скоростной шутер Hmur от российского разработчика-одиночки под псевдонимом FoxusSexus и издательства Valkyrie Initiative получил обещанную демоверсию и новый трейлер. Источник изображений: Valkyrie Initiative",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/demoversiya-hardkornogo-skorostnogo-shutera-hmur-2026-09-19.webp",
+      "metaTitle": "Демоверсия хардкорного скоростного шутера Hmur от российског",
+      "metaDescription": "Хардкорный скоростной шутер Hmur от российского разработчика-одиночки под псевдонимом FoxusSexus и издательства Valkyrie Initiative получил обещанную ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148688"
+    },
+    {
+      "id": "u-iphone-18-pro-max-naschitali-kak-minimum-18-fu-2026-09-19",
+      "category": "Новости",
+      "title": "У iPhone 18 Pro Max насчитали как минимум 18 функций, которые не будут работать в России",
+      "excerpt": "На этой неделе стартуют продажи iPhone 18 Pro Max. При этом владельцы нового флагмана Apple в России столкнутся с рекордным для линейки числом ограничений. Дело в том, что не менее 18 функций и сервисов окажутся полностью недоступными и будут функцио",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-iphone-18-pro-max-naschitali-kak-minimum-18-fu-2026-09-19.webp",
+      "metaTitle": "У iPhone 18 Pro Max насчитали как минимум 18 функций, которы",
+      "metaDescription": "На этой неделе стартуют продажи iPhone 18 Pro Max. При этом владельцы нового флагмана Apple в России столкнутся с рекордным для линейки числом огранич",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148689"
+    },
+    {
+      "id": "asus-vypustila-kompaktnyy-mini-pk-ascent-qn10-na-2026-09-19",
+      "category": "Новости",
+      "title": "Asus выпустила компактный мини-ПК Ascent QN10 на базе Qualcomm Snapdragon X2 Elite стоимостью от $1350",
+      "excerpt": "Компания Asus выпустила мини-ПК Ascent QN10, оснащённый процессором Qualcomm Snapdragon X2 Elite. Новинка работает под управлением операционной системы Windows-on-Arm. Впервые устройство было показано ранее в этом году, но теперь производитель подтве",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/asus-vypustila-kompaktnyy-mini-pk-ascent-qn10-na-2026-09-19.webp",
+      "metaTitle": "Asus выпустила компактный мини-ПК Ascent QN10 на базе Qualco",
+      "metaDescription": "Компания Asus выпустила мини-ПК Ascent QN10, оснащённый процессором Qualcomm Snapdragon X2 Elite. Новинка работает под управлением операционной систем",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148735"
+    },
+    {
       "id": "uchenye-pridumali-kak-perehvatyvat-zvuk-iz-naush-2026-09-19",
       "category": "Новости",
       "title": "Учёные придумали, как перехватывать звук из наушников через стены — достаточно послать им радиосигнал",
