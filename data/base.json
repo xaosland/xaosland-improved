@@ -1,6 +1,226 @@
 {
   "articles": [
     {
+      "id": "ii-google-gemini-sluchayno-vzlomal-tri-realnye-k-2026-09-19",
+      "category": "Новости",
+      "title": "ИИ Google Gemini случайно взломал три реальные компании",
+      "excerpt": "Одна из неназванных моделей Google Gemini во время испытаний возможностей искусственного интеллекта в сфере кибербезопасности получила несанкционированный доступ к системам трех реальных организаций. Как сообщает The Wall Street Journal, модель ошибо",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-google-gemini-sluchayno-vzlomal-tri-realnye-k-2026-09-19.webp",
+      "metaTitle": "ИИ Google Gemini случайно взломал три реальные компании",
+      "metaDescription": "Одна из неназванных моделей Google Gemini во время испытаний возможностей искусственного интеллекта в сфере кибербезопасности получила несанкционирова",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436931-ii-google-gemini-slucaino-vzlomal-tri-realnye-kompanii.html"
+    },
+    {
+      "id": "zafiksirovan-slom-modeli-tsenoobrazovaniya-na-ry-2026-09-19",
+      "category": "Новости",
+      "title": "Зафиксирован слом модели ценообразования на рынке КНР: китайские ИИ-провайдеры отказываются от ценовой войны за токены",
+      "excerpt": "Аналитики Bank of America описали структурный сдвиг на китайском рынке ИИ: провайдеры уходят от плоского снижения цены за токен к многоуровневому ценообразованию, где ключевой метрикой становится стоимость выполнения задачи целиком.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zafiksirovan-slom-modeli-tsenoobrazovaniya-na-ry-2026-09-19.webp",
+      "metaTitle": "Зафиксирован слом модели ценообразования на рынке КНР: китай",
+      "metaDescription": "Аналитики Bank of America описали структурный сдвиг на китайском рынке ИИ: провайдеры уходят от плоского снижения цены за токен к многоуровневому цено",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436933-zafiksirovan-slom-modeli-cenoobrazovaniia-na-rynke-knr-kitaiskie-ii-provaidery-otkazyvaiutsia-ot-cenovoi-voiny-za-tokeny.html"
+    },
+    {
+      "id": "anthropic-i-accenture-vlozhat-2-mlrd-v-otsenschi-2026-09-19",
+      "category": "Новости",
+      "title": "Anthropic и Accenture вложат $2 млрд в «оценщиков моделей»",
+      "excerpt": "Anthropic и Accenture объявили о создании команды внедрённых «оценщиков», которая будет работать совместно с внутренними группами безопасности и внешними партнёрами. Каждая компания намерена вложить в это направление минимум",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-i-accenture-vlozhat-2-mlrd-v-otsenschi-2026-09-19.webp",
+      "metaTitle": "Anthropic и Accenture вложат $2 млрд в «оценщиков моделей»",
+      "metaDescription": "Anthropic и Accenture объявили о создании команды внедрённых «оценщиков», которая будет работать совместно с внутренними группами безопасности и внешн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436935-anthropic-i-accenture-vlozat-2-mlrd-v-ocenshhikov-modelei.html"
+    },
+    {
+      "id": "passazhirskiy-samolet-vpervye-samostoyatelno-per-2026-09-19",
+      "category": "Новости",
+      "title": "Пассажирский самолет впервые самостоятельно перелетел через США — турбопроп Cessna Caravan сам взлетал, летел, изменял курс и сам совершил посадку",
+      "excerpt": "Американская Joby Aviation завершила масштабные испытания автономного самолета, который самостоятельно перелетел через США. Модифицированная Cessna Caravan преодолела 3199 миль, или около 5148 км, при этом находившийся на борту страхующий пилот ни ра",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/passazhirskiy-samolet-vpervye-samostoyatelno-per-2026-09-19.webp",
+      "metaTitle": "Пассажирский самолет впервые самостоятельно перелетел через ",
+      "metaDescription": "Американская Joby Aviation завершила масштабные испытания автономного самолета, который самостоятельно перелетел через США. Модифицированная Cessna Ca",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436938-passazirskii-samolet-vpervye-samostoiatelno-pereletel-cerez-ssa-turboprop-cessna-caravan-sam-vzletal-letel-izmenial-kurs-i-sam-soversil-posadku.html"
+    },
+    {
+      "id": "ssha-zapuskayut-ii-pomoschnika-dlya-aviadispetch-2026-09-19",
+      "category": "Новости",
+      "title": "США запускают ИИ-помощника для авиадиспетчеров",
+      "excerpt": "Федеральное управление гражданской авиации США (FAA) готовит первый в истории страны запуск ИИ-инструмента, который начнёт консультировать авиадиспетчеров по управлению трафиком в перегруженном воздушном пространстве над Вашингтоном. Система SMART, п",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ssha-zapuskayut-ii-pomoschnika-dlya-aviadispetch-2026-09-19.webp",
+      "metaTitle": "США запускают ИИ-помощника для авиадиспетчеров",
+      "metaDescription": "Федеральное управление гражданской авиации США (FAA) готовит первый в истории страны запуск ИИ-инструмента, который начнёт консультировать авиадиспетч",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436937-ssa-zapuskaiut-zapuskaet-ii-pomoshhnika-dlia-aviadispetcerov.html"
+    },
+    {
+      "id": "organicheskiy-poluprovodnik-stal-v-100-raz-effek-2026-09-19",
+      "category": "Новости",
+      "title": "Органический полупроводник стал в 100 раз эффективнее благодаря «самоисчезающему» легированию",
+      "excerpt": "Исследователи разработали новый способ легирования органических полупроводников, который позволяет получить до 100 раз больше подвижных носителей заряда по сравнению с традиционными методами. Технология может повысить эффективность гибкой и носимой э",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/organicheskiy-poluprovodnik-stal-v-100-raz-effek-2026-09-19.webp",
+      "metaTitle": "Органический полупроводник стал в 100 раз эффективнее благод",
+      "metaDescription": "Исследователи разработали новый способ легирования органических полупроводников, который позволяет получить до 100 раз больше подвижных носителей заря",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436939-organiceskii-poluprovodnik-stal-v-100-raz-effektivnee-blagodaria-samoiscezaiushhemu-legirovaniiu.html"
+    },
+    {
+      "id": "uchenye-sozdali-nevozmozhnyy-teploizolyator-tonk-2026-09-19",
+      "category": "Новости",
+      "title": "Ученые создали «невозможный» теплоизолятор: тонкая пленка в 10 000 раз жестче силикона, а тепло проводит в пять раз хуже",
+      "excerpt": "Исследователи Университета штата Северная Каролина разработали тонкопленочный материал, который сочетает крайне низкую теплопроводность с высокой жесткостью. Он проводит тепло примерно в пять раз хуже стандартного силикона, но при этом в сотни и тыся",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-sozdali-nevozmozhnyy-teploizolyator-tonk-2026-09-19.webp",
+      "metaTitle": "Ученые создали «невозможный» теплоизолятор: тонкая пленка в ",
+      "metaDescription": "Исследователи Университета штата Северная Каролина разработали тонкопленочный материал, который сочетает крайне низкую теплопроводность с высокой жест",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436940-ucenye-sozdali-nevozmoznyi-teploizoliator-tonkaia-plenka-v-10-000-raz-zestce-silikona-a-teplo-provodit-v-piat-raz-xuze.html"
+    },
+    {
+      "id": "v-ssha-sozdayut-yadernuyu-batareyu-na-20-mvt-s-r-2026-09-19",
+      "category": "Новости",
+      "title": "В США создают ядерную «батарею» на 20 МВт с ресурсом 10 лет",
+      "excerpt": "Американская MicroNuclear приступила к следующему этапу разработки компактного микрореактора Molten Salt Nuclear Battery (MsNB) на расплавах солей. Установка тепловой мощностью 20 МВт рассчитана на непрерывную работу до десяти лет без операций с топл",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-ssha-sozdayut-yadernuyu-batareyu-na-20-mvt-s-r-2026-09-19.webp",
+      "metaTitle": "В США создают ядерную «батарею» на 20 МВт с ресурсом 10 лет",
+      "metaDescription": "Американская MicroNuclear приступила к следующему этапу разработки компактного микрореактора Molten Salt Nuclear Battery (MsNB) на расплавах солей. Ус",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436942-v-ssa-sozdaiut-iadernuiu-batareiu-na-20-mvt-s-resursom-10-let.html"
+    },
+    {
+      "id": "lazerom-na-vysotu-20-km-yaponiya-ispytala-tehnol-2026-09-19",
+      "category": "Новости",
+      "title": "Лазером на высоту 20 км: Япония испытала технологию для интернета будущего",
+      "excerpt": "SoftBank совместно с Университетом Хитоцубаси и Национальным институтом полярных исследований Японии испытала систему лазерного сопровождения высотной телекоммуникационной платформы HAPS, находившейся примерно в 20 км над Землей. Технология может ста",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lazerom-na-vysotu-20-km-yaponiya-ispytala-tehnol-2026-09-19.webp",
+      "metaTitle": "Лазером на высоту 20 км: Япония испытала технологию для инте",
+      "metaDescription": "SoftBank совместно с Университетом Хитоцубаси и Национальным институтом полярных исследований Японии испытала систему лазерного сопровождения высотной",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436944-lazerom-na-vysotu-20-km-iaponiia-ispytala-texnologiiu-dlia-interneta-budushhego.html"
+    },
+    {
+      "id": "radioaktivnye-othody-chernobylya-vpervye-nachali-2026-09-19",
+      "category": "Новости",
+      "title": "Радиоактивные отходы Чернобыля впервые начали проходить полный цикл переработки и захоронения",
+      "excerpt": "На Чернобыльской атомной электростанции начался новый этап обращения с накопленными радиоактивными отходами. Первая партия переработанных твердых отходов отправлена на окончательное захоронение в специализированный приповерхностный пункт ENSDF компле",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/radioaktivnye-othody-chernobylya-vpervye-nachali-2026-09-19.webp",
+      "metaTitle": "Радиоактивные отходы Чернобыля впервые начали проходить полн",
+      "metaDescription": "На Чернобыльской атомной электростанции начался новый этап обращения с накопленными радиоактивными отходами. Первая партия переработанных твердых отхо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436945-radioaktivnye-otxody-cernobylia-vpervye-nacali-proxodit-polnyi-cikl-pererabotki-i-zaxoroneniia.html"
+    },
+    {
+      "id": "neyroset-ne-smogla-nayti-otkloneniya-ot-teorii-e-2026-09-19",
+      "category": "Новости",
+      "title": "Нейросеть не смогла найти отклонения от теории Эйнштейна в данных LIGO",
+      "excerpt": "Физики проверили, может ли машинное обучение помочь найти следы «новой физики» в гравитационно-волновых сигналах без помощи классических методов, и получили отрезвляющий результат. Эксперимент с реальным шумом детектора LIGO и данными исторического с",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/neyroset-ne-smogla-nayti-otkloneniya-ot-teorii-e-2026-09-19.webp",
+      "metaTitle": "Нейросеть не смогла найти отклонения от теории Эйнштейна в д",
+      "metaDescription": "Физики проверили, может ли машинное обучение помочь найти следы «новой физики» в гравитационно-волновых сигналах без помощи классических методов, и по",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436943-neiroset-ne-smogla-naiti-otkloneniia-ot-teorii-einsteina-v-dannyx-ligo.html"
+    },
+    {
       "id": "viral-ai-actress-hotline-face-scans-every-caller-2026-09-19",
       "category": "Новости",
       "title": "Горячая линия актрисы с вирусным искусственным интеллектом сканирует лицо каждого звонящего и следит за его настроением",
