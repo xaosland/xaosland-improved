@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "uchenye-pridumali-kak-perehvatyvat-zvuk-iz-naush-2026-09-19",
+      "category": "Новости",
+      "title": "Учёные придумали, как перехватывать звук из наушников через стены — достаточно послать им радиосигнал",
+      "excerpt": "Исследователи из Гонконга разработали метод перехвата сигналов, обрабатываемых аналоговыми компонентами наушников, проводных телефонов и умных устройств — технология предусматривает активное внедрение внешнего электромагнитного несущего сигнала. Исто",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-pridumali-kak-perehvatyvat-zvuk-iz-naush-2026-09-19.webp",
+      "metaTitle": "Учёные придумали, как перехватывать звук из наушников через ",
+      "metaDescription": "Исследователи из Гонконга разработали метод перехвата сигналов, обрабатываемых аналоговыми компонентами наушников, проводных телефонов и умных устройс",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148690"
+    },
+    {
+      "id": "pervyy-v-mire-mini-pk-s-npu-proizvoditelnostyu-v-2026-09-19",
+      "category": "Новости",
+      "title": "Первый в мире мини-ПК с NPU производительностью в 80 TOPS. Asus анонсировала мини-ПК Ascent QN10",
+      "excerpt": "Компания Asus полноценно анонсировала мини-ПК Ascent QN10, который показывала ранее в этом году. Она называет его первым мини-ПК с NPU производительностью в 80 TOPS.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-v-mire-mini-pk-s-npu-proizvoditelnostyu-v-2026-09-19.webp",
+      "metaTitle": "Первый в мире мини-ПК с NPU производительностью в 80 TOPS. A",
+      "metaDescription": "Компания Asus полноценно анонсировала мини-ПК Ascent QN10, который показывала ранее в этом году. Она называет его первым мини-ПК с NPU производительно",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436636-pervyi-v-mire-mini-pk-s-npu-proizvoditelnostiu-v-80-tops-asus-anonsirovala-mini-pk-ascent-qn10.html"
+    },
+    {
+      "id": "kogda-na-nastoyaschuyu-lamborghini-ne-hvataet-pr-2026-09-19",
+      "category": "Новости",
+      "title": "Когда на настоящую Lamborghini не хватает: представлен смартфон Tecno Pova 8 Pro 5G Lamborghini",
+      "excerpt": "Tecno представила специальную версию Pova 8 Pro 5G (обзор обычной версии на нашем сайте), созданную совместно с Tonino Lamborghini.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kogda-na-nastoyaschuyu-lamborghini-ne-hvataet-pr-2026-09-19.webp",
+      "metaTitle": "Когда на настоящую Lamborghini не хватает: представлен смарт",
+      "metaDescription": "Tecno представила специальную версию Pova 8 Pro 5G (обзор обычной версии на нашем сайте), созданную совместно с Tonino Lamborghini.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/436635-kogda-na-nastoiashhuiu-lamborghini-ne-xvataet-predstavlen-smartfon-tecno-pova-8-pro-5g-lamborghini.html"
+    },
+    {
+      "id": "mobilnaya-svyaz-za-schet-sbera-dlya-teh-kto-polu-2026-09-19",
+      "category": "Новости",
+      "title": "Мобильная связь за счёт Сбера — для тех, кто получает зарплату на карту банка",
+      "excerpt": "Сбер начинает оплачивать мобильную связь клиентам, которые получают зарплату на карту банка. Им обещают ежемесячно 50 ГБ мобильного интернета и 300 минут звонков без дополнительной платы.",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mobilnaya-svyaz-za-schet-sbera-dlya-teh-kto-polu-2026-09-19.webp",
+      "metaTitle": "Мобильная связь за счёт Сбера — для тех, кто получает зарпла",
+      "metaDescription": "Сбер начинает оплачивать мобильную связь клиентам, которые получают зарплату на карту банка. Им обещают ежемесячно 50 ГБ мобильного интернета и 300 ми",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/18/mobilnaia-sviaz-za-scet-sbera-dlia-tex-kto-polucaet-zarplatu-na-kartu-banka.html"
+    },
+    {
+      "id": "mobilnyy-internet-v-rossii-uskorilsya-v-srednem--2026-09-19",
+      "category": "Новости",
+      "title": "Мобильный интернет в России ускорился в среднем на 15 % после запуска 5G",
+      "excerpt": "После запуска в 16 городах России коммерческих сетей пятого поколения на частотах для LTE, прошедшего 11 сентября, средние скорости мобильного интернета в стране выросли за неделю на 15 %, до 27-28 Мбит/с, пишет ресурс Forbes со ссылкой на данные Ден",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mobilnyy-internet-v-rossii-uskorilsya-v-srednem--2026-09-19.webp",
+      "metaTitle": "Мобильный интернет в России ускорился в среднем на 15 % посл",
+      "metaDescription": "После запуска в 16 городах России коммерческих сетей пятого поколения на частотах для LTE, прошедшего 11 сентября, средние скорости мобильного интерне",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148691"
+    },
+    {
+      "id": "android-apps-can-now-check-security-patches-down-2026-09-19",
+      "category": "Новости",
+      "title": "Приложения Android теперь могут проверять исправления безопасности для отдельных компонентов устройства.",
+      "excerpt": "Новые библиотеки состояния безопасности AndroidX предоставляют более детальный способ определить, насколько надежно исправлено устройство Android. Стабильные библиотеки Security State v1.1.0 и Security State Provider v1.0.0 позволяют разработчикам пр",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/android-apps-can-now-check-security-patches-down-2026-09-19.webp",
+      "metaTitle": "Приложения Android теперь могут проверять исправления безопа",
+      "metaDescription": "Новые библиотеки состояния безопасности AndroidX предоставляют более детальный способ определить, насколько надежно исправлено устройство Android. Ста",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/google-androidx-security-state-libraries/"
+    },
+    {
+      "id": "critical-orkes-conductor-vulnerability-exploited-2026-09-19",
+      "category": "Новости",
+      "title": "Критическая уязвимость проводника орков, использованная в атаках",
+      "excerpt": "CVE-2026-58138 — это уязвимость удаленного выполнения кода без аутентификации, которую злоумышленники могут использовать с помощью встроенных определений рабочих процессов. Пост «Критическая уязвимость проводника Orkes, использованная в атаках», впер",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-orkes-conductor-vulnerability-exploited-2026-09-19.webp",
+      "metaTitle": "Критическая уязвимость проводника орков, использованная в ат",
+      "metaDescription": "CVE-2026-58138 — это уязвимость удаленного выполнения кода без аутентификации, которую злоумышленники могут использовать с помощью встроенных определе",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/"
+    },
+    {
+      "id": "zero-click-rce-vulnerability-hit-four-major-ai-c-2026-09-19",
+      "category": "Новости",
+      "title": "Уязвимость RCE с нулевым щелчком затронула четыре основных агента кодирования ИИ, два остаются не исправленными",
+      "excerpt": "По данным AIR, четыре основных агента кодирования искусственного интеллекта, Claude Code, Codex, GitHub Copilot и Gemini CLI, имеют одну и ту же уязвимость RCE с нулевым щелчком мыши, которая может дать злоумышленнику такой же доступ к системам и дан",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zero-click-rce-vulnerability-hit-four-major-ai-c-2026-09-19.webp",
+      "metaTitle": "Уязвимость RCE с нулевым щелчком затронула четыре основных а",
+      "metaDescription": "По данным AIR, четыре основных агента кодирования искусственного интеллекта, Claude Code, Codex, GitHub Copilot и Gemini CLI, имеют одну и ту же уязви",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/"
+    },
+    {
+      "id": "sistemy-openai-vzlomali-pri-pomoschi-ii-modeley--2026-09-19",
+      "category": "Новости",
+      "title": "Системы OpenAI взломали при помощи ИИ-моделей Anthropic",
+      "excerpt": "Специалисты в области кибербезопасности произвели взлом систем OpenAI, воспользовавшись программными решениями её главного конкурента — компании Anthropic. В результате удалось обнаружить уязвимости в защите разработчика ChatGPT, чьи продукты и сами ",
+      "date": "2026-09-18",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sistemy-openai-vzlomali-pri-pomoschi-ii-modeley--2026-09-19.webp",
+      "metaTitle": "Системы OpenAI взломали при помощи ИИ-моделей Anthropic",
+      "metaDescription": "Специалисты в области кибербезопасности произвели взлом систем OpenAI, воспользовавшись программными решениями её главного конкурента — компании Anthr",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148693"
+    },
+    {
+      "id": "plugin4shell-lets-repository-owners-swap-pinned--2026-09-19",
+      "category": "Новости",
+      "title": "Plugin4Shell позволяет владельцам репозиториев обмениваться закрепленным кодом плагина между четырьмя агентами кодирования AI",
+      "excerpt": "Недостаток в четырех широко используемых агентах кодирования ИИ позволяет тому, кто контролирует хранилище кода плагина, заменить плагин, установленный агентом, на вредоносный, даже если агент заблокировал этот плагин для конкретной проверенной верси",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/plugin4shell-lets-repository-owners-swap-pinned--2026-09-19.webp",
+      "metaTitle": "Plugin4Shell позволяет владельцам репозиториев обмениваться ",
+      "metaDescription": "Недостаток в четырех широко используемых агентах кодирования ИИ позволяет тому, кто контролирует хранилище кода плагина, заменить плагин, установленны",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
+    },
+    {
+      "id": "an-abandoned-cdn-domain-was-re-registered-thousa-2026-09-19",
+      "category": "Новости",
+      "title": "Заброшенный CDN-домен был перерегистрирован. Тысячи сайтов до сих пор называют это.",
+      "excerpt": "В июле 2025 года кто-то зарегистрировал домен, который раньше принадлежал сети доставки контента. CDN была закрыта несколько лет назад, а срок действия домена, из которого она обслуживала активы, истек. Чего он не потерял, так это своих абонентов. Ты",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/an-abandoned-cdn-domain-was-re-registered-thousa-2026-09-19.webp",
+      "metaTitle": "Заброшенный CDN-домен был перерегистрирован. Тысячи сайтов д",
+      "metaDescription": "В июле 2025 года кто-то зарегистрировал домен, который раньше принадлежал сети доставки контента. CDN была закрыта несколько лет назад, а срок действи",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
+    },
+    {
+      "id": "microsoft-teams-will-let-admins-block-custom-fil-2026-09-19",
+      "category": "Новости",
+      "title": "Microsoft Teams позволит администраторам блокировать пользовательские расширения файлов",
+      "excerpt": "Microsoft Teams вскоре позволит администраторам настраивать список расширений файлов, обычно связанных с угрозами безопасности, в соответствии с требованиями безопасности их компании. [...]",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-teams-will-let-admins-block-custom-fil-2026-09-19.webp",
+      "metaTitle": "Microsoft Teams позволит администраторам блокировать пользов",
+      "metaDescription": "Microsoft Teams вскоре позволит администраторам настраивать список расширений файлов, обычно связанных с угрозами безопасности, в соответствии с требо",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/"
+    },
+    {
+      "id": "secure-enterprise-sharing-with-access-reviews-fo-2026-09-19",
+      "category": "Новости",
+      "title": "Безопасный корпоративный общий доступ с проверками доступа для Microsoft 365",
+      "excerpt": "Microsoft 365 упрощает обмен файлами, но доступ может сохраняться еще долго после того, как его первоначальная цель закончилась, в результате чего организациям остается мало информации о том, кто еще может получить доступ к конфиденциальным данным. T",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/secure-enterprise-sharing-with-access-reviews-fo-2026-09-19.webp",
+      "metaTitle": "Безопасный корпоративный общий доступ с проверками доступа д",
+      "metaDescription": "Microsoft 365 упрощает обмен файлами, но доступ может сохраняться еще долго после того, как его первоначальная цель закончилась, в результате чего орг",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/"
+    },
+    {
+      "id": "stabilnyy-vypusk-subd-mariadb-13-0-2026-09-19",
+      "category": "Новости",
+      "title": "Стабильный выпуск СУБД MariaDB 13.0",
+      "excerpt": "Представлен выпуск СУБД MariaDB 13.0.2, который отмечен как первый стабильный релиз ветки 13.0. Ветка MariaDB 13.0 отнесена к промежуточным выпускам (rolling), продолжающим постепенное развитие функциональности и сопровождаемым до стабильного релиза ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Стабильный выпуск СУБД MariaDB 13.0",
+      "metaDescription": "Представлен выпуск СУБД MariaDB 13.0.2, который отмечен как первый стабильный релиз ветки 13.0. Ветка MariaDB 13.0 отнесена к промежуточным выпускам (",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66303"
+    },
+    {
+      "id": "public-exploits-released-for-four-linux-kernel-f-2026-09-19",
+      "category": "Новости",
+      "title": "Опубликованы публичные эксплойты для четырех уязвимостей ядра Linux, которые позволяют использовать локальный root",
+      "excerpt": "Исследователь безопасности опубликовал рабочий код эксплойта для четырех уязвимостей ядра Linux, каждая из которых позволяет локальному пользователю получить root — высший уровень доступа на машине. Специалисты по поддержке ядра исправили все четыре ",
+      "date": "2026-09-18",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/public-exploits-released-for-four-linux-kernel-f-2026-09-19.webp",
+      "metaTitle": "Опубликованы публичные эксплойты для четырех уязвимостей ядр",
+      "metaDescription": "Исследователь безопасности опубликовал рабочий код эксплойта для четырех уязвимостей ядра Linux, каждая из которых позволяет локальному пользователю п",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
+    },
+    {
       "id": "ey-survey-finds-autonomous-ai-implementation-out-2026-09-18",
       "category": "Новости",
       "title": "Исследование EY показало, что внедрение автономного искусственного интеллекта опережает надзор",
