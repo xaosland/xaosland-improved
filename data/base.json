@@ -1,6 +1,311 @@
 {
   "articles": [
     {
+      "id": "tp-link-vryvaetsya-v-epohu-wi-fi-8-skorost-do-22-2026-09-19",
+      "category": "Новости",
+      "title": "TP-Link врывается в эпоху Wi-Fi 8: скорость до 22 Гбит/с и 200+ устройств",
+      "excerpt": "TP-Link анонсировала первую партию устройств Wi-Fi 8 — трёхдиапазонный маршрутизатор Archer 8 Ultra и Mesh-систему Deco 8 Ultra.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tp-link-vryvaetsya-v-epohu-wi-fi-8-skorost-do-22-2026-09-19.webp",
+      "metaTitle": "TP-Link врывается в эпоху Wi-Fi 8: скорость до 22 Гбит/с и 2",
+      "metaDescription": "TP-Link анонсировала первую партию устройств Wi-Fi 8 — трёхдиапазонный маршрутизатор Archer 8 Ultra и Mesh-систему Deco 8 Ultra.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436787-tp-link-vryvaetsia-v-epoxu-wi-fi-8-skorost-do-22-gbits-i-200-ustroistv.html"
+    },
+    {
+      "id": "90-vt-skladnaya-vilka-dva-usb-c-i-gan-predstavle-2026-09-19",
+      "category": "Новости",
+      "title": "90 Вт, складная вилка, два USB-C и GaN. Представлена быстрая и плоская зарядка Cuktech",
+      "excerpt": "Cuktech начала принимать предварительные заказы на зарядное устройство Space Series Three-Body Collaboration Edition, продажи которого стартуют 22 сентября.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/90-vt-skladnaya-vilka-dva-usb-c-i-gan-predstavle-2026-09-19.webp",
+      "metaTitle": "90 Вт, складная вилка, два USB-C и GaN. Представлена быстрая",
+      "metaDescription": "Cuktech начала принимать предварительные заказы на зарядное устройство Space Series Three-Body Collaboration Edition, продажи которого стартуют 22 сен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436789-90-vt-skladnaia-vilka-dva-usb-c-i-gan-predstavlena-bystraia-i-ploskaia-zariadka-cuktech.html"
+    },
+    {
+      "id": "tseny-na-vse-versii-vivo-x300-ultra-perepisali-p-2026-09-19",
+      "category": "Новости",
+      "title": "Цены на все версии Vivo X300 Ultra переписали прямо перед анонсом серии Vivo X500",
+      "excerpt": "Vivo скорректировала цены на X300 Ultra в официальном онлайн-магазине.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tseny-na-vse-versii-vivo-x300-ultra-perepisali-p-2026-09-19.webp",
+      "metaTitle": "Цены на все версии Vivo X300 Ultra переписали прямо перед ан",
+      "metaDescription": "Vivo скорректировала цены на X300 Ultra в официальном онлайн-магазине.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436790-ceny-na-vse-versii-vivo-x300-ultra-perepisali-priamo-pered-anonsom-serii-vivo-x500.html"
+    },
+    {
+      "id": "dostupnyy-mini-pk-na-core-i5-13500h-s-tremya-slo-2026-09-19",
+      "category": "Новости",
+      "title": "Доступный мини-ПК на Core i5-13500H с тремя слотами для накопителей: представлена новая версия Peladn WO5",
+      "excerpt": "Компания Peladn расширила линейку мини-ПК WO5 новой конфигурацией на базе Intel Core i5-13500H.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dostupnyy-mini-pk-na-core-i5-13500h-s-tremya-slo-2026-09-19.webp",
+      "metaTitle": "Доступный мини-ПК на Core i5-13500H с тремя слотами для нако",
+      "metaDescription": "Компания Peladn расширила линейку мини-ПК WO5 новой конфигурацией на базе Intel Core i5-13500H.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436791-dostupnyi-mini-pk-na-core-i5-13500h-s-tremia-slotami-dlia-nakopitelei-predstavlena-novaia-versiia-peladn-wo5.html"
+    },
+    {
+      "id": "predstavlen-dyson-r3-ai-30-000-pa-do-100-dney-be-2026-09-19",
+      "category": "Новости",
+      "title": "Представлен Dyson R3 AI: 30 000 Па, до 100 дней без очистки и мойка пола горячей водой",
+      "excerpt": "В Китае стартовали продажи робота-пылесоса Dyson R3 AI. Цена составляет 6999 юаней.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-dyson-r3-ai-30-000-pa-do-100-dney-be-2026-09-19.webp",
+      "metaTitle": "Представлен Dyson R3 AI: 30 000 Па, до 100 дней без очистки ",
+      "metaDescription": "В Китае стартовали продажи робота-пылесоса Dyson R3 AI. Цена составляет 6999 юаней.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436792-predstavlen-dyson-r3-ai-30-000-pa-do-100-dnei-bez-ocistki-i-moika-pola-goriacei-vodoi.html"
+    },
+    {
+      "id": "starlink-mobile-vyhodit-na-novyy-uroven-sputniki-2026-09-19",
+      "category": "Новости",
+      "title": "Starlink Mobile выходит на новый уровень: спутники V2 дадут смартфонам скорость как у 5G",
+      "excerpt": "Starlink объявила о сотрудничестве с японским оператором au (KDDI), которое станет первым в Азии развертыванием спутников Starlink Mobile V2.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/starlink-mobile-vyhodit-na-novyy-uroven-sputniki-2026-09-19.webp",
+      "metaTitle": "Starlink Mobile выходит на новый уровень: спутники V2 дадут ",
+      "metaDescription": "Starlink объявила о сотрудничестве с японским оператором au (KDDI), которое станет первым в Азии развертыванием спутников Starlink Mobile V2.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436793-starlink-mobile-vyxodit-na-novyi-uroven-sputniki-v2-dadut-smartfonam-skorost-kak-u-5g.html"
+    },
+    {
+      "id": "vysokoskorostnoy-sputnikovyy-internet-s-minimaln-2026-09-19",
+      "category": "Новости",
+      "title": "Высокоскоростной спутниковый интернет с минимальной задержкой и прямая связь со смартфоном: Starlink Mobile пришёл в Панаму",
+      "excerpt": "Starlink объявила о запуске мобильной спутниковой связи в Панаме совместно с оператором MasMovil (+Móvil).",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vysokoskorostnoy-sputnikovyy-internet-s-minimaln-2026-09-19.webp",
+      "metaTitle": "Высокоскоростной спутниковый интернет с минимальной задержко",
+      "metaDescription": "Starlink объявила о запуске мобильной спутниковой связи в Панаме совместно с оператором MasMovil (+Móvil).",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436794-vysokoskorostnoi-sputnikovyi-internet-s-minimalnoi-zaderzkoi-i-priamaia-sviaz-so-smartfonom-starlink-mobile-prisel-v-panamu.html"
+    },
+    {
+      "id": "tesla-otkryla-predzakazy-na-svoy-samyy-bystryy-a-2026-09-19",
+      "category": "Новости",
+      "title": "Tesla открыла предзаказы на свой самый быстрый автомобиль",
+      "excerpt": "Tesla вновь начала принимать предзаказы на Roadster следующего поколения. Для оформления заявки требуется внести $5000 с банковской карты, а затем в течение 10 дней перечислить ещё $45 000 банковским переводом.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tesla-otkryla-predzakazy-na-svoy-samyy-bystryy-a-2026-09-19.webp",
+      "metaTitle": "Tesla открыла предзаказы на свой самый быстрый автомобиль",
+      "metaDescription": "Tesla вновь начала принимать предзаказы на Roadster следующего поколения. Для оформления заявки требуется внести $5000 с банковской карты, а затем в т",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436797-tesla-otkryla-predzakazy-na-svoi-samyi-bystryi-avtomobil.html"
+    },
+    {
+      "id": "rocket-lab-zapustila-96-y-electron-eto-17-zapusk-2026-09-19",
+      "category": "Новости",
+      "title": "Rocket Lab запустила 96-й Electron: это 17 запуск ракеты у 2026 году",
+      "excerpt": "Rocket Lab успешно выполнила запуск ракеты Electron с космодрома Launch Complex 1 в Новой Зеландии. Старт состоялся 19 сентября, а основной задачей миссии Owl By The Dozen стала доставка спутника StriX японской компании Synspective на низкую околозем",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rocket-lab-zapustila-96-y-electron-eto-17-zapusk-2026-09-19.webp",
+      "metaTitle": "Rocket Lab запустила 96-й Electron: это 17 запуск ракеты у 2",
+      "metaDescription": "Rocket Lab успешно выполнила запуск ракеты Electron с космодрома Launch Complex 1 в Новой Зеландии. Старт состоялся 19 сентября, а основной задачей ми",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436800-rocket-lab-zapustila-96-i-electron-eto-17-zapusk-rakety-u-2026-godu.html"
+    },
+    {
+      "id": "nasa-zakazala-u-spacex-esche-tri-pilotiruemyh-mi-2026-09-19",
+      "category": "Новости",
+      "title": "NASA заказала у SpaceX ещё три пилотируемых миссии к МКС почти за миллиард долларов",
+      "excerpt": "NASA заключила со SpaceX дополнительное соглашение в рамках программы Commercial Crew Transportation Capability (CCtCap), заказав ещё три полёта к Международной космической станции.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nasa-zakazala-u-spacex-esche-tri-pilotiruemyh-mi-2026-09-19.webp",
+      "metaTitle": "NASA заказала у SpaceX ещё три пилотируемых миссии к МКС поч",
+      "metaDescription": "NASA заключила со SpaceX дополнительное соглашение в рамках программы Commercial Crew Transportation Capability (CCtCap), заказав ещё три полёта к Меж",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436803-nasa-zakazala-u-spacex-eshhe-tri-pilotiruemyx-missii-k-mks-pocti-za-milliard-dollarov.html"
+    },
+    {
+      "id": "samsung-raskryla-kogda-finalnaya-one-ui-9-0-vyyd-2026-09-19",
+      "category": "Новости",
+      "title": "Samsung раскрыла, когда финальная One UI 9.0 выйдет для Samsung Galaxy S25, Galaxy S25 Plus и Galaxy S25 Ultra",
+      "excerpt": "На этой неделе Samsung начала распространение финальной версии One UI 9.0 — первыми обновление получили смартфоны серии Galaxy S26 в Южной Корее. Теперь подразделение Samsung в Таиланде раскрыло сроки выхода прошивки за пределами домашнего рынка.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-raskryla-kogda-finalnaya-one-ui-9-0-vyyd-2026-09-19.webp",
+      "metaTitle": "Samsung раскрыла, когда финальная One UI 9.0 выйдет для Sams",
+      "metaDescription": "На этой неделе Samsung начала распространение финальной версии One UI 9.0 — первыми обновление получили смартфоны серии Galaxy S26 в Южной Корее. Тепе",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436802-samsung-raskryla-kogda-finalnaia-one-ui-90-vyidet-dlia-samsung-galaxy-s25-galaxy-s25-plus-i-galaxy-s25-ultra.html"
+    },
+    {
+      "id": "gruzovik-s-batareey-548-kvt-ch-i-aerodinamikoy-l-2026-09-19",
+      "category": "Новости",
+      "title": "Грузовик с батареей 548 кВт•ч и аэродинамикой лучше, чем у Bugatti Chiron: Tesla Semi оказался даже эффективнее прототипа",
+      "excerpt": "Top Gear опубликовал видео с серийной версией Tesla Semi, впервые показав полноценную производственную линию электрического тягача.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gruzovik-s-batareey-548-kvt-ch-i-aerodinamikoy-l-2026-09-19.webp",
+      "metaTitle": "Грузовик с батареей 548 кВт•ч и аэродинамикой лучше, чем у B",
+      "metaDescription": "Top Gear опубликовал видео с серийной версией Tesla Semi, впервые показав полноценную производственную линию электрического тягача.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436804-gruzovik-s-batareei-548-kvtc-i-aerodinamikoi-lucse-cem-u-bugatti-chiron-tesla-semi-okazalsia-daze-effektivnee-prototipa.html"
+    },
+    {
+      "id": "mask-poselilsya-v-treylere-ryadom-s-colossus-mil-2026-09-19",
+      "category": "Новости",
+      "title": "Маск поселился в трейлере рядом с Colossus — миллиардер лично контролирует расширение суперкомпьютера",
+      "excerpt": "Илон Маск заявил, что сейчас живёт в трейлере Airstream в Мемфисе, буквально в нескольких шагах от площадки xAI.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mask-poselilsya-v-treylere-ryadom-s-colossus-mil-2026-09-19.webp",
+      "metaTitle": "Маск поселился в трейлере рядом с Colossus — миллиардер личн",
+      "metaDescription": "Илон Маск заявил, что сейчас живёт в трейлере Airstream в Мемфисе, буквально в нескольких шагах от площадки xAI.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436805-mask-poselilsia-v-treilere-riadom-s-colossus-milliarder-licno-kontroliruet-rassirenie-superkompiutera.html"
+    },
+    {
+      "id": "v-ssha-mogut-zapretit-ustroystva-apple-samsung-i-2026-09-19",
+      "category": "Новости",
+      "title": "В США могут запретить устройства Apple, Samsung и Google — компании подозревают в нарушении патентов",
+      "excerpt": "Комиссия по международной торговле США (USITC) начала расследование в отношении Apple, Samsung и Google из-за предполагаемого нарушения патентов, связанных с аудиотехнологиями. В случае удовлетворения требований заявителя импорт некоторых устройств к",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-ssha-mogut-zapretit-ustroystva-apple-samsung-i-2026-09-19.webp",
+      "metaTitle": "В США могут запретить устройства Apple, Samsung и Google — к",
+      "metaDescription": "Комиссия по международной торговле США (USITC) начала расследование в отношении Apple, Samsung и Google из-за предполагаемого нарушения патентов, связ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436807-v-ssa-mogut-zapretit-ustroistva-apple-samsung-i-google-kompanii-podozrevaiut-v-narusenii-patentov.html"
+    },
+    {
+      "id": "dyson-vdohnovilsya-aviatsionnym-dvigatelyami-pre-2026-09-19",
+      "category": "Новости",
+      "title": "Dyson вдохновился авиационным двигателями: представлен очиститель воздуха Cruise Airflow",
+      "excerpt": "Представлен очиститель воздуха Dyson BP10 Cruise Airflow, который уже появился на JD.com в Китае и поступит в продажу 22 сентября.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dyson-vdohnovilsya-aviatsionnym-dvigatelyami-pre-2026-09-19.webp",
+      "metaTitle": "Dyson вдохновился авиационным двигателями: представлен очист",
+      "metaDescription": "Представлен очиститель воздуха Dyson BP10 Cruise Airflow, который уже появился на JD.com в Китае и поступит в продажу 22 сентября.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436808-dyson-vdoxnovilsia-aviacionnym-dvigateliami-predstavlen-ocistitel-vozduxa-cruise-airflow.html"
+    },
+    {
       "id": "anthropic-reshila-provesti-ipo-v-noyabre-i-skoro-2026-09-19",
       "category": "Новости",
       "title": "Anthropic решила провести IPO в ноябре, и скоро выйдет на уровень годовой выручки в $100 млрд",
