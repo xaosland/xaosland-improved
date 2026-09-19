@@ -1,6 +1,271 @@
 {
   "articles": [
     {
+      "id": "identity-visibility-in-2026-the-foundation-of-id-2026-09-19",
+      "category": "Новости",
+      "title": "Видимость личных данных в 2026 году: основа безопасности личных данных",
+      "excerpt": "Видимость личных данных является отправной точкой для современной безопасности личных данных, поскольку кражи и неправомерное использование учетных данных являются одними из наиболее часто упоминаемых векторов первоначального доступа в исследованиях ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/identity-visibility-in-2026-the-foundation-of-id-2026-09-19.webp",
+      "metaTitle": "Видимость личных данных в 2026 году: основа безопасности лич",
+      "metaDescription": "Видимость личных данных является отправной точкой для современной безопасности личных данных, поскольку кражи и неправомерное использование учетных да",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
+    },
+    {
+      "id": "issledovatel-openai-predupredil-ii-agenty-sposob-2026-09-19",
+      "category": "Новости",
+      "title": "Исследователь OpenAI предупредил: ИИ-агенты способны общаться даже на отключённых от Сети компьютерах",
+      "excerpt": "Исследователь OpenAI Ноам Браун (Noam Brown), обсуждая майский инцидент, в ходе которого экспериментальные ИИ-агенты компании вышли за пределы тестовой среды и получили доступ к ресурсам Hugging Face, назвал одну из причин, по которой их действия не ",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/issledovatel-openai-predupredil-ii-agenty-sposob-2026-09-19.webp",
+      "metaTitle": "Исследователь OpenAI предупредил: ИИ-агенты способны общатьс",
+      "metaDescription": "Исследователь OpenAI Ноам Браун (Noam Brown), обсуждая майский инцидент, в ходе которого экспериментальные ИИ-агенты компании вышли за пределы тестово",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148756"
+    },
+    {
+      "id": "kosmicheskaya-posylka-na-2-5-tonny-rossiyskiy-ko-2026-09-19",
+      "category": "Новости",
+      "title": "«Космическая посылка» на 2,5 тонны: российский космический корабль «Прогресс МС-35» причалил к МКС",
+      "excerpt": "Российский грузовой корабль «Прогресс МС-35» успешно пристыковался к Международной космической станции. Как сообщили в Роскосмосе, корабль причалил к модулю «Поиск» российского сегмента МКС.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kosmicheskaya-posylka-na-2-5-tonny-rossiyskiy-ko-2026-09-19.webp",
+      "metaTitle": "«Космическая посылка» на 2,5 тонны: российский космический к",
+      "metaDescription": "Российский грузовой корабль «Прогресс МС-35» успешно пристыковался к Международной космической станции. Как сообщили в Роскосмосе, корабль причалил к ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436899-kosmiceskaia-posylka-na-25-tonny-rossiiskii-kosmiceskii-korabl-progress-ms-35-pricalil-k-mks.html"
+    },
+    {
+      "id": "north-korean-waterplum-hackers-infected-30-000-d-2026-09-19",
+      "category": "Новости",
+      "title": "Северокорейские хакеры WaterPlum заразили 30 000 устройств по всему миру",
+      "excerpt": "В совместном сообщении правоохранительных органов предупреждается, что северокорейская хакерская группа WaterPlum взломала не менее 30 000 устройств по всему миру с декабря 2025 года по июль 2026 года и перевела в Северную Корею украденную криптовалю",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/north-korean-waterplum-hackers-infected-30-000-d-2026-09-19.webp",
+      "metaTitle": "Северокорейские хакеры WaterPlum заразили 30 000 устройств п",
+      "metaDescription": "В совместном сообщении правоохранительных органов предупреждается, что северокорейская хакерская группа WaterPlum взломала не менее 30 000 устройств п",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+    },
+    {
+      "id": "batareya-iphone-18-pro-max-okazalas-nastolko-bol-2026-09-19",
+      "category": "Новости",
+      "title": "Батарея iPhone 18 Pro Max оказалась настолько большой, что Apple добавила специальный режим разрядки",
+      "excerpt": "В iOS 27 появилась новая функция Prepare to Ship («Подготовить к отправке»), предназначенная для iPhone 18 Pro Max. Она связана с увеличившейся емкостью аккумулятора флагмана и требованиями к перевозке устройств с крупными литиевыми батареями.",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/batareya-iphone-18-pro-max-okazalas-nastolko-bol-2026-09-19.webp",
+      "metaTitle": "Батарея iPhone 18 Pro Max оказалась настолько большой, что A",
+      "metaDescription": "В iOS 27 появилась новая функция Prepare to Ship («Подготовить к отправке»), предназначенная для iPhone 18 Pro Max. Она связана с увеличившейся емкост",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/batareia-iphone-18-pro-max-okazalas-nastolko-bolsoi-cto-apple-dobavila-specalnyi-rezim-razriadki.html"
+    },
+    {
+      "id": "tigerbyte-cyber-emerges-from-stealth-with-3-mill-2026-09-19",
+      "category": "Новости",
+      "title": "TigerByte Cyber ​​выходит из стелса с финансированием в 3 миллиона долларов",
+      "excerpt": "Компания заключила контракты на сумму более 7 миллионов долларов с правительственными агентствами США, включая Космические силы США, ВМС США и DARPA. Сообщение TigerByte Cyber ​​выходит из скрытности с финансированием в 3 миллиона долларов впервые по",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tigerbyte-cyber-emerges-from-stealth-with-3-mill-2026-09-19.webp",
+      "metaTitle": "TigerByte Cyber ​​выходит из стелса с финансированием в 3 ми",
+      "metaDescription": "Компания заключила контракты на сумму более 7 миллионов долларов с правительственными агентствами США, включая Космические силы США, ВМС США и DARPA. ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/"
+    },
+    {
+      "id": "ochen-schedraya-skidka-komfortnyy-tehnologichnyy-2026-09-19",
+      "category": "Новости",
+      "title": "Очень щедрая скидка: «комфортный технологичный кроссовер» «Москвич М70» подешевел на 560 тысяч рублей",
+      "excerpt": "На новый кроссовер «Москвич М70» начали действовать специальные условия покупки — автомобиль можно купить с прямой скидкой в 560 тыс. рублей. Это прямая скидка, которая не привязана к кредитной программе или программе trade-in. Дисконт действует на к",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ochen-schedraya-skidka-komfortnyy-tehnologichnyy-2026-09-19.webp",
+      "metaTitle": "Очень щедрая скидка: «комфортный технологичный кроссовер» «М",
+      "metaDescription": "На новый кроссовер «Москвич М70» начали действовать специальные условия покупки — автомобиль можно купить с прямой скидкой в 560 тыс. рублей. Это прям",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436905-ocen-shhedraia-skidka-komfortnyi-texnologicnyi-krossover-moskvic-m70-podesevel-na-560-tysiac-rublei.html"
+    },
+    {
+      "id": "put-na-dno-sud-obyazal-microsoft-raskryt-vnutren-2026-09-19",
+      "category": "Новости",
+      "title": "Путь на дно: суд обязал Microsoft раскрыть внутренние документы и переписку топ-менеджеров в деле о перепродаже лицензий на ПО",
+      "excerpt": "Юридический спор, инициированный занимающейся перепродажей лицензионного ПО компанией ValueLicensing против Microsoft, выходит на новый уровень. Опубликован согласованный сторонами судебный приказ, обязывающий последнюю предоставить документы, связан",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/put-na-dno-sud-obyazal-microsoft-raskryt-vnutren-2026-09-19.webp",
+      "metaTitle": "Путь на дно: суд обязал Microsoft раскрыть внутренние докуме",
+      "metaDescription": "Юридический спор, инициированный занимающейся перепродажей лицензионного ПО компанией ValueLicensing против Microsoft, выходит на новый уровень. Опубл",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148686"
+    },
+    {
+      "id": "urezannaya-radeon-rx-9050-s-4-gbayt-pamyati-okaz-2026-09-19",
+      "category": "Новости",
+      "title": "Урезанная Radeon RX 9050 с 4 Гбайт памяти оказалась в среднем на 37 % медленнее версии с 8 Гбайт",
+      "excerpt": "YouTube-каналы Hardware Unboxed и Toasty Bros протестировали в играх видеокарту Radeon RX 9050 с 4 Гбайт памяти. Это урезанная версия модели начального уровня в линейке видеокарт на архитектуре RDNA 4. Источник изображения: YouTube / Hardware Unboxed",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/urezannaya-radeon-rx-9050-s-4-gbayt-pamyati-okaz-2026-09-19.webp",
+      "metaTitle": "Урезанная Radeon RX 9050 с 4 Гбайт памяти оказалась в средне",
+      "metaDescription": "YouTube-каналы Hardware Unboxed и Toasty Bros протестировали в играх видеокарту Radeon RX 9050 с 4 Гбайт памяти. Это урезанная версия модели начальног",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148757"
+    },
+    {
+      "id": "bragjack-attacks-hijack-ai-browser-agents-throug-2026-09-19",
+      "category": "Новости",
+      "title": "BragJack атакует агенты браузера AI с помощью вредоносных расширений",
+      "excerpt": "BragJack, атака для проверки концепции, проведенная Гэлом Вейцманом из Forever Security, захватывает ИИ-помощников в Chrome, Edge, Opera Neon, Perplexity Comet и Claude в Chrome с помощью одного вредоносного расширения. Метод «Быстрого принуждения» п",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bragjack-attacks-hijack-ai-browser-agents-throug-2026-09-19.webp",
+      "metaTitle": "BragJack атакует агенты браузера AI с помощью вредоносных ра",
+      "metaDescription": "BragJack, атака для проверки концепции, проведенная Гэлом Вейцманом из Forever Security, захватывает ИИ-помощников в Chrome, Edge, Opera Neon, Perplex",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/"
+    },
+    {
+      "id": "bystroe-razvitie-ii-ploho-medlennoe-tozhe-ploho--2026-09-19",
+      "category": "Новости",
+      "title": "Быстрое развитие ИИ — плохо, медленное — тоже плохо: на Anthropic, OpenAI, Google и xAI подали в суд за замедление развития нейросетей",
+      "excerpt": "Против Anthropic, OpenAI, Google и xAI подали коллективный антимонопольный иск, в котором компании обвиняют в координации действий для замедления развития передовых моделей искусственного интеллекта. Иск подан 18 сентября 2026 года в федеральный суд ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bystroe-razvitie-ii-ploho-medlennoe-tozhe-ploho--2026-09-19.webp",
+      "metaTitle": "Быстрое развитие ИИ — плохо, медленное — тоже плохо: на Anth",
+      "metaDescription": "Против Anthropic, OpenAI, Google и xAI подали коллективный антимонопольный иск, в котором компании обвиняют в координации действий для замедления разв",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436908-bystroe-razvitie-ii-ploxo-medlennoe-toze-ploxo-na-anthropic-openai-google-i-xai-podali-v-sud-za-zamedlenie-razvitiia-neirosetei.html"
+    },
+    {
+      "id": "noveyshiy-gibridnyy-geely-monjaro-nachali-prodav-2026-09-19",
+      "category": "Новости",
+      "title": "Новейший гибридный Geely Monjaro начали продавать в СНГ — в Азербайджане полноприводный 415-сильный кроссовер оценили в 59,9 тыс. манатов (3 млн рублей)",
+      "excerpt": "Geely вывела гибридный кроссовер Monjaro EM-i на рынок Азербайджана. Страна стала одним из первых глобальных рынков для новой модификации — раньше эта модель анонсировалась только для Египта. Автомобиль предложен в единственной полноприводной версии ",
+      "date": "2026-09-19",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/noveyshiy-gibridnyy-geely-monjaro-nachali-prodav-2026-09-19.webp",
+      "metaTitle": "Новейший гибридный Geely Monjaro начали продавать в СНГ — в ",
+      "metaDescription": "Geely вывела гибридный кроссовер Monjaro EM-i на рынок Азербайджана. Страна стала одним из первых глобальных рынков для новой модификации — раньше эта",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436909-noveisii-gibridnyi-geely-monjaro-nacali-prodavat-v-sng-v-azerbaidzane-polnoprivodnyi-415-silnyi-krossover-ocenili-v-599-tys-manatov-3-mln-rublei.html"
+    },
+    {
+      "id": "kosmicheskaya-pyl-perezhila-vzryv-zvezdy-dzheyms-2026-09-19",
+      "category": "Новости",
+      "title": "Космическая пыль пережила взрыв звезды: «Джеймс Уэбб» нашёл рекордно старый пылевой резервуар в сверхновой спустя 40 лет после вспышки",
+      "excerpt": "Анализ архивных данных космического телескопа «Джеймс Уэбб» (JWST) выявил мощный инфракрасный источник на месте вспышки сверхновой SN 1983V, обнаруженной ещё в ноябре 1983 года в галактике NGC 1365. Группа астрофизиков воспользовалась моментом: сверх",
+      "date": "2026-09-19",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kosmicheskaya-pyl-perezhila-vzryv-zvezdy-dzheyms-2026-09-19.webp",
+      "metaTitle": "Космическая пыль пережила взрыв звезды: «Джеймс Уэбб» нашёл ",
+      "metaDescription": "Анализ архивных данных космического телескопа «Джеймс Уэбб» (JWST) выявил мощный инфракрасный источник на месте вспышки сверхновой SN 1983V, обнаружен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/19/436910-kosmiceskaia-pyl-perezila-vzryv-zvezdy-dzeims-uebb-nasel-rekordno-staryi-pylevoi-rezervuar-v-sverxnovoi-spustia-40-let-posle-vspyski.html"
+    },
+    {
       "id": "novye-versii-wine-11-18-i-wine-staging-11-18-2026-09-19",
       "category": "Новости",
       "title": "Новые версии Wine 11.18 и Wine-staging 11.18",
