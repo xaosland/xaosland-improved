@@ -1,6 +1,289 @@
 {
   "articles": [
     {
+      "id": "kitay-vklyuchil-kosmicheskiy-konveyer-4-raznye-r-2026-09-20",
+      "category": "Новости",
+      "title": "Китай включил космический конвейер: 4 разные ракеты за 45 часов вывели на орбиту 30 спутников",
+      "excerpt": "Китай провел четыре успешных орбитальных запуска всего за 45 часов. С 15 по 17 сентября с трех стартовых площадок взлетели четыре разные ракеты, две из которых принадлежат частным компаниям. В общей сложности на орбиту вывели 30 спутников.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-vklyuchil-kosmicheskiy-konveyer-4-raznye-r-2026-09-20.webp",
+      "metaTitle": "Китай включил космический конвейер: 4 разные ракеты за 45 ча",
+      "metaDescription": "Китай провел четыре успешных орбитальных запуска всего за 45 часов. С 15 по 17 сентября с трех стартовых площадок взлетели четыре разные ракеты, две и",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437139-kitai-vkliucil-kosmiceskii-konveier-4-raznye-rakety-za-45-casov-vyveli-na-orbitu-30-sputnikov.html"
+    },
+    {
+      "id": "geely-atlas-samaya-populyarnaya-benzinovaya-mash-2026-09-20",
+      "category": "Новости",
+      "title": "Geely Atlas — самая популярная бензиновая машина в Китае в 2026 году, Geely Monjaro и Toyota Camry — в топ-10",
+      "excerpt": "Несмотря на стремительный рост продаж электромобилей, автомобили с двигателями внутреннего сгорания по-прежнему пользуются высоким спросом в Китае. По данным о регистрациях новых машин за январь–август 2026 года, самым популярным автомобилем с ДВС ст",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/geely-atlas-samaya-populyarnaya-benzinovaya-mash-2026-09-20.webp",
+      "metaTitle": "Geely Atlas — самая популярная бензиновая машина в Китае в 2",
+      "metaDescription": "Несмотря на стремительный рост продаж электромобилей, автомобили с двигателями внутреннего сгорания по-прежнему пользуются высоким спросом в Китае. По",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437141-geely-atlas-samaia-populiarna-benzinovaia-masina-v-kitae-v-2026-godu-geely-monjaro-i-toyota-camry-v-top-10.html"
+    },
+    {
+      "id": "valve-opublikovala-instrumentariy-lepton-dlya-za-2026-09-20",
+      "category": "Новости",
+      "title": "Valve опубликовала инструментарий Lepton для запуска Android-игр в Linux",
+      "excerpt": "Компания Valve развивает инструментарий Lepton, позволяющий запускать в Linux игры, поставляемые для платформы Android.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Valve опубликовала инструментарий Lepton для запуска Android",
+      "metaDescription": "Компания Valve развивает инструментарий Lepton, позволяющий запускать в Linux игры, поставляемые для платформы Android.",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66309"
+    },
+    {
+      "id": "ofitsialno-xiaomi-18-pro-budet-dorozhe-xiaomi-17-2026-09-20",
+      "category": "Новости",
+      "title": "Официально: Xiaomi 18 Pro будет дороже Xiaomi 17 Pro",
+      "excerpt": "Сегодня Xiaomi официально анонсировала дату премьеры новых флагманов Xiaomi 18 Pro и опубликовала официальные изображения смартфона. А президент Xiaomi Group Лу Вейбинг прямо указал на то, что новые модели будут дороже аппаратов линейки Xiaomi 17 Pro",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ofitsialno-xiaomi-18-pro-budet-dorozhe-xiaomi-17-2026-09-20.webp",
+      "metaTitle": "Официально: Xiaomi 18 Pro будет дороже Xiaomi 17 Pro",
+      "metaDescription": "Сегодня Xiaomi официально анонсировала дату премьеры новых флагманов Xiaomi 18 Pro и опубликовала официальные изображения смартфона. А президент Xiaom",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437142-oficialno-xiaomi-18-pro-budet-doroze-xiaomi-17-pro.html"
+    },
+    {
+      "id": "boeing-777f-razreshili-vypuskat-do-2031-goda-nes-2026-09-20",
+      "category": "Новости",
+      "title": "Boeing 777F разрешили выпускать до 2031 года, несмотря на то, что эти самолеты не будут соответствовать новым требованиям по топливной эффективности",
+      "excerpt": "Федеральное управление гражданской авиации США (FAA) разрешило Boeing продолжить производство грузовых 777F после вступления в силу новых требований к топливной эффективности. Исключение, подписанное 15 сентября, позволяет сертифицировать до 35 новых",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/boeing-777f-razreshili-vypuskat-do-2031-goda-nes-2026-09-20.webp",
+      "metaTitle": "Boeing 777F разрешили выпускать до 2031 года, несмотря на то",
+      "metaDescription": "Федеральное управление гражданской авиации США (FAA) разрешило Boeing продолжить производство грузовых 777F после вступления в силу новых требований к",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437145-boeing-777f-razresili-vypuskat-do-2031-goda-nesmotria-na-to-cto-eti-samolety-ne-budut-sootvetstvovat-novym-trebovaniiam-po-toplivnoi-effektivnosti.html"
+    },
+    {
+      "id": "20-000-mach-67-vt-i-15-000-mach-80-vt-oppo-pokaz-2026-09-20",
+      "category": "Новости",
+      "title": "20 000 мАч/67 Вт и 15 000 мАч/80 Вт — Oppo показала новые мобильные аккумуляторы",
+      "excerpt": "Oppo анонсировала обновленную линейку зарядных аксессуаров, которые представят вместе с флагманскими смартфонами серии Find X10. Среди новинок — два внешних аккумулятора емкостью 15 000 и 20 000 мА·ч, а также тонкая магнитная модель.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/20-000-mach-67-vt-i-15-000-mach-80-vt-oppo-pokaz-2026-09-20.webp",
+      "metaTitle": "20 000 мАч/67 Вт и 15 000 мАч/80 Вт — Oppo показала новые мо",
+      "metaDescription": "Oppo анонсировала обновленную линейку зарядных аксессуаров, которые представят вместе с флагманскими смартфонами серии Find X10. Среди новинок — два в",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437147-20-000-mac67-vt-i-15-000-mac80-vt-oppo-pokazala-novye-mobilnye-akkumuliatory.html"
+    },
+    {
+      "id": "boeing-hochet-vypuskat-do-63-samoletov-737-max-v-2026-09-20",
+      "category": "Новости",
+      "title": "Boeing хочет выпускать до 63 самолетов 737 MAX в месяц, но сначала придется решить проблему с крыльями",
+      "excerpt": "Boeing наращивает производство семейства 737 MAX до 47 самолетов в месяц, однако пока не может стабильно удерживать этот темп. Глава компании Келли Ортберг признал, что переход с 42 до 47 машин занял больше времени, чем планировалось.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/boeing-hochet-vypuskat-do-63-samoletov-737-max-v-2026-09-20.webp",
+      "metaTitle": "Boeing хочет выпускать до 63 самолетов 737 MAX в месяц, но с",
+      "metaDescription": "Boeing наращивает производство семейства 737 MAX до 47 самолетов в месяц, однако пока не может стабильно удерживать этот темп. Глава компании Келли Ор",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437150-boeing-xocet-vypuskat-do-63-samoletov-737-max-v-mesiac-no-snacala-pridetsia-resit-problemu-s-kryliami.html"
+    },
+    {
+      "id": "model-bez-teksta-vmesto-llm-sozdatel-chatgpt-vyp-2026-09-20",
+      "category": "Новости",
+      "title": "Модель без текста вместо LLM: создатель ChatGPT выпустил «модель для быстрых решений»",
+      "excerpt": "Диогу Алмейда, бывший исследователь OpenAI, участвовавший в создании ChatGPT и разработке RLHF (обучения с подкреплением на основе обратной связи от людей), считает, что большие языковые модели слишком сильно оптимизированы под человеческий язык. По ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/model-bez-teksta-vmesto-llm-sozdatel-chatgpt-vyp-2026-09-20.webp",
+      "metaTitle": "Модель без текста вместо LLM: создатель ChatGPT выпустил «мо",
+      "metaDescription": "Диогу Алмейда, бывший исследователь OpenAI, участвовавший в создании ChatGPT и разработке RLHF (обучения с подкреплением на основе обратной связи от л",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437149-model-bez-teksta-vmesto-llm-sozdatel-chatgpt-vypustil-model-dlia-bystryx-resenii.html"
+    },
+    {
+      "id": "razvenchan-mif-o-edinom-istochnike-razvitiya-moz-2026-09-20",
+      "category": "Новости",
+      "title": "Развенчан миф о едином источнике развития мозга: потребовались два разных типа клеток-предшественников",
+      "excerpt": "Десятилетиями в эмбриологии держалось представление, что весь мозг позвоночных вырастает из единой популяции стволовых клеток. Исследование, опубликованное в Nature Neuroscience, впервые на прямых экспериментальных данных показывает: для построения о",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/razvenchan-mif-o-edinom-istochnike-razvitiya-moz-2026-09-20.webp",
+      "metaTitle": "Развенчан миф о едином источнике развития мозга: потребовали",
+      "metaDescription": "Десятилетиями в эмбриологии держалось представление, что весь мозг позвоночных вырастает из единой популяции стволовых клеток. Исследование, опубликов",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437152-razvencan-mif-o-edinom-istocnike-razvitiia-mozga-potrebovalis-dva-raznyx-tipa-kletok-predsestvennikov.html"
+    },
+    {
+      "id": "samyy-populyarnyy-benzinovyy-avtomobil-kitaya-ge-2026-09-20",
+      "category": "Новости",
+      "title": "Самый популярный бензиновый автомобиль Китая — Geely Atlas — станет лучше. 24 сентября представят Geely Atlas L: 313 л.с. и расход всего 4,67 л/100 км",
+      "excerpt": "Geely объявила дату премьеры обновленного Atlas L (в Китае он называется Boyue L) — кроссовер представят 24 сентября. Модель получила изменения во внешности и салоне, более мощный бензиновый двигатель, новую гибридную установку i-HEV и расширенный ко",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samyy-populyarnyy-benzinovyy-avtomobil-kitaya-ge-2026-09-20.webp",
+      "metaTitle": "Самый популярный бензиновый автомобиль Китая — Geely Atlas —",
+      "metaDescription": "Geely объявила дату премьеры обновленного Atlas L (в Китае он называется Boyue L) — кроссовер представят 24 сентября. Модель получила изменения во вне",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437155-samyi-populiarnyi-benzinovyi-avtomobil-kitaia-geely-atlas-stanet-lucse-24-sentiabria-predstaviat-geely-atlas-l-313-ls-i-rasxod-vsego-467-l100-km.html"
+    },
+    {
+      "id": "ii-sam-sproektiroval-chip-dlya-ii-ot-zadaniya-do-2026-09-20",
+      "category": "Новости",
+      "title": "ИИ сам спроектировал чип для ИИ: от задания до рабочего прототипа за две недели",
+      "excerpt": "Система Architect Labs Platform самостоятельно спроектировала энергоэффективный ИИ-ускоритель Redwood, начиная с текстового технического задания и заканчивая рабочей реализацией на программируемой вентильной матрице (FPGA). Инженеры задали только выс",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-sam-sproektiroval-chip-dlya-ii-ot-zadaniya-do-2026-09-20.webp",
+      "metaTitle": "ИИ сам спроектировал чип для ИИ: от задания до рабочего прот",
+      "metaDescription": "Система Architect Labs Platform самостоятельно спроектировала энергоэффективный ИИ-ускоритель Redwood, начиная с текстового технического задания и зак",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437153-ii-sam-sproektiroval-cip-dlia-ii-ot-zadaniia-do-rabocego-prototipa-za-dve-nedeli.html"
+    },
+    {
+      "id": "novyy-audi-s5-avant-nachali-prodavat-v-kitae-mot-2026-09-20",
+      "category": "Новости",
+      "title": "Новый Audi S5 Avant начали продавать в Китае: мотор V6 на 367 л.с. под капотом и изогнутые экраны OLED в салоне",
+      "excerpt": "Новый Audi S5 Avant официально вышел на китайский рынок. Спортивный универсал построен на платформе PPC, а под капотом — 3,0-литровый турбированный V6. На старте продаж предлагается специальная версия First Edition, выпущенная тиражом всего 99 экземп",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-audi-s5-avant-nachali-prodavat-v-kitae-mot-2026-09-20.webp",
+      "metaTitle": "Новый Audi S5 Avant начали продавать в Китае: мотор V6 на 36",
+      "metaDescription": "Новый Audi S5 Avant официально вышел на китайский рынок. Спортивный универсал построен на платформе PPC, а под капотом — 3,0-литровый турбированный V6",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437157-novyi-audi-s5-avant-nacali-prodavat-v-kitae-motor-v6-na-367-ls-pod-kapotom-i-izognutye-ekrany-oled-v-salone.html"
+    },
+    {
+      "id": "personalizirovannaya-rnk-terapiya-pomogla-patsie-2026-09-20",
+      "category": "Новости",
+      "title": "Персонализированная РНК-терапия помогла пациенту с редчайшей формой БАС сохранить работу врача",
+      "excerpt": "Впервые человек с боковым амиотрофическим склерозом, вызванным редкой мутацией, получил препарат, спроектированный именно под неё. Спустя год пациент — практикующий врач — продолжает работать и демонстрирует улучшение двигательных функций.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/personalizirovannaya-rnk-terapiya-pomogla-patsie-2026-09-20.webp",
+      "metaTitle": "Персонализированная РНК-терапия помогла пациенту с редчайшей",
+      "metaDescription": "Впервые человек с боковым амиотрофическим склерозом, вызванным редкой мутацией, получил препарат, спроектированный именно под неё. Спустя год пациент ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437156-personalizirovannaia-rnk-terapiia-pomogla-pacientu-s-redcaisei-formoi-bas-soxranit-rabotu-vraca.html"
+    },
+    {
+      "id": "v-kitae-zavershilsya-kosmicheskiy-eksperiment-ly-2026-09-20",
+      "category": "Новости",
+      "title": "В Китае завершился космический эксперимент: люди должны были 30 дней лежать на кровати за 70 тыс. юаней (880 тыс. рублей)",
+      "excerpt": "Китай завершил медико-биологический эксперимент «Земля — Звезда-3», в рамках которого ученые проверяли способы защиты организма человека во время длительных космических полетов и будущих пилотируемых миссий на Луну. Результаты показали, что разработа",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-kitae-zavershilsya-kosmicheskiy-eksperiment-ly-2026-09-20.webp",
+      "metaTitle": "В Китае завершился космический эксперимент: люди должны были",
+      "metaDescription": "Китай завершил медико-биологический эксперимент «Земля — Звезда-3», в рамках которого ученые проверяли способы защиты организма человека во время длит",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437159-v-kitae-zaversilsia-kosmiceskii-eksperiment-liudi-dolzny-byli-30-dnei-lezat-na-krovati-za-70-tys-iuanei-880-ty-rublei.html"
+    },
+    {
       "id": "5-metrovyy-gibridnyy-sedan-geely-s-maksimalnym-o-2026-09-20",
       "category": "Новости",
       "title": "5-метровый гибридный седан Geely с максимальным оснащением и адаптивной подвеской — всего 145,7 тыс. юаней (1,83 млн рублей). Geely Preface L Plus вышел в Китае",
