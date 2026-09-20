@@ -1,6 +1,312 @@
 {
   "articles": [
     {
+      "id": "iphone-18-pro-max-brosali-s-raznoy-vysoty-i-srav-2026-09-20",
+      "category": "Новости",
+      "title": "iPhone 18 Pro Max бросали с разной высоты и сравнили результаты с Galaxy S26 Ultra. Авторы PhoneBuff провели своё испытание",
+      "excerpt": "Авторы канала PhoneBuff сравнили новенький iPhone 18 Pro Max и Galaxy S26 Ultra, роняя их на пол с разной высоты и в разных положениях при помощи роботизированного манипулятора.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-max-brosali-s-raznoy-vysoty-i-srav-2026-09-20.webp",
+      "metaTitle": "iPhone 18 Pro Max бросали с разной высоты и сравнили результ",
+      "metaDescription": "Авторы канала PhoneBuff сравнили новенький iPhone 18 Pro Max и Galaxy S26 Ultra, роняя их на пол с разной высоты и в разных положениях при помощи робо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437051-iphone-18-pro-max-brosali-s-raznoi-vysoty-i-sravnili-rezultaty-s-galaxy-s26-ultra-avtory-phonebuff-proveli-svoe-ispytanie.html"
+    },
+    {
+      "id": "nozhom-v-mladentsa-otvertkoy-v-toster-pauerbank--2026-09-20",
+      "category": "Новости",
+      "title": "Ножом в младенца, отверткой в тостер, пауэрбанк в воду: GPT-6 Astra доверили управление роботом, и в 60 опасных экспериментах она всё довела до конца",
+      "excerpt": "Исследовательская компания Robocurve проверила, насколько современные ИИ-модели способны распознавать опасные команды, когда получают непосредственный контроль над физическими роботами. В эксперименте RoboHarm участвовали GPT-6 Astra, Claude Fable 5.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nozhom-v-mladentsa-otvertkoy-v-toster-pauerbank--2026-09-20.webp",
+      "metaTitle": "Ножом в младенца, отверткой в тостер, пауэрбанк в воду: GPT-",
+      "metaDescription": "Исследовательская компания Robocurve проверила, насколько современные ИИ-модели способны распознавать опасные команды, когда получают непосредственный",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437052-nozom-v-mladenca-otvertkoi-v-toster-pauerbank-v-vodu-gpt-6-astra-doveril-upravlenie-robotom-i-v-60-opasnyx-eksperimentax-ona-vse-dovela-do-konca.html"
+    },
+    {
+      "id": "besposchadnaya-razborka-iphone-18-pro-max-pokaza-2026-09-20",
+      "category": "Новости",
+      "title": "Беспощадная разборка iPhone 18 Pro Max показала наличие внутри крошечной медной подушки и огромной испарительной камеры",
+      "excerpt": "Блогер JerryRigEverything после своих обычных тестов iPhone 18 Pro решил разобрать смартфон и подробно показать все его внутренние особенности.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/besposchadnaya-razborka-iphone-18-pro-max-pokaza-2026-09-20.webp",
+      "metaTitle": "Беспощадная разборка iPhone 18 Pro Max показала наличие внут",
+      "metaDescription": "Блогер JerryRigEverything после своих обычных тестов iPhone 18 Pro решил разобрать смартфон и подробно показать все его внутренние особенности.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437055-besposhhadnaia-razborka-iphone-18-pro-max-pokazala-nalicie-vnutri-krosecnoi-mednoi-poduski-i-ogromnoi-isparitelnoi-kamery.html"
+    },
+    {
+      "id": "kompakt-diski-vernulis-v-modu-no-proizvoditelyam-2026-09-20",
+      "category": "Новости",
+      "title": "Компакт-диски вернулись в моду, но производителям проигрывателей не хватает приводов",
+      "excerpt": "Возрождение интереса к компакт-дискам столкнулось с неожиданной проблемой: производителям Hi-Fi-техники становится все сложнее находить оптические механизмы для CD- и SACD-проигрывателей. Поставщики постепенно прекращают их выпуск, а небольшой рынок ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kompakt-diski-vernulis-v-modu-no-proizvoditelyam-2026-09-20.webp",
+      "metaTitle": "Компакт-диски вернулись в моду, но производителям проигрыват",
+      "metaDescription": "Возрождение интереса к компакт-дискам столкнулось с неожиданной проблемой: производителям Hi-Fi-техники становится все сложнее находить оптические мех",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437058-kompakt-diski-vernulis-v-modu-no-proizvoditeliam-proigryvatelei-ne-xvataet-privodov.html"
+    },
+    {
+      "id": "dva-nebolshih-ekrana-novyy-chip-qualcomm-android-2026-09-20",
+      "category": "Новости",
+      "title": "Два небольших экрана, новый чип Qualcomm, Android 16 и цена 220 долларов. Представлена портативная консоль Retroid Duo Lite+",
+      "excerpt": "Компания Retroid представила ещё одну портативную игровую приставку в формате раскладушки. Модель Duo Lite+ стала более быстрой версией Duo Lite, перейдя бюджетной платформы Qualcomm Dragonwing QCS6125 на Dragonwing Q-7790, как у старшей версии.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dva-nebolshih-ekrana-novyy-chip-qualcomm-android-2026-09-20.webp",
+      "metaTitle": "Два небольших экрана, новый чип Qualcomm, Android 16 и цена ",
+      "metaDescription": "Компания Retroid представила ещё одну портативную игровую приставку в формате раскладушки. Модель Duo Lite+ стала более быстрой версией Duo Lite, пере",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437059-dva-nebolsix-ekrana-novyi-cip-qualcomm-android-16-i-cena-220-dollarov-predstavlena-portativnaia-konsol-retroid-duo-lite.html"
+    },
+    {
+      "id": "noveyshaya-oled-panel-i-podsvetka-ambiglow-s-pod-2026-09-20",
+      "category": "Новости",
+      "title": "Новейшая OLED-панель и подсветка Ambiglow с поддержкой Matter. Представлен монитор Philips Evnia 34M2C8600P",
+      "excerpt": "Кроме сверхширокоформатного монитора Evnia 34M2C5601QA на панели VA компания Philips также выпустила похожую модель Evnia 34M2C8600P, но на панели OLED.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/noveyshaya-oled-panel-i-podsvetka-ambiglow-s-pod-2026-09-20.webp",
+      "metaTitle": "Новейшая OLED-панель и подсветка Ambiglow с поддержкой Matte",
+      "metaDescription": "Кроме сверхширокоформатного монитора Evnia 34M2C5601QA на панели VA компания Philips также выпустила похожую модель Evnia 34M2C8600P, но на панели OLE",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437062-noveisaia-oled-panel-i-podsvetka-ambiglow-s-podderzkoi-matter-predstavlen-monitor-philips-evnia-34m2c8600p.html"
+    },
+    {
+      "id": "eto-pervyy-noutbuk-asus-novogo-klassa-v-set-popa-2026-09-20",
+      "category": "Новости",
+      "title": "Это первый ноутбук Asus нового класса. В Сеть попали изображения Asus Googlebook до анонса",
+      "excerpt": "В Сеть попали изображения ноутбука Asus Googlebook, который пока ещё не был анонсирован. Учитывая, что принимать предзаказы на «гуглбуки» должны уже с завтрашнего дня, вероятно, анонс состоится сегодня или завтра.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/eto-pervyy-noutbuk-asus-novogo-klassa-v-set-popa-2026-09-20.webp",
+      "metaTitle": "Это первый ноутбук Asus нового класса. В Сеть попали изображ",
+      "metaDescription": "В Сеть попали изображения ноутбука Asus Googlebook, который пока ещё не был анонсирован. Учитывая, что принимать предзаказы на «гуглбуки» должны уже с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437067-eto-pervyi-noutbuk-asus-novogo-klassa-v-set-popali-izobrazeniia-asus-googlebook-do-anonsa.html"
+    },
+    {
+      "id": "novyy-chip-a20-pro-eto-prosto-zver-entuziast-zap-2026-09-20",
+      "category": "Новости",
+      "title": "«Новый чип A20 Pro — это просто зверь». Энтузиаст запустил на iPhone 18 Pro ИИ-модель с 27 млрд параметров",
+      "excerpt": "iPhone 18 Pro продемонстрировал заметный прирост производительности при локальном запуске больших языковых моделей. Энтузиаст Адриен Грондин запустил непосредственно на смартфоне ИИ-модель Bonsai-27B с 27 млрд параметров. В ходе демонстрации скорость",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-chip-a20-pro-eto-prosto-zver-entuziast-zap-2026-09-20.webp",
+      "metaTitle": "«Новый чип A20 Pro — это просто зверь». Энтузиаст запустил н",
+      "metaDescription": "iPhone 18 Pro продемонстрировал заметный прирост производительности при локальном запуске больших языковых моделей. Энтузиаст Адриен Грондин запустил ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437066-novyi-cip-a20-pro-eto-prosto-zver-entuziast-zapustil-na-na-iphone-18-pro-ii-model-s-27-mlrd-parametrov.html"
+    },
+    {
+      "id": "vo-skolko-oboydetsya-remont-xiaomi-18-fold-stali-2026-09-20",
+      "category": "Новости",
+      "title": "Во сколько обойдётся ремонт Xiaomi 18 Fold. Стали известны китайские цены на основные запчасти",
+      "excerpt": "Ремонт складного смартфон Xiaomi 18 Fold обойдётся весьма недёшево. В Сети появились данные о ценах на ряд компонентов, включая экраны.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vo-skolko-oboydetsya-remont-xiaomi-18-fold-stali-2026-09-20.webp",
+      "metaTitle": "Во сколько обойдётся ремонт Xiaomi 18 Fold. Стали известны к",
+      "metaDescription": "Ремонт складного смартфон Xiaomi 18 Fold обойдётся весьма недёшево. В Сети появились данные о ценах на ряд компонентов, включая экраны.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437070-vo-skolko-oboidetsia-remont-xiaomi-18-fold-stali-izvestny-kitaiskie-ceny-na-osnovnye-zapcasti.html"
+    },
+    {
+      "id": "takova-tsena-vladeniya-premialnym-ne-kitayskim-a-2026-09-20",
+      "category": "Новости",
+      "title": "«Такова цена владения премиальным не китайским автомобилем». В Россию привезли Volvo EX90 из США — 680 л.с. и полный привод за 16 млн рублей",
+      "excerpt": "Один из российских дилеров Volvo провел презентацию электрического флагманского кроссовера EX90. Модель официально на российский рынок не поставляется, однако автомобили уже доступны для покупки по каналам альтернативного импорта. На презентации пока",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/takova-tsena-vladeniya-premialnym-ne-kitayskim-a-2026-09-20.webp",
+      "metaTitle": "«Такова цена владения премиальным не китайским автомобилем».",
+      "metaDescription": "Один из российских дилеров Volvo провел презентацию электрического флагманского кроссовера EX90. Модель официально на российский рынок не поставляется",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437071-takova-cena-vladeniia-premialnym-ne-kitaiskim-avtomobilem-v-rossiiu-privezli-volvo-ex90-iz-ssa-680-ls-i-polnyi-privod-za-16-mln-rublei.html"
+    },
+    {
+      "id": "igrovoy-chip-snapdragon-s-aktivnym-ohlazhdeniem--2026-09-20",
+      "category": "Новости",
+      "title": "Игровой чип Snapdragon с активным охлаждением, батарея почти 10 000 мАч и цена 350 долларов. Представлена консоль Arc X1",
+      "excerpt": "Компания Arc представила портативную игровую Android-консоль X1, которая визуально больше похожа на Windows-приставки. Как минимум, в отличие от многих Android-моделей, тут достаточно крупный 7-дюймовый экран.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/igrovoy-chip-snapdragon-s-aktivnym-ohlazhdeniem--2026-09-20.webp",
+      "metaTitle": "Игровой чип Snapdragon с активным охлаждением, батарея почти",
+      "metaDescription": "Компания Arc представила портативную игровую Android-консоль X1, которая визуально больше похожа на Windows-приставки. Как минимум, в отличие от многи",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437072-igrovoi-cip-snapdragon-s-aktivnym-oxlazdeniem-batareia-pocti-10-000-mac-i-cena-350-dollarov-predstavlena-konsol-arc-x1.html"
+    },
+    {
+      "id": "prezident-ssha-obyavil-o-sozdanii-sil-ii-ih-vozg-2026-09-20",
+      "category": "Новости",
+      "title": "Президент США объявил о создании «Сил ИИ» — их возглавит «царь ИИ»",
+      "excerpt": "Президент США Дональд Трамп (Donald Trump) заявил в субботу, что планирует создать «Силы искусственного интеллекта», которые возглавит «царь ИИ», на фоне растущих призывов ограничить стремительное развитие этой технологии. Источник изображения: Aerps",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/prezident-ssha-obyavil-o-sozdanii-sil-ii-ih-vozg-2026-09-20.webp",
+      "metaTitle": "Президент США объявил о создании «Сил ИИ» — их возглавит «ца",
+      "metaDescription": "Президент США Дональд Трамп (Donald Trump) заявил в субботу, что планирует создать «Силы искусственного интеллекта», которые возглавит «царь ИИ», на ф",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148772"
+    },
+    {
+      "id": "tramp-obyavil-o-sozdanii-ii-sil-i-naznachenii-no-2026-09-20",
+      "category": "Новости",
+      "title": "Трамп объявил о создании «ИИ-сил» и назначении нового «царя ИИ»",
+      "excerpt": "Президент США Дональд Трамп заявил о планах назначить нового советника по искусственному интеллекту, которого уже неофициально называют «царем ИИ», а также создать специальные «ИИ силы» (по аналогии с Космическими силами США). При этом он не раскрыл,",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tramp-obyavil-o-sozdanii-ii-sil-i-naznachenii-no-2026-09-20.webp",
+      "metaTitle": "Трамп объявил о создании «ИИ-сил» и назначении нового «царя ",
+      "metaDescription": "Президент США Дональд Трамп заявил о планах назначить нового советника по искусственному интеллекту, которого уже неофициально называют «царем ИИ», а ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437075-tramp-obieiavil-o-sozdanii-ii-sil-i-naznacenii-novogo-caria-ii.html"
+    },
+    {
+      "id": "uchenye-nashli-sposob-zamedlit-ostyvanie-elektro-2026-09-20",
+      "category": "Новости",
+      "title": "Учёные нашли способ замедлить остывание электронов в солнечных панелях в 1000 раз — это путь за нынешний предел КПД",
+      "excerpt": "Материал на основе олова позволит солнечным панелям удерживать тепло в 1000 раз дольше || Учёные нашли способ повысить эффективность солнечных панелей за счёт более долгого удержания «горячих» электронов",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-nashli-sposob-zamedlit-ostyvanie-elektro-2026-09-20.webp",
+      "metaTitle": "Учёные нашли способ замедлить остывание электронов в солнечн",
+      "metaDescription": "Материал на основе олова позволит солнечным панелям удерживать тепло в 1000 раз дольше || Учёные нашли способ повысить эффективность солнечных панелей",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148773"
+    },
+    {
+      "id": "novye-umnye-vesy-xiaomi-mijia-body-fat-scale-4-p-2026-09-20",
+      "category": "Новости",
+      "title": "Новые умные весы Xiaomi Mijia Body Fat Scale 4 Pro анализируют состав тела и работают 150 дней на одной зарядке",
+      "excerpt": "Xiaomi представила Mijia Body Fat Scale 4 Pro — новые умные весы для измерения массы и состава тела. Это первая модель в линейке Mijia со встроенным перезаряжаемым аккумулятором. Предзаказы в рамках программы коллективного финансирования стартуют 21 ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novye-umnye-vesy-xiaomi-mijia-body-fat-scale-4-p-2026-09-20.webp",
+      "metaTitle": "Новые умные весы Xiaomi Mijia Body Fat Scale 4 Pro анализиру",
+      "metaDescription": "Xiaomi представила Mijia Body Fat Scale 4 Pro — новые умные весы для измерения массы и состава тела. Это первая модель в линейке Mijia со встроенным п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437077-novye-umnye-vesy-xiaomi-mijia-body-fat-scale-4-pro-analiziruiut-sostav-tela-i-rabotaiut-150-dnei-na-odnoi-zariadke.html"
+    },
+    {
       "id": "predstavlena-kroshechnaya-britva-philips-firefly-2026-09-20",
       "category": "Новости",
       "title": "Представлена крошечная бритва Philips Firefly с фонариком, которая работает до 40 дней",
