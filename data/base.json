@@ -1,6 +1,310 @@
 {
   "articles": [
     {
+      "id": "on-budet-letat-vo-vremya-prezentatsii-novogo-tes-2026-09-20",
+      "category": "Новости",
+      "title": "Он будет летать? Во время презентации нового Tesla Roadster над базой SpaceX закрыли воздушное пространство",
+      "excerpt": "Федеральное управление гражданской авиации США (FAA) ввело временное ограничение полётов над испытательным полигоном SpaceX в Макгрегоре, штат Техас, недалеко от Уэйко. Оно действует до 2 октября, а днем ранее запланировано мероприятие Tesla, посвящё",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/on-budet-letat-vo-vremya-prezentatsii-novogo-tes-2026-09-20.webp",
+      "metaTitle": "Он будет летать? Во время презентации нового Tesla Roadster ",
+      "metaDescription": "Федеральное управление гражданской авиации США (FAA) ввело временное ограничение полётов над испытательным полигоном SpaceX в Макгрегоре, штат Техас, ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437006-on-budet-letat-vo-vremia-prezentacii-novogo-tesla-roadster-nad-bazoi-spacex-zakryli-vozdusnoe-prostranstvo.html"
+    },
+    {
+      "id": "tramp-anonsiroval-strukturu-ai-force-i-novogo-ii-2026-09-20",
+      "category": "Новости",
+      "title": "Трамп анонсировал структуру AI Force и нового ИИ-царя",
+      "excerpt": "Дональд Трамп сообщил в Truth Social, что намерен назначить нового советника по искусственному интеллекту, которого назвал «ИИ-царь» (AI czar), а также создать AI Force. По его словам, новая структура должна помогать развивать отрасль, одновременно в",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tramp-anonsiroval-strukturu-ai-force-i-novogo-ii-2026-09-20.webp",
+      "metaTitle": "Трамп анонсировал структуру AI Force и нового ИИ-царя",
+      "metaDescription": "Дональд Трамп сообщил в Truth Social, что намерен назначить нового советника по искусственному интеллекту, которого назвал «ИИ-царь» (AI czar), а такж",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437007-tramp-anonsiroval-strukturu-ai-force-i-novogo-ii-caria.html"
+    },
+    {
+      "id": "researchers-escape-openai-codex-sandbox-to-run-c-2026-09-20",
+      "category": "Новости",
+      "title": "Исследователи покинули песочницу OpenAI Codex, чтобы запускать команды на хосте",
+      "excerpt": "Исследователи покинули песочницу Кодекса OpenAI двумя способами: один из них запускал команды на машине разработчика из наиболее заблокированного режима. OpenAI исправила оба. [...]",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/researchers-escape-openai-codex-sandbox-to-run-c-2026-09-20.webp",
+      "metaTitle": "Исследователи покинули песочницу OpenAI Codex, чтобы запуска",
+      "metaDescription": "Исследователи покинули песочницу Кодекса OpenAI двумя способами: один из них запускал команды на машине разработчика из наиболее заблокированного режи",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
+    },
+    {
+      "id": "kitay-razognal-elektrony-do-2-2-gev-v-novom-giga-2026-09-20",
+      "category": "Новости",
+      "title": "Китай разогнал электроны до 2,2 ГэВ в новом гигантском «супермикроскопе»",
+      "excerpt": "В Китае успешно получили первый электронный пучок на линейном ускорителе HALF — новом синхротронном источнике излучения четвертого поколения. Испытание прошло 20 сентября в научном центре Хэфэя в провинции Аньхой и стало одним из ключевых этапов стро",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-razognal-elektrony-do-2-2-gev-v-novom-giga-2026-09-20.webp",
+      "metaTitle": "Китай разогнал электроны до 2,2 ГэВ в новом гигантском «супе",
+      "metaDescription": "В Китае успешно получили первый электронный пучок на линейном ускорителе HALF — новом синхротронном источнике излучения четвертого поколения. Испытани",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437079-kitai-razognal-elektrony-do-22-gev-v-novom-gigantskom-supermikroskope.html"
+    },
+    {
+      "id": "novyy-krossover-volkswagen-s-motorom-231-l-s-i-z-2026-09-20",
+      "category": "Новости",
+      "title": "Новый кроссовер Volkswagen с мотором 231 л.с. и запасом хода 660 км — всего 130 тыс. юаней (1,65 млн рублей). Volkswagen ID. AURA T6 вышел в Китае",
+      "excerpt": "Совместное предприятие FAW-Volkswagen вывело на китайский рынок полностью электрический кроссовер ID. AURA T6. Новинка доступна в четырех версиях по цене от 130 до 167 тыс. юаней (1,65-2,1 млн рублей).",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-krossover-volkswagen-s-motorom-231-l-s-i-z-2026-09-20.webp",
+      "metaTitle": "Новый кроссовер Volkswagen с мотором 231 л.с. и запасом хода",
+      "metaDescription": "Совместное предприятие FAW-Volkswagen вывело на китайский рынок полностью электрический кроссовер ID. AURA T6. Новинка доступна в четырех версиях по ц",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437080-novyi-krossover-volkswagen-s-motorom-231-ls-i-zapasom-xoda-660-km-vsego-130-tys-iuanei-165-mln-rublei-volkswagen-id-aura-t6-vysel-v-kitae.html"
+    },
+    {
+      "id": "novaya-sushilka-xiaomi-za-210-dollarov-poluchila-2026-09-20",
+      "category": "Новости",
+      "title": "Новая сушилка Xiaomi за 210 долларов получила два независимых привода и светильник на 3000 лм",
+      "excerpt": "Xiaomi представила Mijia Smart Dual-Control Clothes Dryer 2 — умную потолочную сушилку для белья, которая в сложенном состоянии практически полностью скрывается за встроенным светильником. Кампания по сбору средств коллективного финансирования на вып",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-sushilka-xiaomi-za-210-dollarov-poluchila-2026-09-20.webp",
+      "metaTitle": "Новая сушилка Xiaomi за 210 долларов получила два независимы",
+      "metaDescription": "Xiaomi представила Mijia Smart Dual-Control Clothes Dryer 2 — умную потолочную сушилку для белья, которая в сложенном состоянии практически полностью ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437081-novaia-susilka-xiaomi-za-210-dollarov-polucila-dva-nezavisimyx-privoda-i-svetilnik-na-3000-lm.html"
+    },
+    {
+      "id": "24-gbit-v-odnom-kristalle-cxmt-nachala-massovyy--2026-09-20",
+      "category": "Новости",
+      "title": "24 Гбит в одном кристалле: CXMT начала массовый выпуск новой памяти LPDDR5X",
+      "excerpt": "Китайская CXMT объявила о начале массового производства памяти DRAM на технологической платформе пятого поколения G5. Анонс состоялся на Всемирной конференции производителей 2026 года в Хэфэе. Одновременно компания представила первые микросхемы LPDDR",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/24-gbit-v-odnom-kristalle-cxmt-nachala-massovyy--2026-09-20.webp",
+      "metaTitle": "24 Гбит в одном кристалле: CXMT начала массовый выпуск новой",
+      "metaDescription": "Китайская CXMT объявила о начале массового производства памяти DRAM на технологической платформе пятого поколения G5. Анонс состоялся на Всемирной кон",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437086-24-gbit-v-odnom-kristalle-cxmt-nacala-massovyi-vypusk-novoi-pamiati-lpddr5x.html"
+    },
+    {
+      "id": "mgik-zayavil-o-masshtabnyh-vneshnih-hakerskih-at-2026-09-20",
+      "category": "Новости",
+      "title": "МГИК заявил о масштабных внешних хакерских атаках на систему столичного ЭГ",
+      "excerpt": "МГИК заявил о масштабных внешних хакерских атаках на систему столичного ЭГ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mgik-zayavil-o-masshtabnyh-vneshnih-hakerskih-at-2026-09-20.webp",
+      "metaTitle": "МГИК заявил о масштабных внешних хакерских атаках на систему",
+      "metaDescription": "МГИК заявил о масштабных внешних хакерских атаках на систему столичного ЭГ",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/20/mgik-zayavil-o-masshtabnyh-vneshnih-hakerskih-atakah-na-sistemu-stolichnogo-eg/"
+    },
+    {
+      "id": "etot-tank-ne-boitsya-ni-gryazi-ni-skal-ni-razmyt-2026-09-20",
+      "category": "Новости",
+      "title": "Этот «Танк» не боится ни грязи, ни скал, ни размытой лесной дороги. Представлен Tank 300 Hook Road: 231 л.с., 9-АКП, 3 блокировки — 250 тыс. юаней (3,15 млн рублей)",
+      "excerpt": "Great Wall Motor вывела на китайский рынок специальную внедорожную версию Tank 300 — Hook Road. Первая партия ограничена всего 300 экземплярами, стоимость каждого —250 000 юаней (3,15 млн рублей).",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/etot-tank-ne-boitsya-ni-gryazi-ni-skal-ni-razmyt-2026-09-20.webp",
+      "metaTitle": "Этот «Танк» не боится ни грязи, ни скал, ни размытой лесной ",
+      "metaDescription": "Great Wall Motor вывела на китайский рынок специальную внедорожную версию Tank 300 — Hook Road. Первая партия ограничена всего 300 экземплярами, стоим",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437088-etot-tank-ne-boitsia-ni-griazi-ni-skal-ni-razmytoi-lesnoi-dorogi-predstavlen-tank-300-hook-road-231-ls-9-akp-3-blokirovki-250-tys-iuanei-315-mln-rublei.html"
+    },
+    {
+      "id": "v-monreale-razgromili-ofisy-dvuh-ii-kompaniy-i-o-2026-09-20",
+      "category": "Новости",
+      "title": "В Монреале разгромили офисы двух ИИ-компаний и оставили призыв «Сожгите дата-центры»",
+      "excerpt": "В начале недели в Монреале были разгромлены два здания, связанные с компаниями и организациями в сфере искусственного интеллекта. В офисе Квебекского института искусственного интеллекта (MILA) выбили окна и разрисовали стены. Пострадало и расположенн",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-monreale-razgromili-ofisy-dvuh-ii-kompaniy-i-o-2026-09-20.webp",
+      "metaTitle": "В Монреале разгромили офисы двух ИИ-компаний и оставили приз",
+      "metaDescription": "В начале недели в Монреале были разгромлены два здания, связанные с компаниями и организациями в сфере искусственного интеллекта. В офисе Квебекского ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437092-v-monreale-razgromili-ofisy-dvux-ii-kompanii-i-ostavili-prizyv-sozgite-data-centry.html"
+    },
+    {
+      "id": "pervyy-v-mire-oled-monitor-s-zavodskoy-kalibrovk-2026-09-20",
+      "category": "Новости",
+      "title": "Первый в мире OLED-монитор с заводской калибровкой режима HDR. AOC представила модель AG277QSD",
+      "excerpt": "Компания AOC запустила продажи монитора AG277QSD, утверждая, что это первый на рынке OLED-монитор, получивший заводскую калибровку специально для работы с HDR.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervyy-v-mire-oled-monitor-s-zavodskoy-kalibrovk-2026-09-20.webp",
+      "metaTitle": "Первый в мире OLED-монитор с заводской калибровкой режима HD",
+      "metaDescription": "Компания AOC запустила продажи монитора AG277QSD, утверждая, что это первый на рынке OLED-монитор, получивший заводскую калибровку специально для рабо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437093-pervyi-v-mire-oled-monitor-s-zavodskoi-kalibrovkoi-rezima-hdr-aoc-predstavila-model-ag277qsd.html"
+    },
+    {
+      "id": "xiaomi-18-fold-okazalsya-zolotym-v-remonte-zamen-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi 18 Fold оказался золотым в ремонте — замена материнской платы обойдётся в почти 40 % цены смартфона",
+      "excerpt": "Судя по опубликованному Xiaomi ценнику на запчасти для складного смартфона Xiaomi 18 Fold, который был представлен в Китае в начале этого месяца, ремонт устройства может стать серьёзной нагрузкой для бюджета. Впрочем, и сам смартфон стоит недёшево — ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-fold-okazalsya-zolotym-v-remonte-zamen-2026-09-20.webp",
+      "metaTitle": "Xiaomi 18 Fold оказался золотым в ремонте — замена материнск",
+      "metaDescription": "Судя по опубликованному Xiaomi ценнику на запчасти для складного смартфона Xiaomi 18 Fold, который был представлен в Китае в начале этого месяца, ремо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148774"
+    },
+    {
+      "id": "iphone-16-i-iphone-17-mogut-podorozhat-v-rossii--2026-09-20",
+      "category": "Новости",
+      "title": "iPhone 16 и iPhone 17 могут подорожать в России — в США они уже подорожали",
+      "excerpt": "iPhone 16 и iPhone 17 в России могут подорожать после выхода нового поколения смартфонов Apple. Обычно после презентации свежей линейки предыдущие модели дешевеют, но в этом году ретейлеры ожидают обратной динамики. Причинами называют рост закупочных",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-16-i-iphone-17-mogut-podorozhat-v-rossii--2026-09-20.webp",
+      "metaTitle": "iPhone 16 и iPhone 17 могут подорожать в России — в США они ",
+      "metaDescription": "iPhone 16 и iPhone 17 в России могут подорожать после выхода нового поколения смартфонов Apple. Обычно после презентации свежей линейки предыдущие мод",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437091-iphone-16-i-iphone-17-mogut-podorozat-v-rossii-v-ssa-oni-uze-podorozali.html"
+    },
+    {
+      "id": "startovali-globalnye-prodazhi-smartfona-oppo-a7--2026-09-20",
+      "category": "Новости",
+      "title": "Стартовали глобальные продажи смартфона Oppo A7 Pro Max 5G с батареей на 10 000 мА·ч",
+      "excerpt": "Компания Oppo объявила о старте глобальных продаж смартфона Oppo A7 Pro Max 5G, отличающегося массивной батареей и усиленной защитой от воздействия влаги и пыли. Это также первый в мире смартфон на базе 4-нм чипа Qualcomm Snapdragon 4 Gen 5. Источник",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/startovali-globalnye-prodazhi-smartfona-oppo-a7--2026-09-20.webp",
+      "metaTitle": "Стартовали глобальные продажи смартфона Oppo A7 Pro Max 5G с",
+      "metaDescription": "Компания Oppo объявила о старте глобальных продаж смартфона Oppo A7 Pro Max 5G, отличающегося массивной батареей и усиленной защитой от воздействия вл",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148775"
+    },
+    {
+      "id": "igra-final-fantasy-7-revelation-potrebuet-okolo--2026-09-20",
+      "category": "Новости",
+      "title": "Игра Final Fantasy 7 Revelation потребует около 200 ГБ на SSD, что может сделать её самой «тяжёлой» из всех одиночных игр",
+      "excerpt": "Игра Final Fantasy 7 Revelation, которая выйдет в следующем году и завершит трилогию ремейков седьмой части культовой серии, будет требовать для себя около 200 ГБ места на SSD.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/igra-final-fantasy-7-revelation-potrebuet-okolo--2026-09-20.webp",
+      "metaTitle": "Игра Final Fantasy 7 Revelation потребует около 200 ГБ на SS",
+      "metaDescription": "Игра Final Fantasy 7 Revelation, которая выйдет в следующем году и завершит трилогию ремейков седьмой части культовой серии, будет требовать для себя ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437095-igra-final-fantasy-7-revelation-potrebuet-okolo-200-gb-na-ssd-cto-mozet-sdelat-ee-samoi-tiazeloi-iz-vsex-odinocnyx-igr.html"
+    },
+    {
       "id": "iphone-18-pro-max-brosali-s-raznoy-vysoty-i-srav-2026-09-20",
       "category": "Новости",
       "title": "iPhone 18 Pro Max бросали с разной высоты и сравнили результаты с Galaxy S26 Ultra. Авторы PhoneBuff провели своё испытание",
