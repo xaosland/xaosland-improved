@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "ot-slc-do-qlc-unigen-vypustila-novye-ssd-semeyst-2026-09-20",
+      "category": "Новости",
+      "title": "От SLC до QLC: Unigen выпустила новые SSD семейства Cheetah для ИИ-платформ",
+      "excerpt": "Компания Unigen анонсировала SSD серий Cheetah Storage Class Memory (SCM) и Cheetah High Capacity (HC). Устройства первого семейства рассчитаны на ИИ-нагрузки, которым требуются минимальные задержки при доступе к данным, второго — на хранение обширны",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ot-slc-do-qlc-unigen-vypustila-novye-ssd-semeyst-2026-09-20.webp",
+      "metaTitle": "От SLC до QLC: Unigen выпустила новые SSD семейства Cheetah ",
+      "metaDescription": "Компания Unigen анонсировала SSD серий Cheetah Storage Class Memory (SCM) и Cheetah High Capacity (HC). Устройства первого семейства рассчитаны на ИИ-",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148763"
+    },
+    {
+      "id": "mobilnyy-internet-v-karmane-zte-vypustila-avtono-2026-09-20",
+      "category": "Новости",
+      "title": "Мобильный интернет в кармане: ZTE выпустила автономный 5G-роутер M3 Pro со встроенной батареей 5000 мАч",
+      "excerpt": "ZTE открыла предзаказы на M3 Pro — портативный 5G-роутер со слотом для SIM-карты. Новинка оценена в 599 юаней, розничные продажи в Китае стартуют 24 сентября.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mobilnyy-internet-v-karmane-zte-vypustila-avtono-2026-09-20.webp",
+      "metaTitle": "Мобильный интернет в кармане: ZTE выпустила автономный 5G-ро",
+      "metaDescription": "ZTE открыла предзаказы на M3 Pro — портативный 5G-роутер со слотом для SIM-карты. Новинка оценена в 599 юаней, розничные продажи в Китае стартуют 24 с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437102-mobilnyi-internet-v-karmane-zte-vypustila-avtonomnyi-5g-router-m3-pro-so-vstroennoi-batareei-5000-mac.html"
+    },
+    {
+      "id": "malicious-npm-packages-evade-install-script-defe-2026-09-20",
+      "category": "Новости",
+      "title": "Вредоносные пакеты npm обходят защиту скрипта установки во время выполнения",
+      "excerpt": "Продолжающаяся кампания по распространению вредоносного ПО npm с использованием пакета indexed-btree показывает, как злоумышленники обходят защиту цепочки поставок, скрывая вредоносный код в обычном поведении пакета во время выполнения, а не в сценар",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/malicious-npm-packages-evade-install-script-defe-2026-09-20.webp",
+      "metaTitle": "Вредоносные пакеты npm обходят защиту скрипта установки во в",
+      "metaDescription": "Продолжающаяся кампания по распространению вредоносного ПО npm с использованием пакета indexed-btree показывает, как злоумышленники обходят защиту цеп",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/"
+    },
+    {
+      "id": "toyota-land-cruiser-i-rav4-budut-sobirat-roboty--2026-09-20",
+      "category": "Новости",
+      "title": "Toyota Land Cruiser и RAV4 будут собирать роботы: Toyota установит на своих заводах 150 тысяч человекоподобных роботов",
+      "excerpt": "Toyota планирует внедрить на предприятиях группы около 400 тысяч человекоподобных роботов ELEY, которые будут работать вместе с людьми. Масштабное развертывание станет частью модернизации глобального производства компании.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/toyota-land-cruiser-i-rav4-budut-sobirat-roboty--2026-09-20.webp",
+      "metaTitle": "Toyota Land Cruiser и RAV4 будут собирать роботы: Toyota уст",
+      "metaDescription": "Toyota планирует внедрить на предприятиях группы около 400 тысяч человекоподобных роботов ELEY, которые будут работать вместе с людьми. Масштабное раз",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437103-toyota-land-cruiser-i-rav4-budut-sobirat-roboty-toyota-ustanovit-na-svoix-zavodax-150-tysiac-celovekopodobnyx-robotov.html"
+    },
+    {
+      "id": "ekran-200-dyuymov-razreshenie-4k-i-400-vt-zvuka--2026-09-20",
+      "category": "Новости",
+      "title": "Экран 200 дюймов, разрешение 4К и 400 Вт звука. Представлен необычный проектор Anker Mobile Cinema X1 Pro",
+      "excerpt": "Anker выпустила в Китае Mobile Cinema X1 Pro — необычный мобильный 4K-проектор, рассчитанный на использование на открытом воздухе. Устройство уже появилось на JD.com, но цена немалая — 29 тыс. юаней (4330 долларов). За такие деньги в Китае можно купи",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekran-200-dyuymov-razreshenie-4k-i-400-vt-zvuka--2026-09-20.webp",
+      "metaTitle": "Экран 200 дюймов, разрешение 4К и 400 Вт звука. Представлен ",
+      "metaDescription": "Anker выпустила в Китае Mobile Cinema X1 Pro — необычный мобильный 4K-проектор, рассчитанный на использование на открытом воздухе. Устройство уже появ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437106-ekran-200-diuimov-razresenie-4k-i-400-vt-zvuka-predstavlen-neobycnyi-proektor-anker-mobile-cinema-x1-pro.html"
+    },
+    {
+      "id": "eto-novyy-geely-ex5-populyarnyy-krossover-poluch-2026-09-20",
+      "category": "Новости",
+      "title": "Это новый Geely EX5. Популярный кроссовер получил новую батарею, сверхбыструю зарядку и мотор мощностью 333 л.с.",
+      "excerpt": "Geely опубликовала первые официальные изображения нового электрического кроссовера Galaxy E5 (в России, Белоруссии и других странах Европы он известен как Geely EX5). Полноценная премьера новинки состоится 23 сентября.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/eto-novyy-geely-ex5-populyarnyy-krossover-poluch-2026-09-20.webp",
+      "metaTitle": "Это новый Geely EX5. Популярный кроссовер получил новую бата",
+      "metaDescription": "Geely опубликовала первые официальные изображения нового электрического кроссовера Galaxy E5 (в России, Белоруссии и других странах Европы он известен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437108-eto-novyi-geely-ex5-populiarnyi-krossover-polucil-novuiu-batareiu-sverxbystruiu-zariadku-i-motor-moshhnostiu-333-ls.html"
+    },
+    {
+      "id": "xiaomi-18-pro-vpervye-pokazali-na-zhivyh-foto-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi 18 Pro впервые показали на живых фото",
+      "excerpt": "В Сети появились живые фотографии Xiaomi 18 Pro за несколько дней до официальной презентации, запланированной на 23 сентября. Инсайдер Digital Chat Station опубликовал фото новинки в трех цветах — черном, белом и розовом. Вообще цветов даже четыре, н",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-pro-vpervye-pokazali-na-zhivyh-foto-2026-09-20.webp",
+      "metaTitle": "Xiaomi 18 Pro впервые показали на живых фото",
+      "metaDescription": "В Сети появились живые фотографии Xiaomi 18 Pro за несколько дней до официальной презентации, запланированной на 23 сентября. Инсайдер Digital Chat St",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437112-xiaomi-18-pro-vpervye-pokazali-na-zivyx-foto.html"
+    },
+    {
+      "id": "za-pervyy-den-prodazh-kitaytsy-kupili-bolee-320--2026-09-20",
+      "category": "Новости",
+      "title": "За первый день продаж китайцы купили более 320 тысяч iPhone 18 Pro и iPhone 18 Pro Max — новинки популярнее iPhone 17 Pro",
+      "excerpt": "18 сентября в Китае стартовали официальные продажи iPhone 18 Pro и iPhone 18 Pro Max, а уже сейчас есть первые итоги — они выглядят довольно позитивно для Apple. Всего за один день китайцы купили 322,8 тысячи устройств — примерно на 30% больше резуль",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/za-pervyy-den-prodazh-kitaytsy-kupili-bolee-320--2026-09-20.webp",
+      "metaTitle": "За первый день продаж китайцы купили более 320 тысяч iPhone ",
+      "metaDescription": "18 сентября в Китае стартовали официальные продажи iPhone 18 Pro и iPhone 18 Pro Max, а уже сейчас есть первые итоги — они выглядят довольно позитивно",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437114-za-pervyi-den-prodaz-kitaicy-kupili-bolee-320-tysiac-iphone-18-pro-i-iphone-18-pro-max-novinki-populiarnee-iphone-17-pro.html"
+    },
+    {
+      "id": "televizory-samsung-lg-i-sony-podorozhayut-krupne-2026-09-20",
+      "category": "Новости",
+      "title": "Телевизоры Samsung, LG и Sony подорожают? Крупнейшие производители панелей — BOE, TCL CSOT — сообщили о повышении цен",
+      "excerpt": "Крупнейшие китайские производители ЖК-панелей начали повышать цены для мировых производителей телевизоров. Уведомления о пересмотре стоимости уже получили Samsung Electronics, LG Electronics и Sony, сообщает корейский ресурс The Elec со ссылкой на от",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/televizory-samsung-lg-i-sony-podorozhayut-krupne-2026-09-20.webp",
+      "metaTitle": "Телевизоры Samsung, LG и Sony подорожают? Крупнейшие произво",
+      "metaDescription": "Крупнейшие китайские производители ЖК-панелей начали повышать цены для мировых производителей телевизоров. Уведомления о пересмотре стоимости уже полу",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437117-televizory-samsung-lg-i-sony-podorozaiut-krupneisie-proizvoditeli-panelei-boe-tcl-csot-soobshhili-o-povysenii-cen.html"
+    },
+    {
       "id": "on-budet-letat-vo-vremya-prezentatsii-novogo-tes-2026-09-20",
       "category": "Новости",
       "title": "Он будет летать? Во время презентации нового Tesla Roadster над базой SpaceX закрыли воздушное пространство",
