@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "pod-upravleniem-peredovyh-modeley-openai-i-anthr-2026-09-20",
+      "category": "Новости",
+      "title": "Под управлением передовых моделей OpenAI и Anthropic роботы во многих случаях готовы совершать опасные для людей манипуляции",
+      "excerpt": "«Физическое воплощение ИИ» в понимании многих участников рынка сводится к созданию ИИ-моделей, способных эффективно и безопасно управлять роботами, которые сосуществуют с людьми во всём многообразии окружающих факторов. Новые испытания роботизированн",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pod-upravleniem-peredovyh-modeley-openai-i-anthr-2026-09-20.webp",
+      "metaTitle": "Под управлением передовых моделей OpenAI и Anthropic роботы ",
+      "metaDescription": "«Физическое воплощение ИИ» в понимании многих участников рынка сводится к созданию ИИ-моделей, способных эффективно и безопасно управлять роботами, ко",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148766"
+    },
+    {
+      "id": "xiaomi-vypustila-elektrobritvu-za-15-s-zaschitoy-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi выпустила электробритву за $15 с защитой IPX7 и автономностью 60 дней",
+      "excerpt": "Xiaomi представила на платформе Xiaomi Youpin новую электробритву Mijia Electric Shaver S101 Cloud Pattern Blade Edition. Краудфандинг стартует 21 сентября, а на этапе сбора средств устройство можно будет приобрести за 105 юаней — около $15.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-elektrobritvu-za-15-s-zaschitoy-2026-09-20.webp",
+      "metaTitle": "Xiaomi выпустила электробритву за $15 с защитой IPX7 и автон",
+      "metaDescription": "Xiaomi представила на платформе Xiaomi Youpin новую электробритву Mijia Electric Shaver S101 Cloud Pattern Blade Edition. Краудфандинг стартует 21 сен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436987-xiaomi-vypustila-elektrobritvu-za-15-s-zashhitoi-ipx7-i-avtonomnostiu-60-dnei.html"
+    },
+    {
+      "id": "samoe-bolshoe-obnovlenie-v-istorii-serii-xiaomi--2026-09-20",
+      "category": "Новости",
+      "title": "«Самое большое обновление в истории серии». Xiaomi 18 Pro и 18 Pro Max выходят 23 сентября",
+      "excerpt": "Xiaomi объявила дату осенней презентации — новые Xiaomi 18 Pro и 18 Pro Max покажут 23 сентября. Компания уже раскрыла ряд главных особенностей смартфонов и подтвердила, что обе версии получат одинаковую платформу, камеры и дисплей. Основное различие",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samoe-bolshoe-obnovlenie-v-istorii-serii-xiaomi--2026-09-20.webp",
+      "metaTitle": "«Самое большое обновление в истории серии». Xiaomi 18 Pro и ",
+      "metaDescription": "Xiaomi объявила дату осенней презентации — новые Xiaomi 18 Pro и 18 Pro Max покажут 23 сентября. Компания уже раскрыла ряд главных особенностей смартф",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436989-samoe-bolsoe-obnovlenie-v-istorii-serii-xiaomi-18-pro-i-18-pro-max-vyxodiat-23-sentiabria.html"
+    },
+    {
+      "id": "honor-x9e-pro-s-ogromnoy-batareey-11-000-ma-ch-p-2026-09-20",
+      "category": "Новости",
+      "title": "Honor X9e Pro с огромной батареей 11 000 мА•ч получит максимальную защиту IP69K",
+      "excerpt": "Honor раскрыла дизайн и варианты расцветки нового смартфона X9e Pro перед официальной презентацией. Аппарат будет доступен в четырёх цветах — Dawn Gold, Midnight Black, Reddish Brown и Royal Purple. Производитель также демонстрирует устойчивость устр",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-x9e-pro-s-ogromnoy-batareey-11-000-ma-ch-p-2026-09-20.webp",
+      "metaTitle": "Honor X9e Pro с огромной батареей 11 000 мА•ч получит максим",
+      "metaDescription": "Honor раскрыла дизайн и варианты расцветки нового смартфона X9e Pro перед официальной презентацией. Аппарат будет доступен в четырёх цветах — Dawn Gol",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436990-honor-x9e-pro-s-ogromnoi-batareei-11-000-mac-polucit-maksimalnuiu-zashhitu-ip69k.html"
+    },
+    {
+      "id": "zamena-live-photos-honor-magic-9-poluchit-3-seku-2026-09-20",
+      "category": "Новости",
+      "title": "Замена Live Photos: Honor Magic 9 получит 3-секундный ARRI-режим и двойную 3D-биометрию",
+      "excerpt": "Функция Live Photos обычно сама определяет, какая часть момента будет запечатлена. При нажатии кнопки спуска затвора телефон автоматически записывает примерно 1,5 секунды до и после снимка.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zamena-live-photos-honor-magic-9-poluchit-3-seku-2026-09-20.webp",
+      "metaTitle": "Замена Live Photos: Honor Magic 9 получит 3-секундный ARRI-р",
+      "metaDescription": "Функция Live Photos обычно сама определяет, какая часть момента будет запечатлена. При нажатии кнопки спуска затвора телефон автоматически записывает ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436991-zamena-live-photos-honor-magic-9-polucit-3-sekundnyi-arri-rezim-i-dvoinuiu-3d-biometriiu.html"
+    },
+    {
+      "id": "novyy-smartfon-vivo-protestirovali-do-anonsa-pre-2026-09-20",
+      "category": "Новости",
+      "title": "Новый смартфон Vivo протестировали до анонса. Предположительно, это Vivo X500",
+      "excerpt": "Новый смартфон Vivo с номером модели V2609A появился в базе Geekbench 6.7.1. Предположительно, это модель Vivo X500.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-smartfon-vivo-protestirovali-do-anonsa-pre-2026-09-20.webp",
+      "metaTitle": "Новый смартфон Vivo протестировали до анонса. Предположитель",
+      "metaDescription": "Новый смартфон Vivo с номером модели V2609A появился в базе Geekbench 6.7.1. Предположительно, это модель Vivo X500.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436992-novyi-smartfon-vivo-protestirovali-do-anonsa-predpolozitelno-eto-vivo-x500.html"
+    },
+    {
+      "id": "huawei-pura-x-max-razoshelsya-tirazhom-1-2-mln-i-2026-09-20",
+      "category": "Новости",
+      "title": "Huawei Pura X Max разошёлся тиражом 1,2 млн и занимает 1 место по уровню удовлетворённости пользователей",
+      "excerpt": "Компания Huawei объявила, что первый «телефон с двусторонним широкоэкранным дисплеем» — Pura X Max — разошёлся тиражом в 1,2 миллиона экземпляров всего за четыре месяца с момента запуска и даже достиг первого места по уровню удовлетворённости пользов",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huawei-pura-x-max-razoshelsya-tirazhom-1-2-mln-i-2026-09-20.webp",
+      "metaTitle": "Huawei Pura X Max разошёлся тиражом 1,2 млн и занимает 1 мес",
+      "metaDescription": "Компания Huawei объявила, что первый «телефон с двусторонним широкоэкранным дисплеем» — Pura X Max — разошёлся тиражом в 1,2 миллиона экземпляров всег",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436993-huawei-pura-x-max-razoselsia-tirazom-12-mln-i-zanimaet-1-mesto-po-urovniu-udovletvorennosti-polzovatelei.html"
+    },
+    {
+      "id": "oppo-pokazala-tizery-novogo-smartfona-2026-09-20",
+      "category": "Новости",
+      "title": "Oppo показала тизеры нового смартфона",
+      "excerpt": "Oppo начала тизерить K14 Plus 5G, а на Flipkart уже появилась отдельная страница устройства. Компания пока не раскрывает дату презентации. На тизере смартфон показан с плоской рамкой и физическими кнопками, а среди расцветок заметны оранжевый и серый",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/oppo-pokazala-tizery-novogo-smartfona-2026-09-20.webp",
+      "metaTitle": "Oppo показала тизеры нового смартфона",
+      "metaDescription": "Oppo начала тизерить K14 Plus 5G, а на Flipkart уже появилась отдельная страница устройства. Компания пока не раскрывает дату презентации. На тизере с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436994-oppo-pokazala-tizery-novogo-smartfon.html"
+    },
+    {
+      "id": "predstavlen-vneshniy-obektiv-hasselblad-dlya-sma-2026-09-20",
+      "category": "Новости",
+      "title": "Представлен внешний объектив Hasselblad для смартфонов Oppo Find X10",
+      "excerpt": "Oppo готовит для серии Find X10 новый Hasselblad Teleconverter Kit, рассчитанный в том числе на съёмку концертов.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-vneshniy-obektiv-hasselblad-dlya-sma-2026-09-20.webp",
+      "metaTitle": "Представлен внешний объектив Hasselblad для смартфонов Oppo ",
+      "metaDescription": "Oppo готовит для серии Find X10 новый Hasselblad Teleconverter Kit, рассчитанный в том числе на съёмку концертов.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436995-predstavlen-vnesnii-obieektiv-hasselblad-dlia-smartfonov-oppo-find-x10.html"
+    },
+    {
+      "id": "snapdragon-8-elite-gen-6-pro-16-gb-ozu-i-11-000--2026-09-20",
+      "category": "Новости",
+      "title": "Snapdragon 8 Elite Gen 6 Pro, 16 ГБ ОЗУ и 11 000 баллов. Новый смартфон OnePlus показал возможности до анонса",
+      "excerpt": "OnePlus 16 с модельным номером PYB110 появился в базе Geekbench. В тесте указана платформа Qualcomm SM8975, которую связывают с ещё не представленным Snapdragon 8 Elite Gen 6 Pro с частотой до 5,01 ГГц.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/snapdragon-8-elite-gen-6-pro-16-gb-ozu-i-11-000--2026-09-20.webp",
+      "metaTitle": "Snapdragon 8 Elite Gen 6 Pro, 16 ГБ ОЗУ и 11 000 баллов. Нов",
+      "metaDescription": "OnePlus 16 с модельным номером PYB110 появился в базе Geekbench. В тесте указана платформа Qualcomm SM8975, которую связывают с ещё не представленным ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436996-snapdragon-8-elite-gen-6-pro-16-gb-ozu-i-11-000-ballov-novyi-smartfon-oneplus-pokazal-vozmoznosti-do-anonsa.html"
+    },
+    {
+      "id": "tverdotoplivnaya-raketa-kinetica-1-vyvela-na-orb-2026-09-20",
+      "category": "Новости",
+      "title": "Твердотопливная ракета Kinetica-1 вывела на орбиту сразу девять спутников",
+      "excerpt": "Китайская компания CAS Space успешно запустила ракету-носитель Kinetica-1, известную в Китае как «Лицзянь-1», с коммерческой площадки «Дунфэн» космодрома Цзюцюань. Старт состоялся 20 сентября в 12:03 по пекинскому времени, а ракета вывела на заданные",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tverdotoplivnaya-raketa-kinetica-1-vyvela-na-orb-2026-09-20.webp",
+      "metaTitle": "Твердотопливная ракета Kinetica-1 вывела на орбиту сразу дев",
+      "metaDescription": "Китайская компания CAS Space успешно запустила ракету-носитель Kinetica-1, известную в Китае как «Лицзянь-1», с коммерческой площадки «Дунфэн» космодр",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436998-tverdotoplivnaia-raketa-kinetica-1-vyvela-na-orbitu-srazu-deviat-sputnikov.html"
+    },
+    {
+      "id": "svoi-oshibki-nuzhno-umet-priznavat-gm-vozvrascha-2026-09-20",
+      "category": "Новости",
+      "title": "Свои ошибки нужно уметь признавать: GM возвращает Apple CarPlay и Android Auto в свои автомобили после того, как несколько лет назад отказалась от них.",
+      "excerpt": "General Motors решила вернуть поддержку Apple CarPlay и Android Auto, от которой компания в прошлом отказалась.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/svoi-oshibki-nuzhno-umet-priznavat-gm-vozvrascha-2026-09-20.webp",
+      "metaTitle": "Свои ошибки нужно уметь признавать: GM возвращает Apple CarP",
+      "metaDescription": "General Motors решила вернуть поддержку Apple CarPlay и Android Auto, от которой компания в прошлом отказалась.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/436999-svoi-osibki-nuzno-umet-priznavatsia-gm-vozvrashhaet-apple-carplay-i-android-auto-v-svoi-avtomobili-posle-togo-kak-neskolko-let-nazad-otkazalas-ot-nix.html"
+    },
+    {
+      "id": "opasnye-uyazvimosti-v-yadre-linux-kvm-exim-unbou-2026-09-20",
+      "category": "Новости",
+      "title": "Опасные уязвимости в ядре Linux, KVM, Exim, Unbound, Ghostscript и Suricata",
+      "excerpt": "Несколько недавно выявленных опасных уязвимостей, позволяющих получить root-доступ в системе или добиться удалённого выполнения кода.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Опасные уязвимости в ядре Linux, KVM, Exim, Unbound, Ghostsc",
+      "metaDescription": "Несколько недавно выявленных опасных уязвимостей, позволяющих получить root-доступ в системе или добиться удалённого выполнения кода.",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66310"
+    },
+    {
+      "id": "mask-anonsiroval-uran-v-urane-novyy-merch-the-bo-2026-09-20",
+      "category": "Новости",
+      "title": "Маск анонсировал «уран в Уране» — новый мерч The Boring Company будет светиться в темноте",
+      "excerpt": "Илон Маск раскрыл очередную идею для фирменного мерча The Boring Company, обыграв название планеты Уран и химический элемент уран.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mask-anonsiroval-uran-v-urane-novyy-merch-the-bo-2026-09-20.webp",
+      "metaTitle": "Маск анонсировал «уран в Уране» — новый мерч The Boring Comp",
+      "metaDescription": "Илон Маск раскрыл очередную идею для фирменного мерча The Boring Company, обыграв название планеты Уран и химический элемент уран.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437001-mask-anonsiroval-uran-v-urane-novyi-merc-the-boring-company-budet-svetitsia-v-temnote.html"
+    },
+    {
+      "id": "on-zaschischaet-starlink-i-stoit-6-mln-obtekatel-2026-09-20",
+      "category": "Новости",
+      "title": "Он защищает Starlink и стоит $6 млн: обтекатель Falcon 9 побывал в космосе уже 40 раз",
+      "excerpt": "SpaceX подтвердила успешное отделение обтекателя во время недавнего запуска Falcon 9. Главным событием стало то, что одна из половин обтекателя отправилась в космос уже в 40-й раз.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/on-zaschischaet-starlink-i-stoit-6-mln-obtekatel-2026-09-20.webp",
+      "metaTitle": "Он защищает Starlink и стоит $6 млн: обтекатель Falcon 9 поб",
+      "metaDescription": "SpaceX подтвердила успешное отделение обтекателя во время недавнего запуска Falcon 9. Главным событием стало то, что одна из половин обтекателя отправ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437004-on-zashhishhaet-starlink-i-stoit-6-mln-obtekatel-falcon-9-pobyval-v-kosmose-uze-40-raz.html"
+    },
+    {
       "id": "na-sleduyuschey-nedele-m-a-pokazhet-ar-garnituru-2026-09-20",
       "category": "Новости",
       "title": "На следующей неделе M**a покажет AR-гарнитуру Phoenix и фотореалистичные голографические аватары для видеозвонков",
