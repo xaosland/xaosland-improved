@@ -1,6 +1,309 @@
 {
   "articles": [
     {
+      "id": "predstavlena-kroshechnaya-britva-philips-firefly-2026-09-20",
+      "category": "Новости",
+      "title": "Представлена крошечная бритва Philips Firefly с фонариком, которая работает до 40 дней",
+      "excerpt": "Philips представила компактную электробритву Firefly, рассчитанную прежде всего на поездки и использование вне дома.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlena-kroshechnaya-britva-philips-firefly-2026-09-20.webp",
+      "metaTitle": "Представлена крошечная бритва Philips Firefly с фонариком, к",
+      "metaDescription": "Philips представила компактную электробритву Firefly, рассчитанную прежде всего на поездки и использование вне дома.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437010-predstavlena-krosecnaia-britva-philips-firefly-s-fonarikom-kotoraia-rabotaet-do-40-dnei.html"
+    },
+    {
+      "id": "on-vyderzhivaet-prokoly-i-ne-zagoraetsya-ego-moz-2026-09-20",
+      "category": "Новости",
+      "title": "Он выдерживает проколы и не загорается, его можно брать в самолёт. Новый аккумулятор Vivo получил ёмкость 20 000 мА•ч и встроенный кабель USB-C",
+      "excerpt": "Vivo получила сертификат 3C для нового внешнего аккумулятора PB2653B. Модель оснащена встроенным кабелем USB-C, а также отдельными портами USB-C и USB-A.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/on-vyderzhivaet-prokoly-i-ne-zagoraetsya-ego-moz-2026-09-20.webp",
+      "metaTitle": "Он выдерживает проколы и не загорается, его можно брать в са",
+      "metaDescription": "Vivo получила сертификат 3C для нового внешнего аккумулятора PB2653B. Модель оснащена встроенным кабелем USB-C, а также отдельными портами USB-C и USB",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437012-on-vyderzivaet-prokoly-i-ne-zagoraetsia-ego-mozno-brat-v-samolet-novyi-akkumuliator-vivo-polucil-emkost-20-000-mac-s-vstroennym-usb-c-kabelem-i-zariadkoi-33-vt.html"
+    },
+    {
+      "id": "xiaomi-18-fold-stal-samym-bystroprodavaemym-skla-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi 18 Fold стал самым быстропродаваемым складным смартфоном в истории компании",
+      "excerpt": "Xiaomi 18 Fold, по данным @RDObservation, разошелся тиражом в 80 000 экземпляров за первые семь дней продаж.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-fold-stal-samym-bystroprodavaemym-skla-2026-09-20.webp",
+      "metaTitle": "Xiaomi 18 Fold стал самым быстропродаваемым складным смартфо",
+      "metaDescription": "Xiaomi 18 Fold, по данным @RDObservation, разошелся тиражом в 80 000 экземпляров за первые семь дней продаж.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437013-xiaomi-18-fold-stal-samym-bystroprodavaemym-skladnym-smartfonom-v-istorii-kompanii.html"
+    },
+    {
+      "id": "week-in-review-cisco-patches-exploited-email-gat-2026-09-20",
+      "category": "Новости",
+      "title": "Обзор недели: Cisco исправляет уязвимый почтовый шлюз нулевого дня, взлом Revolut",
+      "excerpt": "Вот обзор некоторых из наиболее интересных новостей, статей, интервью и видео за прошедшую неделю: Что мы знаем об утечке данных Revolut на данный момент. Кто-то, выдавая себя за правительственное учреждение, используя адрес электронной почты в домен",
+      "date": "2026-09-20",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/week-in-review-cisco-patches-exploited-email-gat-2026-09-20.webp",
+      "metaTitle": "Обзор недели: Cisco исправляет уязвимый почтовый шлюз нулево",
+      "metaDescription": "Вот обзор некоторых из наиболее интересных новостей, статей, интервью и видео за прошедшую неделю: Что мы знаем об утечке данных Revolut на данный мом",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/"
+    },
+    {
+      "id": "xiaomi-predstavila-trehdvernyy-mijia-s-zaschitoy-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi представила трехдверный Mijia с защитой от бактерий на 99,99%, и он стоит всего 240 долларов",
+      "excerpt": "Xiaomi начала продажи нового компактного холодильника Mijia Refrigerator 271L Three-Door Full-Area Ion Purification. Модель получила три независимых отделения, систему No Frost, антибактериальную очистку и отдельную камеру с регулировкой температуры ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-predstavila-trehdvernyy-mijia-s-zaschitoy-2026-09-20.webp",
+      "metaTitle": "Xiaomi представила трехдверный Mijia с защитой от бактерий н",
+      "metaDescription": "Xiaomi начала продажи нового компактного холодильника Mijia Refrigerator 271L Three-Door Full-Area Ion Purification. Модель получила три независимых о",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437028-xiaomi-predstavila-trexdvernyi-mijia-s-zashhitoi-ot-bakterii-na-9999-i-on-stoit-vsego-240-dollarov.html"
+    },
+    {
+      "id": "kamera-leica-s-dvumya-200-megapikselnymi-sensora-2026-09-20",
+      "category": "Новости",
+      "title": "Камера Leica с двумя 200-мегапиксельными сенсорами, экран Super Pixel с рамкой меньше 1 мм и 8500 мА·ч: Xiaomi показала Xiaomi 18 Pro и Xiaomi 18 Pro Max",
+      "excerpt": "Xiaomi опубликовала официальные изображения флагманских смартфонов серии Xiaomi 18 Pro в черном и белом цветах за три дня до полноценной премьеры — она состоится 23 сентября в 19:00 по местному времени.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kamera-leica-s-dvumya-200-megapikselnymi-sensora-2026-09-20.webp",
+      "metaTitle": "Камера Leica с двумя 200-мегапиксельными сенсорами, экран Su",
+      "metaDescription": "Xiaomi опубликовала официальные изображения флагманских смартфонов серии Xiaomi 18 Pro в черном и белом цветах за три дня до полноценной премьеры — он",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437030-kamera-leica-s-dvumia-200-megapikselnymi-sensorami-ekran-super-pixel-s-ramkoi-mense-1-mm-i-8500-mac-xiaomi-pokazala-xiaomi-18-pro-i-xiaomi-18-pro-max.html"
+    },
+    {
+      "id": "kitayskaya-cxmt-zapustila-massovoe-proizvodstvo--2026-09-20",
+      "category": "Новости",
+      "title": "Китайская CXMT запустила массовое производство памяти DRAM пятого поколения",
+      "excerpt": "Китайский компания CXMT, занимающаяся производством памяти DRAM, объявила о начале массового производства чипов памяти пятого поколения. В компании это назвали прорывом, который поможет Поднебесной создать сильного конкурента Samsung, SK hynix и Micr",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-cxmt-zapustila-massovoe-proizvodstvo--2026-09-20.webp",
+      "metaTitle": "Китайская CXMT запустила массовое производство памяти DRAM п",
+      "metaDescription": "Китайский компания CXMT, занимающаяся производством памяти DRAM, объявила о начале массового производства чипов памяти пятого поколения. В компании эт",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148769"
+    },
+    {
+      "id": "chatgpt-6-astra-rasshifrovala-soobschenie-kotoro-2026-09-20",
+      "category": "Новости",
+      "title": "ChatGPT-6 Astra расшифровала сообщение, которое люди не могли разгадать со времён Первой мировой войны",
+      "excerpt": "ИИ-модель ChatGPT-6 Astra расшифровала сообщение 108-летней давности, адресованное Верховному командованию Германии и вниманию адмирала или, возможно, военно-морского командования. Как оказалось, сообщение содержит информацию о передвижениях английск",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chatgpt-6-astra-rasshifrovala-soobschenie-kotoro-2026-09-20.webp",
+      "metaTitle": "ChatGPT-6 Astra расшифровала сообщение, которое люди не могл",
+      "metaDescription": "ИИ-модель ChatGPT-6 Astra расшифровала сообщение 108-летней давности, адресованное Верховному командованию Германии и вниманию адмирала или, возможно,",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148770"
+    },
+    {
+      "id": "rossiyskiy-analog-starlink-zapustili-tam-gde-net-2026-09-20",
+      "category": "Новости",
+      "title": "Российский аналог Starlink запустили там, где нет никакой связи: спутниковый интернет от «БЮРО 1440» протестировали в Заполярье",
+      "excerpt": "Российская компания «БЮРО 1440» провела испытание спутниковой связи на базе собственной низкоорбитальной группировки. На этот раз систему проверили в Ненецком автономном округе, где она обеспечила доступ к дистанционному электронному голосованию в ра",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskiy-analog-starlink-zapustili-tam-gde-net-2026-09-20.webp",
+      "metaTitle": "Российский аналог Starlink запустили там, где нет никакой св",
+      "metaDescription": "Российская компания «БЮРО 1440» провела испытание спутниковой связи на базе собственной низкоорбитальной группировки. На этот раз систему проверили в ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437032-rossiiskii-analog-starlink-zapustili-tam-gde-net-nikakoi-sviazi-sputnikovyi-internet-ot-biuro-1440-protestirovali-v-zapoliare.html"
+    },
+    {
+      "id": "prodazhi-umnyh-ochkov-v-kitae-udvoilis-za-pervye-2026-09-20",
+      "category": "Новости",
+      "title": "Продажи умных очков в Китае удвоились за первые восемь месяцев 2026 года",
+      "excerpt": "Продажи умных очков в Китае на крупнейших онлайн-платформах выросли более чем в два раза за первые восемь месяцев нынешнего года. В это же время продажи кардиомониторов с ЭКГ увеличились на 75 %, а экшн-камер — почти на 27 %. Об этом пишет Bloomberg ",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/prodazhi-umnyh-ochkov-v-kitae-udvoilis-za-pervye-2026-09-20.webp",
+      "metaTitle": "Продажи умных очков в Китае удвоились за первые восемь месяц",
+      "metaDescription": "Продажи умных очков в Китае на крупнейших онлайн-платформах выросли более чем в два раза за первые восемь месяцев нынешнего года. В это же время прода",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148771"
+    },
+    {
+      "id": "rossiyane-zhaluyutsya-na-problemy-s-dostupom-k-a-2026-09-20",
+      "category": "Новости",
+      "title": "Россияне жалуются на проблемы с доступом к App Store — некоторым помогает VPN",
+      "excerpt": "Российские пользователи iPhone и других устройств Apple массово столкнулись с проблемами при работе App Store. У части владельцев магазин приложений не загружается вовсе, у других появляется сообщение «Не удаётся подключиться». При этом некоторые пол",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyane-zhaluyutsya-na-problemy-s-dostupom-k-a-2026-09-20.webp",
+      "metaTitle": "Россияне жалуются на проблемы с доступом к App Store — некот",
+      "metaDescription": "Российские пользователи iPhone и других устройств Apple массово столкнулись с проблемами при работе App Store. У части владельцев магазин приложений н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437036-rossiiane-zaluiutsia-na-problemy-s-dostupom-k-app-store-nekotorym-pomogaet-vpn.html"
+    },
+    {
+      "id": "xiaomi-vypustila-trehdvernyy-holodilnik-na-256-l-2026-09-20",
+      "category": "Новости",
+      "title": "Xiaomi выпустила трехдверный холодильник на 256 литров за $195",
+      "excerpt": "Xiaomi представила в Китае новый трехдверный холодильник Mijia Refrigerator 256L. Новинка получила систему циркуляционного воздушного охлаждения на 360 градусов и отдельную камеру с регулируемой температурой от -20 до +5 °C. Стоимость — 1299 юаней ($",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-trehdvernyy-holodilnik-na-256-l-2026-09-20.webp",
+      "metaTitle": "Xiaomi выпустила трехдверный холодильник на 256 литров за $1",
+      "metaDescription": "Xiaomi представила в Китае новый трехдверный холодильник Mijia Refrigerator 256L. Новинка получила систему циркуляционного воздушного охлаждения на 36",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437039-xiaomi-vypustila-trexdvernyi-xolodilnik-na-256-litrov-za-195.html"
+    },
+    {
+      "id": "kislorod-na-zemle-zakonchitsya-ranshe-chem-solnt-2026-09-20",
+      "category": "Новости",
+      "title": "Кислород на Земле закончится раньше, чем Солнце погубит планету: ученые подсчитали, когда Земля потеряет кислород и озоновый слой",
+      "excerpt": "Богатая кислородом атмосфера Земли может сохраняться еще около миллиарда лет, после чего содержание кислорода начнет резко снижаться. Планета станет непригодной для людей, животных и большинства других сложных организмов, хотя жизнь в целом, вероятно",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kislorod-na-zemle-zakonchitsya-ranshe-chem-solnt-2026-09-20.webp",
+      "metaTitle": "Кислород на Земле закончится раньше, чем Солнце погубит план",
+      "metaDescription": "Богатая кислородом атмосфера Земли может сохраняться еще около миллиарда лет, после чего содержание кислорода начнет резко снижаться. Планета станет н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437042-kislorod-na-zemle-zakoncitsia-ranse-cem-solnce-pogubit-planetu-ucenye-podscitali-kogda-zemlia-poteriaet-kislorod-i-ozonovyi-sloi.html"
+    },
+    {
+      "id": "volvo-s90-otdayut-v-kitae-za-poltseny-flagmanski-2026-09-20",
+      "category": "Новости",
+      "title": "Volvo S90 отдают в Китае за полцены: флагманский седан можно купить за 220 тыс. юаней (2,8 млн рублей)",
+      "excerpt": "Китайские дилеры Volvo резко снизили фактические цены на флагманский седан S90. При официальной рекомендованной стоимости от 406 900 юаней автомобиль сейчас можно купить менее чем за 230 тыс. юаней.",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/volvo-s90-otdayut-v-kitae-za-poltseny-flagmanski-2026-09-20.webp",
+      "metaTitle": "Volvo S90 отдают в Китае за полцены: флагманский седан можно",
+      "metaDescription": "Китайские дилеры Volvo резко снизили фактические цены на флагманский седан S90. При официальной рекомендованной стоимости от 406 900 юаней автомобиль ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437044-volvo-s90-otdaiut-v-kitae-za-polceny-flagmanskii-sedan-mozno-kupit-za-220-tys-iuanei-28-mln-rublei.html"
+    },
+    {
+      "id": "videokarty-intel-smogut-otklyuchat-povrezhdennye-2026-09-20",
+      "category": "Новости",
+      "title": "Видеокарты Intel смогут отключать поврежденные участки видеопамяти",
+      "excerpt": "Intel добавляет в графический драйвер Xe для Linux новые механизмы контроля состояния видеопамяти. Драйвер сможет выявлять проблемы с VRAM уже при запуске, а физически неисправные участки памяти — исключать из дальнейшего использования. Изменения гот",
+      "date": "2026-09-20",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/videokarty-intel-smogut-otklyuchat-povrezhdennye-2026-09-20.webp",
+      "metaTitle": "Видеокарты Intel смогут отключать поврежденные участки видео",
+      "metaDescription": "Intel добавляет в графический драйвер Xe для Linux новые механизмы контроля состояния видеопамяти. Драйвер сможет выявлять проблемы с VRAM уже при зап",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/20/437048-videokarty-intel-smogut-otkliucat-povrezdennye-ucastki-videopamiati.html"
+    },
+    {
       "id": "pod-upravleniem-peredovyh-modeley-openai-i-anthr-2026-09-20",
       "category": "Новости",
       "title": "Под управлением передовых моделей OpenAI и Anthropic роботы во многих случаях готовы совершать опасные для людей манипуляции",
