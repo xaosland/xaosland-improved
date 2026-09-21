@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "tehnologii-zeiss-i-sony-predstavleny-fotoflagman-2026-09-21",
+      "category": "Новости",
+      "title": "Технологии Zeiss и Sony: представлены фотофлагманы Vivo X500 Pro и Vivo X500 Pro Max",
+      "excerpt": "Компания Vivo представила сегодня флагманскую серию смартфонов Vivo X500. Пока презентация прошла в Шанхае, а для международного рынка запуск состоится через несколько недель — в октябре. В частности, дебютировали модели Vivo X500 Pro и Vivo X500 Pro",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tehnologii-zeiss-i-sony-predstavleny-fotoflagman-2026-09-21.webp",
+      "metaTitle": "Технологии Zeiss и Sony: представлены фотофлагманы Vivo X500",
+      "metaDescription": "Компания Vivo представила сегодня флагманскую серию смартфонов Vivo X500. Пока презентация прошла в Шанхае, а для международного рынка запуск состоитс",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/texnologii-zeiss-i-sony-predstavleny-fotoflagmany-vivo-x500-pro-i-vivo-x500-pro-max.html"
+    },
+    {
+      "id": "google-hit-with-403-million-gdpr-fine-over-locat-2026-09-21",
+      "category": "Новости",
+      "title": "Google оштрафован на 403 миллиона евро за отслеживание местоположения",
+      "excerpt": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на 403 миллиона евро (около 463 миллионов долларов США) за обработку данных о местоположении пользователей и обязала компанию привести эту обработку в соответствие с требованиями в течение ш",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-hit-with-403-million-gdpr-fine-over-locat-2026-09-21.webp",
+      "metaTitle": "Google оштрафован на 403 миллиона евро за отслеживание место",
+      "metaDescription": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на 403 миллиона евро (около 463 миллионов долларов США) за обработку данных о местоположен",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/ireland-google-users-location-data-processing-fine/"
+    },
+    {
+      "id": "north-korea-8217-s-job-interview-scam-runs-both--2026-09-21",
+      "category": "Новости",
+      "title": "Мошенничество с собеседованием в Северной Корее работает в обе стороны",
+      "excerpt": "Злоумышленники нацелены на участников проекта Rust и разработчиков широко используемых ящиков (библиотек кода Rust), используя привлекательные возможности для компрометации их устройств и учетных записей и, в конечном итоге, для публикации вредоносно",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/north-korea-8217-s-job-interview-scam-runs-both--2026-09-21.webp",
+      "metaTitle": "Мошенничество с собеседованием в Северной Корее работает в о",
+      "metaDescription": "Злоумышленники нацелены на участников проекта Rust и разработчиков широко используемых ящиков (библиотек кода Rust), используя привлекательные возможн",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/north-korean-hackers-contagious-interview-defenses/"
+    },
+    {
+      "id": "amd-pridumala-kak-v-47-raz-umenshit-rashod-pamya-2026-09-21",
+      "category": "Новости",
+      "title": "AMD придумала, как в 47 раз уменьшить расход памяти для трассировки лучей",
+      "excerpt": "Компания AMD представила технологию «тетраэдральных каркасов» (tetrahedral cages) в области компьютерной графики, способную существенно снизить затраты памяти и вычислительных ресурсов при трассировке лучей в сложных анимированных сценах. Источник из",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amd-pridumala-kak-v-47-raz-umenshit-rashod-pamya-2026-09-21.webp",
+      "metaTitle": "AMD придумала, как в 47 раз уменьшить расход памяти для трас",
+      "metaDescription": "Компания AMD представила технологию «тетраэдральных каркасов» (tetrahedral cages) в области компьютерной графики, способную существенно снизить затрат",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148804"
+    },
+    {
+      "id": "google-says-gemini-breached-three-companies-duri-2026-09-21",
+      "category": "Новости",
+      "title": "Google утверждает, что Gemini взломала три компании во время проверки безопасности",
+      "excerpt": "Модель искусственного интеллекта Google Gemini без разрешения получила доступ к компьютерным системам, принадлежащим трем реальным компаниям, во время теста кибербезопасности в мае — последний из череды подобных инцидентов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-says-gemini-breached-three-companies-duri-2026-09-21.webp",
+      "metaTitle": "Google утверждает, что Gemini взломала три компании во время",
+      "metaDescription": "Модель искусственного интеллекта Google Gemini без разрешения получила доступ к компьютерным системам, принадлежащим трем реальным компаниям, во время",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/gemini-google-cyber-breach"
+    },
+    {
+      "id": "pora-v-hogvarts-startovali-prodazhi-realme-16-pr-2026-09-21",
+      "category": "Новости",
+      "title": "Пора в Хогвартс: стартовали продажи Realme 16 Pro в стилистике «Гарри Поттера»",
+      "excerpt": "Команда российского AliExpress объявила о запуске продаж лимитированной коллекции Realme, созданной совместно с Warner Bros. Discovery по мотивам вселенной «Гарри Поттера». В серию вошли смартфон Realme 16 Pro Harry Potter Edition и беспроводные науш",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pora-v-hogvarts-startovali-prodazhi-realme-16-pr-2026-09-21.webp",
+      "metaTitle": "Пора в Хогвартс: стартовали продажи Realme 16 Pro в стилисти",
+      "metaDescription": "Команда российского AliExpress объявила о запуске продаж лимитированной коллекции Realme, созданной совместно с Warner Bros. Discovery по мотивам всел",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/pora-v-xogvarts-startovali-prodazi-realme-16-pro-v-stilistike-garri-pottera.html"
+    },
+    {
+      "id": "fastly-gives-enterprises-real-time-control-over--2026-09-21",
+      "category": "Новости",
+      "title": "Быстро дает предприятиям контроль над моделями и агентами ИИ в режиме реального времени.",
+      "excerpt": "Компания Fastly анонсировала AI Runtime Control, AI Firewall и новые возможности API Security, предназначенные для предоставления организациям видимости и контроля в режиме реального времени в своих системах AI. Расширяя портфолио Fastly для ИИ, эти ",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fastly-gives-enterprises-real-time-control-over--2026-09-21.webp",
+      "metaTitle": "Быстро дает предприятиям контроль над моделями и агентами ИИ",
+      "metaDescription": "Компания Fastly анонсировала AI Runtime Control, AI Firewall и новые возможности API Security, предназначенные для предоставления организациям видимос",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/fastly-ai-runtime-control/"
+    },
+    {
+      "id": "rathat-android-trojan-uses-ai-for-automation-2026-09-21",
+      "category": "Новости",
+      "title": "Android-троянец RatHat использует искусственный интеллект для автоматизации",
+      "excerpt": "Вредоносная программа использует искусственный интеллект для навигации и управления устройствами в режиме реального времени, что повышает адаптивность и возможность уклонения от атак. Пост RatHat Android-троянец использует искусственный интеллект для",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rathat-android-trojan-uses-ai-for-automation-2026-09-21.webp",
+      "metaTitle": "Android-троянец RatHat использует искусственный интеллект дл",
+      "metaDescription": "Вредоносная программа использует искусственный интеллект для навигации и управления устройствами в режиме реального времени, что повышает адаптивность",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/"
+    },
+    {
+      "id": "linkedin-wins-court-order-blocking-mass-scraping-2026-09-21",
+      "category": "Новости",
+      "title": "LinkedIn выиграла судебный приказ о блокировке массового сбора пользовательских данных",
+      "excerpt": "По словам высокопоставленного руководителя LinkedIn, соглашение между LinkedIn, ProAPI и совместным бизнес-оператором Netswift также требует от компаний прекратить продажу и передачу данных, больше не получать доступ к LinkedIn через поддельные учетн",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/linkedin-wins-court-order-blocking-mass-scraping-2026-09-21.webp",
+      "metaTitle": "LinkedIn выиграла судебный приказ о блокировке массового сбо",
+      "metaDescription": "По словам высокопоставленного руководителя LinkedIn, соглашение между LinkedIn, ProAPI и совместным бизнес-оператором Netswift также требует от компан",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping"
+    },
+    {
+      "id": "microsoft-reminds-admins-to-migrate-entra-id-use-2026-09-21",
+      "category": "Новости",
+      "title": "Microsoft напоминает администраторам о необходимости перевода пользователей Entra ID на ключи доступа",
+      "excerpt": "Microsoft напомнила администраторам о необходимости перевода пользователей Entra ID на устойчивые к фишингу методы аутентификации, чтобы избежать сбоев при входе в систему после прекращения использования первого факторного входа по SMS, начиная с фев",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-reminds-admins-to-migrate-entra-id-use-2026-09-21.webp",
+      "metaTitle": "Microsoft напоминает администраторам о необходимости перевод",
+      "metaDescription": "Microsoft напомнила администраторам о необходимости перевода пользователей Entra ID на устойчивые к фишингу методы аутентификации, чтобы избежать сбое",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/"
+    },
+    {
+      "id": "200-megapikselnaya-kamera-zeiss-novogo-pokoleniy-2026-09-21",
+      "category": "Новости",
+      "title": "200-мегапиксельная камера Zeiss нового поколения, 8000 мА·ч, 90 Вт и новейшая Dimensity 9600 Pro — $1000. Представлены Vivo X500 Pro и X500 Pro Max",
+      "excerpt": "Vivo представила флагманские смартфоны X500 Pro и X500 Pro Max в Китае. Это первые в мире модели на базе новой топовой однокристальной системы MediaTek Dimensity 9600 Pro. Акцент традиционно сделан на камерах — обе новинки получили усовершенствованны",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/200-megapikselnaya-kamera-zeiss-novogo-pokoleniy-2026-09-21.webp",
+      "metaTitle": "200-мегапиксельная камера Zeiss нового поколения, 8000 мА·ч,",
+      "metaDescription": "Vivo представила флагманские смартфоны X500 Pro и X500 Pro Max в Китае. Это первые в мире модели на базе новой топовой однокристальной системы MediaTe",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437341-200-megapikselnaia-kamera-zeiss-novogo-pokoleniia-8000-mac-90-vt-i-noveisaia-dimensity-9600-pro-1000-predstavleny-vivo-x500-pro-i-x500-pro-max.html"
+    },
+    {
+      "id": "kamera-zeiss-s-sensorom-sony-7500-mach-90-vt-ip6-2026-09-21",
+      "category": "Новости",
+      "title": "Камера Zeiss с сенсором Sony, 7500 мАч, 90 Вт, IP69 и Dimensity 9600M за 820 долларов. Представлен Vivo X500",
+      "excerpt": "Вместе со смартфонами X500 Pro и X500 Pro Max Vivo сегодня представила в Китае базовую модель серии — X500. Тут средний по размерам экран, более простая (но все равно мощная) камера и только 12 ГБ оперативной памяти даже в топовой версии.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kamera-zeiss-s-sensorom-sony-7500-mach-90-vt-ip6-2026-09-21.webp",
+      "metaTitle": "Камера Zeiss с сенсором Sony, 7500 мАч, 90 Вт, IP69 и Dimens",
+      "metaDescription": "Вместе со смартфонами X500 Pro и X500 Pro Max Vivo сегодня представила в Китае базовую модель серии — X500. Тут средний по размерам экран, более прост",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437343-kamera-zeiss-s-sensorom-sony-7500-mac-90-vt-ip69-i-dimensity-9600m-za-820-dollarov-predstavlen-vivo-x500.html"
+    },
+    {
+      "id": "sobyanin-raskryl-smysl-razgovorov-pro-iskusstven-2026-09-21",
+      "category": "Новости",
+      "title": "Собянин раскрыл смысл разговоров про искусственный интеллект",
+      "excerpt": "Собянин раскрыл смысл разговоров про искусственный интеллект",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sobyanin-raskryl-smysl-razgovorov-pro-iskusstven-2026-09-21.webp",
+      "metaTitle": "Собянин раскрыл смысл разговоров про искусственный интеллект",
+      "metaDescription": "Собянин раскрыл смысл разговоров про искусственный интеллект",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/21/kommunizm/"
+    },
+    {
+      "id": "sapfirovoe-steklo-titanovyy-korpus-esim-oflayn-n-2026-09-21",
+      "category": "Новости",
+      "title": "Сапфировое стекло, титановый корпус, eSIM, офлайн-навигация и высокая точность измерения ЧСС. Представлены умные часы Vivo Watch 6 — от $150",
+      "excerpt": "Vivo сегодня представила умные часы Watch 6. Новинка получила сапфировое стекло (во всех версиях), яркий экран AMOLED и поддержку автономной навигации.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sapfirovoe-steklo-titanovyy-korpus-esim-oflayn-n-2026-09-21.webp",
+      "metaTitle": "Сапфировое стекло, титановый корпус, eSIM, офлайн-навигация ",
+      "metaDescription": "Vivo сегодня представила умные часы Watch 6. Новинка получила сапфировое стекло (во всех версиях), яркий экран AMOLED и поддержку автономной навигации",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/sapfirovoe-steklo-titanovyi-korpus-esim-oflain-navigaciia-i-vysokaia-tocnost-izmereniia-pokazatelei-zdorovia-predstavleny-umnye-casy-vivo-watch-6-ot-150.html"
+    },
+    {
+      "id": "10-000-ma-ch-80-vt-zaschita-ip69k-i-neobychnaya--2026-09-21",
+      "category": "Новости",
+      "title": "10 000 мА•ч, 80 Вт, защита IP69K и необычная подсветка. На мировой рынок вышел смартфон Oppo A7 Pro Max",
+      "excerpt": "Oppo A7 Pro Max 5G, представленный в Китае в августе, начал продаваться на международных рынках — в Австрии, Малайзии и Таиланде.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/10-000-ma-ch-80-vt-zaschita-ip69k-i-neobychnaya--2026-09-21.webp",
+      "metaTitle": "10 000 мА•ч, 80 Вт, защита IP69K и необычная подсветка. На м",
+      "metaDescription": "Oppo A7 Pro Max 5G, представленный в Китае в августе, начал продаваться на международных рынках — в Австрии, Малайзии и Таиланде.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437348-10-000-mac-80-vt-zashhita-ip69k-i-neobycnaia-podsvetka-na-mirovoi-rynok-vysel-smartfon-oppo-a7-pro-max.html"
+    },
+    {
       "id": "clickfix-lures-deploy-chainscript-rat-using-poly-2026-09-21",
       "category": "Новости",
       "title": "ClickFix Lures Развертывание ChainScript RAT с использованием Polygon для поворота инфраструктуры C2",
