@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "clickfix-lures-deploy-chainscript-rat-using-poly-2026-09-21",
+      "category": "Новости",
+      "title": "ClickFix Lures Развертывание ChainScript RAT с использованием Polygon для поворота инфраструктуры C2",
+      "excerpt": "Злоумышленники используют приманки, подобные ClickFix, для доставки ранее недокументированного трояна удаленного доступа (RAT) под названием ChainScript. «ChainScript появился под несколькими названиями сборок, включая ComponentTask33, UpdateDigital,",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/clickfix-lures-deploy-chainscript-rat-using-poly-2026-09-21.webp",
+      "metaTitle": "ClickFix Lures Развертывание ChainScript RAT с использование",
+      "metaDescription": "Злоумышленники используют приманки, подобные ClickFix, для доставки ранее недокументированного трояна удаленного доступа (RAT) под названием ChainScri",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+    },
+    {
+      "id": "huang-nabral-ves-v-belom-dome-glava-nvidia-fakti-2026-09-21",
+      "category": "Новости",
+      "title": "Хуанг набрал вес в Белом доме — глава Nvidia фактически стал главным советником Трампа по ИИ",
+      "excerpt": "Стремительное развитие бизнеса Nvidia, которое последовало за стартом бума ИИ, явно окрылило основателя и бессменного гендиректора компании Дженсена Хуанга (Jensen Huang). Он стал не только чуть ли не ежедневно давать свои комментарии по волнующим от",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huang-nabral-ves-v-belom-dome-glava-nvidia-fakti-2026-09-21.webp",
+      "metaTitle": "Хуанг набрал вес в Белом доме — глава Nvidia фактически стал",
+      "metaDescription": "Стремительное развитие бизнеса Nvidia, которое последовало за стартом бума ИИ, явно окрылило основателя и бессменного гендиректора компании Дженсена Х",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148796"
+    },
+    {
+      "id": "colorado-water-utilities-hit-by-cyberattacks-tar-2026-09-21",
+      "category": "Новости",
+      "title": "Водоканалы Колорадо пострадали от кибератак, направленных на OT-системы",
+      "excerpt": "По словам чиновников, хакеры изменили настройки оборудования, отключили удаленный доступ и сигнализацию, а также изменили циклы откачки. Сообщение «Коммунальные предприятия водоснабжения Колорадо пострадали от кибератак, нацеленных на OT-системы», вп",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/colorado-water-utilities-hit-by-cyberattacks-tar-2026-09-21.webp",
+      "metaTitle": "Водоканалы Колорадо пострадали от кибератак, направленных на",
+      "metaDescription": "По словам чиновников, хакеры изменили настройки оборудования, отключили удаленный доступ и сигнализацию, а также изменили циклы откачки. Сообщение «Ко",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/"
+    },
+    {
+      "id": "nazvany-naibolee-uyazvimye-pered-nekachestvennym-2026-09-21",
+      "category": "Новости",
+      "title": "Названы наиболее уязвимые перед некачественным топливом авто",
+      "excerpt": "Названы наиболее уязвимые перед некачественным топливом авто",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nazvany-naibolee-uyazvimye-pered-nekachestvennym-2026-09-21.webp",
+      "metaTitle": "Названы наиболее уязвимые перед некачественным топливом авто",
+      "metaDescription": "Названы наиболее уязвимые перед некачественным топливом авто",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/21/nazvany-naibolee-uyazvimye-pered-nekachestvennym-toplivom-avto/"
+    },
+    {
+      "id": "scammers-impersonate-cops-use-arrest-threats-to--2026-09-21",
+      "category": "Новости",
+      "title": "Мошенники выдают себя за полицейских и используют угрозы ареста для вымогательства у жертв",
+      "excerpt": "Мошенники выдают себя за полицейских и федеральных агентов и угрожают арестом, если жертвы не заплатят, предупреждает ФБР. Центр рассмотрения жалоб на интернет-преступления ФБР (IC3) обновил предупреждение, которое он впервые выпустил в 2022 году, со",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/scammers-impersonate-cops-use-arrest-threats-to--2026-09-21.webp",
+      "metaTitle": "Мошенники выдают себя за полицейских и используют угрозы аре",
+      "metaDescription": "Мошенники выдают себя за полицейских и федеральных агентов и угрожают арестом, если жертвы не заплатят, предупреждает ФБР. Центр рассмотрения жалоб на",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/fake-police-federal-agents-scams/"
+    },
+    {
+      "id": "piraty-udalili-denuvo-iz-assassin-s-creed-mirage-2026-09-21",
+      "category": "Новости",
+      "title": "Пираты удалили Denuvo из Assassin's Creed Mirage — игра стала быстрее загружаться и лучше работать",
+      "excerpt": "Хотя хакер voices38 взломал Denuvo в приключенческом боевике с открытым миром Assassin's Creed Mirage от Ubisoft ещё весной, проверить работоспособность игры без скандальной системы защиты удалось лишь сейчас. Источник изображений: Ubisoft",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/piraty-udalili-denuvo-iz-assassin-s-creed-mirage-2026-09-21.webp",
+      "metaTitle": "Пираты удалили Denuvo из Assassin's Creed Mirage — игра стал",
+      "metaDescription": "Хотя хакер voices38 взломал Denuvo в приключенческом боевике с открытым миром Assassin's Creed Mirage от Ubisoft ещё весной, проверить работоспособнос",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148797"
+    },
+    {
+      "id": "crowdsec-confirms-source-code-stolen-in-supply-c-2026-09-21",
+      "category": "Новости",
+      "title": "CrowdSec подтверждает, что исходный код был украден в результате атаки на цепочку поставок",
+      "excerpt": "Фирма, занимающаяся кибербезопасностью, считает, что утечка данных стала результатом атаки на цепочку поставок TanStack в мае 2026 года. Сообщение CrowdSec подтверждает, что исходный код был украден в результате атаки на цепочку поставок, впервые поя",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/crowdsec-confirms-source-code-stolen-in-supply-c-2026-09-21.webp",
+      "metaTitle": "CrowdSec подтверждает, что исходный код был украден в резуль",
+      "metaDescription": "Фирма, занимающаяся кибербезопасностью, считает, что утечка данных стала результатом атаки на цепочку поставок TanStack в мае 2026 года. Сообщение Cro",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/"
+    },
+    {
+      "id": "lg-predstavila-pervyy-v-mire-24-5-dyuymovyy-oled-2026-09-21",
+      "category": "Новости",
+      "title": "LG представила первый в мире 24,5-дюймовый OLED-дисплей с частотой обновления 720 Гц",
+      "excerpt": "Компания LG Display разработала 24,5-дюймовую панель OLED для игровых мониторов, которая поддерживает частоту обновления 720 Гц. Производитель отмечает, что матрица была разработана специально для киберспортивных дисциплин, где высокая частота обновл",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lg-predstavila-pervyy-v-mire-24-5-dyuymovyy-oled-2026-09-21.webp",
+      "metaTitle": "LG представила первый в мире 24,5-дюймовый OLED-дисплей с ча",
+      "metaDescription": "Компания LG Display разработала 24,5-дюймовую панель OLED для игровых мониторов, которая поддерживает частоту обновления 720 Гц. Производитель отмечае",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148799"
+    },
+    {
+      "id": "indiya-predstavila-sobstvennyy-chip-na-risc-v-vi-2026-09-21",
+      "category": "Новости",
+      "title": "Индия представила собственный чип на RISC-V: Vihaan-I уже работает и выйдет на рынок в 2027 году",
+      "excerpt": "Индийский стартап по разработке полупроводников Aheesa Digital Innovations представил Vihaan-I — собственную однокристальную систему (SoC) для широкополосного сетевого оборудования, которая должна заменить часть импортных чипов в маршрутизаторах и оп",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/indiya-predstavila-sobstvennyy-chip-na-risc-v-vi-2026-09-21.webp",
+      "metaTitle": "Индия представила собственный чип на RISC-V: Vihaan-I уже ра",
+      "metaDescription": "Индийский стартап по разработке полупроводников Aheesa Digital Innovations представил Vihaan-I — собственную однокристальную систему (SoC) для широкоп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437317-indiia-predstavila-sobstvennyi-cip-na-risc-v-vihaan-i-uze-rabotaet-i-vyidet-na-rynok-v-2027-godu.html"
+    },
+    {
+      "id": "microsoft-september-updates-break-file-history-b-2026-09-21",
+      "category": "Новости",
+      "title": "Microsoft: сентябрьские обновления нарушают функцию резервного копирования истории файлов",
+      "excerpt": "Microsoft предупредила, что встроенная функция резервного копирования истории файлов в Windows может перестать работать в некоторых системах после установки обновлений безопасности за сентябрь 2026 года. [...]",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-september-updates-break-file-history-b-2026-09-21.webp",
+      "metaTitle": "Microsoft: сентябрьские обновления нарушают функцию резервно",
+      "metaDescription": "Microsoft предупредила, что встроенная функция резервного копирования истории файлов в Windows может перестать работать в некоторых системах после уст",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/"
+    },
+    {
+      "id": "predstavlen-toyota-rav4-off-road-edition-gibrid--2026-09-21",
+      "category": "Новости",
+      "title": "Представлен Toyota RAV4 Off-Road Edition — гибрид с передним приводом и ценой всего 144 тыс. юаней (1,8 млн рублей)",
+      "excerpt": "Совместное предприятие FAW Toyota вывело на китайский рынок RAV4 Off-Road Edition. Рекомендованная цена новинки составляет 177 800 юаней (2,25 млн рублей), однако на старте продаж автомобиль временно предлагают за 144 000 юаней (1,8 млн рублей).",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-toyota-rav4-off-road-edition-gibrid--2026-09-21.webp",
+      "metaTitle": "Представлен Toyota RAV4 Off-Road Edition — гибрид с передним",
+      "metaDescription": "Совместное предприятие FAW Toyota вывело на китайский рынок RAV4 Off-Road Edition. Рекомендованная цена новинки составляет 177 800 юаней (2,25 млн руб",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437323-predstavlen-toyota-rav4-off-road-edition-gibrid-s-perednim-privodom-i-cenoi-vsego-144-tys-iuanei-18-mln-rublei.html"
+    },
+    {
+      "id": "mitsubishi-vlozhilas-v-startap-kotoryy-stroit-op-2026-09-21",
+      "category": "Новости",
+      "title": "Mitsubishi вложилась в стартап, который строит оптический квантовый компьютер на 1 млн кубитов",
+      "excerpt": "Инвестиционный фонд ME Innovation Fund японской Mitsubishi Electric вложился в стартап OptQC, созданный на базе лаборатории Фурусавы (Furusawa Laboratory) Токийского университета. Сумма сделки не раскрывается.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mitsubishi-vlozhilas-v-startap-kotoryy-stroit-op-2026-09-21.webp",
+      "metaTitle": "Mitsubishi вложилась в стартап, который строит оптический кв",
+      "metaDescription": "Инвестиционный фонд ME Innovation Fund японской Mitsubishi Electric вложился в стартап OptQC, созданный на базе лаборатории Фурусавы (Furusawa Laborat",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437321-mitsubishi-vlozilas-v-startap-kotoryi-stroit-opticeskii-kvantovyi-kompiuter-na-1-mln-kubitov.html"
+    },
+    {
+      "id": "yandeks-vypustil-otkrytuyu-ii-model-alice-ai-fou-2026-09-21",
+      "category": "Новости",
+      "title": "«Яндекс» выпустил открытую ИИ-модель Alice AI Foundation LLM, которая обходит более крупные нейросети",
+      "excerpt": "Компания «Яндекс» представила и выложила в открытый доступ претрейн-версия большой языковой модели Alice AI Foundation LLM, которая была обучена полностью с нуля. Утверждается, что решение показывает высокие результаты в программировании и рассуждени",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yandeks-vypustil-otkrytuyu-ii-model-alice-ai-fou-2026-09-21.webp",
+      "metaTitle": "«Яндекс» выпустил открытую ИИ-модель Alice AI Foundation LLM",
+      "metaDescription": "Компания «Яндекс» представила и выложила в открытый доступ претрейн-версия большой языковой модели Alice AI Foundation LLM, которая была обучена полно",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148800"
+    },
+    {
+      "id": "rust-team-members-and-popular-crate-owners-targe-2026-09-21",
+      "category": "Новости",
+      "title": "Члены команды Rust и популярные владельцы ящиков подверглись нападению с помощью видеозвонков",
+      "excerpt": "Неясно, являются ли эти атаки частью предыдущих кампаний против Rust, но методы, использованные злоумышленниками, соответствуют методам, использованным Северной Кореей. Сообщение «Члены команды Rust и популярные владельцы ящиков, на которых нацелены ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rust-team-members-and-popular-crate-owners-targe-2026-09-21.webp",
+      "metaTitle": "Члены команды Rust и популярные владельцы ящиков подверглись",
+      "metaDescription": "Неясно, являются ли эти атаки частью предыдущих кампаний против Rust, но методы, использованные злоумышленниками, соответствуют методам, использованны",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/"
+    },
+    {
+      "id": "kvantovyy-kompyuter-vpervye-ustanovyat-v-yuzhnoy-2026-09-21",
+      "category": "Новости",
+      "title": "Квантовый компьютер впервые установят в Южной Америке: IQM разместит систему Spark в Бразилии",
+      "excerpt": "Финская компания IQM Quantum Computers разместит свой квантовый компьютер в Южной Америке. Система Spark будет установлена в штаб-квартире исследовательского института Eldorado в Кампинасе, в 100 км от Сан-Паулу, в первом квартале 2027 года. Одноврем",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kvantovyy-kompyuter-vpervye-ustanovyat-v-yuzhnoy-2026-09-21.webp",
+      "metaTitle": "Квантовый компьютер впервые установят в Южной Америке: IQM р",
+      "metaDescription": "Финская компания IQM Quantum Computers разместит свой квантовый компьютер в Южной Америке. Система Spark будет установлена в штаб-квартире исследовате",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437324-kvantovyi-kompiuter-vpervye-ustanoviat-v-iuznoi-amerike-iqm-razmestit-sistemu-spark-v-brazilii.html"
+    },
+    {
       "id": "rossiyskaya-kriptoindustriya-nachnet-rabotat-leg-2026-09-21",
       "category": "Новости",
       "title": "Российская криптоиндустрия начнет работать легально до конца 2026 года",
