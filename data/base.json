@@ -1,6 +1,310 @@
 {
   "articles": [
     {
+      "id": "rossiyskaya-kriptoindustriya-nachnet-rabotat-leg-2026-09-21",
+      "category": "Новости",
+      "title": "Российская криптоиндустрия начнет работать легально до конца 2026 года",
+      "excerpt": "Российская криптоиндустрия начнет работать легально до конца 2026 года",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskaya-kriptoindustriya-nachnet-rabotat-leg-2026-09-21.webp",
+      "metaTitle": "Российская криптоиндустрия начнет работать легально до конца",
+      "metaDescription": "Российская криптоиндустрия начнет работать легально до конца 2026 года",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437290-rossiiskaia-kriptoindustriia-nacnet-rabotat-legalno-do-konca-2026-goda.html"
+    },
+    {
+      "id": "predstavlen-pervyy-nastolnyy-pk-huawei-na-harmon-2026-09-21",
+      "category": "Новости",
+      "title": "Представлен первый настольный ПК Huawei на HarmonyOS",
+      "excerpt": "Huawei впервые продемонстрировала настольный компьютер HM650 под управлением собственной операционной системы HarmonyOS.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-pervyy-nastolnyy-pk-huawei-na-harmon-2026-09-21.webp",
+      "metaTitle": "Представлен первый настольный ПК Huawei на HarmonyOS",
+      "metaDescription": "Huawei впервые продемонстрировала настольный компьютер HM650 под управлением собственной операционной системы HarmonyOS.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437292-predstavlen-pervyi-nastolnyi-pk-huawei-na-harmonyos.html"
+    },
+    {
+      "id": "xiaomi-vypustila-trehdvernyy-holodilnik-na-271-l-2026-09-21",
+      "category": "Новости",
+      "title": "Xiaomi выпустила трехдверный холодильник на 271 литр за $220",
+      "excerpt": "Новый холодильник Xiaomi Mijia поступил в продажу в Китае по цене 1499 юаней или 220 долларов с учётом государственной субсидии.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-trehdvernyy-holodilnik-na-271-l-2026-09-21.webp",
+      "metaTitle": "Xiaomi выпустила трехдверный холодильник на 271 литр за $220",
+      "metaDescription": "Новый холодильник Xiaomi Mijia поступил в продажу в Китае по цене 1499 юаней или 220 долларов с учётом государственной субсидии.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437294-xiaomi-vypustila-trexdvernyi-xolodilnik-na-271-litr-za-220.html"
+    },
+    {
+      "id": "hackers-exploit-gyazo-server-flaw-to-steal-23-6--2026-09-21",
+      "category": "Новости",
+      "title": "Хакеры воспользовались уязвимостью сервера Gyazo, чтобы украсть 23,6 миллиона пользовательских записей",
+      "excerpt": "Японская компания-разработчик программного обеспечения Helpfeel подтвердила утечку данных на своей платформе обмена скриншотами Gyazo, в которой злоумышленники воспользовались уязвимостью на сервере загрузки изображений, похитив около 23,62 миллиона ",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hackers-exploit-gyazo-server-flaw-to-steal-23-6--2026-09-21.webp",
+      "metaTitle": "Хакеры воспользовались уязвимостью сервера Gyazo, чтобы укра",
+      "metaDescription": "Японская компания-разработчик программного обеспечения Helpfeel подтвердила утечку данных на своей платформе обмена скриншотами Gyazo, в которой злоум",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/helpfeel-gyazo-data-breach/"
+    },
+    {
+      "id": "era-chelovekopodobnyh-robotov-nachalas-za-proshl-2026-09-21",
+      "category": "Новости",
+      "title": "Эра человекоподобных роботов началась: за прошлый год в мире было продано 7000 андроидов, а в этом их будет почти в 13 раз больше",
+      "excerpt": "Интерес к человекоподобным роботам на новом этапе их эволюционного развития заметно вырос, хотя на фоне объёмов продаж традиционной робототехнической продукции показатели данной категории пока достаточно скромны. Международная федерация робототехники",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/era-chelovekopodobnyh-robotov-nachalas-za-proshl-2026-09-21.webp",
+      "metaTitle": "Эра человекоподобных роботов началась: за прошлый год в мире",
+      "metaDescription": "Интерес к человекоподобным роботам на новом этапе их эволюционного развития заметно вырос, хотя на фоне объёмов продаж традиционной робототехнической ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148793"
+    },
+    {
+      "id": "predstavlen-gornyy-velosiped-honda-prodazhi-star-2026-09-21",
+      "category": "Новости",
+      "title": "Представлен горный велосипед Honda. Продажи стартуют в 2027 году",
+      "excerpt": "Honda представила горный электровелосипед RN0 на выставке Sea Otter Europe в Жироне. Компания планирует вывести модель на рынок в 2027 году, что станет её возвращением в сегмент горных велосипедов спустя почти 20 лет. В отличие от экспериментального ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-gornyy-velosiped-honda-prodazhi-star-2026-09-21.webp",
+      "metaTitle": "Представлен горный велосипед Honda. Продажи стартуют в 2027 ",
+      "metaDescription": "Honda представила горный электровелосипед RN0 на выставке Sea Otter Europe в Жироне. Компания планирует вывести модель на рынок в 2027 году, что стане",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437295-predstavlen-gornyi-velosiped-honda-prodazi-startuiut-v-2027-godu.html"
+    },
+    {
+      "id": "tihaya-mehanicheskaya-klaviatura-i-universalnaya-2026-09-21",
+      "category": "Новости",
+      "title": "Тихая механическая клавиатура и универсальная мышь с 13 кнопками: MSI STRIKE 600 Silent и MSI VERSA PRO Wireless",
+      "excerpt": "MSI STRIKE 600 Silent и MSI VERSA PRO Wireless предлагают альтернативу шумной и не слишком пригодной для работы игровой периферии: первая сочетает тихие механические переключатели с многослойным шумоподавлением, а вторая — 13 программируемых кнопок и",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tihaya-mehanicheskaya-klaviatura-i-universalnaya-2026-09-21.webp",
+      "metaTitle": "Тихая механическая клавиатура и универсальная мышь с 13 кноп",
+      "metaDescription": "MSI STRIKE 600 Silent и MSI VERSA PRO Wireless предлагают альтернативу шумной и не слишком пригодной для работы игровой периферии: первая сочетает тих",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148776"
+    },
+    {
+      "id": "google-hochet-pomenshe-puskat-lyudey-v-nastoyasc-2026-09-21",
+      "category": "Новости",
+      "title": "Google хочет поменьше пускать людей в настоящий интернет — в Discover тестируются ИИ-сводки вместо переходов на сайты",
+      "excerpt": "Google тестирует новый способ наполнения контентом Discover — новостной ленты на смартфонах с Android, которая отображается в фирменном приложении компании. Речь о функции Dive Deeper, которая добавляет сгенерированные с помощью ИИ обзоры, когда поль",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-hochet-pomenshe-puskat-lyudey-v-nastoyasc-2026-09-21.webp",
+      "metaTitle": "Google хочет поменьше пускать людей в настоящий интернет — в",
+      "metaDescription": "Google тестирует новый способ наполнения контентом Discover — новостной ленты на смартфонах с Android, которая отображается в фирменном приложении ком",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148792"
+    },
+    {
+      "id": "vyhod-semeystva-geforce-rtx-60-otlozhili-do-2028-2026-09-21",
+      "category": "Новости",
+      "title": "Выход семейства GeForce RTX 60 отложили до 2028 года",
+      "excerpt": "По словам известного инсайдера Kopite7kimi, семейство игровых графических процессоров GR20x на архитектуре Rubin теперь запланировано на 2028 год.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vyhod-semeystva-geforce-rtx-60-otlozhili-do-2028-2026-09-21.webp",
+      "metaTitle": "Выход семейства GeForce RTX 60 отложили до 2028 года",
+      "metaDescription": "По словам известного инсайдера Kopite7kimi, семейство игровых графических процессоров GR20x на архитектуре Rubin теперь запланировано на 2028 год.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437299-vyxod-semeistva-geforce-rtx-60-otlozili-do-2028-goda.html"
+    },
+    {
+      "id": "kresla-zeekr-009-ispytali-20-tonnym-gruzovikom-p-2026-09-21",
+      "category": "Новости",
+      "title": "Кресла Zeekr 009 испытали 20-тонным грузовиком: пенополиуретан так и не смогли деформировать",
+      "excerpt": "Zeekr провела необычный тест кресел обновлённого минивэна Zeekr 009. Сначала фрагмент пенополиуретана несколько раз переезжали девять автомобилей марки, начиная с 1,9-тонного Zeekr X и заканчивая 2,9-тонным Zeekr 009. Совокупная масса машин составила",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kresla-zeekr-009-ispytali-20-tonnym-gruzovikom-p-2026-09-21.webp",
+      "metaTitle": "Кресла Zeekr 009 испытали 20-тонным грузовиком: пенополиурет",
+      "metaDescription": "Zeekr провела необычный тест кресел обновлённого минивэна Zeekr 009. Сначала фрагмент пенополиуретана несколько раз переезжали девять автомобилей марк",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437301-kresla-zeekr-009-ispytali-20-tonnym-gruzovikom-penopoliuretan-tak-i-ne-smogli-deformirovat.html"
+    },
+    {
+      "id": "mask-vzyalsya-za-staroe-tesla-snova-prosit-50-00-2026-09-21",
+      "category": "Новости",
+      "title": "Маск взялся за старое: Tesla снова просит $50 000 за резервирование нового Roadster, анонсированного 9 лет назад",
+      "excerpt": "Для компании Tesla модель Roadster первого поколения была знаковой, поскольку позволила заявить о себе и определить путь эволюции современных электромобилей. Машину второго поколения Илон Маск (Elon Musk) анонсировал ещё осенью 2017 года, пообещав на",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mask-vzyalsya-za-staroe-tesla-snova-prosit-50-00-2026-09-21.webp",
+      "metaTitle": "Маск взялся за старое: Tesla снова просит $50 000 за резерви",
+      "metaDescription": "Для компании Tesla модель Roadster первого поколения была знаковой, поскольку позволила заявить о себе и определить путь эволюции современных электром",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148794"
+    },
+    {
+      "id": "organizations-warned-of-3-exploited-linux-kernel-2026-09-21",
+      "category": "Новости",
+      "title": "Организации предупреждены о трех эксплуатируемых уязвимостях ядра Linux",
+      "excerpt": "Злоумышленники могут использовать эти недостатки, чтобы вызвать отказ в обслуживании, раскрыть память или изменить ее. Сообщение «Организации предупреждены о трех эксплуатируемых уязвимостях ядра Linux» впервые появилось на SecurityWeek.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/organizations-warned-of-3-exploited-linux-kernel-2026-09-21.webp",
+      "metaTitle": "Организации предупреждены о трех эксплуатируемых уязвимостях",
+      "metaDescription": "Злоумышленники могут использовать эти недостатки, чтобы вызвать отказ в обслуживании, раскрыть память или изменить ее. Сообщение «Организации предупре",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/"
+    },
+    {
+      "id": "siemba-brings-continuous-idor-testing-to-product-2026-09-21",
+      "category": "Новости",
+      "title": "Siemba внедряет непрерывное тестирование IDOR в рабочие API",
+      "excerpt": "Siemba объявила об автоматическом тестировании на небезопасную прямую ссылку на объект (IDOR) в рамках своей функции тестирования безопасности API, которая проверяет API-интерфейсы REST, GraphQL и SOAP на наличие классов уязвимостей, которые с наибол",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/siemba-brings-continuous-idor-testing-to-product-2026-09-21.webp",
+      "metaTitle": "Siemba внедряет непрерывное тестирование IDOR в рабочие API",
+      "metaDescription": "Siemba объявила об автоматическом тестировании на небезопасную прямую ссылку на объект (IDOR) в рамках своей функции тестирования безопасности API, ко",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/siemba-idor-automated-testing/"
+    },
+    {
+      "id": "topovaya-kamera-zeiss-i-sony-vysochayshaya-stabi-2026-09-21",
+      "category": "Новости",
+      "title": "Топовая камера Zeiss и Sony, высочайшая стабилизация и дополнительные объективы. Vivo X500 Pro и Vivo X500 Pro Max официально рассекретили за час до презентации",
+      "excerpt": "Хань Босяо, менеджер по продукции компании Vivo, объявил характеристики Vivo X500 Pro и Vivo X500 Pro Max накануне презентации серии, которая состоится сегодня в 14:00 мск.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/topovaya-kamera-zeiss-i-sony-vysochayshaya-stabi-2026-09-21.webp",
+      "metaTitle": "Топовая камера Zeiss и Sony, высочайшая стабилизация и допол",
+      "metaDescription": "Хань Босяо, менеджер по продукции компании Vivo, объявил характеристики Vivo X500 Pro и Vivo X500 Pro Max накануне презентации серии, которая состоитс",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437304-topovaia-kamera-zeiss-i-sony-vysocaisaia-stabilizaciia-i-dopolnitelnye-obieektivy-xarakteristiki-vivo-x500-pro-i-vivo-x500-pro-max-oficialno-slili-za-cas-do-prezentacii.html"
+    },
+    {
+      "id": "neogranennyy-almaz-kritiki-vynesli-verdikt-silen-2026-09-21",
+      "category": "Новости",
+      "title": "Неогранённый алмаз: критики вынесли вердикт Silent Hill: Townfall",
+      "excerpt": "В преддверии скорого релиза первых оценок от западных критиков удостоился психологический хоррор от первого лица Silent Hill: Townfall, разработанный шотландской студией Screen Burn Interactive (в прошлом No Code). Источник изображений: Konami",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/neogranennyy-almaz-kritiki-vynesli-verdikt-silen-2026-09-21.webp",
+      "metaTitle": "Неогранённый алмаз: критики вынесли вердикт Silent Hill: Tow",
+      "metaDescription": "В преддверии скорого релиза первых оценок от западных критиков удостоился психологический хоррор от первого лица Silent Hill: Townfall, разработанный ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148795"
+    },
+    {
       "id": "gendir-acer-rasskazal-kogda-tseny-na-pk-perestan-2026-09-21",
       "category": "Новости",
       "title": "Гендир Acer рассказал, когда цены на ПК перестанут расти и начнут снижаться",
