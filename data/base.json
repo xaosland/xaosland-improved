@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "vypusk-utility-dlya-zagruzki-web-kontenta-gnu-wg-2026-09-21",
+      "category": "Новости",
+      "title": "Выпуск утилиты для загрузки web-контента GNU Wget2 2.3.0",
+      "excerpt": "Опубликован релиз проекта GNU Wget2 2.3.0, развивающего переписанный с нуля и полностью переработанный вариант программы для автоматизации рекурсивной загрузки контента GNU Wget. Wget2 предоставляет набор дополнительных опций, поддерживает загрузку в",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск утилиты для загрузки web-контента GNU Wget2 2.3.0",
+      "metaDescription": "Опубликован релиз проекта GNU Wget2 2.3.0, развивающего переписанный с нуля и полностью переработанный вариант программы для автоматизации рекурсивной",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66313"
+    },
+    {
+      "id": "25-proizvoditeley-routerov-i-ni-odnogo-chetkogo--2026-09-21",
+      "category": "Новости",
+      "title": "25 производителей роутеров — и ни одного четкого ответа: исследователи нашли «слепую зону» в приватности домашних маршрутизаторов и роутеров",
+      "excerpt": "Исследователи Cybernews проанализировали политики конфиденциальности 25 крупнейших производителей потребительских роутеров на американском рынке и обнаружили неожиданную проблему: компании подробно описывают сбор персональных данных пользователей, но",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/25-proizvoditeley-routerov-i-ni-odnogo-chetkogo--2026-09-21.webp",
+      "metaTitle": "25 производителей роутеров — и ни одного четкого ответа: исс",
+      "metaDescription": "Исследователи Cybernews проанализировали политики конфиденциальности 25 крупнейших производителей потребительских роутеров на американском рынке и обн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437390-25-proizvoditelei-routerov-i-ni-odnogo-cetkogo-otveta-issledovateli-nasli-slepuiu-zonu-v-privatnosti-domasnix-marsrutizatorov-i-routerov.html"
+    },
+    {
+      "id": "wordpress-click2shell-flaw-lets-hackers-execute--2026-09-21",
+      "category": "Новости",
+      "title": "Уязвимость WordPress Click2Shell позволяет хакерам выполнять PHP на сервере",
+      "excerpt": "Были опубликованы технические подробности и экспериментальный эксплойт для новой уязвимости WordPress подделки межсайтовых запросов (CSRF), получившей название «Click2Shell», которая затрагивает основной компонент платформы. [...]",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wordpress-click2shell-flaw-lets-hackers-execute--2026-09-21.webp",
+      "metaTitle": "Уязвимость WordPress Click2Shell позволяет хакерам выполнять",
+      "metaDescription": "Были опубликованы технические подробности и экспериментальный эксплойт для новой уязвимости WordPress подделки межсайтовых запросов (CSRF), получившей",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+    },
+    {
+      "id": "kvantovye-tochki-vse-samsung-svorachivaet-proizv-2026-09-21",
+      "category": "Новости",
+      "title": "Квантовые точки — всё: Samsung сворачивает производство телевизоров QLED и Neo QLED — впереди полный переход на Mini LED",
+      "excerpt": "Samsung Electronics резко сокращает производство ЖК-телевизоров с квантовыми точками. Если в прошлом году компания выпустила около 10 млн QD-моделей, то по итогам 2026 года объем снизится до 2–3 млн устройств — примерно на 80%. При этом общее произво",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kvantovye-tochki-vse-samsung-svorachivaet-proizv-2026-09-21.webp",
+      "metaTitle": "Квантовые точки — всё: Samsung сворачивает производство теле",
+      "metaDescription": "Samsung Electronics резко сокращает производство ЖК-телевизоров с квантовыми точками. Если в прошлом году компания выпустила около 10 млн QD-моделей, ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437393-kvantovye-tocki-vse-samsung-svoracivaet-proizvodstvo-televizorov-qled-i-neo-qled-vperedi-polnyi-perexod-na-mini-led.html"
+    },
+    {
+      "id": "vypusk-distributiva-mx-linux-25-3-2026-09-21",
+      "category": "Новости",
+      "title": "Выпуск дистрибутива MX Linux 25.3",
+      "excerpt": "Опубликован релиз легковесного дистрибутива MX Linux 25.3, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и MEPIS. Выпуск основан на пакетной базе Debian с улучшениями от проекта antiX и пакетами из собствен",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск дистрибутива MX Linux 25.3",
+      "metaDescription": "Опубликован релиз легковесного дистрибутива MX Linux 25.3, созданного в результате совместной работы сообществ, образовавшихся вокруг проектов antiX и",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66314"
+    },
+    {
+      "id": "google-oshtrafovali-na-403-mln-za-nepravilnyy-sb-2026-09-21",
+      "category": "Новости",
+      "title": "Google оштрафовали на €403 млн за неправильный сбор геоданных европейцев",
+      "excerpt": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на сумму 403 млн за множественные нарушения «Общего регламента по защите данных» (GDPR), связанные с обработкой информации о местоположении пользователей. Поводом для санкций стало расследов",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-oshtrafovali-na-403-mln-za-nepravilnyy-sb-2026-09-21.webp",
+      "metaTitle": "Google оштрафовали на €403 млн за неправильный сбор геоданны",
+      "metaDescription": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на сумму 403 млн за множественные нарушения «Общего регламента по защите данных» (GDPR), с",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148820"
+    },
+    {
+      "id": "vecherinka-zakonchilas-spacex-perestala-prinimat-2026-09-21",
+      "category": "Новости",
+      "title": "«Вечеринка закончилась». SpaceX перестала принимать новые коммерческие заказы на Falcon 9, а замены этой ракете нет",
+      "excerpt": "Коммерческая космическая отрасль начала готовиться к постепенному уходу Falcon 9 с рынка запусков. Несмотря на то, что SpaceX официально не объявляла о прекращении запусков, участники рынка утверждают, что заказать новую коммерческую миссию на Falcon",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vecherinka-zakonchilas-spacex-perestala-prinimat-2026-09-21.webp",
+      "metaTitle": "«Вечеринка закончилась». SpaceX перестала принимать новые ко",
+      "metaDescription": "Коммерческая космическая отрасль начала готовиться к постепенному уходу Falcon 9 с рынка запусков. Несмотря на то, что SpaceX официально не объявляла ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437396-vecerinka-zakoncilas-spacex-perestala-prinimat-novye-kommerceskie-zakazy-na-falcon-9-a-zameny-etoi-rakete-net.html"
+    },
+    {
+      "id": "cybercriminals-are-hiding-new-malware-in-torrent-2026-09-21",
+      "category": "Новости",
+      "title": "Киберпреступники прячут новые вредоносные программы в торрентах популярных фильмов",
+      "excerpt": "Жертвы были идентифицированы в Африке, в том числе в Кении и Уганде.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Киберпреступники прячут новые вредоносные программы в торрен",
+      "metaDescription": "Жертвы были идентифицированы в Африке, в том числе в Кении и Уганде.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films"
+    },
+    {
+      "id": "eu-data-regulator-fines-google-more-than-460-mil-2026-09-21",
+      "category": "Новости",
+      "title": "Регулятор данных ЕС оштрафовал Google на более чем 460 миллионов долларов за нарушение данных о местоположении",
+      "excerpt": "Комиссия по защите данных Ирландии оштрафует Google на сумму более 403 миллионов евро (462 миллиона долларов США) за обработку данных о местоположении технологического гиганта, завершив расследование в отношении компании, которое началось в начале 20",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/eu-data-regulator-fines-google-more-than-460-mil-2026-09-21.webp",
+      "metaTitle": "Регулятор данных ЕС оштрафовал Google на более чем 460 милли",
+      "metaDescription": "Комиссия по защите данных Ирландии оштрафует Google на сумму более 403 миллионов евро (462 миллиона долларов США) за обработку данных о местоположении",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/google-europe-location-data-fine"
+    },
+    {
+      "id": "my-esche-ne-zakonchili-bungie-peredumala-otmenya-2026-09-21",
+      "category": "Новости",
+      "title": "«Мы ещё не закончили»: Bungie передумала отменять Destiny",
+      "excerpt": "Руководитель Bungie Пория Торкан (Poria Torkan) и директор по развитию Джош Дин (Josh Deane) в обращении к игрокам рассказали о будущем франшизы Destiny и дальнейшем развитии эвакуационного шутера Marathon. Источник изображений: Bungie",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/my-esche-ne-zakonchili-bungie-peredumala-otmenya-2026-09-21.webp",
+      "metaTitle": "«Мы ещё не закончили»: Bungie передумала отменять Destiny",
+      "metaDescription": "Руководитель Bungie Пория Торкан (Poria Torkan) и директор по развитию Джош Дин (Josh Deane) в обращении к игрокам рассказали о будущем франшизы Desti",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148822"
+    },
+    {
+      "id": "otechestvennyy-brend-volga-ustanovil-rekord-prod-2026-09-21",
+      "category": "Новости",
+      "title": "Отечественный бренд Volga установил рекорд продаж — 608 машин за август. Но чтобы выполнить план, нужно продавать по 6000 машин в месяц",
+      "excerpt": "Новый автомобильный бренд Volga установил месячный рекорд продаж в России. По данным «Автостат Инфо», в августе на учет поставили 608 автомобилей марки — это лучший результат с момента выхода бренда на рынок 19 июня.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/otechestvennyy-brend-volga-ustanovil-rekord-prod-2026-09-21.webp",
+      "metaTitle": "Отечественный бренд Volga установил рекорд продаж — 608 маши",
+      "metaDescription": "Новый автомобильный бренд Volga установил месячный рекорд продаж в России. По данным «Автостат Инфо», в августе на учет поставили 608 автомобилей марк",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437399-otecestvennyi-brend-volga-ustanovil-rekord-prodaz-608-masin-za-avgust-no-ctoby-vypolnit-plan-nuzno-prodavat-po-6000-masin-v-mesiac.html"
+    },
+    {
+      "id": "proekt-convey-razvivaet-fork-pochtovogo-klienta--2026-09-21",
+      "category": "Новости",
+      "title": "Проект Convey развивает форк почтового клиента Geary",
+      "excerpt": "Опубликован почтовый клиент Convey, продолжающий развитие проекта Geary, новые версии которого не публиковались с мая 2024 года. Наиболее заметным отличием от Geary является переход на использование библиотек GTK4 и libadwaita. Код написан на языке V",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Проект Convey развивает форк почтового клиента Geary",
+      "metaDescription": "Опубликован почтовый клиент Convey, продолжающий развитие проекта Geary, новые версии которого не публиковались с мая 2024 года. Наиболее заметным отл",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66315"
+    },
+    {
+      "id": "kruzhochki-v-telegram-prevratyatsya-v-kvadraty-m-2026-09-21",
+      "category": "Новости",
+      "title": "«Кружочки» в Telegram превратятся в квадраты: мессенджер мощно прокачает видеосообщения — добавят разрешение 480p, 60 FPS и настройку битрейта",
+      "excerpt": "В бета-версии Telegram 12.10.4 (7095) для Android появился экспериментальный раздел с расширенными настройками видеосообщений, известных как «кружки». Пользователям дали возможность самостоятельно выбирать качество записи, частоту кадров и битрейт.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kruzhochki-v-telegram-prevratyatsya-v-kvadraty-m-2026-09-21.webp",
+      "metaTitle": "«Кружочки» в Telegram превратятся в квадраты: мессенджер мощ",
+      "metaDescription": "В бета-версии Telegram 12.10.4 (7095) для Android появился экспериментальный раздел с расширенными настройками видеосообщений, известных как «кружки».",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437400-kruzocki-v-telegram-prevratiatsia-v-kvadraty-messendzer-moshhno-prokacaet-videosoobshheniia-dobaviat-razresenie-480p-60-fps-i-nastroiku-bitreita.html"
+    },
+    {
+      "id": "ne-tolko-molnii-i-ultrafiolet-magnitnoe-pole-zem-2026-09-21",
+      "category": "Новости",
+      "title": "Не только молнии и ультрафиолет: магнитное поле Земли могло запустить химию, предшествовавшую жизни",
+      "excerpt": "Происхождение первых органических молекул на Земле обычно связывают с источниками энергии, действовавшими на планете в целом: ультрафиолетовым излучением, молниями и ударами метеоритов. Группа учёных под руководством из Киотского университета предлож",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ne-tolko-molnii-i-ultrafiolet-magnitnoe-pole-zem-2026-09-21.webp",
+      "metaTitle": "Не только молнии и ультрафиолет: магнитное поле Земли могло ",
+      "metaDescription": "Происхождение первых органических молекул на Земле обычно связывают с источниками энергии, действовавшими на планете в целом: ультрафиолетовым излучен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437401-ne-tolko-molnii-i-ultrafiolet-magnitnoe-pole-zemli-moglo-zapustit-ximiiu-predsestvovavsuiu-zizni.html"
+    },
+    {
+      "id": "uchenye-nashli-mikroorganizm-s-neizvestnym-prezh-2026-09-21",
+      "category": "Новости",
+      "title": "Учёные нашли микроорганизм с неизвестным прежде способом размножения",
+      "excerpt": "Учёные обнаружили у нового морского микроорганизма необычный способ размножения, при котором дочерние клетки формируются внутри материнской, а затем выходят наружу после её разрушения. Вид Caledochytrium aldermanii относится к группе Labyrinthulomyce",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-nashli-mikroorganizm-s-neizvestnym-prezh-2026-09-21.webp",
+      "metaTitle": "Учёные нашли микроорганизм с неизвестным прежде способом раз",
+      "metaDescription": "Учёные обнаружили у нового морского микроорганизма необычный способ размножения, при котором дочерние клетки формируются внутри материнской, а затем в",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437404-ucenye-nasli-mikroorganizm-s-neizvestnym-prezde-sposobom-razmnozeniia.html"
+    },
+    {
       "id": "amd-teper-dorozhe-intel-rynochnaya-kapitalizatsi-2026-09-21",
       "category": "Новости",
       "title": "AMD теперь дороже Intel. Рыночная капитализация AMD превысила 1 триллион долларов",
