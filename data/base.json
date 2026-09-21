@@ -1,6 +1,315 @@
 {
   "articles": [
     {
+      "id": "gendir-acer-rasskazal-kogda-tseny-na-pk-perestan-2026-09-21",
+      "category": "Новости",
+      "title": "Гендир Acer рассказал, когда цены на ПК перестанут расти и начнут снижаться",
+      "excerpt": "В условиях, в которых сейчас находится отрасль по производству ПК, сложно находить поводы для оптимизма, но председатель совета директоров и генеральный директор Acer Джейсон Чэнь (Jason Chen) ожидает, что к середине следующего года цены на ПК достиг",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gendir-acer-rasskazal-kogda-tseny-na-pk-perestan-2026-09-21.webp",
+      "metaTitle": "Гендир Acer рассказал, когда цены на ПК перестанут расти и н",
+      "metaDescription": "В условиях, в которых сейчас находится отрасль по производству ПК, сложно находить поводы для оптимизма, но председатель совета директоров и генеральн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148785"
+    },
+    {
+      "id": "pohozhe-na-geympad-dlya-playstation-2-no-eto-pol-2026-09-21",
+      "category": "Новости",
+      "title": "Похоже на геймпад для PlayStation 2, но это полноценная консоль. Yoniq Portal будет стоить 200 долларов",
+      "excerpt": "Компания Yoniq раскрыла цены на портативную приставку Portal, которая выглядит, как геймпад DualShock 2, но с небольшим экраном. В США и Европе за новинку будут просить 200 долларов и 173 евро соответственно.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pohozhe-na-geympad-dlya-playstation-2-no-eto-pol-2026-09-21.webp",
+      "metaTitle": "Похоже на геймпад для PlayStation 2, но это полноценная конс",
+      "metaDescription": "Компания Yoniq раскрыла цены на портативную приставку Portal, которая выглядит, как геймпад DualShock 2, но с небольшим экраном. В США и Европе за нов",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437244-poxoze-na-geimpad-dlia-playstation-2-no-eto-polnocennaia-konsol-yoniq-portal-budet-stoit-200-dollarov.html"
+    },
+    {
+      "id": "predstavlena-sushilka-xiaomi-s-50-dyuymovym-svet-2026-09-21",
+      "category": "Новости",
+      "title": "Представлена сушилка Xiaomi с 50-дюймовым светильником и корпусом толщиной 7 см",
+      "excerpt": "Xiaomi представила Mijia Smart Dual-Control Clothes Drying Rack 2 — умную сушилку для одежды, которая одновременно выполняет роль потолочного светильника. Краудфандинг на Xiaomi Youpin стартует 21 сентября, заявленная цена — 1399 юаней.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlena-sushilka-xiaomi-s-50-dyuymovym-svet-2026-09-21.webp",
+      "metaTitle": "Представлена сушилка Xiaomi с 50-дюймовым светильником и кор",
+      "metaDescription": "Xiaomi представила Mijia Smart Dual-Control Clothes Drying Rack 2 — умную сушилку для одежды, которая одновременно выполняет роль потолочного светильн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437242-predstavlena-susilka-xiaomi-s-50-diuimovym-svetilnikom-i-korpusom-tolshhinoi-7-sm.html"
+    },
+    {
+      "id": "rokid-anonsirovala-bolee-chelovechnye-ochki-novo-2026-09-21",
+      "category": "Новости",
+      "title": "Rokid анонсировала «более человечные» очки нового поколения",
+      "excerpt": "Компания Rokid объявила о презентации своего нового поколения очков с искусственным интеллектом на 5-й Всемирной выставке цифровой торговли в Ханчжоу, провинция Чжэцзян, Китай.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rokid-anonsirovala-bolee-chelovechnye-ochki-novo-2026-09-21.webp",
+      "metaTitle": "Rokid анонсировала «более человечные» очки нового поколения",
+      "metaDescription": "Компания Rokid объявила о презентации своего нового поколения очков с искусственным интеллектом на 5-й Всемирной выставке цифровой торговли в Ханчжоу,",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437246-rokid-anonsirovala-bolee-celovecnye-ocki-novogo-pokoleniia.html"
+    },
+    {
+      "id": "9-antenn-5000-ma-ch-i-do-14-5-chasa-raboty-preds-2026-09-21",
+      "category": "Новости",
+      "title": "9 антенн, 5000 мА•ч и до 14,5 часа работы. Представлен компактный мобильный роутер ZTE M3 Pro 5G",
+      "excerpt": "ZTE M3 Pro 5G стал доступен для предварительного заказа в Китае по цене 599 юаней. Официальный старт продаж намечен на 24 сентября в 10:00.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/9-antenn-5000-ma-ch-i-do-14-5-chasa-raboty-preds-2026-09-21.webp",
+      "metaTitle": "9 антенн, 5000 мА•ч и до 14,5 часа работы. Представлен компа",
+      "metaDescription": "ZTE M3 Pro 5G стал доступен для предварительного заказа в Китае по цене 599 юаней. Официальный старт продаж намечен на 24 сентября в 10:00.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437248-9-antenn-5000-mac-i-do-145-casa-raboty-predstavlen-kompaktnyi-mobilnyi-router-zte-m3-pro-5g.html"
+    },
+    {
+      "id": "amd-razrabotala-tehnologiyu-tetraedricheskih-kle-2026-09-21",
+      "category": "Новости",
+      "title": "AMD разработала технологию тетраэдрических клеток, которая снижает потребление памяти для трассировки лучей в 50 раз",
+      "excerpt": "Компания AMD разработала технологию, которая может заметно снизить ресурсоёмкость трассировки лучей в играх. Технология тетраэдрических клеток позволяет трассировать лучи в реальном времени для сотен миллионов независимо анимированных треугольников б",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amd-razrabotala-tehnologiyu-tetraedricheskih-kle-2026-09-21.webp",
+      "metaTitle": "AMD разработала технологию тетраэдрических клеток, которая с",
+      "metaDescription": "Компания AMD разработала технологию, которая может заметно снизить ресурсоёмкость трассировки лучей в играх. Технология тетраэдрических клеток позволя",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437250-amd-razrabotala-texnologiiu-tetraedriceskix-kletok-kotoraia-snizaet-potreblenie-pamiati-dlia-trassirovki-lucei-v-50-raz.html"
+    },
+    {
+      "id": "stalo-izvestno-skolko-chelovekopodobnyh-robotov--2026-09-21",
+      "category": "Новости",
+      "title": "Стало известно, сколько человекоподобных роботов было продано по всему миру в 2025 году",
+      "excerpt": "По данным Международной федерации робототехники, в 2025 году компании и организации по всему миру приобрели около 7000 человекоподобных роботов для промышленного и профессионального применения.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/stalo-izvestno-skolko-chelovekopodobnyh-robotov--2026-09-21.webp",
+      "metaTitle": "Стало известно, сколько человекоподобных роботов было продан",
+      "metaDescription": "По данным Международной федерации робототехники, в 2025 году компании и организации по всему миру приобрели около 7000 человекоподобных роботов для пр",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437251-stalo-izvestno-skolko-celovekopodobnyx-robotov-bylo-prodano-po-vsemu-miru-v-2025-godu.html"
+    },
+    {
+      "id": "starlink-poyavitsya-na-120-samoletah-vietjet-2026-09-21",
+      "category": "Новости",
+      "title": "Starlink появится на 120 самолётах Vietjet",
+      "excerpt": "Starlink объявила о скором запуске спутникового интернета на рейсах Vietjet Airlines. Пассажиры и экипажи смогут пользоваться высокоскоростным подключением с низкой задержкой «от выхода на посадку до выхода из самолёта», что должно обеспечить более н",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/starlink-poyavitsya-na-120-samoletah-vietjet-2026-09-21.webp",
+      "metaTitle": "Starlink появится на 120 самолётах Vietjet",
+      "metaDescription": "Starlink объявила о скором запуске спутникового интернета на рейсах Vietjet Airlines. Пассажиры и экипажи смогут пользоваться высокоскоростным подключ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437254-starlink-poiavitsia-na-120-samoletax-vietjet.html"
+    },
+    {
+      "id": "super-heavy-booster-21-nochyu-vyvezli-na-startov-2026-09-21",
+      "category": "Новости",
+      "title": "Super Heavy Booster 21 ночью вывезли на стартовую площадку и готовят к заправке — запуск Starship всё ближе",
+      "excerpt": "Ночью Super Heavy Booster 21 доставили по Highway 4 к стартовой площадке Pad 2 на базе Starbase. Ранее Booster 21 прошёл статические огневые испытания, после чего на нём заменили один из двигателей Raptor.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/super-heavy-booster-21-nochyu-vyvezli-na-startov-2026-09-21.webp",
+      "metaTitle": "Super Heavy Booster 21 ночью вывезли на стартовую площадку и",
+      "metaDescription": "Ночью Super Heavy Booster 21 доставили по Highway 4 к стартовой площадке Pad 2 на базе Starbase. Ранее Booster 21 прошёл статические огневые испытания",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437256-super-heavy-booster-21-nociu-vyvezli-na-startovuiu-ploshhadku-i-gotoviat-k-zapravke-zapusk-starship-vse-blize.html"
+    },
+    {
+      "id": "pryamo-kak-u-galaxy-s26-ultra-xiaomi-18-pro-i-xi-2026-09-21",
+      "category": "Новости",
+      "title": "Прямо как у Galaxy S26 Ultra — Xiaomi 18 Pro и Xiaomi 18 Pro Max получили функцию Privacy Display",
+      "excerpt": "Xiaomi раскрыла еще одну особенность флагманской серии Xiaomi 18 Pro — новый дисплей SuperPixel 2.0 с аппаратной защитой информации от посторонних взглядов. Компания называет его Smart Privacy Screen и заявляет, что технология сочетает флагманское ка",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pryamo-kak-u-galaxy-s26-ultra-xiaomi-18-pro-i-xi-2026-09-21.webp",
+      "metaTitle": "Прямо как у Galaxy S26 Ultra — Xiaomi 18 Pro и Xiaomi 18 Pro",
+      "metaDescription": "Xiaomi раскрыла еще одну особенность флагманской серии Xiaomi 18 Pro — новый дисплей SuperPixel 2.0 с аппаратной защитой информации от посторонних взг",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437257-priamo-kak-u-galaxy-s26-ultra-xiaomi-18-pro-i-xiaomi-18-pro-max-polucili-funkciiu-privacy-display.html"
+    },
+    {
+      "id": "konami-pozvolit-nachat-prohozhdenie-metroidvanii-2026-09-21",
+      "category": "Новости",
+      "title": "Konami позволит начать прохождение метроидвании Castlevania: Belmont’s Curse на две недели раньше — анонсирована бесплатная демоверсия",
+      "excerpt": "Японский издатель и разработчик Konami анонсировал планы на выпуск демоверсии предстоящей метроидвании Castlevania: Belmont s Curse — первой новой игры серии со времён Castlevania: Lords of Shadow 2 образца 2014 года. Источник изображений: Konami",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/konami-pozvolit-nachat-prohozhdenie-metroidvanii-2026-09-21.webp",
+      "metaTitle": "Konami позволит начать прохождение метроидвании Castlevania:",
+      "metaDescription": "Японский издатель и разработчик Konami анонсировал планы на выпуск демоверсии предстоящей метроидвании Castlevania: Belmont s Curse — первой новой игр",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148788"
+    },
+    {
+      "id": "google-confirms-gemini-ai-breached-three-firms-2026-09-21",
+      "category": "Новости",
+      "title": "Google подтверждает, что ИИ Gemini взломал три компании",
+      "excerpt": "Google — последний гигант искусственного интеллекта, подтвердивший, что его модели вышли из среды тестирования и взломали реальные компании. Сообщение Google подтверждает, что ИИ Gemini взломал три компании, впервые появилось на SecurityWeek.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-confirms-gemini-ai-breached-three-firms-2026-09-21.webp",
+      "metaTitle": "Google подтверждает, что ИИ Gemini взломал три компании",
+      "metaDescription": "Google — последний гигант искусственного интеллекта, подтвердивший, что его модели вышли из среды тестирования и взломали реальные компании. Сообщение",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/"
+    },
+    {
+      "id": "tesla-cybertruck-smetaet-s-puti-rytsarey-v-dospe-2026-09-21",
+      "category": "Новости",
+      "title": "Tesla Cybertruck сметает с пути рыцарей в доспехах — Илон Маск показал зрелищный ИИ-ролик",
+      "excerpt": "Маск опубликовал видео с подписью Cybertruck as Heavy Cav, показав Tesla Cybertruck в совершенно неожиданной роли.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tesla-cybertruck-smetaet-s-puti-rytsarey-v-dospe-2026-09-21.webp",
+      "metaTitle": "Tesla Cybertruck сметает с пути рыцарей в доспехах — Илон Ма",
+      "metaDescription": "Маск опубликовал видео с подписью Cybertruck as Heavy Cav, показав Tesla Cybertruck в совершенно неожиданной роли.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437261-tesla-cybertruck-smetaet-s-puti-rycarei-v-dospexax-ilon-mask-pokazal-zrelishhnyi-ii-rolik.html"
+    },
+    {
+      "id": "tesla-spasla-voditelya-ot-tyuremnogo-sroka-ego-n-2026-09-21",
+      "category": "Новости",
+      "title": "Tesla спасла водителя от тюремного срока: его невиновность подтвердили записи с бортовых камер",
+      "excerpt": "Житель Флориды смог избежать тюремного заключения, его обвиняли в попытке скрыться от полиции, однако запись с автомобиля Tesla не показала, что он мог не видеть патрульную машину.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tesla-spasla-voditelya-ot-tyuremnogo-sroka-ego-n-2026-09-21.webp",
+      "metaTitle": "Tesla спасла водителя от тюремного срока: его невиновность п",
+      "metaDescription": "Житель Флориды смог избежать тюремного заключения, его обвиняли в попытке скрыться от полиции, однако запись с автомобиля Tesla не показала, что он мо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437264-tesla-spasla-voditelia-ot-tiuremnogo-sroka-ego-nevinovnost-podtverdili-zapisi-s-bortovyx-kamer.html"
+    },
+    {
+      "id": "ot-1-56-mln-rubley-s-gospodderzhkoy-avtovaz-rask-2026-09-21",
+      "category": "Новости",
+      "title": "От 1,56 млн рублей с господдержкой. АвтоВАЗ раскрыл цены и комплектации Lada e-Largus",
+      "excerpt": "Lada e-Largus продаётся в России с февраля 2025 года, однако официального прайс-листа и перечня комплектаций на сайте Lada до сих пор не было.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ot-1-56-mln-rubley-s-gospodderzhkoy-avtovaz-rask-2026-09-21.webp",
+      "metaTitle": "От 1,56 млн рублей с господдержкой. АвтоВАЗ раскрыл цены и к",
+      "metaDescription": "Lada e-Largus продаётся в России с февраля 2025 года, однако официального прайс-листа и перечня комплектаций на сайте Lada до сих пор не было.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437266-ot-156-mln-rublei-s-gospodderzkoi-avtovaz-raskryl-ceny-i-komplektacii-lada-e-largus.html"
+    },
+    {
       "id": "digest-2026-W39",
       "category": "Статьи",
       "title": "Дайджест XaosLand #39: лучшие материалы за неделю",
