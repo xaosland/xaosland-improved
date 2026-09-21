@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "weekly-recap-cisco-0-day-ai-agent-rce-clickfix-a-2026-09-21",
+      "category": "Новости",
+      "title": "⚡ Еженедельный обзор: Cisco 0-Day, AI Agent RCE, атаки ClickFix, всплеск ClickFix и взломы браузеров",
+      "excerpt": "Браузер. Плагин. Пакет. Экран входа в систему. Нормальные вещи. Это, по сути, проблема этой недели. Проблемы продолжают проявляться внутри того, чему люди уже доверяют: код, который принимает плохой оборот, старые полезные данные возвращаются, открыт",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/weekly-recap-cisco-0-day-ai-agent-rce-clickfix-a-2026-09-21.webp",
+      "metaTitle": "⚡ Еженедельный обзор: Cisco 0-Day, AI Agent RCE, атаки Click",
+      "metaDescription": "Браузер. Плагин. Пакет. Экран входа в систему. Нормальные вещи. Это, по сути, проблема этой недели. Проблемы продолжают проявляться внутри того, чему ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+    },
+    {
+      "id": "ciso-conversations-noopur-davis-the-accidental-g-2026-09-21",
+      "category": "Новости",
+      "title": "Беседы с директорами по информационной безопасности: Нопур Дэвис – случайный глобальный директор по информационной безопасности в Comcast",
+      "excerpt": "Нопур Дэвис никогда не планировал карьеру в сфере кибербезопасности. Она работала разработчиком в Intergraph, и на протяжении многих лет это было все, чем она хотела быть. Статья «Разговоры с директорами по информационной безопасности: Нопур Дэвис – ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ciso-conversations-noopur-davis-the-accidental-g-2026-09-21.webp",
+      "metaTitle": "Беседы с директорами по информационной безопасности: Нопур Д",
+      "metaDescription": "Нопур Дэвис никогда не планировал карьеру в сфере кибербезопасности. Она работала разработчиком в Intergraph, и на протяжении многих лет это было все,",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/"
+    },
+    {
+      "id": "microsoft-fixes-broken-excel-copy-and-paste-for--2026-09-21",
+      "category": "Новости",
+      "title": "Microsoft исправляет некорректное копирование и вставку Excel для всех пользователей Office",
+      "excerpt": "Microsoft исправила известную проблему, из-за которой у пользователей Excel возникали сбои при копировании и вставке после установки обновлений безопасности за сентябрь 2026 г. [...]",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-fixes-broken-excel-copy-and-paste-for--2026-09-21.webp",
+      "metaTitle": "Microsoft исправляет некорректное копирование и вставку Exce",
+      "metaDescription": "Microsoft исправила известную проблему, из-за которой у пользователей Excel возникали сбои при копировании и вставке после установки обновлений безопа",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/"
+    },
+    {
+      "id": "rogue-behavior-openai-reveals-more-model-misalig-2026-09-21",
+      "category": "Новости",
+      "title": "Мошенническое поведение: OpenAI обнаруживает больше случаев несовпадения моделей",
+      "excerpt": "Гигант искусственного интеллекта раскрыл шесть примеров сомнительной модельной деятельности и опубликовал новую структуру для расследования и раскрытия таких инцидентов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Мошенническое поведение: OpenAI обнаруживает больше случаев ",
+      "metaDescription": "Гигант искусственного интеллекта раскрыл шесть примеров сомнительной модельной деятельности и опубликовал новую структуру для расследования и раскрыти",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents"
+    },
+    {
+      "id": "anonsirovan-uyutnyy-simulyator-uborki-dust-till--2026-09-21",
+      "category": "Новости",
+      "title": "Анонсирован уютный симулятор уборки Dust till Dawn с элементами хоррора и музыкой от композитора Silent Hill",
+      "excerpt": "Швейцарская студия Mac n Cheese Games (Munch), в настоящее время разрабатывающая космический хоррор о монахине в скафандре Void Martyrs, представила ещё одну игру — уютный симулятор уборки Dust till Dawn с паранормальным уклоном. Источник изображений",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anonsirovan-uyutnyy-simulyator-uborki-dust-till--2026-09-21.webp",
+      "metaTitle": "Анонсирован уютный симулятор уборки Dust till Dawn с элемент",
+      "metaDescription": "Швейцарская студия Mac n Cheese Games (Munch), в настоящее время разрабатывающая космический хоррор о монахине в скафандре Void Martyrs, представила е",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148812"
+    },
+    {
+      "id": "vklyuchil-dlss-5-a-cherez-5-minut-geforce-rtx-50-2026-09-21",
+      "category": "Новости",
+      "title": "Включил DLSS 5, а через 5 минут GeForce RTX 5080 умерла. Пользователь Reddit рассказал свою историю знакомства с технологией",
+      "excerpt": "Пользователь Reddit под псевдонимом wax469 рассказал о том, как запуск DLSS 5 привёл к выходу из строя его новенькой видеокарты GeForce RTX 5080.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vklyuchil-dlss-5-a-cherez-5-minut-geforce-rtx-50-2026-09-21.webp",
+      "metaTitle": "Включил DLSS 5, а через 5 минут GeForce RTX 5080 умерла. Пол",
+      "metaDescription": "Пользователь Reddit под псевдонимом wax469 рассказал о том, как запуск DLSS 5 привёл к выходу из строя его новенькой видеокарты GeForce RTX 5080.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437357-vkliucil-dlss-5-a-cerez-5-minut-geforce-rtx-5080-umerla-polzovatel-reddit-rasskazal-svoiu-istoriiu-znakomstva-s-texnologiei.html"
+    },
+    {
+      "id": "belgian-table-tennis-gymnastics-federations-hit--2026-09-21",
+      "category": "Новости",
+      "title": "Бельгийские федерации настольного тенниса и гимнастики подверглись кибератакам",
+      "excerpt": "Национальная федерация настольного тенниса Бельгии расследует кибератаку после того, как хакер заявил, что украл данные десятков тысяч членов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/belgian-table-tennis-gymnastics-federations-hit--2026-09-21.webp",
+      "metaTitle": "Бельгийские федерации настольного тенниса и гимнастики подве",
+      "metaDescription": "Национальная федерация настольного тенниса Бельгии расследует кибератаку после того, как хакер заявил, что украл данные десятков тысяч членов.",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/belgium-table-tennis-cyberattack"
+    },
+    {
+      "id": "apple-nachala-prinimat-ot-vladeltsev-iphone-zaya-2026-09-21",
+      "category": "Новости",
+      "title": "Apple начала принимать от владельцев iPhone заявки на компенсации за задержку Siri с ИИ",
+      "excerpt": "Apple выплатит $250 млн для урегулирования претензий владельцев iPhone 15 Pro, iPhone 15 Pro и всех моделей линейки iPhone 16, связанных с критической задержкой запуска Siri с поддержкой ИИ. Ожидаемая выплата составляет около $25 за каждое соответств",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-nachala-prinimat-ot-vladeltsev-iphone-zaya-2026-09-21.webp",
+      "metaTitle": "Apple начала принимать от владельцев iPhone заявки на компен",
+      "metaDescription": "Apple выплатит $250 млн для урегулирования претензий владельцев iPhone 15 Pro, iPhone 15 Pro и всех моделей линейки iPhone 16, связанных с критической",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148809"
+    },
+    {
+      "id": "s-takimi-chipami-mozhno-bylo-by-sozdat-geforce-r-2026-09-21",
+      "category": "Новости",
+      "title": "С такими чипами можно было бы создать GeForce RTX 5070 с 36 ГБ памяти. Чипы GDDR7 объёмом 4 и 6 ГБ выйдут в течение двух лет",
+      "excerpt": "Инсайдер Golden Pig Upgrade говорит, что чипы памяти GDDR7 объёмом 4 и даже 6 ГБ появятся на рынке в следующем либо в 2028 году.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/s-takimi-chipami-mozhno-bylo-by-sozdat-geforce-r-2026-09-21.webp",
+      "metaTitle": "С такими чипами можно было бы создать GeForce RTX 5070 с 36 ",
+      "metaDescription": "Инсайдер Golden Pig Upgrade говорит, что чипы памяти GDDR7 объёмом 4 и даже 6 ГБ появятся на рынке в следующем либо в 2028 году.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437359-s-takimi-cipami-mozno-bylo-by-sozdat-geforce-rtx-5070-s-36-gb-pamiati-cipy-gddr7-obieemom-4-i-6-gb-vyidut-v-tecenie-dvux-let.html"
+    },
+    {
+      "id": "kompaniya-sapphire-prazdnuet-25-let-2026-09-21",
+      "category": "Новости",
+      "title": "Компания Sapphire празднует 25 лет",
+      "excerpt": "Компания Sapphire праздует своё 25-летие. Она была основана в 2001 году и с самого начала занималась именно видеокартами.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kompaniya-sapphire-prazdnuet-25-let-2026-09-21.webp",
+      "metaTitle": "Компания Sapphire празднует 25 лет",
+      "metaDescription": "Компания Sapphire праздует своё 25-летие. Она была основана в 2001 году и с самого начала занималась именно видеокартами.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437361-kompaniia-sapphire-prazdnuet-25-let.html"
+    },
+    {
+      "id": "vivo-predstavila-fotoflagmany-x500-pro-i-x500-pr-2026-09-21",
+      "category": "Новости",
+      "title": "Vivo представила фотофлагманы X500 Pro и X500 Pro Max — первые на 2-нм чипе Dimensity 9600 Pro",
+      "excerpt": "Представлены смартфоны Vivo X500 Pro и X500 Pro Max. Оба устройства основаны на новейшем процессоре MediaTek Dimensity 9600 Pro. По данным MediaTek, его производительность в одноядерном режиме выросла на 17 %, а в многоядерном — на 15 % по сравнению ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vivo-predstavila-fotoflagmany-x500-pro-i-x500-pr-2026-09-21.webp",
+      "metaTitle": "Vivo представила фотофлагманы X500 Pro и X500 Pro Max — перв",
+      "metaDescription": "Представлены смартфоны Vivo X500 Pro и X500 Pro Max. Оба устройства основаны на новейшем процессоре MediaTek Dimensity 9600 Pro. По данным MediaTek, е",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148813"
+    },
+    {
+      "id": "google-fined-403-million-over-location-data-priv-2026-09-21",
+      "category": "Новости",
+      "title": "Google оштрафована на 403 миллиона евро за нарушение конфиденциальности данных о местоположении",
+      "excerpt": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на 403 миллиона евро (463 миллиона долларов) за многочисленные нарушения GDPR, связанные с обработкой данных о местоположении пользователей. [...]",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-fined-403-million-over-location-data-priv-2026-09-21.webp",
+      "metaTitle": "Google оштрафована на 403 миллиона евро за нарушение конфиде",
+      "metaDescription": "Комиссия по защите данных Ирландии (DPC) оштрафовала Google на 403 миллиона евро (463 миллиона долларов) за многочисленные нарушения GDPR, связанные с",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
+    },
+    {
+      "id": "fake-lastpass-installers-push-kernel-level-edr-k-2026-09-21",
+      "category": "Новости",
+      "title": "Поддельные установщики LastPass продвигают убийцу EDR на уровне ядра и похититель Rapuncel",
+      "excerpt": "Злоумышленники выдают себя за по меньшей мере 40 компаний и отключают 145 продуктов безопасности, чтобы развернуть вредоносное ПО, похищающее информацию. Пост Fake LastPass Installers Push EDR Killer на уровне ядра, Rapuncel’ Stealer впервые появился",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fake-lastpass-installers-push-kernel-level-edr-k-2026-09-21.webp",
+      "metaTitle": "Поддельные установщики LastPass продвигают убийцу EDR на уро",
+      "metaDescription": "Злоумышленники выдают себя за по меньшей мере 40 компаний и отключают 145 продуктов безопасности, чтобы развернуть вредоносное ПО, похищающее информац",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/"
+    },
+    {
+      "id": "kriptozima-zakonchilas-bitkoin-dostig-maksimuma--2026-09-21",
+      "category": "Новости",
+      "title": "«Криптозима» закончилась? Биткоин достиг максимума с января, перешагнув $85 000",
+      "excerpt": "Биткоин поднялся выше отметки $85 000, продолжив стремительный рост, наблюдаемый в последние несколько дней. Курс криптовалюты в процессе торгов достигал $85 686 — это самый высокий показатель с конца января. Теперь инвесторы пытаются понять, заверши",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kriptozima-zakonchilas-bitkoin-dostig-maksimuma--2026-09-21.webp",
+      "metaTitle": "«Криптозима» закончилась? Биткоин достиг максимума с января,",
+      "metaDescription": "Биткоин поднялся выше отметки $85 000, продолжив стремительный рост, наблюдаемый в последние несколько дней. Курс криптовалюты в процессе торгов дости",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148811"
+    },
+    {
+      "id": "samsung-namerena-v-2-5-raza-narastit-proizvodstv-2026-09-21",
+      "category": "Новости",
+      "title": "Samsung намерена в 2,5 раза нарастить производство памяти в следующем году, только вот вовсе не DRAM",
+      "excerpt": "Компания Samsung может существенно нарастить производство памяти HBM4 на фоне неспадающего спроса на ИИ-ускорители. Напомним, новые поколения таких решений как раз используют HBM4.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-namerena-v-2-5-raza-narastit-proizvodstv-2026-09-21.webp",
+      "metaTitle": "Samsung намерена в 2,5 раза нарастить производство памяти в ",
+      "metaDescription": "Компания Samsung может существенно нарастить производство памяти HBM4 на фоне неспадающего спроса на ИИ-ускорители. Напомним, новые поколения таких ре",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437363-samsung-namerena-v-25-raza-narastit-proizvodstvo-pamiati-v-sleduiushhem-godu-tolko-vot-vovse-ne-dram.html"
+    },
+    {
       "id": "tehnologii-zeiss-i-sony-predstavleny-fotoflagman-2026-09-21",
       "category": "Новости",
       "title": "Технологии Zeiss и Sony: представлены фотофлагманы Vivo X500 Pro и Vivo X500 Pro Max",
