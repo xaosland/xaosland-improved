@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "stalo-izvestno-pochemu-apple-otkazalas-ot-kompak-2026-09-21",
+      "category": "Новости",
+      "title": "Стало известно, почему Apple отказалась от компактного стилуса для iPhone Duo",
+      "excerpt": "Apple отказалась от планов по выпуску специальной укороченной версии стилуса Apple Pencil, предназначенной исключительно для смартфона iPhone Duo. Вместо этого была адаптирована поддержка стандартного стилуса с разъёмом USB-C, однако работа аксессуар",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/stalo-izvestno-pochemu-apple-otkazalas-ot-kompak-2026-09-21.webp",
+      "metaTitle": "Стало известно, почему Apple отказалась от компактного стилу",
+      "metaDescription": "Apple отказалась от планов по выпуску специальной укороченной версии стилуса Apple Pencil, предназначенной исключительно для смартфона iPhone Duo. Вме",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148778"
+    },
+    {
       "id": "ii-poka-ne-izmenil-rynok-truda-ssha-issledovanie-2026-09-20",
       "category": "Новости",
       "title": "ИИ пока не изменил рынок труда США: исследование Йельского университета не обнаружило массового вытеснения работников",
