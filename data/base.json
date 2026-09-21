@@ -1,6 +1,318 @@
 {
   "articles": [
     {
+      "id": "intent-injection-attacks-are-a-new-worry-for-ai--2026-09-21",
+      "category": "Новости",
+      "title": "Атаки с внедрением намерений — новая проблема для сетей 6G с искусственным интеллектом",
+      "excerpt": "Сеть на основе намерений (IBN) позволяет операторам заявлять желаемый результат, а его преобразование в сетевую политику остается за программным обеспечением. Этот подход, основанный на искусственном интеллекте, в проектах 6G вышел на передний план. ",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/intent-injection-attacks-are-a-new-worry-for-ai--2026-09-21.webp",
+      "metaTitle": "Атаки с внедрением намерений — новая проблема для сетей 6G с",
+      "metaDescription": "Сеть на основе намерений (IBN) позволяет операторам заявлять желаемый результат, а его преобразование в сетевую политику остается за программным обесп",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks/"
+    },
+    {
+      "id": "samoe-bolshoe-obnovlenie-v-istorii-serii-xiaomi--2026-09-21",
+      "category": "Новости",
+      "title": "«Самое большое обновление в истории серии». Xiaomi 18 Pro получит экран Super Pixel 2.0 и аппаратную защиту от посторонних глаз",
+      "excerpt": "Xiaomi раскрыла новые подробности дисплея серии Xiaomi 18 Pro, который перейдет на технологию Super Pixel 2.0. Компания заявляет о сочетании высокого качества изображения с аппаратной защитой конфиденциальности. Экран использует светоизлучающую систе",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samoe-bolshoe-obnovlenie-v-istorii-serii-xiaomi--2026-09-21.webp",
+      "metaTitle": "«Самое большое обновление в истории серии». Xiaomi 18 Pro по",
+      "metaDescription": "Xiaomi раскрыла новые подробности дисплея серии Xiaomi 18 Pro, который перейдет на технологию Super Pixel 2.0. Компания заявляет о сочетании высокого ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437209-samoe-bolsoe-obnovlenie-v-istorii-serii-xiaomi-18-pro-polucit-ekran-super-pixel-20-i-apparatnuiu-zashhitu-ot-postoronnix-glaz.html"
+    },
+    {
+      "id": "165-gts-9000-ma-ch-i-vpervye-dyshaschaya-podsvet-2026-09-21",
+      "category": "Новости",
+      "title": "165 Гц, 9000 мА·ч и впервые «дышащая» подсветка: OnePlus 16 уже можно заказать в Китае, опубликованы живые фото нового флагмана",
+      "excerpt": "OnePlus открыла в Китае предварительные заказы на флагманский OnePlus 16. Стоимость смартфона пока не раскрывается, однако оформить предзаказ уже можно на JD.com. Покупателям обещают двухлетнюю гарантию на аккумулятор, наушники Oppo Enco R5, годовую ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/165-gts-9000-ma-ch-i-vpervye-dyshaschaya-podsvet-2026-09-21.webp",
+      "metaTitle": "165 Гц, 9000 мА·ч и впервые «дышащая» подсветка: OnePlus 16 ",
+      "metaDescription": "OnePlus открыла в Китае предварительные заказы на флагманский OnePlus 16. Стоимость смартфона пока не раскрывается, однако оформить предзаказ уже можн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/165-gc-9000-mac-i-vpervye-dysashhaia-podsvetka-oneplus-16-uze-mozno-zakazat-v-kitae-opublikovany-zivye-foto-novogo-flagmana.html"
+    },
+    {
+      "id": "rasschitan-na-million-vklyucheniy-umnyy-vyklyuch-2026-09-21",
+      "category": "Новости",
+      "title": "Рассчитан на миллион включений: умный выключатель Xiaomi, который можно установить даже в домах со старой проводкой, поступил в свободную продажу в Китае",
+      "excerpt": "Xiaomi Smart Switch 2, который ранее предлагался по предзаказу, поступил в свободную продажу в Китае по цене от 79 юаней против 69 юаней на этапе сбора средств.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rasschitan-na-million-vklyucheniy-umnyy-vyklyuch-2026-09-21.webp",
+      "metaTitle": "Рассчитан на миллион включений: умный выключатель Xiaomi, ко",
+      "metaDescription": "Xiaomi Smart Switch 2, который ранее предлагался по предзаказу, поступил в свободную продажу в Китае по цене от 79 юаней против 69 юаней на этапе сбор",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437213-rasscitan-na-million-vkliucenii-umnyi-vykliucatel-xiaomi-kotoryi-mozno-ustanovit-daze-v-domax-so-staroi-provodkoi-postupil-v-svobodnuiu-prodazu-v-kitae.html"
+    },
+    {
+      "id": "iphone-18-pro-pokazali-s-glyukami-ios-27-interfe-2026-09-21",
+      "category": "Новости",
+      "title": "iPhone 18 Pro показали с глюками iOS 27 — интерфейс зависает и не реагирует на нажатия",
+      "excerpt": "Автор утечки @tarunvats33 опубликовал видео с новым смартфоном iPhone 18 Pro под управлением iOS 27, на котором заметны проблемы с работой интерфейса.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-18-pro-pokazali-s-glyukami-ios-27-interfe-2026-09-21.webp",
+      "metaTitle": "iPhone 18 Pro показали с глюками iOS 27 — интерфейс зависает",
+      "metaDescription": "Автор утечки @tarunvats33 опубликовал видео с новым смартфоном iPhone 18 Pro под управлением iOS 27, на котором заметны проблемы с работой интерфейса.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437215-iphone-18-pro-pokazali-s-gliukami-ios-27-interfeis-zavisaet-i-ne-reagiruet-na-nazatiia.html"
+    },
+    {
+      "id": "iphone-20-pro-poluchit-ekran-6-41-dyuyma-bez-ram-2026-09-21",
+      "category": "Новости",
+      "title": "iPhone 20 Pro получит экран 6,41 дюйма без рамки — Apple тестирует новый дизайн",
+      "excerpt": "Apple уже начала проработку дисплеев для будущей серии iPhone 20 Pro, сообщает известный инсайдер Digital Chat Station.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/iphone-20-pro-poluchit-ekran-6-41-dyuyma-bez-ram-2026-09-21.webp",
+      "metaTitle": "iPhone 20 Pro получит экран 6,41 дюйма без рамки — Apple тес",
+      "metaDescription": "Apple уже начала проработку дисплеев для будущей серии iPhone 20 Pro, сообщает известный инсайдер Digital Chat Station.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437217-iphone-20-pro-polucit-ekran-641-diuima-bez-ramki-apple-testiruet-novyi-dizain.html"
+    },
+    {
+      "id": "gopass-open-source-command-line-password-manager-2026-09-21",
+      "category": "Новости",
+      "title": "Gopass: менеджер паролей командной строки с открытым исходным кодом для команд",
+      "excerpt": "Gopass — это бесплатный менеджер паролей с открытым исходным кодом, который хранит учетные данные в зашифрованном хранилище и запускается из командной строки. Его сопровождающие создали его как замену pass, стандартного менеджера паролей Unix. По умо",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gopass-open-source-command-line-password-manager-2026-09-21.webp",
+      "metaTitle": "Gopass: менеджер паролей командной строки с открытым исходны",
+      "metaDescription": "Gopass — это бесплатный менеджер паролей с открытым исходным кодом, который хранит учетные данные в зашифрованном хранилище и запускается из командной",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager/"
+    },
+    {
+      "id": "ekran-bez-vyrezov-snapdragon-8-elite-extreme-gen-2026-09-21",
+      "category": "Новости",
+      "title": "Экран без вырезов, Snapdragon 8 Elite Extreme Gen 6, двойное охлаждение. RedMagic 12 Pro+ выйдет в октябре",
+      "excerpt": "Nubia официально объявила, что игровой смартфон RedMagic 12 Pro+ представят в октябре. Новинка получит систему охлаждения, сочетающую воздушный и жидкостный контуры, а также флагманскую однокристальную систему Snapdragon 8 Elite Extreme Gen 6.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekran-bez-vyrezov-snapdragon-8-elite-extreme-gen-2026-09-21.webp",
+      "metaTitle": "Экран без вырезов, Snapdragon 8 Elite Extreme Gen 6, двойное",
+      "metaDescription": "Nubia официально объявила, что игровой смартфон RedMagic 12 Pro+ представят в октябре. Новинка получит систему охлаждения, сочетающую воздушный и жидк",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437220-ekran-bez-vyrezov-snapdragon-8-elite-extreme-gen-6-dvoinoe-oxlazdenie-redmagic-12-pro-vyidet-v-oktiabre.html"
+    },
+    {
+      "id": "trehtsvetnyy-lazer-yarkost-1600-iso-i-igrovoy-re-2026-09-21",
+      "category": "Новости",
+      "title": "Трёхцветный лазер, яркость 1600 ISO и игровой режим с прицелом. Представлен проектор Xgimi Z6X Pro 2026",
+      "excerpt": "Xgimi представила обновлённый портативный проектор Z6X Pro 2026. Новинка поступила в продажу в Китае по стартовой цене 2399 юаней.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/trehtsvetnyy-lazer-yarkost-1600-iso-i-igrovoy-re-2026-09-21.webp",
+      "metaTitle": "Трёхцветный лазер, яркость 1600 ISO и игровой режим с прицел",
+      "metaDescription": "Xgimi представила обновлённый портативный проектор Z6X Pro 2026. Новинка поступила в продажу в Китае по стартовой цене 2399 юаней.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437221-trexcvetnyi-lazer-iarkost-1600-iso-i-igrovoi-rezim-s-pricelom-predstavlen-proektor-xgimi-z6x-pro-2026.html"
+    },
+    {
+      "id": "vivo-x500-podorozhaet-pochti-na-50-po-sravneniyu-2026-09-21",
+      "category": "Новости",
+      "title": "Vivo X500 подорожает почти на 50% по сравнению с Vivo X300",
+      "excerpt": "В Сети появилась фотография, на которой запечатлён слайд из презентации Vivo с ценами X500.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vivo-x500-podorozhaet-pochti-na-50-po-sravneniyu-2026-09-21.webp",
+      "metaTitle": "Vivo X500 подорожает почти на 50% по сравнению с Vivo X300",
+      "metaDescription": "В Сети появилась фотография, на которой запечатлён слайд из презентации Vivo с ценами X500.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437222-vivo-x500-podorozaet-pocti-na-50-po-sravneniiu-s-vivo-x300.html"
+    },
+    {
+      "id": "honor-600-elite-5g-s-razemom-3-5-mm-vyderzhivaet-2026-09-21",
+      "category": "Новости",
+      "title": "Honor 600 Elite 5G с разъёмом 3,5 мм выдерживает температуру воды до 85°C, падения с высоты до 2,5 м и рассчитан на 6 лет работы",
+      "excerpt": "Смартфон Honor 600 Elite 5G, который был анонсирован на прошлой неделе, оснащен аккумулятором емкостью 8100 мАч. Он поддерживает быструю зарядку Honor SuperCharge мощностью 45 Вт и рассчитан на работу при температурах от -30°C до 50°C. Honor также за",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-600-elite-5g-s-razemom-3-5-mm-vyderzhivaet-2026-09-21.webp",
+      "metaTitle": "Honor 600 Elite 5G с разъёмом 3,5 мм выдерживает температуру",
+      "metaDescription": "Смартфон Honor 600 Elite 5G, который был анонсирован на прошлой неделе, оснащен аккумулятором емкостью 8100 мАч. Он поддерживает быструю зарядку Honor",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437224-honor-600-elite-5g-s-razieemom-35-mm-vyderzivaet-temperaturu-vody-do-85c-padeniia-s-vysoty-do-25-metrov-i-rasscitan-na-6-let-raboty.html"
+    },
+    {
+      "id": "legkomotornyy-samolet-cessna-uspeshno-sovershil--2026-09-21",
+      "category": "Новости",
+      "title": "Легкомоторный самолёт Cessna успешно совершил трансконтинентальный перелёт без вмешательства человека, преодолев более 5000 км",
+      "excerpt": "По иронии судьбы, именно авиационная отрасль подарила автомобильной термин «автопилот», но в первом случае он используется лишь на определённых этапах перемещения воздушного судна. Компания Joby Aviation заявила, что её технологии недавно позволили с",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/legkomotornyy-samolet-cessna-uspeshno-sovershil--2026-09-21.webp",
+      "metaTitle": "Легкомоторный самолёт Cessna успешно совершил трансконтинент",
+      "metaDescription": "По иронии судьбы, именно авиационная отрасль подарила автомобильной термин «автопилот», но в первом случае он используется лишь на определённых этапах",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148781"
+    },
+    {
+      "id": "product-showcase-helmit-alerts-parents-when-onli-2026-09-21",
+      "category": "Новости",
+      "title": "Демонстрация продукта: Helmit предупреждает родителей, когда в онлайн-разговорах появляются признаки проблемы",
+      "excerpt": "Helmit — это приложение для родительского контроля, которое сочетает в себе мониторинг социальных сетей на базе искусственного интеллекта с управлением временем использования экрана, веб-фильтрацией, отслеживанием местоположения и оповещениями о безо",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/product-showcase-helmit-alerts-parents-when-onli-2026-09-21.webp",
+      "metaTitle": "Демонстрация продукта: Helmit предупреждает родителей, когда",
+      "metaDescription": "Helmit — это приложение для родительского контроля, которое сочетает в себе мониторинг социальных сетей на базе искусственного интеллекта с управление",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/product-showcase-helmit-parental-controls/"
+    },
+    {
+      "id": "megafon-uskoril-mobilnyy-internet-do-urovnya-5g--2026-09-21",
+      "category": "Новости",
+      "title": "«Мегафон» ускорил мобильный интернет до уровня 5G даже на старых смартфонах",
+      "excerpt": "«Мегафон» сообщил о запуске набора опций для ускорения мобильного интернета на смартфонах, которые технически не поддерживают сети пятого поколения.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/megafon-uskoril-mobilnyy-internet-do-urovnya-5g--2026-09-21.webp",
+      "metaTitle": "«Мегафон» ускорил мобильный интернет до уровня 5G даже на ст",
+      "metaDescription": "«Мегафон» сообщил о запуске набора опций для ускорения мобильного интернета на смартфонах, которые технически не поддерживают сети пятого поколения.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437227-megafon-uskoril-mobilnyi-internet-do-urovnia-5g-daze-na-staryx-smartfonax.html"
+    },
+    {
+      "id": "zaschitnoe-steklo-ne-ponadobitsya-huawei-mate-90-2026-09-21",
+      "category": "Новости",
+      "title": "Защитное стекло не понадобится: Huawei Mate 90 получит двухслойный OLED и третье поколение Kunlun Glass",
+      "excerpt": "По данным инсайдера @FixedFocus в Weibo, Huawei Mate 90 получит сразу два аппаратных обновления экрана.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zaschitnoe-steklo-ne-ponadobitsya-huawei-mate-90-2026-09-21.webp",
+      "metaTitle": "Защитное стекло не понадобится: Huawei Mate 90 получит двухс",
+      "metaDescription": "По данным инсайдера @FixedFocus в Weibo, Huawei Mate 90 получит сразу два аппаратных обновления экрана.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437228-zashhitnoe-steklo-ne-ponadobitsia-huawei-mate-90-polucit-dvuxsloinyi-oled-i-trete-pokolenie-kunlun-glass.html"
+    },
+    {
       "id": "stalo-izvestno-pochemu-apple-otkazalas-ot-kompak-2026-09-21",
       "category": "Новости",
       "title": "Стало известно, почему Apple отказалась от компактного стилуса для iPhone Duo",
