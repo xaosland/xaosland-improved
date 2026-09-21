@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "amd-teper-dorozhe-intel-rynochnaya-kapitalizatsi-2026-09-21",
+      "category": "Новости",
+      "title": "AMD теперь дороже Intel. Рыночная капитализация AMD превысила 1 триллион долларов",
+      "excerpt": "Рыночная капитализация AMD впервые в истории превысила $1 трлн, этому предшествовал резкий рост акций. Компания вошла в клуб триллионеров.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amd-teper-dorozhe-intel-rynochnaya-kapitalizatsi-2026-09-21.webp",
+      "metaTitle": "AMD теперь дороже Intel. Рыночная капитализация AMD превысил",
+      "metaDescription": "Рыночная капитализация AMD впервые в истории превысила $1 трлн, этому предшествовал резкий рост акций. Компания вошла в клуб триллионеров.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437369-amd-teper-doroze-intel-rynocnaia-kapitalizaciia-amd-prevysila-1-trillion-dollarov.html"
+    },
+    {
+      "id": "zaberite-moi-dengi-proshu-geympleynyy-treyler-do-2026-09-21",
+      "category": "Новости",
+      "title": "«Заберите мои деньги, прошу»: геймплейный трейлер дополнения Lazarus заинтриговал фанатов Cronos: The New Dawn",
+      "excerpt": "Горячо ожидаемое сюжетное дополнение Lazarus к приключенческому хоррору на выживание Cronos: The New Dawn от польской студии Bloober Team до сих пор не имеет даты выхода, но удостоилось геймплейной демонстрации. Источник изображений: Bloober Team",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zaberite-moi-dengi-proshu-geympleynyy-treyler-do-2026-09-21.webp",
+      "metaTitle": "«Заберите мои деньги, прошу»: геймплейный трейлер дополнения",
+      "metaDescription": "Горячо ожидаемое сюжетное дополнение Lazarus к приключенческому хоррору на выживание Cronos: The New Dawn от польской студии Bloober Team до сих пор н",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148815"
+    },
+    {
+      "id": "startovali-predzakazy-na-googlebook-android-nout-2026-09-21",
+      "category": "Новости",
+      "title": "Стартовали предзаказы на Googlebook — Android-ноутбуки на чипах Intel и Qualcomm оценены от $899",
+      "excerpt": "Google сообщила о начале приёма предварительных заказов на новый класс ноутбуков, получивший название Googlebook. Первые модели этих устройств оснащаются процессорами Intel Panther Lake и Qualcomm Snapdragon X Elite. Свои решения предлагают Acer, Asu",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/startovali-predzakazy-na-googlebook-android-nout-2026-09-21.webp",
+      "metaTitle": "Стартовали предзаказы на Googlebook — Android-ноутбуки на чи",
+      "metaDescription": "Google сообщила о начале приёма предварительных заказов на новый класс ноутбуков, получивший название Googlebook. Первые модели этих устройств оснащаю",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148814"
+    },
+    {
+      "id": "mediatek-predstavila-noutbuchnyy-protsessor-dime-2026-09-21",
+      "category": "Новости",
+      "title": "MediaTek представила ноутбучный процессор Dimensity CX C10 Max для Googlebook — он поддерживает ИИ и трассировку лучей",
+      "excerpt": "Компания MediaTek представила в рамках новой линейки однокристальных платформ (SoC) Dimensity Compute Experiences (CX) флагманский мобильный процессор Dimensity CX C10 Max, предназначенный специально для ноутбуков Googlebook. Источник изображения: Me",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mediatek-predstavila-noutbuchnyy-protsessor-dime-2026-09-21.webp",
+      "metaTitle": "MediaTek представила ноутбучный процессор Dimensity CX C10 M",
+      "metaDescription": "Компания MediaTek представила в рамках новой линейки однокристальных платформ (SoC) Dimensity Compute Experiences (CX) флагманский мобильный процессор",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148816"
+    },
+    {
+      "id": "8-mesyatsev-raboty-na-odnoy-zaryadke-radar-vmest-2026-09-21",
+      "category": "Новости",
+      "title": "8 месяцев работы на одной зарядке, радар вместо обычного датчика движения и USB-C: Xiaomi выпустила ночник Mijia Night Light 4 за 10 долларов",
+      "excerpt": "Xiaomi начала открытые продажи компактного ночника Mijia Night Light 4, который ранее дебютировал на краудфандинговой платформе Xiaomi Youpin. Новинка уже появилась на JD.com по цене от 70 юаней (10 долларов).",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/8-mesyatsev-raboty-na-odnoy-zaryadke-radar-vmest-2026-09-21.webp",
+      "metaTitle": "8 месяцев работы на одной зарядке, радар вместо обычного дат",
+      "metaDescription": "Xiaomi начала открытые продажи компактного ночника Mijia Night Light 4, который ранее дебютировал на краудфандинговой платформе Xiaomi Youpin. Новинка",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437370-8-mesiacev-raboty-na-odnoi-zariadke-radar-vmesto-obycnogo-datcika-dvizeniia-i-usb-c-xiaomi-vypustila-nocnik-mijia-night-light-4-za-10-dollarov.html"
+    },
+    {
+      "id": "huawei-ne-sposobna-udovletvorit-spros-dazhe-vnut-2026-09-21",
+      "category": "Новости",
+      "title": "Huawei не способна удовлетворить спрос даже внутри Китая, поэтому не будет полноценно выходить на международный рынок со своими ИИ-процессорами",
+      "excerpt": "Компания Huawei добилась огромных успехов на родном рынке не только в сфере продаж смартфонов, но и в сегменте ИИ-чипов. Настолько огромных, что теперь отменила планы по выходу на международный рынок с новыми чипами.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/huawei-ne-sposobna-udovletvorit-spros-dazhe-vnut-2026-09-21.webp",
+      "metaTitle": "Huawei не способна удовлетворить спрос даже внутри Китая, по",
+      "metaDescription": "Компания Huawei добилась огромных успехов на родном рынке не только в сфере продаж смартфонов, но и в сегменте ИИ-чипов. Настолько огромных, что тепер",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437371-huawei-ne-sposobna-udovletvorit-spros-daze-vnutri-kitaia-poetomu-ne-budet-polnocenno-vyxodit-na-mezdunarodnyi-rynok-so-svoimi-ii-processorami.html"
+    },
+    {
+      "id": "2-kvt-ch-2200-vt-i-massa-portov-v-kompaktnom-kor-2026-09-21",
+      "category": "Новости",
+      "title": "2 кВт·ч, 2200 Вт и масса портов в компактном корпусе. Представлена портативная зарядная станция Power Auro 2000 Elite за 715 долларов",
+      "excerpt": "DJI представила новую портативную зарядную станцию Power Auro 2000 Elite емкостью 2 кВт·ч. По сравнению с предыдущей DJI Power 2000 новинка стала компактнее и легче, получила LiFePO4-аккумулятор, быструю зарядку от сети и встроенные модули для подклю",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/2-kvt-ch-2200-vt-i-massa-portov-v-kompaktnom-kor-2026-09-21.webp",
+      "metaTitle": "2 кВт·ч, 2200 Вт и масса портов в компактном корпусе. Предст",
+      "metaDescription": "DJI представила новую портативную зарядную станцию Power Auro 2000 Elite емкостью 2 кВт·ч. По сравнению с предыдущей DJI Power 2000 новинка стала комп",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437374-2-kvtc-2200-vt-i-massa-portov-v-kompaktnom-korpuse-predstavlena-portativnaia-zariadnaia-stanciia-power-auro-2000-elite-za-715-dollarov.html"
+    },
+    {
+      "id": "andzhey-sapkovskiy-rasskazal-kogda-zhdat-sleduyu-2026-09-21",
+      "category": "Новости",
+      "title": "Анджей Сапковский рассказал, когда ждать следующего «Ведьмака»",
+      "excerpt": "Польский писатель-фантаст Анджей Сапковский (Andrzej Sapkowski) на прошедшем недавно в Торуни фестивале «Коперникон» прояснил свои планы относительно следующей книги в литературном цикле «Ведьмак». Источник изображения: Steam (Die Katja)",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/andzhey-sapkovskiy-rasskazal-kogda-zhdat-sleduyu-2026-09-21.webp",
+      "metaTitle": "Анджей Сапковский рассказал, когда ждать следующего «Ведьмак",
+      "metaDescription": "Польский писатель-фантаст Анджей Сапковский (Andrzej Sapkowski) на прошедшем недавно в Торуни фестивале «Коперникон» прояснил свои планы относительно ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148817"
+    },
+    {
+      "id": "google-hit-with-463-million-fine-for-eu-location-2026-09-21",
+      "category": "Новости",
+      "title": "Google оштрафована на 463 миллиона долларов за нарушение правил ЕС в отношении данных о местоположении",
+      "excerpt": "Google был оштрафован на 403 миллиона евро (463 миллиона долларов) за нарушение строгих правил конфиденциальности Европейского Союза, поскольку он неправильно обрабатывал данные о местоположении пользователей. Сообщение Google оштрафовано на 463 милл",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-hit-with-463-million-fine-for-eu-location-2026-09-21.webp",
+      "metaTitle": "Google оштрафована на 463 миллиона долларов за нарушение пра",
+      "metaDescription": "Google был оштрафован на 403 миллиона евро (463 миллиона долларов) за нарушение строгих правил конфиденциальности Европейского Союза, поскольку он неп",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/"
+    },
+    {
+      "id": "mediatek-predstavila-chip-dimensity-cx-c10-max-d-2026-09-21",
+      "category": "Новости",
+      "title": "MediaTek представила чип Dimensity CX C10 Max для ноутбуков Googlebook",
+      "excerpt": "Компания MediaTek представила совершенно новое семейство однокристальных систем под названием Dimensity CX. Как сказано на официальном сайте, это платформы для вычислительных задач, созданные для новой эры персональных компьютеров.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mediatek-predstavila-chip-dimensity-cx-c10-max-d-2026-09-21.webp",
+      "metaTitle": "MediaTek представила чип Dimensity CX C10 Max для ноутбуков ",
+      "metaDescription": "Компания MediaTek представила совершенно новое семейство однокристальных систем под названием Dimensity CX. Как сказано на официальном сайте, это плат",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437379-mediatek-predstavila-cip-dimensity-cx-c10-max-dlia-noutbukov-googlebook.html"
+    },
+    {
+      "id": "noutbuk-thunderobot-ai-master-m7000-poluchil-neo-2026-09-21",
+      "category": "Новости",
+      "title": "Ноутбук Thunderobot AI Master M7000 получил необычный SSD в конфигурации 768 ГБ + 85 ГБ",
+      "excerpt": "Компания Thunderobot представила ноутбук AI Master M7000, который позиционируется, как мобильная рабочая станция, и опирается на процессор Ryzen AI Max+ 395. Однако есть у этой новинки кое-что необычное.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/noutbuk-thunderobot-ai-master-m7000-poluchil-neo-2026-09-21.webp",
+      "metaTitle": "Ноутбук Thunderobot AI Master M7000 получил необычный SSD в ",
+      "metaDescription": "Компания Thunderobot представила ноутбук AI Master M7000, который позиционируется, как мобильная рабочая станция, и опирается на процессор Ryzen AI Ma",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437382-noutbuk-thunderobot-ai-master-m7000-polucil-neobycnyi-ssd-v-konfiguracii-768-gb-85-gb.html"
+    },
+    {
+      "id": "kitayskie-uchenye-sozdali-unikalnyy-solnechnyy-e-2026-09-21",
+      "category": "Новости",
+      "title": "Китайские ученые создали уникальный солнечный элемент — он вырабатывает электричество под водой с КПД до 34,71%",
+      "excerpt": "Исследователи Юньнаньского университета разработали перовскитную фотоэлектрическую систему, способную вырабатывать электричество под водой на глубине до 10 метров. Технология предназначена для автономного питания подводных датчиков, камер, средств св",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskie-uchenye-sozdali-unikalnyy-solnechnyy-e-2026-09-21.webp",
+      "metaTitle": "Китайские ученые создали уникальный солнечный элемент — он в",
+      "metaDescription": "Исследователи Юньнаньского университета разработали перовскитную фотоэлектрическую систему, способную вырабатывать электричество под водой на глубине ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437381-kitaiskie-ucenye-sozdali-unikalnyi-solnecnyi-element-on-vyrabatyvaet-elektricestvo-pod-vodoi-s-kpd-do-3471.html"
+    },
+    {
+      "id": "acer-dell-hp-i-asus-predstavili-svoi-versii-goog-2026-09-21",
+      "category": "Новости",
+      "title": "Acer, Dell, HP и Asus представили свои версии Googlebook с процессорами Intel Core Ultra 300 и Snapdragon X Elite",
+      "excerpt": "Компании Acer, Dell, HP и Asus представили свои первые ноутбуки Googlebook на базе процессоров Intel Panther Lake и Qualcomm Snapdragon X Elite. Новинки поставляются с операционной системой Googlebook OS (известной по внутреннему названию Aluminium O",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/acer-dell-hp-i-asus-predstavili-svoi-versii-goog-2026-09-21.webp",
+      "metaTitle": "Acer, Dell, HP и Asus представили свои версии Googlebook с п",
+      "metaDescription": "Компании Acer, Dell, HP и Asus представили свои первые ноутбуки Googlebook на базе процессоров Intel Panther Lake и Qualcomm Snapdragon X Elite. Новин",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148818"
+    },
+    {
+      "id": "microsoft-to-retire-microsoft-365-companion-apps-2026-09-21",
+      "category": "Новости",
+      "title": "Microsoft прекратит поддержку приложений Microsoft 365 Companion в декабре",
+      "excerpt": "Microsoft прекратит поддержку сопутствующих приложений Microsoft 365 «Календарь», «Люди» и «Файлы» 16 декабря и попросила администраторов удалить их с управляемых устройств. [...]",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-to-retire-microsoft-365-companion-apps-2026-09-21.webp",
+      "metaTitle": "Microsoft прекратит поддержку приложений Microsoft 365 Compa",
+      "metaDescription": "Microsoft прекратит поддержку сопутствующих приложений Microsoft 365 «Календарь», «Люди» и «Файлы» 16 декабря и попросила администраторов удалить их с",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/"
+    },
+    {
+      "id": "amd-popolnila-klub-kompaniy-s-kapitalizatsiey-v--2026-09-21",
+      "category": "Новости",
+      "title": "AMD пополнила клуб компаний с капитализацией в $1 трлн — раньше, чем Intel",
+      "excerpt": "В понедельник акции AMD подскочили на 9 %, достигнув исторического максимума в $613,92, что позволило компании впервые преодолеть отметку рыночной капитализации в $1 трлн. Источник изображения: AMD",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amd-popolnila-klub-kompaniy-s-kapitalizatsiey-v--2026-09-21.webp",
+      "metaTitle": "AMD пополнила клуб компаний с капитализацией в $1 трлн — ран",
+      "metaDescription": "В понедельник акции AMD подскочили на 9 %, достигнув исторического максимума в $613,92, что позволило компании впервые преодолеть отметку рыночной кап",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148819"
+    },
+    {
       "id": "weekly-recap-cisco-0-day-ai-agent-rce-clickfix-a-2026-09-21",
       "category": "Новости",
       "title": "⚡ Еженедельный обзор: Cisco 0-Day, AI Agent RCE, атаки ClickFix, всплеск ClickFix и взломы браузеров",
