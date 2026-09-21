@@ -1,6 +1,322 @@
 {
   "articles": [
     {
+      "id": "fake-lastpass-authenticator-installer-abuses-mic-2026-09-21",
+      "category": "Новости",
+      "title": "Поддельный установщик LastPass Authenticator злоупотребляет подписанным Microsoft драйвером, чтобы убить антивирус и EDR",
+      "excerpt": "Поддельный установщик LastPass Authenticator, предлагаемый на GitHub, устанавливает драйвер ядра Windows, который отключает антивирусное и другое защитное программное обеспечение до того, как запустится программа для кражи паролей, если жертва загруз",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fake-lastpass-authenticator-installer-abuses-mic-2026-09-21.webp",
+      "metaTitle": "Поддельный установщик LastPass Authenticator злоупотребляет ",
+      "metaDescription": "Поддельный установщик LastPass Authenticator, предлагаемый на GitHub, устанавливает драйвер ядра Windows, который отключает антивирусное и другое защи",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html"
+    },
+    {
+      "id": "pochemu-solnechnaya-korona-nagrevaetsya-do-milli-2026-09-21",
+      "category": "Новости",
+      "title": "Почему солнечная корона нагревается до миллионов градусов? Вокруг полюсов Солнца нашли тысячи быстрых магнитных волн — дело может быть в них",
+      "excerpt": "Аппарат Solar Orbiter обнаружил в полярных областях Солнца множество быстрых высокочастотных магнитных волн, которые предыдущие космические обсерватории практически не замечали. Эти колебания могут быть одним из источников энергии, нагревающих солнеч",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pochemu-solnechnaya-korona-nagrevaetsya-do-milli-2026-09-21.webp",
+      "metaTitle": "Почему солнечная корона нагревается до миллионов градусов? В",
+      "metaDescription": "Аппарат Solar Orbiter обнаружил в полярных областях Солнца множество быстрых высокочастотных магнитных волн, которые предыдущие космические обсерватор",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437405-pocemu-solnecnaia-korona-nagrevaetsia-do-millionov-gradusov-vokrug-poliusov-solnca-nasli-tysiaci-bystryx-magnitnyx-voln-delo-mozet-byt-v-nix.html"
+    },
+    {
+      "id": "on-vesit-vsego-11-kg-sposoben-razognatsya-do-45--2026-09-21",
+      "category": "Новости",
+      "title": "Он весит всего 11 кг, способен разогнаться до 45 км/ч и проехать 185 км на одной зарядке. Представлен очень легкий электровелосипед Trek Domane+ SL",
+      "excerpt": "Trek расширила линейку электровелосипедов новой моделью Domane+ SL. Это спортивный электровелосипед для длительных поездок, созданный на базе модели Domane. Главной особенностью новинки стала карбоновая рама.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/on-vesit-vsego-11-kg-sposoben-razognatsya-do-45--2026-09-21.webp",
+      "metaTitle": "Он весит всего 11 кг, способен разогнаться до 45 км/ч и прое",
+      "metaDescription": "Trek расширила линейку электровелосипедов новой моделью Domane+ SL. Это спортивный электровелосипед для длительных поездок, созданный на базе модели D",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437407-on-vesit-vsego-11-kg-sposoben-razognatsia-do-45-kmc-i-proexat-185-km-na-odnoi-zariadke-predstavlen-ocen-legkii-elektrovelosiped-trek-domane-sl.html"
+    },
+    {
+      "id": "shinyhunters-hacked-clop-now-what-about-clop-s-v-2026-09-21",
+      "category": "Новости",
+      "title": "ShinyHunters взломали Clop. А что теперь насчет жертв Клопа?",
+      "excerpt": "ShinyHunters испортили даркнет-сайт Клопа и утверждают, что украли данные жертв, что потенциально подвергает организации, платившие выкуп, новым попыткам вымогательства.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "ShinyHunters взломали Clop. А что теперь насчет жертв Клопа?",
+      "metaDescription": "ShinyHunters испортили даркнет-сайт Клопа и утверждают, что украли данные жертв, что потенциально подвергает организации, платившие выкуп, новым попыт",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims"
+    },
+    {
+      "id": "cisa-alerts-of-active-exploitation-of-three-linu-2026-09-21",
+      "category": "Новости",
+      "title": "CISA предупреждает об активной эксплуатации трех недостатков ядра Linux",
+      "excerpt": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) предупреждает, что хакеры используют три уязвимости ядра Linux, одна из которых оценена как критическая. [...]",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-alerts-of-active-exploitation-of-three-linu-2026-09-21.webp",
+      "metaTitle": "CISA предупреждает об активной эксплуатации трех недостатков",
+      "metaDescription": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) предупреждает, что хакеры используют три уязвимости ядра Linux, одна из которых о",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+    },
+    {
+      "id": "nauchnye-stati-prevratili-v-ii-agentov-kotorye-s-2026-09-21",
+      "category": "Новости",
+      "title": "Научные статьи превратили в ИИ-агентов, которые сами выполняют описанные в них исследования",
+      "excerpt": "Научную статью можно превратить из документа для чтения в инструмент, который способен выполнять описанные в ней вычислительные методы. Такую систему Paper2Agent разработали учёные: она превращает публикацию в интерактивного ИИ-агента, который отвеча",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nauchnye-stati-prevratili-v-ii-agentov-kotorye-s-2026-09-21.webp",
+      "metaTitle": "Научные статьи превратили в ИИ-агентов, которые сами выполня",
+      "metaDescription": "Научную статью можно превратить из документа для чтения в инструмент, который способен выполнять описанные в ней вычислительные методы. Такую систему ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html"
+    },
+    {
+      "id": "cloudflare-osvobodila-100-tb-operativnoy-pamyati-2026-09-21",
+      "category": "Новости",
+      "title": "Cloudflare освободила 100 ТБ оперативной памяти, изменив всего несколько строк в своей системе",
+      "excerpt": "Cloudflare удалось высвободить около 100 ТБ оперативной памяти в своей глобальной инфраструктуре благодаря оптимизации алгоритма распределения кешированных данных между серверами. Инженеры компании пересмотрели работу согласованного хеширования в отк",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cloudflare-osvobodila-100-tb-operativnoy-pamyati-2026-09-21.webp",
+      "metaTitle": "Cloudflare освободила 100 ТБ оперативной памяти, изменив все",
+      "metaDescription": "Cloudflare удалось высвободить около 100 ТБ оперативной памяти в своей глобальной инфраструктуре благодаря оптимизации алгоритма распределения кеширов",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437410-cloudflare-osvobodila-100-tb-operativnoi-pamiati-izmeniv-vsego-neskolko-strok-v-svoei-sisteme.html"
+    },
+    {
+      "id": "umnyy-domashniy-displey-apple-mozhet-byt-predsta-2026-09-21",
+      "category": "Новости",
+      "title": "Умный домашний дисплей Apple может быть представлен уже в следующем месяце",
+      "excerpt": "Apple может представить умный домашний дисплей Personal Hub уже в октябре, сообщил Марк Гурман (Mark Gurman) в свежей рассылке Power On для Bloomberg. Устройство станет центральным интерфейсом для управления аксессуарами умного дома, общения с членам",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/umnyy-domashniy-displey-apple-mozhet-byt-predsta-2026-09-21.webp",
+      "metaTitle": "Умный домашний дисплей Apple может быть представлен уже в сл",
+      "metaDescription": "Apple может представить умный домашний дисплей Personal Hub уже в октябре, сообщил Марк Гурман (Mark Gurman) в свежей рассылке Power On для Bloomberg.",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148823"
+    },
+    {
+      "id": "futurolog-predlozhil-otnositsya-k-udaleniyu-ii-a-2026-09-21",
+      "category": "Новости",
+      "title": "Футуролог предложил относиться к удалению ИИ-агентов как к этической проблеме",
+      "excerpt": "Рокки Скопеллити, профессор Технологического университета Сиднея, в книге «Сознательный код» (The Conscious Code) предлагает ввести для ИИ «принцип ответственного обращения».",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/futurolog-predlozhil-otnositsya-k-udaleniyu-ii-a-2026-09-21.webp",
+      "metaTitle": "Футуролог предложил относиться к удалению ИИ-агентов как к э",
+      "metaDescription": "Рокки Скопеллити, профессор Технологического университета Сиднея, в книге «Сознательный код» (The Conscious Code) предлагает ввести для ИИ «принцип от",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437411-futurolog-predlozil-otnositsia-k-udaleniiu-ii-agentov-kak-k-eticeskoi-probleme.html"
+    },
+    {
+      "id": "nekotorye-iphone-18-pro-zavisayut-i-perezagruzha-2026-09-21",
+      "category": "Новости",
+      "title": "Некоторые iPhone 18 Pro зависают и перезагружаются из-за бага в Face ID, пожаловались пользователи",
+      "excerpt": "Некоторые владельцы iPhone 18 Pro и iPhone 18 Pro Max столкнулись с ошибкой Face ID, из-за которой смартфон зависает и самостоятельно перезагружается. Проблема, предположительно связанная с программной частью iOS 27, возникает после неудачной попытки",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nekotorye-iphone-18-pro-zavisayut-i-perezagruzha-2026-09-21.webp",
+      "metaTitle": "Некоторые iPhone 18 Pro зависают и перезагружаются из-за баг",
+      "metaDescription": "Некоторые владельцы iPhone 18 Pro и iPhone 18 Pro Max столкнулись с ошибкой Face ID, из-за которой смартфон зависает и самостоятельно перезагружается.",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148824"
+    },
+    {
+      "id": "marsohod-perseverance-nashel-v-kratere-ezero-svi-2026-09-21",
+      "category": "Новости",
+      "title": "Марсоход Perseverance нашёл в кратере Езеро свидетельства древних подземных, озёрных и гидротермальных вод",
+      "excerpt": "Марсоход Perseverance обнаружил в районе древнего озера Езеро следы как минимум трёх разных эпизодов взаимодействия пород с водой, причём последний из них был связан с горячими подземными источниками.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/marsohod-perseverance-nashel-v-kratere-ezero-svi-2026-09-21.webp",
+      "metaTitle": "Марсоход Perseverance нашёл в кратере Езеро свидетельства др",
+      "metaDescription": "Марсоход Perseverance обнаружил в районе древнего озера Езеро следы как минимум трёх разных эпизодов взаимодействия пород с водой, причём последний из",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437415-marsoxod-perseverance-nasel-v-kratere-ezero-svidetelstva-drevnix-podzemnyx-ozernyx-i-gidrotermalnyx-vod.html"
+    },
+    {
+      "id": "novaya-statya-obzor-bezzerkalnoy-kamery-sony-alp-2026-09-21",
+      "category": "Новости",
+      "title": "Новая статья: Обзор беззеркальной камеры Sony Alpha a7R VI: 67 мегапричин впечатлиться и пострадать",
+      "excerpt": "Камеры серии Sony Alpha 7R с самого первого поколения занимали особую нишу в линейке камер компании. Это инструменты для тех, кому в первую очередь нужна максимальная детализация, но при этом не готовые иметь дело с громоздким (и очень дорогим) средн",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-obzor-bezzerkalnoy-kamery-sony-alp-2026-09-21.webp",
+      "metaTitle": "Новая статья: Обзор беззеркальной камеры Sony Alpha a7R VI: ",
+      "metaDescription": "Камеры серии Sony Alpha 7R с самого первого поколения занимали особую нишу в линейке камер компании. Это инструменты для тех, кому в первую очередь ну",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148535"
+    },
+    {
+      "id": "bigcommerce-alerts-merchants-of-data-breach-link-2026-09-21",
+      "category": "Новости",
+      "title": "BigCommerce предупреждает продавцов об утечке данных, связанных с приложениями Ribon",
+      "excerpt": "Платформа электронной коммерции BigCommerce предупредила несколько продавцов об утечке данных после того, как злоумышленники скомпрометировали учетные данные сторонних приложений Ribon и использовали их для внедрения вредоносных скриптов в интернет-м",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bigcommerce-alerts-merchants-of-data-breach-link-2026-09-21.webp",
+      "metaTitle": "BigCommerce предупреждает продавцов об утечке данных, связан",
+      "metaDescription": "Платформа электронной коммерции BigCommerce предупредила несколько продавцов об утечке данных после того, как злоумышленники скомпрометировали учетные",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
+    },
+    {
+      "id": "how-ai-agents-can-trigger-runaway-costs-for-ente-2026-09-21",
+      "category": "Новости",
+      "title": "Как агенты ИИ могут спровоцировать неконтролируемые издержки для предприятий",
+      "excerpt": "Неограниченное потребление — это проблема, которую OWASP в настоящее время занимает шестое место в топ-10 приложений LLM, и она может оказаться чрезвычайно дорогостоящей.",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "софт",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Как агенты ИИ могут спровоцировать неконтролируемые издержки",
+      "metaDescription": "Неограниченное потребление — это проблема, которую OWASP в настоящее время занимает шестое место в топ-10 приложений LLM, и она может оказаться чрезвы",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs"
+    },
+    {
+      "id": "himiya-mozga-mozhet-obyasnit-chego-ne-hvataet-is-2026-09-21",
+      "category": "Новости",
+      "title": "Химия мозга может объяснить, чего не хватает искусственному интеллекту: учёные предложили биохимическую модель памяти",
+      "excerpt": "Учёные предложили искать главное отличие человеческого интеллекта от ИИ в химии мозга: авторы новой работы считают, что память и мышление нельзя описывать только электрическими сигналами и вычислениями: важную роль могут играть взаимодействия нейроно",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/himiya-mozga-mozhet-obyasnit-chego-ne-hvataet-is-2026-09-21.webp",
+      "metaTitle": "Химия мозга может объяснить, чего не хватает искусственному ",
+      "metaDescription": "Учёные предложили искать главное отличие человеческого интеллекта от ИИ в химии мозга: авторы новой работы считают, что память и мышление нельзя описы",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437417-ximiia-mozga-mozet-obieiasnit-cego-ne-xvataet-iskusstvennomu-intellektu-ucenye-predlozili-bioximiceskuiu-model-pamiati.html"
+    },
+    {
       "id": "vypusk-utility-dlya-zagruzki-web-kontenta-gnu-wg-2026-09-21",
       "category": "Новости",
       "title": "Выпуск утилиты для загрузки web-контента GNU Wget2 2.3.0",
