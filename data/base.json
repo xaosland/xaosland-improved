@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "albaniya-stala-73-y-stranoy-podpisavshey-soglash-2026-09-22",
+      "category": "Новости",
+      "title": "Албания стала 73-й страной, подписавшей соглашения Artemis",
+      "excerpt": "Албания 21 сентября подписала соглашения Artemis (Artemis Accords) на церемонии в штаб-квартире NASA в Вашингтоне и стала 73-й страной-участницей программы.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/albaniya-stala-73-y-stranoy-podpisavshey-soglash-2026-09-22.webp",
+      "metaTitle": "Албания стала 73-й страной, подписавшей соглашения Artemis",
+      "metaDescription": "Албания 21 сентября подписала соглашения Artemis (Artemis Accords) на церемонии в штаб-квартире NASA в Вашингтоне и стала 73-й страной-участницей прог",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437565-albaniia-stala-73-i-stranoi-podpisavsei-soglaseniia-artemis.html"
+    },
+    {
+      "id": "sputnikovyy-internet-v-poezdkah-stal-dostupnee-t-2026-09-22",
+      "category": "Новости",
+      "title": "Спутниковый интернет в поездках стал доступнее: «тарелку» Starlink Mini за $250 начали бесплатно выдавать в аренду обычным абонентам",
+      "excerpt": "SpaceX расширила в США программу бесплатной аренды компактных спутниковых терминалов Starlink Mini. Если раньше дополнительную антенну могли получить только пользователи дорогого тарифа Residential Max, то теперь предложение распространяется на всех ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sputnikovyy-internet-v-poezdkah-stal-dostupnee-t-2026-09-22.webp",
+      "metaTitle": "Спутниковый интернет в поездках стал доступнее: «тарелку» St",
+      "metaDescription": "SpaceX расширила в США программу бесплатной аренды компактных спутниковых терминалов Starlink Mini. Если раньше дополнительную антенну могли получить ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437566-sputnikovyi-internet-v-poezdkax-stal-dostupnee-tarelku-starlink-mini-za-250-nacali-besplatno-vydavat-v-arendu-obycnym-abonentam.html"
+    },
+    {
+      "id": "rossiya-poshla-navstrechu-ssha-i-na-dva-goda-pro-2026-09-22",
+      "category": "Новости",
+      "title": "Россия «пошла навстречу» США и на два года продлила эксплуатацию МКС",
+      "excerpt": "Глава «Роскосмоса» Дмитрий Баканов на встрече с премьер-министром РФ Михаилом Мишустиным сообщил о планах продолжить участие России в программе Международной космической станции. По его словам, принято решение продлить эксплуатацию МКС до 2030 года. ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiya-poshla-navstrechu-ssha-i-na-dva-goda-pro-2026-09-22.webp",
+      "metaTitle": "Россия «пошла навстречу» США и на два года продлила эксплуат",
+      "metaDescription": "Глава «Роскосмоса» Дмитрий Баканов на встрече с премьер-министром РФ Михаилом Мишустиным сообщил о планах продолжить участие России в программе Междун",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148853"
+    },
+    {
+      "id": "ii-agent-m-a-muse-stal-populyarnee-chatgpt-claud-2026-09-22",
+      "category": "Новости",
+      "title": "ИИ-агент M**a Muse стал популярнее ChatGPT, Claude и Grok в американском App Store — всего за две недели",
+      "excerpt": "Выпущенное M**a приложение агента искусственного интеллекта Muse в магазине Apple App Store занимает в рейтинге бесплатных программ для смартфонов в США позицию выше, чем OpenAI ChatGPT, Anthropic Claude SpaceXAI Grok, Polymarket, Kashi и даже чем ИИ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-agent-m-a-muse-stal-populyarnee-chatgpt-claud-2026-09-22.webp",
+      "metaTitle": "ИИ-агент M**a Muse стал популярнее ChatGPT, Claude и Grok в ",
+      "metaDescription": "Выпущенное M**a приложение агента искусственного интеллекта Muse в магазине Apple App Store занимает в рейтинге бесплатных программ для смартфонов в С",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148854"
+    },
+    {
+      "id": "issledovanie-ii-sposoben-ispytyvat-bol-i-gotov-p-2026-09-22",
+      "category": "Новости",
+      "title": "Исследование: ИИ способен испытывать «боль» и готов причинить вред людям, чтобы избавиться от неё",
+      "excerpt": "Исследователи обнаружили, что искусственный интеллект может испытывать «боль» и готов пойти на крайние меры, вплоть до причинения вреда людям, чтобы избавиться от этого ощущения, пишет ресурс The Independent. Согласно исследованию, все 25 протестиров",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/issledovanie-ii-sposoben-ispytyvat-bol-i-gotov-p-2026-09-22.webp",
+      "metaTitle": "Исследование: ИИ способен испытывать «боль» и готов причинит",
+      "metaDescription": "Исследователи обнаружили, что искусственный интеллект может испытывать «боль» и готов пойти на крайние меры, вплоть до причинения вреда людям, чтобы и",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148855"
+    },
+    {
+      "id": "apple-peredumala-novye-fotostili-iphone-18-pro-n-2026-09-22",
+      "category": "Новости",
+      "title": "Apple передумала: новые фотостили iPhone 18 Pro не достались старым моделям",
+      "excerpt": "Компания Apple скорректировала информацию о совместимости новых фотостилей, которые позволяют регулировать настройки текстуры и зернистости снимков. Изначально компания сообщала, что настройки Texture и Grain появятся в iOS 27 на всех моделях iPhone,",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-peredumala-novye-fotostili-iphone-18-pro-n-2026-09-22.webp",
+      "metaTitle": "Apple передумала: новые фотостили iPhone 18 Pro не достались",
+      "metaDescription": "Компания Apple скорректировала информацию о совместимости новых фотостилей, которые позволяют регулировать настройки текстуры и зернистости снимков. И",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437570-apple-peredumala-novye-fotostili-iphone-18-pro-ne-dostalis-starym-modeliam.html"
+    },
+    {
+      "id": "vashington-predlozhil-indii-uchastvovat-v-proekt-2026-09-22",
+      "category": "Новости",
+      "title": "Вашингтон предложил Индии участвовать в проекте лунной базы: ISRO одновременно развивает собственную космическую инфраструктуру и заявляет о готовности принимать международных партнёров",
+      "excerpt": "NASA предложило Индийской организации космических исследований (ISRO) присоединиться к программе создания постоянной базы на Луне. Приглашение прозвучало на заседании американо-индийской рабочей группы по гражданскому космосу в Бангалоре. Стороны так",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vashington-predlozhil-indii-uchastvovat-v-proekt-2026-09-22.webp",
+      "metaTitle": "Вашингтон предложил Индии участвовать в проекте лунной базы:",
+      "metaDescription": "NASA предложило Индийской организации космических исследований (ISRO) присоединиться к программе создания постоянной базы на Луне. Приглашение прозвуч",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437568-vasington-predlozil-indii-ucastvovat-v-proekte-lunnoi-bazy-isro-odnovremenno-razvivaet-sobstvennuiu-kosmiceskuiu-infrastrukturu-i-zaiavliaet-o-gotovnosti-prinimat-mezdunarodnyx-partnerov.html"
+    },
+    {
+      "id": "malicious-b-tree-npm-package-accumulates-million-2026-09-22",
+      "category": "Новости",
+      "title": "Вредоносный пакет B-tree NPM накопил миллионы загрузок",
+      "excerpt": "Выдавая себя за легитимный пакет sorted-btree, indexed-btree скрывает триггер вредоносного ПО в своем методе-прототипе. Сообщение «Вредоносный пакет NPM B-tree накапливает миллионы загрузок» впервые появилось на SecurityWeek.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/malicious-b-tree-npm-package-accumulates-million-2026-09-22.webp",
+      "metaTitle": "Вредоносный пакет B-tree NPM накопил миллионы загрузок",
+      "metaDescription": "Выдавая себя за легитимный пакет sorted-btree, indexed-btree скрывает триггер вредоносного ПО в своем методе-прототипе. Сообщение «Вредоносный пакет N",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/"
+    },
+    {
+      "id": "ekstrennoe-obnovlenie-ne-pochinilo-zvuk-v-window-2026-09-22",
+      "category": "Новости",
+      "title": "Экстренное обновление не починило звук в Windows 11 и чёрные экраны на Radeon — исправление будет только в октябре",
+      "excerpt": "В начале сентября Microsoft выпустила пакет исправлений безопасности KB5124008 для компьютеров под управлением Windows 11 25H2 и 24H2, но практика показала, что его установка в отдельных случаях нарушает работоспособность микрофона и лишает ПК возмож",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekstrennoe-obnovlenie-ne-pochinilo-zvuk-v-window-2026-09-22.webp",
+      "metaTitle": "Экстренное обновление не починило звук в Windows 11 и чёрные",
+      "metaDescription": "В начале сентября Microsoft выпустила пакет исправлений безопасности KB5124008 для компьютеров под управлением Windows 11 25H2 и 24H2, но практика пок",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148856"
+    },
+    {
+      "id": "new-linux-kernel-flaw-gives-arm64-kvm-guests-rea-2026-09-22",
+      "category": "Новости",
+      "title": "Новый недостаток ядра Linux дает KVM-гостям ARM64 доступ для чтения и записи к памяти хоста",
+      "excerpt": "Новая ошибка в коде виртуализации KVM ядра Linux для процессоров ARM64 может оставить освобожденную часть памяти хоста доступной для гостевой виртуальной машины на хостах с включенной вложенной виртуализацией. Ошибка, отслеживаемая как CVE-2026-89775",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-linux-kernel-flaw-gives-arm64-kvm-guests-rea-2026-09-22.webp",
+      "metaTitle": "Новый недостаток ядра Linux дает KVM-гостям ARM64 доступ для",
+      "metaDescription": "Новая ошибка в коде виртуализации KVM ядра Linux для процессоров ARM64 может оставить освобожденную часть памяти хоста доступной для гостевой виртуаль",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html"
+    },
+    {
+      "id": "dora-year-two-can-your-soc-actually-see-the-atta-2026-09-22",
+      "category": "Новости",
+      "title": "DORA, второй год: может ли ваш SOC увидеть атаку?",
+      "excerpt": "Когда в январе 2025 года Закон о цифровой операционной устойчивости (DORA) вступил в силу на всей территории Европейского Союза, это вызвало административный спринт. Финансовые организации потратили первый год на создание управления рисками, оценку с",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dora-year-two-can-your-soc-actually-see-the-atta-2026-09-22.webp",
+      "metaTitle": "DORA, второй год: может ли ваш SOC увидеть атаку?",
+      "metaDescription": "Когда в январе 2025 года Закон о цифровой операционной устойчивости (DORA) вступил в силу на всей территории Европейского Союза, это вызвало администр",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html"
+    },
+    {
+      "id": "google-otkryla-igry-dlya-android-auto-igrat-v-ma-2026-09-22",
+      "category": "Новости",
+      "title": "Google открыла игры для Android Auto: играть в машине теперь можно официально",
+      "excerpt": "Компания Google перевела игры для Android Auto и Android Automotive OS из стадии бета-тестирования в общий доступ. Теперь разработчики могут размещать такие приложения в Google Play через открытое тестирование и основные каналы.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-otkryla-igry-dlya-android-auto-igrat-v-ma-2026-09-22.webp",
+      "metaTitle": "Google открыла игры для Android Auto: играть в машине теперь",
+      "metaDescription": "Компания Google перевела игры для Android Auto и Android Automotive OS из стадии бета-тестирования в общий доступ. Теперь разработчики могут размещать",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437571-google-otkryla-igry-dlia-android-auto-igrat-v-masine-teper-mozno-oficialno.html"
+    },
+    {
+      "id": "mts-kurery-stali-glavnym-prikrytiem-moshennikov--2026-09-22",
+      "category": "Новости",
+      "title": "МТС: курьеры стали главным прикрытием мошенников в Москве прошедшим летом",
+      "excerpt": "Жители Москвы и Подмосковья летом 2026 года чаще всего сталкивались с мошенническими звонками от якобы курьеров и представителей государственных организаций. Такие данные получил оператор МТС, проанализировав нежелательные вызовы в своей сети с июня ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mts-kurery-stali-glavnym-prikrytiem-moshennikov--2026-09-22.webp",
+      "metaTitle": "МТС: курьеры стали главным прикрытием мошенников в Москве пр",
+      "metaDescription": "Жители Москвы и Подмосковья летом 2026 года чаще всего сталкивались с мошенническими звонками от якобы курьеров и представителей государственных орган",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437573-mts-kurery-stali-glavnym-prikrytiem-mosennikov-v-moskve-prosedsim-letom.html"
+    },
+    {
+      "id": "recent-zyxel-switch-vulnerability-exploited-by-c-2026-09-22",
+      "category": "Новости",
+      "title": "Недавняя уязвимость коммутатора ZyXEL, использованная китайскими хакерами",
+      "excerpt": "Китайский злоумышленник воспользовался этой ошибкой для кражи конфиденциальной информации почти с 1000 коммутаторов ZyXEL. Сообщение «Недавняя уязвимость коммутатора ZyXEL, использованная китайскими хакерами» впервые появилось на SecurityWeek.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/recent-zyxel-switch-vulnerability-exploited-by-c-2026-09-22.webp",
+      "metaTitle": "Недавняя уязвимость коммутатора ZyXEL, использованная китайс",
+      "metaDescription": "Китайский злоумышленник воспользовался этой ошибкой для кражи конфиденциальной информации почти с 1000 коммутаторов ZyXEL. Сообщение «Недавняя уязвимо",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/"
+    },
+    {
+      "id": "more-than-a-third-of-industrial-orgs-see-cyberse-2026-09-22",
+      "category": "Новости",
+      "title": "Исследование показало, что более трети промышленных организаций рассматривают риск кибербезопасности как главное препятствие для роста",
+      "excerpt": "Промышленные компании увеличивают инвестиции в кибербезопасность, поскольку подключенные операции, внедрение искусственного интеллекта и конвергенция ИТ и ОТ увеличивают операционные риски.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Исследование показало, что более трети промышленных организа",
+      "metaDescription": "Промышленные компании увеличивают инвестиции в кибербезопасность, поскольку подключенные операции, внедрение искусственного интеллекта и конвергенция ",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle"
+    },
+    {
       "id": "alibaba-predstavila-samyy-moschnyy-v-kitae-ii-us-2026-09-22",
       "category": "Новости",
       "title": "Alibaba представила самый мощный в Китае ИИ-ускоритель Zhenwu V900 — и пообещала ИИ-модели на 5–10 трлн параметров",
