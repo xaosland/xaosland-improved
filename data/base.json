@@ -1,6 +1,212 @@
 {
   "articles": [
     {
+      "id": "debyutiroval-smartfon-realme-16-pro-harry-potter-2026-09-22",
+      "category": "Новости",
+      "title": "Дебютировал смартфон Realme 16 Pro Harry Potter Edition, который меняет дизайн на солнце",
+      "excerpt": "Официально выпущена спецверсия смартфона Realme 16 Pro, посвящённая вселенной Гарри Поттера (Harry Potter). Обладающий вполне современными техническими характеристиками смартфон Realme 16 Pro Harry Potter Edition имеет оформление в стиле школы чароде",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/debyutiroval-smartfon-realme-16-pro-harry-potter-2026-09-22.webp",
+      "metaTitle": "Дебютировал смартфон Realme 16 Pro Harry Potter Edition, кот",
+      "metaDescription": "Официально выпущена спецверсия смартфона Realme 16 Pro, посвящённая вселенной Гарри Поттера (Harry Potter). Обладающий вполне современными техническим",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148514"
+    },
+    {
+      "id": "cybersecurity-jobs-available-right-now-september-2026-09-22",
+      "category": "Новости",
+      "title": "Вакансии по кибербезопасности доступны прямо сейчас: 22 сентября 2026 г.",
+      "excerpt": "Аналитик Threat Intelligence Optimum | США | На месте — просмотр подробностей о вакансии В качестве аналитика по анализу угроз вы будете собирать и анализировать разведданные для выявления угроз, субъектов угроз, кампаний по вредоносному ПО и соответ",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cybersecurity-jobs-available-right-now-september-2026-09-22.webp",
+      "metaTitle": "Вакансии по кибербезопасности доступны прямо сейчас: 22 сент",
+      "metaDescription": "Аналитик Threat Intelligence Optimum | США | На месте — просмотр подробностей о вакансии В качестве аналитика по анализу угроз вы будете собирать и ан",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026/"
+    },
+    {
+      "id": "european-ai-spending-is-on-track-to-reach-nearly-2026-09-22",
+      "category": "Новости",
+      "title": "Европейские расходы на искусственный интеллект к 2030 году достигнут почти 470 миллиардов долларов.",
+      "excerpt": "По прогнозам IDC, европейские организации потратят почти 470 миллиардов долларов на ИИ в 2030 году, при этом совокупные ежегодные темпы роста расходов с 2025 года составят 35%. При таких темпах рынок вырастет более чем в четыре раза за пять лет. К 20",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/european-ai-spending-is-on-track-to-reach-nearly-2026-09-22.webp",
+      "metaTitle": "Европейские расходы на искусственный интеллект к 2030 году д",
+      "metaDescription": "По прогнозам IDC, европейские организации потратят почти 470 миллиардов долларов на ИИ в 2030 году, при этом совокупные ежегодные темпы роста расходов",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending/"
+    },
+    {
+      "id": "nazvan-podhodyaschiy-moment-dlya-vyklyucheniya-k-2026-09-22",
+      "category": "Новости",
+      "title": "Назван подходящий момент для выключения компьютера",
+      "excerpt": "Назван подходящий момент для выключения компьютера",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nazvan-podhodyaschiy-moment-dlya-vyklyucheniya-k-2026-09-22.webp",
+      "metaTitle": "Назван подходящий момент для выключения компьютера",
+      "metaDescription": "Назван подходящий момент для выключения компьютера",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/22/start-and-shutdown/"
+    },
+    {
+      "id": "raskryto-otnoshenie-rossiyan-k-internet-torgovle-2026-09-22",
+      "category": "Новости",
+      "title": "Раскрыто отношение россиян к интернет-торговле алкоголем",
+      "excerpt": "Раскрыто отношение россиян к интернет-торговле алкоголем",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/raskryto-otnoshenie-rossiyan-k-internet-torgovle-2026-09-22.webp",
+      "metaTitle": "Раскрыто отношение россиян к интернет-торговле алкоголем",
+      "metaDescription": "Раскрыто отношение россиян к интернет-торговле алкоголем",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/22/raskryto-otnoshenie-rossiyan-k-internet-torgovle-alkogolem/"
+    },
+    {
+      "id": "zyxel-and-veeam-flaws-under-active-exploitation--2026-09-22",
+      "category": "Новости",
+      "title": "Недостатки Zyxel и Veeam под активной эксплуатацией с помощью командного и системного доступа",
+      "excerpt": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) в понедельник добавило исправленную уязвимость безопасности, затрагивающую коммутаторы серии Zyxel GS1900, в свой каталог известных эксплуатируемых уязвимостей (KEV), сославшись на ",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zyxel-and-veeam-flaws-under-active-exploitation--2026-09-22.webp",
+      "metaTitle": "Недостатки Zyxel и Veeam под активной эксплуатацией с помощь",
+      "metaDescription": "Агентство кибербезопасности и безопасности инфраструктуры США (CISA) в понедельник добавило исправленную уязвимость безопасности, затрагивающую коммут",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html"
+    },
+    {
+      "id": "wordpress-comment2shell-flaw-can-turn-anonymous--2026-09-22",
+      "category": "Новости",
+      "title": "Уязвимость WordPress Comment2Shell может превратить анонимный комментарий XSS в RCE через сеанс администратора",
+      "excerpt": "Новая уязвимость в ядре WordPress позволяла анонимному посетителю оставить комментарий, который размещал на странице скрытый скрипт. Если позже вошедший в систему администратор откроет эту страницу, сценарий сможет запустить код на сервере сайта. Wor",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wordpress-comment2shell-flaw-can-turn-anonymous--2026-09-22.webp",
+      "metaTitle": "Уязвимость WordPress Comment2Shell может превратить анонимны",
+      "metaDescription": "Новая уязвимость в ядре WordPress позволяла анонимному посетителю оставить комментарий, который размещал на странице скрытый скрипт. Если позже вошедш",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
+    },
+    {
+      "id": "a-cheap-fake-base-station-can-still-track-5g-sub-2026-09-22",
+      "category": "Новости",
+      "title": "Дешевая поддельная базовая станция все еще может отслеживать абонентов 5G",
+      "excerpt": "Исследователи из Фонда i2CAT, Университета Мурсии и NEC Laboratories Europe создали недорогой инструмент под названием 5G-Shark, который заманивает целевой телефон на поддельную базовую станцию ​​и опрашивает его, а затем использует его для аудита ко",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/a-cheap-fake-base-station-can-still-track-5g-sub-2026-09-22.webp",
+      "metaTitle": "Дешевая поддельная базовая станция все еще может отслеживать",
+      "metaDescription": "Исследователи из Фонда i2CAT, Университета Мурсии и NEC Laboratories Europe создали недорогой инструмент под названием 5G-Shark, который заманивает це",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/"
+    },
+    {
+      "id": "one-hidden-meta-muse-setting-could-let-attackers-2026-09-22",
+      "category": "Новости",
+      "title": "Одна скрытая настройка Meta Muse может позволить злоумышленникам превратить ИИ-помощника в бэкдор",
+      "excerpt": "Вредоносное ПО, уже запущенное на Mac, может незаметно захватить помощника Meta Muse и использовать широкий доступ, который его владелец предоставил приложению, как показал исследователь безопасности Патрик Уордл в доказательстве концепции, опубликов",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/one-hidden-meta-muse-setting-could-let-attackers-2026-09-22.webp",
+      "metaTitle": "Одна скрытая настройка Meta Muse может позволить злоумышленн",
+      "metaDescription": "Вредоносное ПО, уже запущенное на Mac, может незаметно захватить помощника Meta Muse и использовать широкий доступ, который его владелец предоставил п",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
+    },
+    {
+      "id": "spacexai-predstavila-ii-model-grok-4-7-pochti-vd-2026-09-22",
+      "category": "Новости",
+      "title": "SpaceXAI представила ИИ-модель Grok 4.7 — почти вдвое быстрее Grok 4.6 и дешевле конкурентов",
+      "excerpt": "Подразделение SpaceXAI компании Илона Маска (Elon Musk) представило модель искусственного интеллекта Grok 4.7 — она позиционируется как предназначенная в первую очередь для написания программного кода и для научных задач. По сравнению с предшествующе",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/spacexai-predstavila-ii-model-grok-4-7-pochti-vd-2026-09-22.webp",
+      "metaTitle": "SpaceXAI представила ИИ-модель Grok 4.7 — почти вдвое быстре",
+      "metaDescription": "Подразделение SpaceXAI компании Илона Маска (Elon Musk) представило модель искусственного интеллекта Grok 4.7 — она позиционируется как предназначенна",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148834"
+    },
+    {
       "id": "passwork-nis2-efficiency-guide-save-your-team-ho-2026-09-22",
       "category": "Новости",
       "title": "Руководство по эффективности Passwork NIS2: сэкономьте часы своей команды перед аудитом 2026 года",
