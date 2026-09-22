@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "podpischiki-chatgpt-i-drugih-chat-botov-podali-i-2026-09-22",
+      "category": "Новости",
+      "title": "Подписчики ChatGPT и других чат-ботов подали иск к Anthropic, OpenAI, SpaceXAI и Google из-за сговора о замедлении ИИ",
+      "excerpt": "Видимая солидарность отдельных игроков рынка систем ИИ в части добровольного замедления их развития уже начала негативно сказываться — как минимум, на их репутации, поскольку группа платных подписчиков ряда популярных чат-ботов в суде обвинила Anthro",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/podpischiki-chatgpt-i-drugih-chat-botov-podali-i-2026-09-22.webp",
+      "metaTitle": "Подписчики ChatGPT и других чат-ботов подали иск к Anthropic",
+      "metaDescription": "Видимая солидарность отдельных игроков рынка систем ИИ в части добровольного замедления их развития уже начала негативно сказываться — как минимум, на",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148780"
+    },
+    {
+      "id": "know-what-was-tested-before-your-sap-ecc-migrati-2026-09-22",
+      "category": "Новости",
+      "title": "Узнайте, что было протестировано, прежде чем начать миграцию SAP ECC",
+      "excerpt": "В этом интервью Help Net Security Гильерме Ховентино, главный операционный директор MIGNOW, объясняет, почему некоторые крупные компании планируют оставаться на ECC после крайнего срока 2027 года и платить SAP за расширенную поддержку до 2030 года. В",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/know-what-was-tested-before-your-sap-ecc-migrati-2026-09-22.webp",
+      "metaTitle": "Узнайте, что было протестировано, прежде чем начать миграцию",
+      "metaDescription": "В этом интервью Help Net Security Гильерме Ховентино, главный операционный директор MIGNOW, объясняет, почему некоторые крупные компании планируют ост",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/guilherme-joventino-mignow-sap-ecc-migration/"
+    },
+    {
+      "id": "kooperativnyy-shuter-pro-nashestvie-gribov-mycop-2026-09-22",
+      "category": "Новости",
+      "title": "Кооперативный шутер про нашествие грибов Mycopunk скоро вырвется из раннего доступа Steam — трейлер и дата выхода 1.0",
+      "excerpt": "Разработчики из независимой американской студии Pigeons at Play при поддержке издательства Devolver Digital объявили дату выхода из раннего доступа своего кооперативного грибного шутера Mycopunk. Источник изображения: Devolver Digital",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kooperativnyy-shuter-pro-nashestvie-gribov-mycop-2026-09-22.webp",
+      "metaTitle": "Кооперативный шутер про нашествие грибов Mycopunk скоро вырв",
+      "metaDescription": "Разработчики из независимой американской студии Pigeons at Play при поддержке издательства Devolver Digital объявили дату выхода из раннего доступа св",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148783"
+    },
+    {
+      "id": "jade-sleet-linked-to-indian-it-provider-breach-w-2026-09-22",
+      "category": "Новости",
+      "title": "Джейд Слит связана с взломом индийского ИТ-провайдера с помощью бэкдоров FLATROOF и ROOFDECK",
+      "excerpt": "Северокорейскому злоумышленнику, известному как Джейд Слит, приписывают компрометацию базирующейся в Индии «гораздо меньшей организации» в сфере информационных технологий (ИТ), что еще раз подчеркивает, как злоумышленник продолжает атаковать разработ",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/jade-sleet-linked-to-indian-it-provider-breach-w-2026-09-22.webp",
+      "metaTitle": "Джейд Слит связана с взломом индийского ИТ-провайдера с помо",
+      "metaDescription": "Северокорейскому злоумышленнику, известному как Джейд Слит, приписывают компрометацию базирующейся в Индии «гораздо меньшей организации» в сфере инфор",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html"
+    },
+    {
+      "id": "ne-hotel-povtoreniya-istorii-s-p-t-kodzima-rassk-2026-09-22",
+      "category": "Новости",
+      "title": "«Не хотел повторения истории с P.T.»: Кодзима рассказал, как спасал Physint после разрыва с PlayStation",
+      "excerpt": "Прославленный гейм-дизайнер и глава Kojima Productions Хидео Кодзима (Hideo Kojima) в интервью IGN поделился подробностями отказа PlayStation финансировать шпионский экшен следующего поколения Physint (кодовое название). Источник изображения: Konami",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ne-hotel-povtoreniya-istorii-s-p-t-kodzima-rassk-2026-09-22.webp",
+      "metaTitle": "«Не хотел повторения истории с P.T.»: Кодзима рассказал, как",
+      "metaDescription": "Прославленный гейм-дизайнер и глава Kojima Productions Хидео Кодзима (Hideo Kojima) в интервью IGN поделился подробностями отказа PlayStation финансир",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148791"
+    },
+    {
+      "id": "dongfeng-uzhe-v-oktyabre-otpravit-gumanoidnyh-ro-2026-09-22",
+      "category": "Новости",
+      "title": "Dongfeng уже в октябре отправит гуманоидных роботов на заводы — в следующем году они должны догнать людей",
+      "excerpt": "Отраслевые аналитики справедливо считают автопроизводителей одними из главных сторонников выпуска человекоподобных роботов. Как уже пояснил Илон Маск (Elon Musk), их программное обеспечение может иметь много общего с автопилотом транспортных средств.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dongfeng-uzhe-v-oktyabre-otpravit-gumanoidnyh-ro-2026-09-22.webp",
+      "metaTitle": "Dongfeng уже в октябре отправит гуманоидных роботов на завод",
+      "metaDescription": "Отраслевые аналитики справедливо считают автопроизводителей одними из главных сторонников выпуска человекоподобных роботов. Как уже пояснил Илон Маск ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148803"
+    },
+    {
+      "id": "shinyhunters-cybercrime-gang-takes-over-cl0p-ran-2026-09-22",
+      "category": "Новости",
+      "title": "Киберпреступная группировка ShinyHunters захватила сайт-вымогатель Cl0p и требует плату за вымогательство",
+      "excerpt": "Согласно материалам, опубликованным на сайте на выходных, группа вымогателей ShinyHunters захватила сайт утечки даркнета плодовитой банды вымогателей Cl0p.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/shinyhunters-cybercrime-gang-takes-over-cl0p-ran-2026-09-22.webp",
+      "metaTitle": "Киберпреступная группировка ShinyHunters захватила сайт-вымо",
+      "metaDescription": "Согласно материалам, опубликованным на сайте на выходных, группа вымогателей ShinyHunters захватила сайт утечки даркнета плодовитой банды вымогателей ",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/shinyhunters-clop-cyberattack-website"
+    },
+    {
+      "id": "dragos-completes-netrise-and-runzero-acquisition-2026-09-22",
+      "category": "Новости",
+      "title": "Драгос завершил сделку по приобретению NetRise и runZero после сделки с Accenture",
+      "excerpt": "Сделка является частью сделки стоимостью 4,1 миллиарда долларов, в рамках которой Accenture приобрела контрольный пакет акций Dragos в рамках усилий по обеспечению кибербезопасности OT. Сообщение «Драгос завершает приобретение NetRise и runZero после",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dragos-completes-netrise-and-runzero-acquisition-2026-09-22.webp",
+      "metaTitle": "Драгос завершил сделку по приобретению NetRise и runZero пос",
+      "metaDescription": "Сделка является частью сделки стоимостью 4,1 миллиарда долларов, в рамках которой Accenture приобрела контрольный пакет акций Dragos в рамках усилий п",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/"
+    },
+    {
+      "id": "the-task-stomp-windows-backdoor-takes-wi-fi-pass-2026-09-22",
+      "category": "Новости",
+      "title": "Бэкдор TASK#STOMP для Windows захватывает пароли Wi-Fi, снимки экрана и бизнес-файлы",
+      "excerpt": "Исследователи разобрали TASK#STOMP, бэкдор Windows, который ищет на дисках жертвы деловые документы, загружает их на серверы злоумышленников, а затем остается на месте, чтобы перехватить каждый новый или отредактированный документ. Это же вредоносное",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/the-task-stomp-windows-backdoor-takes-wi-fi-pass-2026-09-22.webp",
+      "metaTitle": "Бэкдор TASK#STOMP для Windows захватывает пароли Wi-Fi, сним",
+      "metaDescription": "Исследователи разобрали TASK#STOMP, бэкдор Windows, который ищет на дисках жертвы деловые документы, загружает их на серверы злоумышленников, а затем ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/21/taskstomp-windows-backdoor/"
+    },
+    {
+      "id": "cyberattack-hits-university-of-munich-potentiall-2026-09-22",
+      "category": "Новости",
+      "title": "Кибератака поразила Мюнхенский университет, потенциально раскрывая финансовые данные студентов",
+      "excerpt": "Университет, широко известный как LMU Мюнхен, заявил в субботу, что злоумышленник получил доступ к данным о зачислении, хранящимся в одной из его ИТ-систем.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cyberattack-hits-university-of-munich-potentiall-2026-09-22.webp",
+      "metaTitle": "Кибератака поразила Мюнхенский университет, потенциально рас",
+      "metaDescription": "Университет, широко известный как LMU Мюнхен, заявил в субботу, что злоумышленник получил доступ к данным о зачислении, хранящимся в одной из его ИТ-с",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data"
+    },
+    {
+      "id": "fbi-s-cjis-v6-1-what-security-teams-need-to-know-2026-09-22",
+      "category": "Новости",
+      "title": "CJIS ФБР v6.1: что нужно знать службам безопасности.",
+      "excerpt": "Политика безопасности CJIS ФБР v6.1 ужесточает требования к шифрованию и сканированию уязвимостей, продолжая при этом переход к более непрерывной оценке безопасности. Specops объясняет, что изменилось и как агентства могут удовлетворить требования к ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fbi-s-cjis-v6-1-what-security-teams-need-to-know-2026-09-22.webp",
+      "metaTitle": "CJIS ФБР v6.1: что нужно знать службам безопасности.",
+      "metaDescription": "Политика безопасности CJIS ФБР v6.1 ужесточает требования к шифрованию и сканированию уязвимостей, продолжая при этом переход к более непрерывной оцен",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/"
+    },
+    {
+      "id": "nothing-vydelit-byudzhetnyy-brend-cmf-v-samostoy-2026-09-22",
+      "category": "Новости",
+      "title": "Nothing выделит бюджетный бренд CMF в самостоятельную компанию со штаб-квартирой в Индии",
+      "excerpt": "Nothing объявила о планах выделить свой бюджетный суббренд CMF в отдельную компанию со штаб-квартирой в Индии. Этот стратегический шаг изложил гендиректор Nothing Карл Пей (Carl Pei) в письме с заголовком «Индия неизбежна». В нём он подробно описал ц",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nothing-vydelit-byudzhetnyy-brend-cmf-v-samostoy-2026-09-22.webp",
+      "metaTitle": "Nothing выделит бюджетный бренд CMF в самостоятельную компан",
+      "metaDescription": "Nothing объявила о планах выделить свой бюджетный суббренд CMF в отдельную компанию со штаб-квартирой в Индии. Этот стратегический шаг изложил гендире",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148805"
+    },
+    {
+      "id": "apple-programmno-zanizila-emkost-batarei-iphone--2026-09-22",
+      "category": "Новости",
+      "title": "Apple программно занизила ёмкость батареи iPhone 18 Pro Max — активация всё исправляет",
+      "excerpt": "Компания Apple разработала изящный способ обойти ограничения на транспортировку устройств с аккумуляторами большой ёмкости. В новых iPhone используется специальное программное решение, удерживающее ёмкость аккумулятора ниже порога в 20 Вт ч, установл",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-programmno-zanizila-emkost-batarei-iphone--2026-09-22.webp",
+      "metaTitle": "Apple программно занизила ёмкость батареи iPhone 18 Pro Max ",
+      "metaDescription": "Компания Apple разработала изящный способ обойти ограничения на транспортировку устройств с аккумуляторами большой ёмкости. В новых iPhone используетс",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148806"
+    },
+    {
+      "id": "task-stomp-powershell-backdoor-steals-documents--2026-09-22",
+      "category": "Новости",
+      "title": "TASK#STOMP Бэкдор PowerShell крадет документы, пароли Wi-Fi и данные буфера обмена",
+      "excerpt": "Исследователи кибербезопасности раскрыли подробности новой кампании под названием TASK#STOMP, которая предоставляет бэкдор PowerShell, предназначенный для сбора конфиденциальных данных со скомпрометированных хостов. Бэкдор «автоматически собирает и у",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/task-stomp-powershell-backdoor-steals-documents--2026-09-22.webp",
+      "metaTitle": "TASK#STOMP Бэкдор PowerShell крадет документы, пароли Wi-Fi ",
+      "metaDescription": "Исследователи кибербезопасности раскрыли подробности новой кампании под названием TASK#STOMP, которая предоставляет бэкдор PowerShell, предназначенный",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    },
+    {
+      "id": "valve-otkryla-ishodnyy-kod-lepton-instrumenta-dl-2026-09-22",
+      "category": "Новости",
+      "title": "Valve открыла исходный код Lepton — инструмента для переноса игр с Android на Steam Frame",
+      "excerpt": "Компания Valve на прошлой неделе выпустила беспроводную VR-гарнитуру Steam Frame, а теперь представила инструмент для расширения её игровой библиотеки. Источник изображения: Steam",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/valve-otkryla-ishodnyy-kod-lepton-instrumenta-dl-2026-09-22.webp",
+      "metaTitle": "Valve открыла исходный код Lepton — инструмента для переноса",
+      "metaDescription": "Компания Valve на прошлой неделе выпустила беспроводную VR-гарнитуру Steam Frame, а теперь представила инструмент для расширения её игровой библиотеки",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148808"
+    },
+    {
       "id": "ifixit-razobrali-iphone-18-pro-i-pro-max-novaya--2026-09-22",
       "category": "Новости",
       "title": "iFixit разобрали iPhone 18 Pro и Pro Max — новая камера дороже в ремонте, а батарея может потянуть за собой дисплей",
