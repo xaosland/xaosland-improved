@@ -1,6 +1,310 @@
 {
   "articles": [
     {
+      "id": "alibaba-predstavila-samyy-moschnyy-v-kitae-ii-us-2026-09-22",
+      "category": "Новости",
+      "title": "Alibaba представила самый мощный в Китае ИИ-ускоритель Zhenwu V900 — и пообещала ИИ-модели на 5–10 трлн параметров",
+      "excerpt": "Компания Alibaba представила ИИ-ускоритель Zhenwu V900, который позиционируется как «самый мощный чип для ИИ в Китае на сегодняшний день». По данным компании, новый ускоритель в три раза превосходит по производительности своего предшественника — Zhen",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/alibaba-predstavila-samyy-moschnyy-v-kitae-ii-us-2026-09-22.webp",
+      "metaTitle": "Alibaba представила самый мощный в Китае ИИ-ускоритель Zhenw",
+      "metaDescription": "Компания Alibaba представила ИИ-ускоритель Zhenwu V900, который позиционируется как «самый мощный чип для ИИ в Китае на сегодняшний день». По данным к",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148840"
+    },
+    {
+      "id": "uchenye-raskryli-neozhidanno-slozhnuyu-vodnuyu-i-2026-09-22",
+      "category": "Новости",
+      "title": "Учёные раскрыли неожиданно сложную водную историю раннего Марса",
+      "excerpt": "Новые данные марсохода NASA Perseverance показали, что район Margin Unit на внутренней окраине кратера Езеро пережил гораздо более сложную историю взаимодействия с водой, чем предполагалось по наблюдениям с орбиты. Учёные ожидали обнаружить здесь оса",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-raskryli-neozhidanno-slozhnuyu-vodnuyu-i-2026-09-22.webp",
+      "metaTitle": "Учёные раскрыли неожиданно сложную водную историю раннего Ма",
+      "metaDescription": "Новые данные марсохода NASA Perseverance показали, что район Margin Unit на внутренней окраине кратера Езеро пережил гораздо более сложную историю вза",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148839"
+    },
+    {
+      "id": "japan-dismantles-first-north-korean-laptop-farm--2026-09-22",
+      "category": "Новости",
+      "title": "Япония демонтирует первую северокорейскую ферму по производству ноутбуков, а США и их союзники подробно описывают более широкую схему",
+      "excerpt": "США, Япония, Германия и Австралия опубликовали совместный отчет, в котором подробно описываются масштабы кампании Северной Кореи WaterPlum. Сообщение «Япония демонтирует первую северокорейскую ферму по производству ноутбуков, поскольку США и союзники",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/japan-dismantles-first-north-korean-laptop-farm--2026-09-22.webp",
+      "metaTitle": "Япония демонтирует первую северокорейскую ферму по производс",
+      "metaDescription": "США, Япония, Германия и Австралия опубликовали совместный отчет, в котором подробно описываются масштабы кампании Северной Кореи WaterPlum. Сообщение ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/"
+    },
+    {
+      "id": "vivo-x500-pro-i-x500-pro-max-pridetsya-podvinuts-2026-09-22",
+      "category": "Новости",
+      "title": "Vivo X500 Pro и X500 Pro Max придётся подвинуться: стало известно, когда выйдет Vivo X500 Ultra",
+      "excerpt": "Vivo X500 Ultra планируют представить в марте или апреле 2027 года. Об этом после презентации серии X500 в Китае сообщил вице-президент Vivo и руководитель направления продуктов Хуан Тао. При этом компания пока не раскрыла сроки выхода возможных X500",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vivo-x500-pro-i-x500-pro-max-pridetsya-podvinuts-2026-09-22.webp",
+      "metaTitle": "Vivo X500 Pro и X500 Pro Max придётся подвинуться: стало изв",
+      "metaDescription": "Vivo X500 Ultra планируют представить в марте или апреле 2027 года. Об этом после презентации серии X500 в Китае сообщил вице-президент Vivo и руковод",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437535-vivo-x500-pro-i-x500-pro-max-pridetsia-podvinutsia-stalo-izvestno-kogda-vyidet-vivo-x500-ultra.html"
+    },
+    {
+      "id": "rossiyane-vernulis-na-zamedlennyy-youtube-vremya-2026-09-22",
+      "category": "Новости",
+      "title": "Россияне вернулись на замедленный YouTube — время просмотра выросло на 24 %, пока у остальных площадок просело",
+      "excerpt": "По итогам первого полугодия наибольший прирост потребления видео в России обеспечила в основном платформа YouTube, доступ к которой ограничивается Роскомнадзором. Показатели времени просмотра в день на пользователя на крупнейших видеоплощадках отмети",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyane-vernulis-na-zamedlennyy-youtube-vremya-2026-09-22.webp",
+      "metaTitle": "Россияне вернулись на замедленный YouTube — время просмотра ",
+      "metaDescription": "По итогам первого полугодия наибольший прирост потребления видео в России обеспечила в основном платформа YouTube, доступ к которой ограничивается Рос",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148841"
+    },
+    {
+      "id": "li-auto-sobiraetsya-nachat-ustanovku-tverdotelny-2026-09-22",
+      "category": "Новости",
+      "title": "Li Auto собирается начать установку твердотельных батарей в свои машины",
+      "excerpt": "Li Auto рассчитывает начать устанавливать твердотельные аккумуляторы в небольшие партии автомобилей в 2027 или 2028 году.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/li-auto-sobiraetsya-nachat-ustanovku-tverdotelny-2026-09-22.webp",
+      "metaTitle": "Li Auto собирается начать установку твердотельных батарей в ",
+      "metaDescription": "Li Auto рассчитывает начать устанавливать твердотельные аккумуляторы в небольшие партии автомобилей в 2027 или 2028 году.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437537-li-auto-sobiraetsia-nacat-ustanovku-tverdotelnyx-batarei-v-svoi-masiny.html"
+    },
+    {
+      "id": "cisa-orders-feds-to-patch-zyxel-flaw-exploited-f-2026-09-22",
+      "category": "Новости",
+      "title": "CISA приказала федеральным властям исправить уязвимость Zyxel, использованную для кражи данных",
+      "excerpt": "По данным Агентства кибербезопасности и безопасности инфраструктуры США (CISA), в настоящее время злоумышленники активно используют серьезную уязвимость в коммутаторах Zyxel серии GS1900. [...]",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cisa-orders-feds-to-patch-zyxel-flaw-exploited-f-2026-09-22.webp",
+      "metaTitle": "CISA приказала федеральным властям исправить уязвимость Zyxe",
+      "metaDescription": "По данным Агентства кибербезопасности и безопасности инфраструктуры США (CISA), в настоящее время злоумышленники активно используют серьезную уязвимос",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
+    },
+    {
+      "id": "scammers-use-genuine-google-sign-ins-to-sell-cos-2026-09-22",
+      "category": "Новости",
+      "title": "Мошенники используют подлинные входы в Google для продажи дорогостоящих непроверенных подписок на ИИ.",
+      "excerpt": "Мошенники используют набор инструментов для веб-сайтов стоимостью 249 долларов, чтобы продавать непроверенные подписки на искусственный интеллект стоимостью до 2000 долларов в год, а настоящий экран входа в систему Google делает сайты убедительными. ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/scammers-use-genuine-google-sign-ins-to-sell-cos-2026-09-22.webp",
+      "metaTitle": "Мошенники используют подлинные входы в Google для продажи до",
+      "metaDescription": "Мошенники используют набор инструментов для веб-сайтов стоимостью 249 долларов, чтобы продавать непроверенные подписки на искусственный интеллект стои",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/"
+    },
+    {
+      "id": "predstavlen-novyy-hyundai-tucson-xrt-2027-polnyy-2026-09-22",
+      "category": "Новости",
+      "title": "Представлен новый Hyundai Tucson XRT 2027 — полный привод и защита кузова",
+      "excerpt": "Hyundai официально представила новый кроссовер Tucson XRT 2027 модельного года. Версия построена на базе обновлённого Tucson, но получила более выразительный внедорожный образ.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-novyy-hyundai-tucson-xrt-2027-polnyy-2026-09-22.webp",
+      "metaTitle": "Представлен новый Hyundai Tucson XRT 2027 — полный привод и ",
+      "metaDescription": "Hyundai официально представила новый кроссовер Tucson XRT 2027 модельного года. Версия построена на базе обновлённого Tucson, но получила более вырази",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437539-predstavlen-novyi-hyundai-tucson-xrt-2027-polnyi-privod-i-zashhita-kuzova.html"
+    },
+    {
+      "id": "ekzoplaneta-vpervye-vyshla-v-radioefir-uchenye-n-2026-09-22",
+      "category": "Новости",
+      "title": "Экзопланета впервые вышла в радиоэфир — учёные напрямую зарегистрировали её радиоизлучение",
+      "excerpt": "Учёные впервые зарегистрировали сигнал в радиодиапазоне, который удалось непосредственно связать с экзопланетой, а не с её звездой. Сигнал обнаружили у Беты Живописца b (Beta Pictoris b) — газового гиганта в системе одноимённой звезды, расположенной ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekzoplaneta-vpervye-vyshla-v-radioefir-uchenye-n-2026-09-22.webp",
+      "metaTitle": "Экзопланета впервые вышла в радиоэфир — учёные напрямую заре",
+      "metaDescription": "Учёные впервые зарегистрировали сигнал в радиодиапазоне, который удалось непосредственно связать с экзопланетой, а не с её звездой. Сигнал обнаружили ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148842"
+    },
+    {
+      "id": "servis-wb-taxi-ot-wildberries-nachinaet-rabotu-v-2026-09-22",
+      "category": "Новости",
+      "title": "Сервис WB Taxi от Wildberries начинает работу в Армении",
+      "excerpt": "Сервис заказа такси WB Taxi открыл ранний доступ для пользователей в Ереване. Об этом рассказали в пресс-службе RWB. На первом этапе доступ предоставят сотрудникам и партнёрам Wildberries, а остальные пользователи смогут установить приложение в Googl",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/servis-wb-taxi-ot-wildberries-nachinaet-rabotu-v-2026-09-22.webp",
+      "metaTitle": "Сервис WB Taxi от Wildberries начинает работу в Армении",
+      "metaDescription": "Сервис заказа такси WB Taxi открыл ранний доступ для пользователей в Ереване. Об этом рассказали в пресс-службе RWB. На первом этапе доступ предоставя",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437542-servis-wb-taxi-ot-wildberries-nacinaet-rabotu-v-armenii.html"
+    },
+    {
+      "id": "muzykalnyy-vkus-na-odnoy-karte-zvuk-predstavil-a-2026-09-22",
+      "category": "Новости",
+      "title": "Музыкальный вкус — на одной карте: «Звук» представил «Атлас»",
+      "excerpt": "Музыкальный сервис «Звук» запустил «Атлас» — интерактивную карту, которая визуализирует музыкальный вкус пользователя и помогает находить новые треки. Сервис распределяет композиции более чем по 100 жанрам и почти 50 категориям настроения.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/muzykalnyy-vkus-na-odnoy-karte-zvuk-predstavil-a-2026-09-22.webp",
+      "metaTitle": "Музыкальный вкус — на одной карте: «Звук» представил «Атлас»",
+      "metaDescription": "Музыкальный сервис «Звук» запустил «Атлас» — интерактивную карту, которая визуализирует музыкальный вкус пользователя и помогает находить новые треки.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437548-muzykalnyi-vkus-na-odnoi-karte-zvuk-predstavil-atlas.html"
+    },
+    {
+      "id": "silent-hill-townfall-okazalas-v-rukah-piratov-za-2026-09-22",
+      "category": "Новости",
+      "title": "Silent Hill: Townfall оказалась в руках пиратов за два дня до официального релиза — игра вышла без защиты Denuvo",
+      "excerpt": "Не успел разработанный шотландской студией Screen Burn Interactive (в прошлом No Code) психологический хоррор от первого лица Silent Hill: Townfall выйти для владельцев расширенного издания, как стал доступен для пиратов. Источник изображений: Konami",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/silent-hill-townfall-okazalas-v-rukah-piratov-za-2026-09-22.webp",
+      "metaTitle": "Silent Hill: Townfall оказалась в руках пиратов за два дня д",
+      "metaDescription": "Не успел разработанный шотландской студией Screen Burn Interactive (в прошлом No Code) психологический хоррор от первого лица Silent Hill: Townfall вы",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148843"
+    },
+    {
+      "id": "lixiang-nachnet-vypuskat-mashiny-s-tverdotelnymi-2026-09-22",
+      "category": "Новости",
+      "title": "Lixiang начнёт выпускать машины с твердотельными батареями в 2027 году, но массовыми они станут только лет через пять",
+      "excerpt": "И множественные стартапы, и крупные производители активно работают над созданием тяговых батарей с твердотельным электролитом, которые увеличат запас хода и сократят не только вес, но и время зарядки, а ещё будут лучше противостоять отрицательным тем",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lixiang-nachnet-vypuskat-mashiny-s-tverdotelnymi-2026-09-22.webp",
+      "metaTitle": "Lixiang начнёт выпускать машины с твердотельными батареями в",
+      "metaDescription": "И множественные стартапы, и крупные производители активно работают над созданием тяговых батарей с твердотельным электролитом, которые увеличат запас ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148845"
+    },
+    {
+      "id": "istoricheskiy-polet-starship-na-orbitu-otlozhili-2026-09-22",
+      "category": "Новости",
+      "title": "Исторический полёт Starship на орбиту отложили на 28 сентября — первая ступень огромной ракеты уже на старте",
+      "excerpt": "Несколько часов назад SpaceX выкатила гигантский ускоритель Super Heavy на стартовую площадку комплекса Starbase в Южном Техасе, начав финальную подготовку к 14-му испытательному полёту системы Starship. Ожидаемый на 22 число запуск перенесён на 28 с",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/istoricheskiy-polet-starship-na-orbitu-otlozhili-2026-09-22.webp",
+      "metaTitle": "Исторический полёт Starship на орбиту отложили на 28 сентябр",
+      "metaDescription": "Несколько часов назад SpaceX выкатила гигантский ускоритель Super Heavy на стартовую площадку комплекса Starbase в Южном Техасе, начав финальную подго",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148848"
+    },
+    {
       "id": "debyutiroval-smartfon-realme-16-pro-harry-potter-2026-09-22",
       "category": "Новости",
       "title": "Дебютировал смартфон Realme 16 Pro Harry Potter Edition, который меняет дизайн на солнце",
