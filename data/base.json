@@ -1,6 +1,315 @@
 {
   "articles": [
     {
+      "id": "zond-bepicolombo-provel-detalnye-izmereniya-soln-2026-09-22",
+      "category": "Новости",
+      "title": "Зонд BepiColombo провёл детальные измерения «солнечной бомбардировки» Меркурия — приборы впервые зафиксировали это вблизи",
+      "excerpt": "Четвёртый пролёт миссии BepiColombo мимо Меркурия 4 сентября 2024 года оказался уникальным по двум причинам. Аппарат прошёл всего в 165 километрах от поверхности — ближе, чем будет на штатной орбите, — и ровно в этот момент на Солнце произошёл мощный",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zond-bepicolombo-provel-detalnye-izmereniya-soln-2026-09-22.webp",
+      "metaTitle": "Зонд BepiColombo провёл детальные измерения «солнечной бомба",
+      "metaDescription": "Четвёртый пролёт миссии BepiColombo мимо Меркурия 4 сентября 2024 года оказался уникальным по двум причинам. Аппарат прошёл всего в 165 километрах от ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437618-zond-bepicolombo-provel-detalnye-izmereniia-solnecnoi-bombardirovki-merkuriia-pribory-vpervye-zafiksirovali-eto-vblizi.html"
+    },
+    {
+      "id": "predstavlen-oppo-find-x10-e-tri-50-megapikselnye-2026-09-22",
+      "category": "Новости",
+      "title": "Представлен Oppo Find X10 E: три 50-мегапиксельные камеры, IP69, немерцающий экран и 7025 мАч — за 745 долларов",
+      "excerpt": "Вместе с Find X10 и Find X10 Pro Max сегодня дебютировал еще один смартфон Oppo — Find X10 E. Это самая доступная модель новой флагманской линейки: стоимость базовой версии составляет 745 долларов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-oppo-find-x10-e-tri-50-megapikselnye-2026-09-22.webp",
+      "metaTitle": "Представлен Oppo Find X10 E: три 50-мегапиксельные камеры, I",
+      "metaDescription": "Вместе с Find X10 и Find X10 Pro Max сегодня дебютировал еще один смартфон Oppo — Find X10 E. Это самая доступная модель новой флагманской линейки: ст",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437621-predstavlen-oppo-find-x10-e-tri-50-megapikselnye-kamery-ip69-nemercaiushhii-ekran-i-7025-mac-za-745-dollarov.html"
+    },
+    {
+      "id": "microsoft-takes-down-eviltokens-device-code-phis-2026-09-22",
+      "category": "Новости",
+      "title": "Microsoft прекращает работу службы фишинга кода устройств EvilTokens, связанной с 12 000 взломами почтовых ящиков",
+      "excerpt": "Во вторник Microsoft объявила об отключении службы фишинга кода устройств EvilTokens, которая, по ее словам, использовала искусственный интеллект (ИИ) «на каждом этапе цепочки атак». В акции, проведенной с разрешения Окружного суда США Восточного окр",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-takes-down-eviltokens-device-code-phis-2026-09-22.webp",
+      "metaTitle": "Microsoft прекращает работу службы фишинга кода устройств Ev",
+      "metaDescription": "Во вторник Microsoft объявила об отключении службы фишинга кода устройств EvilTokens, которая, по ее словам, использовала искусственный интеллект (ИИ)",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+    },
+    {
+      "id": "undead-labs-spustya-vosem-let-pod-kontrolem-xbox-2026-09-22",
+      "category": "Новости",
+      "title": "Undead Labs спустя восемь лет под контролем Xbox стала независимой — State of Decay 3 всё ещё в разработке и нацелена на 2027 год",
+      "excerpt": "Разработчики из сиэтлской Undead Labs, известной по франшизе зомби-экшенов с элементами выживания State of Decay, обратились к игрокам с новостями о статусе студии и следующей номерной игры во франшизе. Источник изображений: Undead Labs",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/undead-labs-spustya-vosem-let-pod-kontrolem-xbox-2026-09-22.webp",
+      "metaTitle": "Undead Labs спустя восемь лет под контролем Xbox стала незав",
+      "metaDescription": "Разработчики из сиэтлской Undead Labs, известной по франшизе зомби-экшенов с элементами выживания State of Decay, обратились к игрокам с новостями о с",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148879"
+    },
+    {
+      "id": "amid-ongoing-rogue-incidents-debate-over-ai-safe-2026-09-22",
+      "category": "Новости",
+      "title": "На фоне продолжающихся мошеннических инцидентов дебаты о безопасности ИИ становятся реальными",
+      "excerpt": "Поскольку все больше сообщений о случаях несоосности подчеркивают риски ИИ, крупные лаборатории ИИ, обычные предприятия и даже страны ищут лучшие способы сохранить контроль и обеспечить безопасность.",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "На фоне продолжающихся мошеннических инцидентов дебаты о без",
+      "metaDescription": "Поскольку все больше сообщений о случаях несоосности подчеркивают риски ИИ, крупные лаборатории ИИ, обычные предприятия и даже страны ищут лучшие спос",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real"
+    },
+    {
+      "id": "anthropic-predstavila-claude-opus-5-5-model-stal-2026-09-22",
+      "category": "Новости",
+      "title": "Anthropic представила Claude Opus 5.5: модель стала быстрее и на 40% дешевле",
+      "excerpt": "Anthropic представила Claude Opus 5.5 — первую модель нового семейства Claude 5.5. Компания называет её новым флагманом для агентного программирования, работы с компьютером и сложных аналитических задач. При стандартных настройках Opus 5.5 обходится ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-predstavila-claude-opus-5-5-model-stal-2026-09-22.webp",
+      "metaTitle": "Anthropic представила Claude Opus 5.5: модель стала быстрее ",
+      "metaDescription": "Anthropic представила Claude Opus 5.5 — первую модель нового семейства Claude 5.5. Компания называет её новым флагманом для агентного программирования",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437623-anthropic-predstavila-claude-opus-55-model-stala-bystree-i-na-40-desevle.html"
+    },
+    {
+      "id": "lada-azimut-idet-v-seriyu-start-massovogo-proizv-2026-09-22",
+      "category": "Новости",
+      "title": "Lada Azimut идет в серию: старт массового производства — 25 сентября",
+      "excerpt": "АвтоВАЗ начнет серийное производство нового кроссовера Lada Azimut 25 сентября на заводе в Тольятти. Об этом, как сообщает «Интерфакс», рассказал глава компании Максим Соколов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lada-azimut-idet-v-seriyu-start-massovogo-proizv-2026-09-22.webp",
+      "metaTitle": "Lada Azimut идет в серию: старт массового производства — 25 ",
+      "metaDescription": "АвтоВАЗ начнет серийное производство нового кроссовера Lada Azimut 25 сентября на заводе в Тольятти. Об этом, как сообщает «Интерфакс», рассказал глав",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437625-lada-azimut-idet-v-seriiu-start-massovogo-proizvodstva-25-sentiabria.html"
+    },
+    {
+      "id": "reducing-shadow-it-visibility-gaps-with-wazuh-2026-09-22",
+      "category": "Новости",
+      "title": "Уменьшение пробелов в видимости теневых ИТ с помощью Wazuh",
+      "excerpt": "Теневые ИТ-отделы могут оставить команды безопасности в неведении о неуправляемых конечных точках, неавторизованном программном обеспечении и других активах, которые выходят за рамки существующего мониторинга. Вазу объясняет, как инвентаризация конеч",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/reducing-shadow-it-visibility-gaps-with-wazuh-2026-09-22.webp",
+      "metaTitle": "Уменьшение пробелов в видимости теневых ИТ с помощью Wazuh",
+      "metaDescription": "Теневые ИТ-отделы могут оставить команды безопасности в неведении о неуправляемых конечных точках, неавторизованном программном обеспечении и других а",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/"
+    },
+    {
+      "id": "ne-noutbuk-a-chudovischnaya-konstruktsiya-durabo-2026-09-22",
+      "category": "Новости",
+      "title": "Не ноутбук, а чудовищная конструкция. Durabook Z14I-DX3 имеет три 14-дюймовых экрана, три батареи, два порта COM и весит почти 10 кг",
+      "excerpt": "Японская компания Durabook выпустила мобильную станцию Z14I-DX3, которая технически является ноутбуком, но больше похожа на концепты из старых фантастических фильмов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ne-noutbuk-a-chudovischnaya-konstruktsiya-durabo-2026-09-22.webp",
+      "metaTitle": "Не ноутбук, а чудовищная конструкция. Durabook Z14I-DX3 имее",
+      "metaDescription": "Японская компания Durabook выпустила мобильную станцию Z14I-DX3, которая технически является ноутбуком, но больше похожа на концепты из старых фантаст",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437629-ne-noutbuk-a-cudovishhnaia-konstrukciia-durabook-z14i-dx3-imeet-tri-14-diuimovyx-ekrana-tri-batarei-dva-porta-com-i-vesit-pocti-10-kg.html"
+    },
+    {
+      "id": "sbroshennye-pri-posadke-perseverance-ballasty-pr-2026-09-22",
+      "category": "Новости",
+      "title": "Сброшенные при посадке Perseverance балласты пробили 5 кратеров на Марсе и показали — стандартные законы образования кратеров ошибаются на порядок",
+      "excerpt": "Когда посадочный модуль миссии Mars 2020 входил в атмосферу Марса, на высоте около 1300 километров и скорости 4,7 километра в секунду относительно планеты он сбросил два вольфрамовых балансировочных груза массой по 77 килограммов (Cruise Ballast Mass",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sbroshennye-pri-posadke-perseverance-ballasty-pr-2026-09-22.webp",
+      "metaTitle": "Сброшенные при посадке Perseverance балласты пробили 5 крате",
+      "metaDescription": "Когда посадочный модуль миссии Mars 2020 входил в атмосферу Марса, на высоте около 1300 километров и скорости 4,7 километра в секунду относительно пла",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437628-sbrosennye-pri-posadke-perseverance-ballasty-probili-5-kraterov-na-marse-i-pokazali-standartnye-zakony-obrazovaniia-kraterov-osibaiutsia-na-poriadok.html"
+    },
+    {
+      "id": "shai-hulud-attack-nips-cyber-firm-crowdsec-s-git-2026-09-22",
+      "category": "Новости",
+      "title": "Атака Шай-Хулуд уничтожила данные GitHub киберфирмы CrowdSec",
+      "excerpt": "Злоумышленники похитили 170 частных репозиториев, используя токен OAuth, украденный с компьютера бывшего сотрудника в результате атаки на цепочку поставок TanStack npm.",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Атака Шай-Хулуд уничтожила данные GitHub киберфирмы CrowdSec",
+      "metaDescription": "Злоумышленники похитили 170 частных репозиториев, используя токен OAuth, украденный с компьютера бывшего сотрудника в результате атаки на цепочку пост",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+    },
+    {
+      "id": "teleskop-dzheyms-uebb-veroyatno-uvidel-obekty-iz-2026-09-22",
+      "category": "Новости",
+      "title": "Телескоп «Джеймс Уэбб», вероятно, увидел объекты из ранней Вселенной, светящиеся за счёт аннигиляции тёмной материи, а не термоядерного синтеза",
+      "excerpt": "Тёмные звёзды — гипотетические объекты, которые могли образоваться примерно через 200 миллионов лет после Большого взрыва. В отличие от обычных звёзд на термоядерном синтезе, они питались бы аннигиляцией частиц тёмной материи. Состоящие только из вод",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/teleskop-dzheyms-uebb-veroyatno-uvidel-obekty-iz-2026-09-22.webp",
+      "metaTitle": "Телескоп «Джеймс Уэбб», вероятно, увидел объекты из ранней В",
+      "metaDescription": "Тёмные звёзды — гипотетические объекты, которые могли образоваться примерно через 200 миллионов лет после Большого взрыва. В отличие от обычных звёзд ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437631-teleskop-dzeims-uebb-veroiatno-uvidel-obieekty-iz-rannei-vselennoi-svetiashhiesia-za-scet-annigiliacii-temnoi-materii-a-ne-termoiadernogo-sinteza.html"
+    },
+    {
+      "id": "sony-zapatentovala-geympad-dlya-playstation-koto-2026-09-22",
+      "category": "Новости",
+      "title": "Sony запатентовала геймпад для PlayStation, который сможет принимать оплату за игры или внутриигровые покупки",
+      "excerpt": "Компания Sony в будущем может наделить геймпад для консоли PlayStation функциями терминала оплаты. Свежий патент как раз описывает соответствующую технологию.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sony-zapatentovala-geympad-dlya-playstation-koto-2026-09-22.webp",
+      "metaTitle": "Sony запатентовала геймпад для PlayStation, который сможет п",
+      "metaDescription": "Компания Sony в будущем может наделить геймпад для консоли PlayStation функциями терминала оплаты. Свежий патент как раз описывает соответствующую тех",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437633-sony-zapatentovala-geimpad-dlia-playstation-kotoryi-smozet-prinimat-oplatu-za-igry-ili-vnutriigrovye-pokupki.html"
+    },
+    {
+      "id": "defitsit-videokart-geforce-rtx-50-usugubitsya-es-2026-09-22",
+      "category": "Новости",
+      "title": "Дефицит видеокарт GeForce RTX 50 усугубится ещё сильнее? Micron, похоже, перестала выпускать чипы GDDR7 объёмом 2 ГБ",
+      "excerpt": "Компания Micron, являющаяся одним из крупнейших производителей памяти на рынке, похоже, прекратила выпуск чипов памяти GDDR7 объёмом 2 ГБ. Как минимум они попросту исчезли из её каталога на официальном сайте.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/defitsit-videokart-geforce-rtx-50-usugubitsya-es-2026-09-22.webp",
+      "metaTitle": "Дефицит видеокарт GeForce RTX 50 усугубится ещё сильнее? Mic",
+      "metaDescription": "Компания Micron, являющаяся одним из крупнейших производителей памяти на рынке, похоже, прекратила выпуск чипов памяти GDDR7 объёмом 2 ГБ. Как минимум",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437638-deficit-videokart-geforce-rtx-50-usugubitsia-eshhe-silnee-micron-poxoze-perestala-vypuskat-cipy-gddr7-obieemom-2-gb.html"
+    },
+    {
+      "id": "bigcommerce-data-stolen-via-ribon-apps-hack-2026-09-22",
+      "category": "Новости",
+      "title": "Данные BigCommerce украдены посредством взлома Ribon Apps",
+      "excerpt": "Злоумышленники использовали скомпрометированный ключ приложения BigCommerce, принадлежащий Ribon, для доступа к данным клиентов. Публикация «Данные BigCommerce, украденные посредством взлома Ribon Apps», впервые появилась на SecurityWeek.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bigcommerce-data-stolen-via-ribon-apps-hack-2026-09-22.webp",
+      "metaTitle": "Данные BigCommerce украдены посредством взлома Ribon Apps",
+      "metaDescription": "Злоумышленники использовали скомпрометированный ключ приложения BigCommerce, принадлежащий Ribon, для доступа к данным клиентов. Публикация «Данные Bi",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/"
+    },
+    {
       "id": "10-000-mach-i-33-vt-za-23-dollara-predstavlen-mo-2026-09-22",
       "category": "Новости",
       "title": "10 000 мАч и 33 Вт — за 23 доллара. Представлен мобильный аккумулятор Oppo 33W Pocket Charge Super Flash Charge Power Bank 10000",
