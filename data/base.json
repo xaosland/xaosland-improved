@@ -1,6 +1,310 @@
 {
   "articles": [
     {
+      "id": "protesty-mestnyh-zhiteley-zatormozili-stroitelst-2026-09-22",
+      "category": "Новости",
+      "title": "Протесты местных жителей затормозили строительство половины новых ЦОД в США во втором квартале",
+      "excerpt": "Крупные проекты по возведению центров обработки данных для инфраструктуры ИИ нередко встречаются с сопротивлением со стороны местных жителей. В США сейчас действуют 843 инициативных групп в 49 штатах, которые выступают против реализации таких проекто",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/protesty-mestnyh-zhiteley-zatormozili-stroitelst-2026-09-22.webp",
+      "metaTitle": "Протесты местных жителей затормозили строительство половины ",
+      "metaDescription": "Крупные проекты по возведению центров обработки данных для инфраструктуры ИИ нередко встречаются с сопротивлением со стороны местных жителей. В США се",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148786"
+    },
+    {
+      "id": "10-000-mach-besprovodnaya-magnitnaya-zaryadka-i--2026-09-22",
+      "category": "Новости",
+      "title": "10 000 мАч, беспроводная магнитная зарядка и 45 Вт. Новый мобильный аккумулятор Xiaomi вышел на глобальный рынок",
+      "excerpt": "Xiaomi вывела на глобальный рынок Magnetic Power Bank 10000 25W (Integrated Cable) 2027 — компактный магнитный внешний аккумулятор емкостью 10 000 мА·ч со встроенным кабелем и поддержкой беспроводной зарядки Qi 2.2.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/10-000-mach-besprovodnaya-magnitnaya-zaryadka-i--2026-09-22.webp",
+      "metaTitle": "10 000 мАч, беспроводная магнитная зарядка и 45 Вт. Новый мо",
+      "metaDescription": "Xiaomi вывела на глобальный рынок Magnetic Power Bank 10000 25W (Integrated Cable) 2027 — компактный магнитный внешний аккумулятор емкостью 10 000 мА·",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437330-10-000-mac-besprovodnaia-magnitnaia-zariadka-i-45-vt-novyi-mobilnyi-akkumuliator-xiaomi-vysel-na-globalnyi-rynok.html"
+    },
+    {
+      "id": "novyy-korol-foto-i-video-kak-snimaet-vivo-x500-p-2026-09-22",
+      "category": "Новости",
+      "title": "Новый король фото и видео? Как снимает Vivo X500 Pro Max в реальности, показали сразу после презентации",
+      "excerpt": "Инсайдер Digital Chat Station уже успел протестировать новый флагман Vivo X500 Pro Max и поделился впечатлениями, а также выложил примеры фотографий и коротких роликов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-korol-foto-i-video-kak-snimaet-vivo-x500-p-2026-09-22.webp",
+      "metaTitle": "Новый король фото и видео? Как снимает Vivo X500 Pro Max в р",
+      "metaDescription": "Инсайдер Digital Chat Station уже успел протестировать новый флагман Vivo X500 Pro Max и поделился впечатлениями, а также выложил примеры фотографий и",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437350-novyi-korol-foto-i-video-kak-snimaet-vivo-x500-pro-max-v-realnosti-pokazali-srazu-posle-prezentacii.html"
+    },
+    {
+      "id": "google-vernulas-na-rynok-noutbukov-predstavleny--2026-09-22",
+      "category": "Новости",
+      "title": "Google вернулась на рынок ноутбуков. Представлены Googlebook: экран 2,8К, 10 лет обновлений, 16 часов автономности, платформы Intel и Qualcomm — от 900 долларов",
+      "excerpt": "Google открыла предзаказы на Googlebook — новое семейство ноутбуков, с которым компания возвращается на этот рынок. Первые устройства уже подготовили Acer, Asus, Dell, HP и Lenovo, цены стартуют с 900 долларов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-vernulas-na-rynok-noutbukov-predstavleny--2026-09-22.webp",
+      "metaTitle": "Google вернулась на рынок ноутбуков. Представлены Googlebook",
+      "metaDescription": "Google открыла предзаказы на Googlebook — новое семейство ноутбуков, с которым компания возвращается на этот рынок. Первые устройства уже подготовили ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437352-google-vernulas-na-rynok-noutbukov-predstavleny-googlebook-ekran-28k-10-let-obnovlenii-16-casov-avtonomnosti-platformy-intel-i-qualcomm-ot-900-dollarov.html"
+    },
+    {
+      "id": "us-proposes-ai-incident-alert-system-in-talks-wi-2026-09-22",
+      "category": "Новости",
+      "title": "США предлагают систему оповещения об инцидентах с использованием искусственного интеллекта в переговорах с Китаем, говорит Бессент",
+      "excerpt": "Трамп сопротивлялся призывам замедлить развитие искусственного интеллекта, заявляя, что это поможет Китаю догнать американские компании. Пост «США предлагают систему оповещения об инцидентах с использованием ИИ в переговорах с Китаем», по словам Бесс",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/us-proposes-ai-incident-alert-system-in-talks-wi-2026-09-22.webp",
+      "metaTitle": "США предлагают систему оповещения об инцидентах с использова",
+      "metaDescription": "Трамп сопротивлялся призывам замедлить развитие искусственного интеллекта, заявляя, что это поможет Китаю догнать американские компании. Пост «США пре",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/"
+    },
+    {
+      "id": "9500-litrov-chistogo-vozduha-v-minutu-novyy-ochi-2026-09-22",
+      "category": "Новости",
+      "title": "9500 литров чистого воздуха в минуту: новый очиститель воздуха Xiaomi получил сразу шесть уровней фильтрации и УФ-обеззараживание",
+      "excerpt": "Xiaomi начала продажи нового очистителя воздуха Mijia Air Purifier 6C, рассчитанного на небольшие и средние квартиры площадью до 68 м². Новинка получила шестиступенчатую систему фильтрации, отдельный датчик формальдегида, ультрафиолетовое обеззаражив",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/9500-litrov-chistogo-vozduha-v-minutu-novyy-ochi-2026-09-22.webp",
+      "metaTitle": "9500 литров чистого воздуха в минуту: новый очиститель возду",
+      "metaDescription": "Xiaomi начала продажи нового очистителя воздуха Mijia Air Purifier 6C, рассчитанного на небольшие и средние квартиры площадью до 68 м². Новинка получи",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437433-9500-litrov-cistogo-vozduxa-v-minutu-novyi-ocistitel-vozduxa-xiaomi-polucil-srazu-sest-urovnei-filtracii-i-uf-obezzarazivanie.html"
+    },
+    {
+      "id": "chistyy-ekran-bez-vyrezov-i-s-ramkoy-shirinoy-vs-2026-09-22",
+      "category": "Новости",
+      "title": "Чистый экран без вырезов и с рамкой шириной всего 0,96 мм. Опубликованы официальные изображения Red Magic 12 Pro+",
+      "excerpt": "Red Magic впервые официально показала смартфон Red Magic 12 Pro+. Компания опубликовала тизеры с дизайном новинки и подтвердила, что полноценная презентация состоится в октябре.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chistyy-ekran-bez-vyrezov-i-s-ramkoy-shirinoy-vs-2026-09-22.webp",
+      "metaTitle": "Чистый экран без вырезов и с рамкой шириной всего 0,96 мм. О",
+      "metaDescription": "Red Magic впервые официально показала смартфон Red Magic 12 Pro+. Компания опубликовала тизеры с дизайном новинки и подтвердила, что полноценная презе",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/cistyi-ekran-bez-vyrezov-i-s-ramkoi-sirinoi-vsego-096-mm-opublikovany-oficialnye-izobrazeniia-red-magic-12-pro.html"
+    },
+    {
+      "id": "bolshoy-chetyrehdvernyy-holodilnik-s-ionnoy-ochi-2026-09-22",
+      "category": "Новости",
+      "title": "Большой четырехдверный холодильник с ионной очисткой и заморозкой до -30 °C — всего $400. Новинка Xiaomi вышла в продажу в Китае",
+      "excerpt": "Mijia 425L получил 14 независимых зон хранения",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bolshoy-chetyrehdvernyy-holodilnik-s-ionnoy-ochi-2026-09-22.webp",
+      "metaTitle": "Большой четырехдверный холодильник с ионной очисткой и замор",
+      "metaDescription": "Mijia 425L получил 14 независимых зон хранения",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437435-bolsoi-cetyrexdvernyi-xolodilnik-s-ionnoi-ocistkoi-i-zamorozkoi-do-30-c-vsego-400-novinka-xiaomi-vysla-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "honor-predstavila-umnyy-proektor-ai-projector-ul-2026-09-22",
+      "category": "Новости",
+      "title": "Honor представила умный проектор AI Projector Ultra за 400 долларов — Full HD, 24 ватта звука, автофокус, управление жестами и 8-ядерный процессор",
+      "excerpt": "Honor открыла предзаказы на AI Projector Ultra — новый домашний LCD-проектор с разрешением Full HD, яркостью 1700 CVIA и расширенным набором ИИ-функций. Продажи в Китае стартуют 28 сентября. Рекомендованная цена составляет 2600 юаней (390 долларов).",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honor-predstavila-umnyy-proektor-ai-projector-ul-2026-09-22.webp",
+      "metaTitle": "Honor представила умный проектор AI Projector Ultra за 400 д",
+      "metaDescription": "Honor открыла предзаказы на AI Projector Ultra — новый домашний LCD-проектор с разрешением Full HD, яркостью 1700 CVIA и расширенным набором ИИ-функци",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437436-honor-predstavila-umnyi-proektor-ai-projector-ultra-za-400-dollarov-full-hd-24-vatta-zvuka-avtofokus-upravlenie-zestami-i-8-iadernyi-processor.html"
+    },
+    {
+      "id": "kitayskaya-cosmoleap-kopiruet-starship-yueqian-1-2026-09-22",
+      "category": "Новости",
+      "title": "Китайская Cosmoleap копирует Starship: Yueqian-1 станет первой китайской многоразовой жидкостной ракетой, которую будут ловить «палочками»",
+      "excerpt": "Китайская частная космическая компания Cosmoleap (Dahang Yueqian) успешно завершила статические испытания приборного отсека второй ступени многоразовой ракеты Yueqian-1. Проверка подтвердила, что прочность, жесткость и устойчивость конструкции соотве",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-cosmoleap-kopiruet-starship-yueqian-1-2026-09-22.webp",
+      "metaTitle": "Китайская Cosmoleap копирует Starship: Yueqian-1 станет перв",
+      "metaDescription": "Китайская частная космическая компания Cosmoleap (Dahang Yueqian) успешно завершила статические испытания приборного отсека второй ступени многоразово",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437438-kitaiskaia-cosmoleap-kopiruet-starship-yueqian-1-stanet-pervoi-kitaiskoi-mnogorazovoi-zidkostnoi-raketoi-kotoruiu-budut-lovit-palockami.html"
+    },
+    {
+      "id": "xiaomi-raskryla-kamery-xiaomi-18-pro-i-xiaomi-18-2026-09-22",
+      "category": "Новости",
+      "title": "Xiaomi раскрыла камеры Xiaomi 18 Pro и Xiaomi 18 Pro Max: два 200-мегапиксельных сенсора и перископный телевик",
+      "excerpt": "Xiaomi раскрыла подробности камер флагманской серии Xiaomi 18 Pro, которую представят 23 сентября. Смартфоны первыми получат новую систему Leica, включающую сразу два 200-мегапиксельных модуля — основной и перископный.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-raskryla-kamery-xiaomi-18-pro-i-xiaomi-18-2026-09-22.webp",
+      "metaTitle": "Xiaomi раскрыла камеры Xiaomi 18 Pro и Xiaomi 18 Pro Max: дв",
+      "metaDescription": "Xiaomi раскрыла подробности камер флагманской серии Xiaomi 18 Pro, которую представят 23 сентября. Смартфоны первыми получат новую систему Leica, вклю",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437441-xiaomi-raskryla-kamery-xiaomi-18-pro-i-xiaomi-18-pro-max-dva-200-megapikselnyx-sensora-i-periskopnyi-televik.html"
+    },
+    {
+      "id": "tak-snimaet-xiaomi-18-pro-max-opublikovany-prime-2026-09-22",
+      "category": "Новости",
+      "title": "Так снимает Xiaomi 18 Pro Max: опубликованы примеры фото",
+      "excerpt": "Глава мобильного подразделения Xiaomi Лу Вейбинг опубликовал примеры фотографий, сделанных новейшим флагманом — Xiaomi 18 Pro Max. Одновременно компания подтвердила, что в аппаратах линейки используются два 200-мегапиксельных сенсора.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tak-snimaet-xiaomi-18-pro-max-opublikovany-prime-2026-09-22.webp",
+      "metaTitle": "Так снимает Xiaomi 18 Pro Max: опубликованы примеры фото",
+      "metaDescription": "Глава мобильного подразделения Xiaomi Лу Вейбинг опубликовал примеры фотографий, сделанных новейшим флагманом — Xiaomi 18 Pro Max. Одновременно компан",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437445-tak-snimaet-xiaomi-18-pro-max-opublikovany-primery-foto.html"
+    },
+    {
+      "id": "v-proshlom-polugodii-postavki-umnyh-ochkov-s-ii--2026-09-22",
+      "category": "Новости",
+      "title": "В прошлом полугодии поставки умных очков с ИИ выросли на 263 %, но 96 % из них обходились без дисплеев",
+      "excerpt": "Громоздкие гарнитуры виртуальной и дополненной реальности по своим объёмам продаж не могут сравниться с показателями популярности более распространённых умных очков, которые в подавляющем большинстве лишены дисплеев. Как отметили аналитики Counterpoi",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-proshlom-polugodii-postavki-umnyh-ochkov-s-ii--2026-09-22.webp",
+      "metaTitle": "В прошлом полугодии поставки умных очков с ИИ выросли на 263",
+      "metaDescription": "Громоздкие гарнитуры виртуальной и дополненной реальности по своим объёмам продаж не могут сравниться с показателями популярности более распространённ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148828"
+    },
+    {
+      "id": "davmail-7-0-0-puts-most-of-its-work-into-microso-2026-09-22",
+      "category": "Новости",
+      "title": "DavMail 7.0.0 переносит большую часть своей работы в Microsoft Graph",
+      "excerpt": "Каждому, кто хочет выйти из Outlook, но при этом имеет почтовый ящик на Exchange, нужен переводчик. DavMail — один из них: шлюз Java, который преобразует открытые протоколы, на которых работает большинство приложений почты, календаря и контактов (IMA",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/davmail-7-0-0-puts-most-of-its-work-into-microso-2026-09-22.webp",
+      "metaTitle": "DavMail 7.0.0 переносит большую часть своей работы в Microso",
+      "metaDescription": "Каждому, кто хочет выйти из Outlook, но при этом имеет почтовый ящик на Exchange, нужен переводчик. DavMail — один из них: шлюз Java, который преобраз",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph/"
+    },
+    {
+      "id": "vivo-predstavila-cmart-chasy-watch-6-s-titanovym-2026-09-22",
+      "category": "Новости",
+      "title": "Vivo представила cмарт-часы Watch 6 с титановым корпусом, сапфировым стеклом и eSIM — цены начинаются от $149",
+      "excerpt": "Компания vivo представила умные часы Watch 6 вместе со смартфонами X500, X500 Pro и X500 Pro Max. Часы доступны в двух версиях корпуса и получили набор датчиков для мониторинга сердечного ритма, уровня кислорода в крови, а также модули NFC, двухчасто",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vivo-predstavila-cmart-chasy-watch-6-s-titanovym-2026-09-22.webp",
+      "metaTitle": "Vivo представила cмарт-часы Watch 6 с титановым корпусом, са",
+      "metaDescription": "Компания vivo представила умные часы Watch 6 вместе со смартфонами X500, X500 Pro и X500 Pro Max. Часы доступны в двух версиях корпуса и получили набо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148827"
+    },
+    {
       "id": "podpischiki-chatgpt-i-drugih-chat-botov-podali-i-2026-09-22",
       "category": "Новости",
       "title": "Подписчики ChatGPT и других чат-ботов подали иск к Anthropic, OpenAI, SpaceXAI и Google из-за сговора о замедлении ИИ",
