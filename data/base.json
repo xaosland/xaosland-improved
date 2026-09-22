@@ -1,6 +1,315 @@
 {
   "articles": [
     {
+      "id": "avstraliya-prisoedinilas-k-prizyvu-22-stran-vves-2026-09-22",
+      "category": "Новости",
+      "title": "Австралия присоединилась к призыву 22 стран ввести международные меры безопасности для ИИ",
+      "excerpt": "Премьер-министр Австралии Энтони Албанезе подписал декларацию о международных мерах безопасности для сильнейших ИИ-моделей накануне Генеральной ассамблеи ООН в Нью-Йорке. Участники заявляют, что развитие таких моделей может опережать возможности госу",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/avstraliya-prisoedinilas-k-prizyvu-22-stran-vves-2026-09-22.webp",
+      "metaTitle": "Австралия присоединилась к призыву 22 стран ввести междунаро",
+      "metaDescription": "Премьер-министр Австралии Энтони Албанезе подписал декларацию о международных мерах безопасности для сильнейших ИИ-моделей накануне Генеральной ассамб",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437669-avstraliia-prisoedinilas-k-prizyvu-22-stran-vvesti-mezdunarodnye-mery-bezopasnosti-dlia-ii.html"
+    },
+    {
+      "id": "chinese-hackers-exploit-wordpress-zyxel-flaws-to-2026-09-22",
+      "category": "Новости",
+      "title": "Китайские хакеры используют недостатки WordPress и Zyxel для кражи правительственных данных",
+      "excerpt": "Китайскоязычный злоумышленник использовал уязвимости в интеллектуальных управляемых коммутаторах ZyXEL GS1900 и WordPress для кражи конфиденциальных данных с 996 устройств и более 18 500 записей, хранящихся в серверных базах данных. [...]",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chinese-hackers-exploit-wordpress-zyxel-flaws-to-2026-09-22.webp",
+      "metaTitle": "Китайские хакеры используют недостатки WordPress и Zyxel для",
+      "metaDescription": "Китайскоязычный злоумышленник использовал уязвимости в интеллектуальных управляемых коммутаторах ZyXEL GS1900 и WordPress для кражи конфиденциальных д",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/"
+    },
+    {
+      "id": "sertifikatsiya-boeing-777-9-pod-ugrozoy-k-proble-2026-09-22",
+      "category": "Новости",
+      "title": "Сертификация Boeing 777-9 под угрозой: к проблеме с двигателями GE9X может добавиться забастовка",
+      "excerpt": "Программе Boeing 777X грозит новая задержка. Контракты примерно 17 тысяч инженеров и технических специалистов, представленных профсоюзом SPEEA, истекают 6 октября. Если новое соглашение не будет одобрено, сотрудники смогут начать забастовку, которая ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sertifikatsiya-boeing-777-9-pod-ugrozoy-k-proble-2026-09-22.webp",
+      "metaTitle": "Сертификация Boeing 777-9 под угрозой: к проблеме с двигател",
+      "metaDescription": "Программе Boeing 777X грозит новая задержка. Контракты примерно 17 тысяч инженеров и технических специалистов, представленных профсоюзом SPEEA, истека",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437671-sertifikaciia-boeing-777-9-pod-ugrozoi-k-probleme-s-dvigateliami-ge9x-mozet-dobavitsia-zabastovka.html"
+    },
+    {
+      "id": "amazon-rasshiryaet-ispolzovanie-umnyh-ochkov-dly-2026-09-22",
+      "category": "Новости",
+      "title": "Amazon расширяет использование умных очков для курьеров. Более 275 000 доставок уже выполнены с их помощью",
+      "excerpt": "Amazon расширяет использование умных очков среди курьеров: компания сообщает, что с системой уже выполнено более 275 000 доставок, а новые устройства будут доступны в течение 2027 года. Очки выводят в поле зрения курьера сведения о посылке, пеший мар",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amazon-rasshiryaet-ispolzovanie-umnyh-ochkov-dly-2026-09-22.webp",
+      "metaTitle": "Amazon расширяет использование умных очков для курьеров. Бол",
+      "metaDescription": "Amazon расширяет использование умных очков среди курьеров: компания сообщает, что с системой уже выполнено более 275 000 доставок, а новые устройства ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437670-amazon-rassiriaet-ispolzovanie-umnyx-ockov-dlia-kurerov-bolee-275-000-dostavok-uze-vypolneny-s-ix-pomoshhiu.html"
+    },
+    {
+      "id": "ii-stanovitsya-umnee-teper-uchenye-proveryayut-s-2026-09-22",
+      "category": "Новости",
+      "title": "ИИ становится умнее — теперь учёные проверяют, способен ли он создавать роботов",
+      "excerpt": "Учёные Гарвардского университета и Технологического института Джорджии создали открытый тест RLE-Bench, который проверяет способность универсальных ИИ-агентов решать инженерные задачи при разработке роботов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-stanovitsya-umnee-teper-uchenye-proveryayut-s-2026-09-22.webp",
+      "metaTitle": "ИИ становится умнее — теперь учёные проверяют, способен ли о",
+      "metaDescription": "Учёные Гарвардского университета и Технологического института Джорджии создали открытый тест RLE-Bench, который проверяет способность универсальных ИИ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437673-ii-stanovitsia-umnee-teper-ucenye-proveriaiut-sposoben-li-on-sozdavat-robotov.html"
+    },
+    {
+      "id": "2-nanometra-i-chastota-bolee-5-ggts-predstavleny-2026-09-22",
+      "category": "Новости",
+      "title": "2 нанометра и частота более 5 ГГц: представлены флагманские однокристальные системы Qualcomm Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Extreme Gen 6",
+      "excerpt": "Qualcomm представила две новые флагманские однокристальные системы для смартфонов нового поколения — Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Extreme Gen 6. Анонс состоялся 22 сентября на Snapdragon Summit 2026 на Гавайях. Компания называет нови",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/2-nanometra-i-chastota-bolee-5-ggts-predstavleny-2026-09-22.webp",
+      "metaTitle": "2 нанометра и частота более 5 ГГц: представлены флагманские ",
+      "metaDescription": "Qualcomm представила две новые флагманские однокристальные системы для смартфонов нового поколения — Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Ext",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437674-2-nanometra-i-castota-bolee-5-ggc-predstavleny-flagmanskie-odnokristalnye-sistemy-qualcomm-snapdragon-8-elite-gen-6-i-snapdragon-8-elite-extreme-gen-6.html"
+    },
+    {
+      "id": "goldman-sachs-utroil-prognoz-po-vypusku-gumanoid-2026-09-22",
+      "category": "Новости",
+      "title": "Goldman Sachs утроил прогноз по выпуску гуманоидных роботов к 2030 году",
+      "excerpt": "Goldman Sachs пересмотрел прогноз по развитию физического ИИ и значительно повысил ожидаемые объёмы производства гуманоидных роботов. Согласно новой оценке, к 2035 году в мире будет выпущено около 6,5 млн таких машин, а стоимость соответствующего рын",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/goldman-sachs-utroil-prognoz-po-vypusku-gumanoid-2026-09-22.webp",
+      "metaTitle": "Goldman Sachs утроил прогноз по выпуску гуманоидных роботов ",
+      "metaDescription": "Goldman Sachs пересмотрел прогноз по развитию физического ИИ и значительно повысил ожидаемые объёмы производства гуманоидных роботов. Согласно новой о",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437675-goldman-sachs-utroil-prognoz-po-vypusku-gumanoidnyx-robotov-k-2030-godu.html"
+    },
+    {
+      "id": "hakery-vzlomali-fbr-2026-09-22",
+      "category": "Новости",
+      "title": "Хакеры взломали ФБР",
+      "excerpt": "Хакеры взломали ФБР",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hakery-vzlomali-fbr-2026-09-22.webp",
+      "metaTitle": "Хакеры взломали ФБР",
+      "metaDescription": "Хакеры взломали ФБР",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/22/hakery-vzlomali-fbr/"
+    },
+    {
+      "id": "novaya-statya-shpionskoe-nasledstvo-i-triumf-bal-2026-09-22",
+      "category": "Новости",
+      "title": "Новая статья: Шпионское наследство и триумф баллистики: как телескоп „Нэнси Грейс Роман“ отправился переписывать космологию",
+      "excerpt": "30 августа 2026 года со стартового комплекса LC-39A во Флориде была запущена новейшая флагманская обсерватория NASA — Космический телескоп имени Нэнси Грейс Роман NGRST (Nancy Grace Roman Space Telescope). Аппарат, чей путь от чертежей до стартового ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-shpionskoe-nasledstvo-i-triumf-bal-2026-09-22.webp",
+      "metaTitle": "Новая статья: Шпионское наследство и триумф баллистики: как ",
+      "metaDescription": "30 августа 2026 года со стартового комплекса LC-39A во Флориде была запущена новейшая флагманская обсерватория NASA — Космический телескоп имени Нэнси",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148802"
+    },
+    {
+      "id": "180-dney-na-odnoy-zaryadke-bolee-180-rezhimov-tr-2026-09-22",
+      "category": "Новости",
+      "title": "180 дней на одной зарядке, более 180 режимов тренировок, офлайн-навигация, датчики ЧСС и SpO2, полная защита от воды. Представлены неубиваемые умные часы Amazfit T-Rex Dual Solar",
+      "excerpt": "Amazfit официально представила на мировом рынке защищенные смарт-часы T-Rex Dual Solar. Новинка получила 1,32-дюймовый AMOLED-дисплей с пиковой яркостью до 3000 нит и стала одной из немногих моделей компании с полноценной солнечной зарядкой.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/180-dney-na-odnoy-zaryadke-bolee-180-rezhimov-tr-2026-09-22.webp",
+      "metaTitle": "180 дней на одной зарядке, более 180 режимов тренировок, офл",
+      "metaDescription": "Amazfit официально представила на мировом рынке защищенные смарт-часы T-Rex Dual Solar. Новинка получила 1,32-дюймовый AMOLED-дисплей с пиковой яркост",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437676-180-dnei-na-odnoi-zariadke-bolee-180-rezimov-trenirovok-oflain-navigaciia-datciki-css-i-spo2-polnaia-zashhita-ot-vody-predstavleny-neubivaemye-umnye-casy-amazfit-t-rex-dual-solar.html"
+    },
+    {
+      "id": "relays-are-masking-chinese-access-to-frontier-ai-2026-09-22",
+      "category": "Новости",
+      "title": "Реле маскируют доступ китайцев к передовым моделям искусственного интеллекта в США",
+      "excerpt": "Более 80 000 ретрансляционных серверов искусственного интеллекта помогают пользователям в Китае маскировать свою личность, когда они получают доступ к новейшим моделям больших языков (LLM), вероятно, для их клонирования.",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "сети",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Реле маскируют доступ китайцев к передовым моделям искусстве",
+      "metaDescription": "Более 80 000 ретрансляционных серверов искусственного интеллекта помогают пользователям в Китае маскировать свою личность, когда они получают доступ к",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models"
+    },
+    {
+      "id": "my-vzlomali-fbr-hakery-ukrali-dannye-vseh-sotrud-2026-09-22",
+      "category": "Новости",
+      "title": "«Мы взломали ФБР». Хакеры украли данные всех сотрудников ФБР",
+      "excerpt": "Хакерская группировка ShinyHunters заявила о взломе нескольких сервисов, связанных с ФБР, и краже персональных данных действующих и бывших сотрудников ведомства, а также кандидатов на работу. ФБР подтвердило, что знает об этих заявлениях и проводит р",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/my-vzlomali-fbr-hakery-ukrali-dannye-vseh-sotrud-2026-09-22.webp",
+      "metaTitle": "«Мы взломали ФБР». Хакеры украли данные всех сотрудников ФБР",
+      "metaDescription": "Хакерская группировка ShinyHunters заявила о взломе нескольких сервисов, связанных с ФБР, и краже персональных данных действующих и бывших сотрудников",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437677-my-vzlomali-fbr-xakery-ukrali-dannye-vsex-sotrudnikov-fbr.html"
+    },
+    {
+      "id": "200-mp-7-let-obnovleniy-i-snapdragon-8-elite-ext-2026-09-22",
+      "category": "Новости",
+      "title": "200 Мп, 7 лет обновлений и Snapdragon 8 Elite Extreme Gen 6: рассекречен флагманский камерофон Motorola Signature 27",
+      "excerpt": "Motorola впервые показала флагманский смартфон Signature 27. Устройство продемонстрировали на Snapdragon Summit 2026, где Qualcomm представила новое поколение топовых мобильных платформ.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/200-mp-7-let-obnovleniy-i-snapdragon-8-elite-ext-2026-09-22.webp",
+      "metaTitle": "200 Мп, 7 лет обновлений и Snapdragon 8 Elite Extreme Gen 6:",
+      "metaDescription": "Motorola впервые показала флагманский смартфон Signature 27. Устройство продемонстрировали на Snapdragon Summit 2026, где Qualcomm представила новое п",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/200-mp-7-let-obnovlenii-i-snapdragon-8-elite-extreme-gen-6-rassekrecen-flagmanskii-kamerofon-motorola-signature-27.html"
+    },
+    {
+      "id": "sweden-fines-milj-data-183-000-over-breach-affec-2026-09-22",
+      "category": "Новости",
+      "title": "Швеция оштрафовала Miljödata на 183 000 долларов за нарушение, затронувшее 2,2 миллиона человек",
+      "excerpt": "Шведский регулятор конфиденциальности данных IMY наложил штраф в размере 183 000 долларов США (1,8 миллиона шведских крон) на поставщика ИТ-систем Miljödata за неадекватные меры безопасности, которые привели к взлому в августе 2025 года, от которого ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sweden-fines-milj-data-183-000-over-breach-affec-2026-09-22.webp",
+      "metaTitle": "Швеция оштрафовала Miljödata на 183 000 долларов за нарушени",
+      "metaDescription": "Шведский регулятор конфиденциальности данных IMY наложил штраф в размере 183 000 долларов США (1,8 миллиона шведских крон) на поставщика ИТ-систем Mil",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/"
+    },
+    {
+      "id": "rogue-external-mfa-providers-can-steal-passwords-2026-09-22",
+      "category": "Новости",
+      "title": "Мошеннические внешние поставщики MFA могут украсть пароли при входе в систему",
+      "excerpt": "Исследователи безопасности разработали атаку, которая позволяет хакерам с привилегированным доступом зарегистрировать мошеннического внешнего поставщика MFA, который крадет пароли пользователей во время законных попыток входа в систему. [...]",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rogue-external-mfa-providers-can-steal-passwords-2026-09-22.webp",
+      "metaTitle": "Мошеннические внешние поставщики MFA могут украсть пароли пр",
+      "metaDescription": "Исследователи безопасности разработали атаку, которая позволяет хакерам с привилегированным доступом зарегистрировать мошеннического внешнего поставщи",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/"
+    },
+    {
       "id": "openai-anthropic-google-i-spacexai-obvinili-v-sg-2026-09-22",
       "category": "Новости",
       "title": "OpenAI, Anthropic, Google и SpaceXAI обвинили в сговоре для замедления развития ИИ",
