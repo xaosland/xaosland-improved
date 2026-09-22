@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "openai-anthropic-google-i-spacexai-obvinili-v-sg-2026-09-22",
+      "category": "Новости",
+      "title": "OpenAI, Anthropic, Google и SpaceXAI обвинили в сговоре для замедления развития ИИ",
+      "excerpt": "Против Anthropic, OpenAI, SpaceXAI и Google подан коллективный антимонопольный иск. Истцы утверждают, что компании незаконно договорились замедлить развитие искусственного интеллекта, ограничив тем самым улучшение продуктов, за которые платят пользов",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-anthropic-google-i-spacexai-obvinili-v-sg-2026-09-22.webp",
+      "metaTitle": "OpenAI, Anthropic, Google и SpaceXAI обвинили в сговоре для ",
+      "metaDescription": "Против Anthropic, OpenAI, SpaceXAI и Google подан коллективный антимонопольный иск. Истцы утверждают, что компании незаконно договорились замедлить ра",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437647-openai-anthropic-google-i-spacexai-obvinili-v-sgovore-dlia-zamedleniia-razvitiia-ii.html"
+    },
+    {
+      "id": "lunnaya-ekonomika-mozhet-perevalit-za-566-mlrd-k-2026-09-22",
+      "category": "Новости",
+      "title": "Лунная экономика может перевалить за $566 млрд к 2050 году — или не случиться вовсе. Deloitte назвала четыре рынка, от которых всё зависит",
+      "excerpt": "Новый отчёт Deloitte Building the Lunar Economy оценивает совокупную экономическую ценность лунной деятельности до 2050 года в $343 миллиарда по консервативному сценарию и до $566 миллиардов — по ускоренному. Цифра складывается из двух стадий: стоимо",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lunnaya-ekonomika-mozhet-perevalit-za-566-mlrd-k-2026-09-22.webp",
+      "metaTitle": "Лунная экономика может перевалить за $566 млрд к 2050 году —",
+      "metaDescription": "Новый отчёт Deloitte Building the Lunar Economy оценивает совокупную экономическую ценность лунной деятельности до 2050 года в $343 миллиарда по консе",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437650-lunnaia-ekonomika-mozet-perevalit-za-566-mlrd-k-2050-godu-ili-ne-slucitsia-vovse-deloitte-nazvala-cetyre-rynka-ot-kotoryx-vse-zavisit.html"
+    },
+    {
+      "id": "v-rossiyu-privezli-obnovlennye-bmw-7-serii-g70-o-2026-09-22",
+      "category": "Новости",
+      "title": "В Россию привезли обновленные BMW 7 серии (G70) — от 24,8 млн рублей",
+      "excerpt": "В России привезли партию совершенно новых седанов BMW 7 серии поколения G70 — эта модель на мировой рынок вышла весной 2026 года. Автомобили уже в наличии у дилеров Москвы и Санкт-Петербурга. Цены — от 24,8 до 29 млн рублей.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-rossiyu-privezli-obnovlennye-bmw-7-serii-g70-o-2026-09-22.webp",
+      "metaTitle": "В Россию привезли обновленные BMW 7 серии (G70) — от 24,8 мл",
+      "metaDescription": "В России привезли партию совершенно новых седанов BMW 7 серии поколения G70 — эта модель на мировой рынок вышла весной 2026 года. Автомобили уже в нал",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437651-v-rossiiu-privezli-obnovlennye-bmw-7-serii-g70-ot-248-mln-rublei.html"
+    },
+    {
+      "id": "openai-otvetila-anthropic-dvukratnym-snizheniem--2026-09-22",
+      "category": "Новости",
+      "title": "OpenAI ответила Anthropic двукратным снижением цен: вышла GPT-6 Sol и сравнялась с Claude Fable 5.1 по коду и агентам, но стоит на 80% дешевле",
+      "excerpt": "OpenAI расширила семейство GPT-6 двумя моделями — Sol и Luna, — обученными по той же методике, что и флагманская Astra, но нацеленными на массовые сценарии. Главный сигнал релиза — не архитектурный прорыв, а экономика: API подешевел на 50% относитель",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-otvetila-anthropic-dvukratnym-snizheniem--2026-09-22.webp",
+      "metaTitle": "OpenAI ответила Anthropic двукратным снижением цен: вышла GP",
+      "metaDescription": "OpenAI расширила семейство GPT-6 двумя моделями — Sol и Luna, — обученными по той же методике, что и флагманская Astra, но нацеленными на массовые сце",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437652-openai-otvetila-anthropic-dvukratnym-snizeniem-cen-vysla-gpt-6-sol-i-sravnialas-s-claude-fable-51-po-kodu-i-agentam-no-stoit-na-80-desevle.html"
+    },
+    {
+      "id": "kubik-razmerom-vsego-3-5-sm-vydaet-moschnost-80--2026-09-22",
+      "category": "Новости",
+      "title": "«Кубик» размером всего 3,5 см выдает мощность 80 Вт: новая сверхкомпактная зарядка Oppo с нитридом галлия стоит всего 30 долларов",
+      "excerpt": "Oppo запустила продажи компактного сетевого адаптера SUPERVOOC 80W Mini Super Flash Charge. Новинка использует нитрид галлия (GaN) и поддерживает несколько стандартов быстрой зарядки, а цена — всего 200 юаней (30 долларов).",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kubik-razmerom-vsego-3-5-sm-vydaet-moschnost-80--2026-09-22.webp",
+      "metaTitle": "«Кубик» размером всего 3,5 см выдает мощность 80 Вт: новая с",
+      "metaDescription": "Oppo запустила продажи компактного сетевого адаптера SUPERVOOC 80W Mini Super Flash Charge. Новинка использует нитрид галлия (GaN) и поддерживает неск",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437654-kubik-razmerom-vsego-35-sm-vydaet-moshhnost-80-vt-novaia-sverxkompaktnaia-zariadka-oppo-s-nitridom-galliia-stoit-vsego-30-dollarov.html"
+    },
+    {
+      "id": "shinyhunters-claims-fbi-hack-data-theft-in-peopl-2026-09-22",
+      "category": "Новости",
+      "title": "ShinyHunters заявляет о взломе ФБР и краже данных в результате взлома PeopleSoft нулевого дня",
+      "excerpt": "Банда вымогателей ShinyHunters утверждает, что взломала системы ФБР, используя новую уязвимость нулевого дня Oracle PeopleSoft, получив доступ к внутренним сервисам и похитив конфиденциальные данные о сотрудниках и соискателях работы. [...]",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/shinyhunters-claims-fbi-hack-data-theft-in-peopl-2026-09-22.webp",
+      "metaTitle": "ShinyHunters заявляет о взломе ФБР и краже данных в результа",
+      "metaDescription": "Банда вымогателей ShinyHunters утверждает, что взломала системы ФБР, используя новую уязвимость нулевого дня Oracle PeopleSoft, получив доступ к внутр",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
+    },
+    {
+      "id": "dorozhe-topovogo-macbook-pro-m5-max-no-zato-so-1-2026-09-22",
+      "category": "Новости",
+      "title": "Дороже топового MacBook Pro M5 Max, но зато со 192 ГБ ОЗУ. HP раскрыла цены на ноутбук ZBook Ultra G3a",
+      "excerpt": "Ноутбук HP ZBook Ultra G3a, который одним из первых на рынке предложит пользователям платформу Ryzen AI Max+ PRO 495 со 192 ГБ ОЗУ, в такой конфигурации обойдётся без малого в 7500 долларов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/dorozhe-topovogo-macbook-pro-m5-max-no-zato-so-1-2026-09-22.webp",
+      "metaTitle": "Дороже топового MacBook Pro M5 Max, но зато со 192 ГБ ОЗУ. H",
+      "metaDescription": "Ноутбук HP ZBook Ultra G3a, который одним из первых на рынке предложит пользователям платформу Ryzen AI Max+ PRO 495 со 192 ГБ ОЗУ, в такой конфигурац",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437655-doroze-topovogo-macbook-pro-m5-max-no-zato-so-192-gb-ozu-hp-raskryla-ceny-na-noutbuk-zbook-ultra-g3a.html"
+    },
+    {
+      "id": "vypusk-operatsionnoy-sistemy-solaris-11-4-sru95-2026-09-22",
+      "category": "Новости",
+      "title": "Выпуск операционной системы Solaris 11.4 SRU95",
+      "excerpt": "Компания Oracle опубликовала выпуск операционной системы Solaris 11.4 SRU 95 (Support Repository Update), в котором предложена серия значительных изменений и улучшений для ветки Solaris 11.4. Для установки предложенных в обновлении исправлений достат",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск операционной системы Solaris 11.4 SRU95",
+      "metaDescription": "Компания Oracle опубликовала выпуск операционной системы Solaris 11.4 SRU 95 (Support Repository Update), в котором предложена серия значительных изме",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66323"
+    },
+    {
+      "id": "my-pervymi-budem-maynit-bitkoyn-v-kosmose-starta-2026-09-22",
+      "category": "Новости",
+      "title": "«Мы первыми будем майнить биткойн в космосе»: стартап Starcloud, поддерживаемый Nvidia, отправит в космос ASIC-майнеры",
+      "excerpt": "Американский стартап Starcloud, поддерживаемый Nvidia, намерен до конца года впервые запустить майнинг биткойна на орбите. ASIC-майнеры установят на спутнике Starcloud-2, который станет первой коммерческой миссией компании, сообщил генеральный директ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/my-pervymi-budem-maynit-bitkoyn-v-kosmose-starta-2026-09-22.webp",
+      "metaTitle": "«Мы первыми будем майнить биткойн в космосе»: стартап Starcl",
+      "metaDescription": "Американский стартап Starcloud, поддерживаемый Nvidia, намерен до конца года впервые запустить майнинг биткойна на орбите. ASIC-майнеры установят на с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437656-my-pervymi-budem-mainit-bitkoin-v-kosmose-startap-starcloud-podderzivaemyi-nvidia-otpravit-v-kosmos-asic-mainery.html"
+    },
+    {
+      "id": "alibaba-pokazala-zhenwu-v900-uskoritel-vtroe-mos-2026-09-22",
+      "category": "Новости",
+      "title": "Alibaba показала Zhenwu V900 — ускоритель втрое мощнее предшественника: компания заложила цель в 20 гигаватт для дата-центров Alibaba Cloud к 2032 году",
+      "excerpt": "22 сентября на ежегодной конференции Apsara в Ханчжоу Alibaba представила ИИ-ускоритель Zhenwu V900 и сообщила о разработке модели с числом параметров от 5 до 10 триллионов — до четырёх раз крупнее текущего флагмана компании.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/alibaba-pokazala-zhenwu-v900-uskoritel-vtroe-mos-2026-09-22.webp",
+      "metaTitle": "Alibaba показала Zhenwu V900 — ускоритель втрое мощнее предш",
+      "metaDescription": "22 сентября на ежегодной конференции Apsara в Ханчжоу Alibaba представила ИИ-ускоритель Zhenwu V900 и сообщила о разработке модели с числом параметров",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437658-alibaba-pokazala-zhenwu-v900-uskoritel-vtroe-moshhnee-predsestvennika-kompaniia-zalozila-cel-v-20-gigavatt-dlia-data-centrov-alibaba-cloud-k-2032-godu.html"
+    },
+    {
+      "id": "reliz-operatsionnoy-sistemy-netbsd-10-2-2026-09-22",
+      "category": "Новости",
+      "title": "Релиз операционной системы NetBSD 10.2",
+      "excerpt": "Опубликован релиз операционной системы NetBSD 10.2, который отнесён к категории корректирующих обновлений и включает в основном исправления проблем и уявзимостей, выявленных с момента публикации NetBSD 10.1 в декабре 2024 года. Ветка NetBSD 10 будет ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Релиз операционной системы NetBSD 10.2",
+      "metaDescription": "Опубликован релиз операционной системы NetBSD 10.2, который отнесён к категории корректирующих обновлений и включает в основном исправления проблем и ",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66324"
+    },
+    {
+      "id": "v-kitae-nazvali-samye-kachestvennye-avtomobili-2-2026-09-22",
+      "category": "Новости",
+      "title": "В Китае назвали самые качественные автомобили 2026 года: Volkswagen Passat, Audi A5L Sportback и Tank 300 — в числе лидеров",
+      "excerpt": "Платформа Chezhiwang совместно с консалтинговой компанией Car Research опубликовала результаты исследования «Качество автомобильной продукции в Китае 2026» (AQR). Рейтинг разделили на две категории: автомобили с наименьшим количеством подтвержденных ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-kitae-nazvali-samye-kachestvennye-avtomobili-2-2026-09-22.webp",
+      "metaTitle": "В Китае назвали самые качественные автомобили 2026 года: Vol",
+      "metaDescription": "Платформа Chezhiwang совместно с консалтинговой компанией Car Research опубликовала результаты исследования «Качество автомобильной продукции в Китае ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437660-v-kitae-nazvali-samye-kacestvennye-avtomobili-2026-goda-volkswagen-passat-audi-a5l-sportback-i-tank-300-v-cisle-liderov.html"
+    },
+    {
+      "id": "startapy-ustali-platit-za-chuzhoy-ii-i-nachali-s-2026-09-22",
+      "category": "Новости",
+      "title": "Стартапы устали платить за чужой ИИ: и начали создавать собственные модели после обвала маржи на чужих",
+      "excerpt": "Стартап Harvey, оцениваемый в $15,6 млрд, начал 2026 год с валовой маржой около 50%, но к июню показатель опустился примерно до −50%. Как сообщает Bloomberg со ссылкой на осведомлённый источник, причиной стал резкий рост потребления токенов клиентами",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/startapy-ustali-platit-za-chuzhoy-ii-i-nachali-s-2026-09-22.webp",
+      "metaTitle": "Стартапы устали платить за чужой ИИ: и начали создавать собс",
+      "metaDescription": "Стартап Harvey, оцениваемый в $15,6 млрд, начал 2026 год с валовой маржой около 50%, но к июню показатель опустился примерно до −50%. Как сообщает Blo",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437659-startapy-ustali-platit-za-cuzoi-ii-i-nacali-sozdavat-sobstvennye-modeli-posle-obvala-marzi-na-cuzix.html"
+    },
+    {
+      "id": "canadian-regulator-opens-probe-of-idscan-for-all-2026-09-22",
+      "category": "Новости",
+      "title": "Канадский регулятор начинает расследование в отношении IDScan по подозрению в нарушении законов о конфиденциальности данных",
+      "excerpt": "В ходе расследования, о котором было объявлено в понедельник, будут изучены методы обеспечения безопасности IDScan и то, были ли уведомления жертв адекватными в соответствии с федеральным законом Канады о конфиденциальности в частном секторе, говорит",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/canadian-regulator-opens-probe-of-idscan-for-all-2026-09-22.webp",
+      "metaTitle": "Канадский регулятор начинает расследование в отношении IDSca",
+      "metaDescription": "В ходе расследования, о котором было объявлено в понедельник, будут изучены методы обеспечения безопасности IDScan и то, были ли уведомления жертв аде",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach"
+    },
+    {
+      "id": "habbl-zapechatlel-spiralnuyu-galaktiku-ngc-4698--2026-09-22",
+      "category": "Новости",
+      "title": "«Хаббл» запечатлел спиральную галактику NGC 4698, вращающуюся с собой вразнобой: центр перпендикулярен диску",
+      "excerpt": "Космический телескоп «Хаббл» получил изображение спиральной галактики NGC 4698, расположенной в 55 миллионах световых лет от Земли в созвездии Девы. Объект относится к обширному скоплению Девы — ближайшему к Млечному Пути крупному скоплению галактик ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/habbl-zapechatlel-spiralnuyu-galaktiku-ngc-4698--2026-09-22.webp",
+      "metaTitle": "«Хаббл» запечатлел спиральную галактику NGC 4698, вращающуюс",
+      "metaDescription": "Космический телескоп «Хаббл» получил изображение спиральной галактики NGC 4698, расположенной в 55 миллионах световых лет от Земли в созвездии Девы. О",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437661-xabbl-zapecatlel-spiralnuiu-galaktiku-ngc-4698-vrashhaiushhuiusia-samu-s-soboi-vraznoboi-centr-perpendikuliaren-disku.html"
+    },
+    {
       "id": "zond-bepicolombo-provel-detalnye-izmereniya-soln-2026-09-22",
       "category": "Новости",
       "title": "Зонд BepiColombo провёл детальные измерения «солнечной бомбардировки» Меркурия — приборы впервые зафиксировали это вблизи",
