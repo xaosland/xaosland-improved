@@ -1,6 +1,307 @@
 {
   "articles": [
     {
+      "id": "ifixit-razobrali-iphone-18-pro-i-pro-max-novaya--2026-09-22",
+      "category": "Новости",
+      "title": "iFixit разобрали iPhone 18 Pro и Pro Max — новая камера дороже в ремонте, а батарея может потянуть за собой дисплей",
+      "excerpt": "Специалисты iFixit разобрали смартфоны iPhone 18 Pro и Pro Max, чтобы оценить их ремонтопригодность. Одним из отличий новинок является улучшенная система камер, получившая объектив с переменной диафрагмой, что позволило повысить качество снимков, но ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ifixit-razobrali-iphone-18-pro-i-pro-max-novaya--2026-09-22.webp",
+      "metaTitle": "iFixit разобрали iPhone 18 Pro и Pro Max — новая камера доро",
+      "metaDescription": "Специалисты iFixit разобрали смартфоны iPhone 18 Pro и Pro Max, чтобы оценить их ремонтопригодность. Одним из отличий новинок является улучшенная сист",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148807"
+    },
+    {
+      "id": "predstavleny-pervye-noutbuki-googlebook-osnasche-2026-09-22",
+      "category": "Новости",
+      "title": "Представлены первые ноутбуки Googlebook, оснащённые Android",
+      "excerpt": "Компания Google объявила о доступности для предзаказа трёх первых моделей ноутбуков Googlebook, созданных компаниями Acer, Dell и Lenovo (в разработке также находятся модели от ASUS и HP). Отправка устройств по предзаказам начнётся 4 октября. Серия G",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Представлены первые ноутбуки Googlebook, оснащённые Android",
+      "metaDescription": "Компания Google объявила о доступности для предзаказа трёх первых моделей ноутбуков Googlebook, созданных компаниями Acer, Dell и Lenovo (в разработке",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66312"
+    },
+    {
+      "id": "goryachaya-voda-vsego-za-3-sekundy-xiaomi-vypust-2026-09-22",
+      "category": "Новости",
+      "title": "Горячая вода — всего за 3 секунды. Xiaomi выпустила диспенсер с моментальным нагревом, и он стоит всего 60 долларов",
+      "excerpt": "Xiaomi представила в Китае умный диспенсер Mijia Instant Hot Water Dispenser Pro, способный выдавать горячую воду примерно через три секунды после включения. Продажи новинки стартуют 28 сентября, цена — 60 долларов.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/goryachaya-voda-vsego-za-3-sekundy-xiaomi-vypust-2026-09-22.webp",
+      "metaTitle": "Горячая вода — всего за 3 секунды. Xiaomi выпустила диспенсе",
+      "metaDescription": "Xiaomi представила в Китае умный диспенсер Mijia Instant Hot Water Dispenser Pro, способный выдавать горячую воду примерно через три секунды после вкл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437366-goriacaia-voda-vsego-za-3-sekundy-xiaomi-vypustila-dispenser-s-momentalnym-nagrevom-i-on-stoit-vsego-60-dollarov.html"
+    },
+    {
+      "id": "pobedil-bossa-posmotri-reklamu-svezhiy-patent-mi-2026-09-22",
+      "category": "Новости",
+      "title": "Победил босса — посмотри рекламу. Свежий патент Microsoft описывает довольно необычные места интеграции рекламы в играх",
+      "excerpt": "Компания Microsoft рассматривает возможность интеграции рекламы прямо в игры. Очередной её патент описывает новый подход, когда реклама будет показываться в естественные перерывы в игровом процессе. Как минимум сама компания их так называет.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pobedil-bossa-posmotri-reklamu-svezhiy-patent-mi-2026-09-22.webp",
+      "metaTitle": "Победил босса — посмотри рекламу. Свежий патент Microsoft оп",
+      "metaDescription": "Компания Microsoft рассматривает возможность интеграции рекламы прямо в игры. Очередной её патент описывает новый подход, когда реклама будет показыва",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/21/437367-pobedil-bossa-posmotri-reklamu-svezii-patent-microsoft-opisyvaet-dovolno-neobycnye-mesta-integracii-reklamy-v-igrax.html"
+    },
+    {
+      "id": "google-fined-403-million-over-gdpr-violations-ti-2026-09-22",
+      "category": "Новости",
+      "title": "Google оштрафована на 403 миллиона евро за нарушение GDPR, связанное с данными о местоположении",
+      "excerpt": "Google был оштрафован на 403 миллиона евро за нарушение закона ЕС о защите данных, GDPR, в том, как три его функции обрабатывали данные о местонахождении людей с мая 2018 года по февраль 2020 года. Комиссия по защите данных Ирландии (DPC), ведущий ре",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-fined-403-million-over-gdpr-violations-ti-2026-09-22.webp",
+      "metaTitle": "Google оштрафована на 403 миллиона евро за нарушение GDPR, с",
+      "metaDescription": "Google был оштрафован на 403 миллиона евро за нарушение закона ЕС о защите данных, GDPR, в том, как три его функции обрабатывали данные о местонахожде",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+    },
+    {
+      "id": "contagious-interview-campaign-compromises-30-000-2026-09-22",
+      "category": "Новости",
+      "title": "Заразительная кампания по проведению интервью скомпрометировала 30 000 устройств и украла 10,71 миллиона долларов в криптовалюте",
+      "excerpt": "Согласно новым совместным рекомендациям по кибербезопасности, северокорейские злоумышленники, стоящие за кампанией Contagious Interview, взломали по меньшей мере 30 000 устройств, расположенных в более чем 100 странах, и вытащили средства или учетные",
+      "date": "2026-09-21",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/contagious-interview-campaign-compromises-30-000-2026-09-22.webp",
+      "metaTitle": "Заразительная кампания по проведению интервью скомпрометиров",
+      "metaDescription": "Согласно новым совместным рекомендациям по кибербезопасности, северокорейские злоумышленники, стоящие за кампанией Contagious Interview, взломали по м",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/contagious-interview-campaign.html"
+    },
+    {
+      "id": "novaya-statya-obzor-ibp-ippon-na-ii-tae-1000-s-n-2026-09-22",
+      "category": "Новости",
+      "title": "Новая статья: Обзор ИБП Ippon Na+ II TAE 1000 с натрий-ионным аккумуляторами",
+      "excerpt": "У нас в гостях еще один ИБП с двойным преобразованием, но не простой, а на основе натрий-ионных аккумуляторов. Кроме того, новинка может похвастаться честным киловаттом активной мощности и широким набором интерфейсов удаленного управления",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-obzor-ibp-ippon-na-ii-tae-1000-s-n-2026-09-22.webp",
+      "metaTitle": "Новая статья: Обзор ИБП Ippon Na+ II TAE 1000 с натрий-ионны",
+      "metaDescription": "У нас в гостях еще один ИБП с двойным преобразованием, но не простой, а на основе натрий-ионных аккумуляторов. Кроме того, новинка может похвастаться ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148377"
+    },
+    {
+      "id": "smartfon-vivo-x500-debyutiroval-s-dimensity-9600-2026-09-22",
+      "category": "Новости",
+      "title": "Смартфон Vivo X500 дебютировал с Dimensity 9600M, камерами Zeiss и батареей на 7500 мА·ч",
+      "excerpt": "Vivo представила смартфон X500 с батареей на 7500 мА·ч и процессором Dimensity 9600M",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/smartfon-vivo-x500-debyutiroval-s-dimensity-9600-2026-09-22.webp",
+      "metaTitle": "Смартфон Vivo X500 дебютировал с Dimensity 9600M, камерами Z",
+      "metaDescription": "Vivo представила смартфон X500 с батареей на 7500 мА·ч и процессором Dimensity 9600M",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148825"
+    },
+    {
+      "id": "astronomy-vpervye-uvideli-kak-pulsar-pogloschaet-2026-09-22",
+      "category": "Новости",
+      "title": "Астрономы впервые увидели, как пульсар поглощает звёздный ветер со скоростью 540 000 км/ч",
+      "excerpt": "Астрономы с помощью японско-американской рентгеновской обсерватории XRISM впервые получили прямые наблюдения того, как плазма звёздного ветра падает на компактный объект. Наблюдения системы BP Crucis, расположенной в 13 000 световых лет от Земли, пок",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/astronomy-vpervye-uvideli-kak-pulsar-pogloschaet-2026-09-22.webp",
+      "metaTitle": "Астрономы впервые увидели, как пульсар поглощает звёздный ве",
+      "metaDescription": "Астрономы с помощью японско-американской рентгеновской обсерватории XRISM впервые получили прямые наблюдения того, как плазма звёздного ветра падает н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437420-astronomy-vpervye-uvideli-kak-pulsar-pogloshhaet-zvezdnyi-veter-so-skorostiu-540-000-kmc.html"
+    },
+    {
+      "id": "openai-prognoziruet-defitsit-denezhnyh-sredstv-n-2026-09-22",
+      "category": "Новости",
+      "title": "OpenAI прогнозирует дефицит денежных средств на $278 млрд к 2030 году",
+      "excerpt": "OpenAI ожидает совокупный отрицательный свободный денежный поток в размере $278 млрд в 2026–2030 годах. Такой прогноз содержится в презентации компании, с которой ознакомилась газета Financial Times данные приводит Reuters. При этом OpenAI рассчитыва",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-prognoziruet-defitsit-denezhnyh-sredstv-n-2026-09-22.webp",
+      "metaTitle": "OpenAI прогнозирует дефицит денежных средств на $278 млрд к ",
+      "metaDescription": "OpenAI ожидает совокупный отрицательный свободный денежный поток в размере $278 млрд в 2026–2030 годах. Такой прогноз содержится в презентации компани",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437422-openai-prognoziruet-deficit-deneznyx-sredstv-na-278-mlrd-k-2030-godu.html"
+    },
+    {
+      "id": "softbank-rasprodaet-aktsii-chtoby-privlech-11-ml-2026-09-22",
+      "category": "Новости",
+      "title": "SoftBank распродаёт акции чтобы привлечь $11 млрд на фоне новых вложений в OpenAI",
+      "excerpt": "SoftBank Group запустила размещение облигаций примерно на $11 млрд: $10 млрд приходится на долларовые бумаги, ещё €1 млрд — на еврооблигации. Как сообщают Reuters и Bloomberg, выпуск разделён на 5 траншей со сроками от 3,5 до 7,5 лет для долларовых б",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/softbank-rasprodaet-aktsii-chtoby-privlech-11-ml-2026-09-22.webp",
+      "metaTitle": "SoftBank распродаёт акции чтобы привлечь $11 млрд на фоне но",
+      "metaDescription": "SoftBank Group запустила размещение облигаций примерно на $11 млрд: $10 млрд приходится на долларовые бумаги, ещё €1 млрд — на еврооблигации. Как сооб",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437423-softbank-rasprodaet-akcii-ctoby-privlec-11-mlrd-na-fone-novyx-vlozenii-v-openai.html"
+    },
+    {
+      "id": "kitay-pritormozil-ipo-gumanoidnyh-robotov-posle--2026-09-22",
+      "category": "Новости",
+      "title": "Китай притормозил IPO гуманоидных роботов после взлёта и обвала Unitree",
+      "excerpt": "Китайский регулятор рынка ценных бумаг начал неформально отговаривать производителей гуманоидных роботов от выхода на биржу, пока они не смогут показать устойчивую выручку и понятный путь к сокращению убытков.",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-pritormozil-ipo-gumanoidnyh-robotov-posle--2026-09-22.webp",
+      "metaTitle": "Китай притормозил IPO гуманоидных роботов после взлёта и обв",
+      "metaDescription": "Китайский регулятор рынка ценных бумаг начал неформально отговаривать производителей гуманоидных роботов от выхода на биржу, пока они не смогут показа",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437425-kitai-pritormozil-ipo-gumanoidnyx-robotov-posle-vzleta-i-obvala-unitree.html"
+    },
+    {
+      "id": "glava-microsoft-ai-prizval-ssha-ne-otkladyvat-me-2026-09-22",
+      "category": "Новости",
+      "title": "Глава Microsoft AI призвал США не откладывать меры безопасности из-за Китая",
+      "excerpt": "Глава подразделения Microsoft AI Мустафа Сулейман заявил, что конкуренция с Китаем не должна становиться причиной для отсрочки мер безопасности в области искусственного интеллекта. В интервью CNN, вышедшем 20 сентября, он призвал США самостоятельно р",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/glava-microsoft-ai-prizval-ssha-ne-otkladyvat-me-2026-09-22.webp",
+      "metaTitle": "Глава Microsoft AI призвал США не откладывать меры безопасно",
+      "metaDescription": "Глава подразделения Microsoft AI Мустафа Сулейман заявил, что конкуренция с Китаем не должна становиться причиной для отсрочки мер безопасности в обла",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437426-glava-microsoft-ai-prizval-ssa-ne-otkladyvat-mery-bezopasnosti-iz-za-kitaia.html"
+    },
+    {
+      "id": "aws-otkazalas-ot-data-tsentra-v-tehase-posle-zap-2026-09-22",
+      "category": "Новости",
+      "title": "AWS отказалась от дата-центра в Техасе после запроса на 90% налоговой льготы",
+      "excerpt": "Amazon Web Services (AWS) отказалась от строительства дата-центра в округе Худ, штат Техас, после того как компания запрашивала налоговую льготу до 90% на срок до 30 лет. Об этом сообщила CBS News. Представитель AWS заявил, что округ Худ был одним из",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/aws-otkazalas-ot-data-tsentra-v-tehase-posle-zap-2026-09-22.webp",
+      "metaTitle": "AWS отказалась от дата-центра в Техасе после запроса на 90% ",
+      "metaDescription": "Amazon Web Services (AWS) отказалась от строительства дата-центра в округе Худ, штат Техас, после того как компания запрашивала налоговую льготу до 90",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437427-aws-otkazalas-ot-data-centra-v-texase-posle-zaprosa-na-90-nalogovoi-lgoty.html"
+    },
+    {
+      "id": "ssha-predlozhili-kitayu-ekstrenno-soobschat-ob-o-2026-09-22",
+      "category": "Новости",
+      "title": "США предложили Китаю экстренно сообщать об опасных инцидентах с ИИ",
+      "excerpt": "США предложили Китаю создать механизм уведомления об инцидентах с искусственным интеллектом, которые могут представлять угрозу национальной безопасности. Идею выдвинул министр финансов США Скотт Бессент во время переговоров с вице-премьером Китая Хэ ",
+      "date": "2026-09-21",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ssha-predlozhili-kitayu-ekstrenno-soobschat-ob-o-2026-09-22.webp",
+      "metaTitle": "США предложили Китаю экстренно сообщать об опасных инцидента",
+      "metaDescription": "США предложили Китаю создать механизм уведомления об инцидентах с искусственным интеллектом, которые могут представлять угрозу национальной безопаснос",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437428-ssa-predlozili-kitaiu-ekstrenno-soobshhat-ob-opasnyx-incidentax-s-ii.html"
+    },
+    {
       "id": "fake-lastpass-authenticator-installer-abuses-mic-2026-09-21",
       "category": "Новости",
       "title": "Поддельный установщик LastPass Authenticator злоупотребляет подписанным Microsoft драйвером, чтобы убить антивирус и EDR",
