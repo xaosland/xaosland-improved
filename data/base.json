@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "bank-rossii-razreshit-podrostkam-s-14-let-otkryv-2026-09-22",
+      "category": "Новости",
+      "title": "Банк России разрешит подросткам с 14 лет открывать счета в цифровых рублях",
+      "excerpt": "Банк России рассчитывает к концу 2027 года разрешить открывать счета в цифровых рублях гражданам в возрасте от 14 лет. Об этом заявила зампред ЦБ Зульфия Кахруманова во время онлайн-урока.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bank-rossii-razreshit-podrostkam-s-14-let-otkryv-2026-09-22.webp",
+      "metaTitle": "Банк России разрешит подросткам с 14 лет открывать счета в ц",
+      "metaDescription": "Банк России рассчитывает к концу 2027 года разрешить открывать счета в цифровых рублях гражданам в возрасте от 14 лет. Об этом заявила зампред ЦБ Зуль",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437582-bank-rossii-razresit-podrostkam-s-14-let-otkryvat-sceta-v-cifrovyx-rubliax.html"
+    },
+    {
+      "id": "webinar-tomorrow-inside-real-world-google-worksp-2026-09-22",
+      "category": "Новости",
+      "title": "Завтра вебинар: Реальные взломы Google Workspace",
+      "excerpt": "На завтрашнем вебинаре будут рассмотрены реальные нарушения в Google Workspace, связанные с социальной инженерией и вредоносными приложениями OAuth, от первоначального доступа до критически важных первых часов реагирования на инцидент. Узнайте, какие",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/webinar-tomorrow-inside-real-world-google-worksp-2026-09-22.webp",
+      "metaTitle": "Завтра вебинар: Реальные взломы Google Workspace",
+      "metaDescription": "На завтрашнем вебинаре будут рассмотрены реальные нарушения в Google Workspace, связанные с социальной инженерией и вредоносными приложениями OAuth, о",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/"
+    },
+    {
+      "id": "tsifrovoy-rubl-svyazhut-s-bankomatami-nalichnye--2026-09-22",
+      "category": "Новости",
+      "title": "Цифровой рубль свяжут с банкоматами: наличные можно будет снять напрямую со счёта",
+      "excerpt": "Банк России планирует в будущем разрешить россиянам снимать наличные непосредственно со счета цифрового рубля через банкоматы. Сейчас для получения наличных цифровые рубли сначала потребуется перевести на обычный безналичный счет в банке, после чего ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tsifrovoy-rubl-svyazhut-s-bankomatami-nalichnye--2026-09-22.webp",
+      "metaTitle": "Цифровой рубль свяжут с банкоматами: наличные можно будет сн",
+      "metaDescription": "Банк России планирует в будущем разрешить россиянам снимать наличные непосредственно со счета цифрового рубля через банкоматы. Сейчас для получения на",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437584-cifrovoi-rubl-sviazut-s-bankomatami-nalicnye-mozno-budet-sniat-napriamuiu-so-sceta.html"
+    },
+    {
+      "id": "yaponiya-gotovit-sorevnovaniya-ii-robotov-na-mks-2026-09-22",
+      "category": "Новости",
+      "title": "Япония готовит соревнования ИИ-роботов на МКС в 2027 году",
+      "excerpt": "Япония планирует провести на МКС соревнования ИИ-роботов уже в 2027 году. По данным новостного издания Nikkei Asia, команды будут разрабатывать системы на базе искусственного интеллекта для управления роботами в космосе, сам проект должен помочь подг",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yaponiya-gotovit-sorevnovaniya-ii-robotov-na-mks-2026-09-22.webp",
+      "metaTitle": "Япония готовит соревнования ИИ-роботов на МКС в 2027 году",
+      "metaDescription": "Япония планирует провести на МКС соревнования ИИ-роботов уже в 2027 году. По данным новостного издания Nikkei Asia, команды будут разрабатывать систем",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437583-iaponiia-gotovit-sorevnovaniia-ii-robotov-na-mks-v-2027-godu.html"
+    },
+    {
+      "id": "ai-is-set-to-help-cyber-attackers-much-more-than-2026-09-22",
+      "category": "Новости",
+      "title": "По словам британского чиновника, ИИ призван помочь киберзлоумышленникам гораздо больше, чем защитникам",
+      "excerpt": "Дэйв Чисмон, главный технический директор NCSC по архитектуре, заявил в своем блоге, что дисбаланс в искусственном интеллекте означает, что кибератаки, вероятно, будут расти, поскольку автоматизированная защита изо всех сил пытается идти в ногу со вр",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-is-set-to-help-cyber-attackers-much-more-than-2026-09-22.webp",
+      "metaTitle": "По словам британского чиновника, ИИ призван помочь киберзлоу",
+      "metaDescription": "Дэйв Чисмон, главный технический директор NCSC по архитектуре, заявил в своем блоге, что дисбаланс в искусственном интеллекте означает, что кибератаки",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders"
+    },
+    {
+      "id": "predstavlen-pochti-10-kilogrammovyy-noutbuk-dura-2026-09-22",
+      "category": "Новости",
+      "title": "Представлен почти 10-килограммовый ноутбук Durabook Z14I-DX3 с тремя экранами и Nvidia RTX",
+      "excerpt": "Durabook представила защищённую мобильную рабочую станцию Z14I-DX3, оснащённую тремя 14-дюймовыми дисплеями разрешения Full HD. Новинка выглядит как устройство из шпионского боевика, но внутри неё весьма серьёзное оснащение — современные процессоры I",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-pochti-10-kilogrammovyy-noutbuk-dura-2026-09-22.webp",
+      "metaTitle": "Представлен почти 10-килограммовый ноутбук Durabook Z14I-DX3",
+      "metaDescription": "Durabook представила защищённую мобильную рабочую станцию Z14I-DX3, оснащённую тремя 14-дюймовыми дисплеями разрешения Full HD. Новинка выглядит как у",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148860"
+    },
+    {
+      "id": "eto-pervyy-v-mire-smartfon-s-tremya-200-megapiks-2026-09-22",
+      "category": "Новости",
+      "title": "Это первый в мире смартфон с тремя 200-мегапиксельными камерами. Oppo Find X10 Pro Max получил уникальную систему Hasselblad, батарею 8000 мАч и защиту IP69",
+      "excerpt": "Вчера свои флагманы нового поколения представила Vivo, сегодня настал черед Oppo. Новым флагманом бренда стал Find X10 Pro Max, и на данный момент это единственный в мире смартфон с тремя 200-мегапиксельными камерами. Они вписаны в систему Hasselblad",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/eto-pervyy-v-mire-smartfon-s-tremya-200-megapiks-2026-09-22.webp",
+      "metaTitle": "Это первый в мире смартфон с тремя 200-мегапиксельными камер",
+      "metaDescription": "Вчера свои флагманы нового поколения представила Vivo, сегодня настал черед Oppo. Новым флагманом бренда стал Find X10 Pro Max, и на данный момент это",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437587-eto-pervyi-v-mire-smartfon-s-tremia-200-megapikselnymi-kamerami-oppo-find-x10-pro-max-polucil-unikalnuiu-sistemu-hasselblad-batareiu-8000-mac-i-zashhitu-ip69.html"
+    },
+    {
+      "id": "sokrascheniya-nasa-postavili-pod-vopros-sposobno-2026-09-22",
+      "category": "Новости",
+      "title": "Сокращения NASA поставили под вопрос способность комплекса Goddard строить космические телескопы",
+      "excerpt": "Центр космических полётов имени Годдарда NASA (Goddard Space Flight Center) пережил масштабное сокращение штата и инфраструктуры. По данным Scientific American, с марта 2020-го по январь 2025 года численность сотрудников и подрядчиков центра сократил",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sokrascheniya-nasa-postavili-pod-vopros-sposobno-2026-09-22.webp",
+      "metaTitle": "Сокращения NASA поставили под вопрос способность комплекса G",
+      "metaDescription": "Центр космических полётов имени Годдарда NASA (Goddard Space Flight Center) пережил масштабное сокращение штата и инфраструктуры. По данным Scientific",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437586-sokrashheniia-nasa-postavili-pod-vopros-sposobnost-kompleksa-goddard-stroit-kosmiceskie-teleskopy.html"
+    },
+    {
+      "id": "fiziki-nashli-sposob-otlichit-realnoe-vzaimodeys-2026-09-22",
+      "category": "Новости",
+      "title": "Физики нашли способ отличить реальное взаимодействие тёмной материи и тёмной энергии от математической подгонки параметров",
+      "excerpt": "Когда данные обзоров DESI, Планка и сверхновых указывают на то, что уравнение состояния тёмной энергии пересекает границу w = –1 — так называемый фантомный раздел, — возникает вопрос: указывает ли это на фундаментальное фантомное поле с отрицательной",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fiziki-nashli-sposob-otlichit-realnoe-vzaimodeys-2026-09-22.webp",
+      "metaTitle": "Физики нашли способ отличить реальное взаимодействие тёмной ",
+      "metaDescription": "Когда данные обзоров DESI, Планка и сверхновых указывают на то, что уравнение состояния тёмной энергии пересекает границу w = –1 — так называемый фант",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437588-fiziki-nasli-sposob-otlicit-realnoe-vzaimodeistvie-temnoi-materii-i-temnoi-energii-ot-matematiceskoi-podgonki-parametrov.html"
+    },
+    {
+      "id": "tak-snimaet-honor-magic-9-opublikovany-primery-f-2026-09-22",
+      "category": "Новости",
+      "title": "Так снимает Honor Magic 9: опубликованы примеры фото",
+      "excerpt": "Honor продолжает раскрывать подробности о смартфонах линейки Magic 9 (их официальная премьера, напомним, состоится 28 сентября). На этот раз компания опубликовала примеры фото, сделанные камерой базовой модели — Magic 9.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tak-snimaet-honor-magic-9-opublikovany-primery-f-2026-09-22.webp",
+      "metaTitle": "Так снимает Honor Magic 9: опубликованы примеры фото",
+      "metaDescription": "Honor продолжает раскрывать подробности о смартфонах линейки Magic 9 (их официальная премьера, напомним, состоится 28 сентября). На этот раз компания ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437589-taki-snimaet-honor-magic-9-opublikovany-primery-foto.html"
+    },
+    {
+      "id": "nightmare-eclipse-drops-new-microsoft-defender-e-2026-09-22",
+      "category": "Новости",
+      "title": "Nightmare Eclipse выпустила новый эксплойт в Microsoft Defender после раскрытия личности",
+      "excerpt": "Абдельхамид Насери, бывший сотрудник Microsoft в Германии, является источником информации об эксплойтах Nightmare Eclipse, также известного как Chaotic Eclipse. Сообщение Nightmare Eclipse раскрывает новый эксплойт Microsoft Defender после раскрытия ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nightmare-eclipse-drops-new-microsoft-defender-e-2026-09-22.webp",
+      "metaTitle": "Nightmare Eclipse выпустила новый эксплойт в Microsoft Defen",
+      "metaDescription": "Абдельхамид Насери, бывший сотрудник Microsoft в Германии, является источником информации об эксплойтах Nightmare Eclipse, также известного как Chaoti",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/"
+    },
+    {
+      "id": "novaya-igra-uproschennaya-slozhnost-i-uluchsheni-2026-09-22",
+      "category": "Новости",
+      "title": "«Новая игра +», упрощённая сложность и улучшения производительности: разработчик The Blood of Dawnwalker подтвердил первое большое обновление",
+      "excerpt": "Помимо «Новой игры +», на горизонте для вампирского ролевого боевика The Blood of Dawnwalker от основанной ведущими разработчиками The Witcher 3 и Cyberpunk 2077 студии Rebel Wolves замаячило ещё несколько ожидаемых нововведений. Источник изображений",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-igra-uproschennaya-slozhnost-i-uluchsheni-2026-09-22.webp",
+      "metaTitle": "«Новая игра +», упрощённая сложность и улучшения производите",
+      "metaDescription": "Помимо «Новой игры +», на горизонте для вампирского ролевого боевика The Blood of Dawnwalker от основанной ведущими разработчиками The Witcher 3 и Cyb",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148863"
+    },
+    {
+      "id": "kamera-hasselblad-s-tremya-200-megapikselnymi-se-2026-09-22",
+      "category": "Новости",
+      "title": "Камера Hasselblad с тремя 200-мегапиксельными сенсорами, IP69, 8000 мАч, 80 Вт — 820 долларов. Представлен Oppo Find X10",
+      "excerpt": "Oppo официально представила в Китае Find X10 — новую базовую модель линейки флагманских смартфонов. Стоимость стартует с 820 долларов.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kamera-hasselblad-s-tremya-200-megapikselnymi-se-2026-09-22.webp",
+      "metaTitle": "Камера Hasselblad с тремя 200-мегапиксельными сенсорами, IP6",
+      "metaDescription": "Oppo официально представила в Китае Find X10 — новую базовую модель линейки флагманских смартфонов. Стоимость стартует с 820 долларов.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437594-kamera-hasselblad-s-tremia-200-megapikselnymi-sensorami-ip69-8000-mac-80-vt-820-dollarov-predstavlen-oppo-find-x10.html"
+    },
+    {
+      "id": "brief-hijack-makes-elsevier-domains-redirect-to--2026-09-22",
+      "category": "Новости",
+      "title": "Кратковременный взлом приводит к перенаправлению доменов Elsevier на страницу LAPSUS$ «Глава II».",
+      "excerpt": "Три домена/веб-портала, принадлежащие голландской академической издательской компании Elsevier, перенаправляли пользователей на страницу под названием «LAPSUS$ GROUP, Chapter II», содержащую подписанное заявление, в котором насмехались над ФБР и отсч",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/brief-hijack-makes-elsevier-domains-redirect-to--2026-09-22.webp",
+      "metaTitle": "Кратковременный взлом приводит к перенаправлению доменов Els",
+      "metaDescription": "Три домена/веб-портала, принадлежащие голландской академической издательской компании Elsevier, перенаправляли пользователей на страницу под названием",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/elsevier-domains-hijack-lapsus/"
+    },
+    {
+      "id": "researchers-uncover-malware-that-uses-ai-to-choo-2026-09-22",
+      "category": "Новости",
+      "title": "Исследователи обнаружили вредоносное ПО, которое использует ИИ для выбора следующего шага",
+      "excerpt": "Чтобы помочь специалистам по безопасности выявлять вредоносные программы, использующие искусственный интеллект, исследователи из Cisco Talos поделились инфраструктурой с открытым исходным кодом, которая, как они надеются, будет использоваться для кла",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Исследователи обнаружили вредоносное ПО, которое использует ",
+      "metaDescription": "Чтобы помочь специалистам по безопасности выявлять вредоносные программы, использующие искусственный интеллект, исследователи из Cisco Talos поделилис",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/cairn-open-source-framework-ai-malware-closedquorum/"
+    },
+    {
       "id": "albaniya-stala-73-y-stranoy-podpisavshey-soglash-2026-09-22",
       "category": "Новости",
       "title": "Албания стала 73-й страной, подписавшей соглашения Artemis",
