@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "10-000-ma-ch-v-smartfone-v-rossii-startovali-pro-2026-09-23",
+      "category": "Новости",
+      "title": "10 000 мА·ч в смартфоне: в России стартовали продажи Redmi Note 17, Redmi Note 17 Pro 5G и дебютный Redmi Note 17 Pro Max 5G",
+      "excerpt": "Российские ретейлеры начали продавать новую серию смартфонов Xiaomi Redmi Note 17. В линейку вошли три модели — Redmi Note 17, Redmi Note 17 Pro 5G и дебютный Redmi Note 17 Pro Max 5G. Об этом сообщила пресс-служба компании diHouse, крупного поставщи",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/10-000-ma-ch-v-smartfone-v-rossii-startovali-pro-2026-09-23.webp",
+      "metaTitle": "10 000 мА·ч в смартфоне: в России стартовали продажи Redmi N",
+      "metaDescription": "Российские ретейлеры начали продавать новую серию смартфонов Xiaomi Redmi Note 17. В линейку вошли три модели — Redmi Note 17, Redmi Note 17 Pro 5G и ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437873-10-000-mac-v-smartfone-v-rossii-startovali-prodazi-redmi-note-17-redmi-note-17-pro-5g-i-debiutnyi-redmi-note-17-pro-max-5g.html"
+    },
+    {
+      "id": "malicious-ai-agents-steal-600k-credit-cards-infe-2026-09-23",
+      "category": "Новости",
+      "title": "Вредоносные ИИ-агенты украли 600 тысяч кредитных карт и заразили более 100 сайтов скиммерами",
+      "excerpt": "Финансово мотивированный злоумышленник использует среды агентов искусственного интеллекта с открытым исходным кодом для масштабных атак на сотни интернет-магазинов, похищая более 600 000 записей о кредитных картах. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/malicious-ai-agents-steal-600k-credit-cards-infe-2026-09-23.webp",
+      "metaTitle": "Вредоносные ИИ-агенты украли 600 тысяч кредитных карт и зара",
+      "metaDescription": "Финансово мотивированный злоумышленник использует среды агентов искусственного интеллекта с открытым исходным кодом для масштабных атак на сотни интер",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
+    },
+    {
+      "id": "na-ukraine-rasskazali-o-neuyazvimosti-reaktivnyh-2026-09-23",
+      "category": "Новости",
+      "title": "На Украине рассказали о неуязвимости реактивных «Гераней»",
+      "excerpt": "На Украине рассказали о неуязвимости реактивных «Гераней»",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/na-ukraine-rasskazali-o-neuyazvimosti-reaktivnyh-2026-09-23.webp",
+      "metaTitle": "На Украине рассказали о неуязвимости реактивных «Гераней»",
+      "metaDescription": "На Украине рассказали о неуязвимости реактивных «Гераней»",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/23/na-ukraine-rasskazali-o-neuyazvimosti-reaktivnyh-geraney/"
+    },
+    {
+      "id": "artemis-iii-otstaet-na-90-dney-nasa-riskuet-upus-2026-09-23",
+      "category": "Новости",
+      "title": "Artemis III отстаёт на 90 дней: NASA рискует упустить лунную гонку с Китаем",
+      "excerpt": "NASA теряет темп в ключевой лунной гонке. Администратор агентства Джаред Айзекман в служебном письме сообщил, что миссия Artemis III отстаёт от графика примерно на 3 месяца. Лучший сценарий теперь — старт летом 2027 года, и эта задержка напрямую угро",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/artemis-iii-otstaet-na-90-dney-nasa-riskuet-upus-2026-09-23.webp",
+      "metaTitle": "Artemis III отстаёт на 90 дней: NASA рискует упустить лунную",
+      "metaDescription": "NASA теряет темп в ключевой лунной гонке. Администратор агентства Джаред Айзекман в служебном письме сообщил, что миссия Artemis III отстаёт от график",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437875-artemis-iii-otstaet-na-90-dnei-nasa-riskuet-upustit-lunnuiu-gonku-s-kitaem.html"
+    },
+    {
+      "id": "horvatiya-podpisala-soglasheniya-artemidy-i-stal-2026-09-23",
+      "category": "Новости",
+      "title": "Хорватия подписала «Соглашения Артемиды» и стала 74-м участником лунного пакта NASA",
+      "excerpt": "Хорватия официально присоединилась к «Соглашениям Артемиды» (Artemis Accords), подписав в Загребе договор с США о принципах международного сотрудничества в гражданском исследовании Луны, Марса, комет и астероидов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/horvatiya-podpisala-soglasheniya-artemidy-i-stal-2026-09-23.webp",
+      "metaTitle": "Хорватия подписала «Соглашения Артемиды» и стала 74-м участн",
+      "metaDescription": "Хорватия официально присоединилась к «Соглашениям Артемиды» (Artemis Accords), подписав в Загребе договор с США о принципах международного сотрудничес",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437876-xorvatiia-podpisala-soglaseniia-artemidy-i-stala-74-m-ucastnikom-lunnogo-pakta-nasa.html"
+    },
+    {
+      "id": "youtube-predstavil-polzovatelskie-lenty-teper-al-2026-09-23",
+      "category": "Новости",
+      "title": "YouTube представил «Пользовательские ленты» — теперь алгоритм рекомендаций можно настроить простыми словами",
+      "excerpt": "YouTube даст пользователям возможность создавать собственные алгоритмы просмотра. Сегодня компания представила новую функцию «Пользовательские ленты» (custom feeds), позволяющую пользователю своими словами описать, какие именно видео он желает видеть",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/youtube-predstavil-polzovatelskie-lenty-teper-al-2026-09-23.webp",
+      "metaTitle": "YouTube представил «Пользовательские ленты» — теперь алгорит",
+      "metaDescription": "YouTube даст пользователям возможность создавать собственные алгоритмы просмотра. Сегодня компания представила новую функцию «Пользовательские ленты» ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148938"
+    },
+    {
+      "id": "youtube-zapustit-novye-ii-funktsii-dlya-blogerov-2026-09-23",
+      "category": "Новости",
+      "title": "YouTube запустит новые ИИ-функции для блогеров — дубляж в реальном времени, анализ привлекательности видео и динамические миниатюры",
+      "excerpt": "На мероприятии Made on YouTube компания анонсировала новые инструменты на базе ИИ, в том числе для YouTube Studio — приложения для управления каналами. Они используют ИИ для проверки различных подходов и выявления наиболее эффективных решений и призв",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/youtube-zapustit-novye-ii-funktsii-dlya-blogerov-2026-09-23.webp",
+      "metaTitle": "YouTube запустит новые ИИ-функции для блогеров — дубляж в ре",
+      "metaDescription": "На мероприятии Made on YouTube компания анонсировала новые инструменты на базе ИИ, в том числе для YouTube Studio — приложения для управления каналами",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148939"
+    },
+    {
+      "id": "a-leaked-gitlab-issue-email-address-lets-anyone--2026-09-23",
+      "category": "Новости",
+      "title": "Утечка адреса электронной почты проблемы GitLab позволяет любому отправлять код и выполнять задания CI от вашего имени",
+      "excerpt": "Частный адрес электронной почты, который GitLab предоставляет вам для отправки сообщений по электронной почте, является учетными данными. Любой, кто его получит, может отправить патч, который GitLab зафиксирует от вашего имени, в любую ветку, в котор",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/a-leaked-gitlab-issue-email-address-lets-anyone--2026-09-23.webp",
+      "metaTitle": "Утечка адреса электронной почты проблемы GitLab позволяет лю",
+      "metaDescription": "Частный адрес электронной почты, который GitLab предоставляет вам для отправки сообщений по электронной почте, является учетными данными. Любой, кто е",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
+    },
+    {
+      "id": "14-puskov-ariane-6-v-god-nuzhny-evrope-k-2031-mu-2026-09-23",
+      "category": "Новости",
+      "title": "14 пусков Ariane 6 в год нужны Европе к 2031-му, но производство даёт только 10",
+      "excerpt": "Европейский комиссар по обороне и космосу Андрюс Кубилюс (Andrius Kubilius) в выступлении на 2-й конференции Access to Space в Брюсселе прямо обозначил проблему: в ближайшие 5 лет государственный спрос на запуски превысит текущие мощности Европы. «До",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/14-puskov-ariane-6-v-god-nuzhny-evrope-k-2031-mu-2026-09-23.webp",
+      "metaTitle": "14 пусков Ariane 6 в год нужны Европе к 2031-му, но производ",
+      "metaDescription": "Европейский комиссар по обороне и космосу Андрюс Кубилюс (Andrius Kubilius) в выступлении на 2-й конференции Access to Space в Брюсселе прямо обозначи",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437877-14-puskov-ariane-6-v-god-nuzny-evrope-k-2031-mu-no-proizvodstvo-daet-tolko-10.html"
+    },
+    {
+      "id": "novyy-geympleynyy-treyler-podtverdil-datu-vyhoda-2026-09-23",
+      "category": "Новости",
+      "title": "Новый геймплейный трейлер подтвердил дату выхода древнегреческой градостроительной стратегии Theos: Cities of Myth в духе Zeus: Master of Olympus",
+      "excerpt": "Издатель Dotemu и разработчики Pharaoh: A New Era из французской студии Triskell Interactive объявили дату выхода древнегреческой градостроительной стратегии Theos: Cities of Myth, вдохновлённой Zeus: Master of Olympus образца 2000 года. Источник изо",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novyy-geympleynyy-treyler-podtverdil-datu-vyhoda-2026-09-23.webp",
+      "metaTitle": "Новый геймплейный трейлер подтвердил дату выхода древнегрече",
+      "metaDescription": "Издатель Dotemu и разработчики Pharaoh: A New Era из французской студии Triskell Interactive объявили дату выхода древнегреческой градостроительной ст",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148940"
+    },
+    {
+      "id": "habbl-sovershil-200-000-y-vitok-vokrug-zemli-spr-2026-09-23",
+      "category": "Новости",
+      "title": "«Хаббл» совершил 200 000-й виток вокруг Земли: спрос на телескоп в 7 раз превышает возможности",
+      "excerpt": "19 сентября космический телескоп «Хаббл» совершил 200 000-й виток вокруг Земли. За 36 лет работы он преодолел более 8 миллиардов километров и провёл свыше 1,7 миллиона наблюдений, оставаясь одним из самых продуктивных научных инструментов в истории.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/habbl-sovershil-200-000-y-vitok-vokrug-zemli-spr-2026-09-23.webp",
+      "metaTitle": "«Хаббл» совершил 200 000-й виток вокруг Земли: спрос на теле",
+      "metaDescription": "19 сентября космический телескоп «Хаббл» совершил 200 000-й виток вокруг Земли. За 36 лет работы он преодолел более 8 миллиардов километров и провёл с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437880-xabbl-soversil-200-000-i-vitok-vokrug-zemli-spros-na-teleskop-v-7-raz-prevysaet-vozmoznosti.html"
+    },
+    {
+      "id": "vnutri-korpusa-etogo-pk-rastet-sakura-titanovye--2026-09-23",
+      "category": "Новости",
+      "title": "Внутри корпуса этого ПК «растёт» сакура, титановые цветы которой раскрываются при нагреве. Aftershock продаёт Cherry Bloom за 14 000 долларов",
+      "excerpt": "Компания Aftershock создала настольный компьютер, у которого внутри корпуса «растёт» дерево. Более того, его цветы раскрываются при определённых условиях.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vnutri-korpusa-etogo-pk-rastet-sakura-titanovye--2026-09-23.webp",
+      "metaTitle": "Внутри корпуса этого ПК «растёт» сакура, титановые цветы кот",
+      "metaDescription": "Компания Aftershock создала настольный компьютер, у которого внутри корпуса «растёт» дерево. Более того, его цветы раскрываются при определённых услов",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437886-vnutri-korpusa-etogo-pk-rastet-sakura-titanovye-cvety-kotoroi-raskryvaiutsia-pri-nagreve-aftershock-prodaet-cherry-bloom-za-14-000-dollarov.html"
+    },
+    {
+      "id": "intel-gotovit-dva-novyh-protsessora-lineyki-core-2026-09-23",
+      "category": "Новости",
+      "title": "Intel готовит два новых процессора линейки Core 13-го поколения. Это модели HRE",
+      "excerpt": "Компания Intel готовится выпустить на рынок два новых процессора одной из старых линеек. Причём это даже не Core 14-го поколения, а Core 13-го поколения.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/intel-gotovit-dva-novyh-protsessora-lineyki-core-2026-09-23.webp",
+      "metaTitle": "Intel готовит два новых процессора линейки Core 13-го поколе",
+      "metaDescription": "Компания Intel готовится выпустить на рынок два новых процессора одной из старых линеек. Причём это даже не Core 14-го поколения, а Core 13-го поколен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437888-intel-gotovit-dva-novyx-processora-lineiki-core-13-go-pokoleniia-eto-modeli-hre.html"
+    },
+    {
+      "id": "ramses-ozhil-na-sborochnoy-ploschadke-esa-i-jaxa-2026-09-23",
+      "category": "Новости",
+      "title": "Ramses «ожил» на сборочной площадке: ESA и JAXA тестируют космический аппарат для защиты Земли от астероида",
+      "excerpt": "В чистой комнате компании OHB Italia в Милане состоялось первое включение бортового компьютера космического аппарата Ramses — совместной миссии Европейского и Японского космических агентств. В основном модуле спутника подали питание на интегрированны",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ramses-ozhil-na-sborochnoy-ploschadke-esa-i-jaxa-2026-09-23.webp",
+      "metaTitle": "Ramses «ожил» на сборочной площадке: ESA и JAXA тестируют ко",
+      "metaDescription": "В чистой комнате компании OHB Italia в Милане состоялось первое включение бортового компьютера космического аппарата Ramses — совместной миссии Европе",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437883-ramses-ozil-na-sborocnoi-ploshhadke-esa-i-jaxa-testiruiut-kosmiceskii-apparat-dlia-zashhity-zemli-ot-asteroida.html"
+    },
+    {
+      "id": "google-vypustila-ii-modeli-dlya-sinteza-rechi-ge-2026-09-23",
+      "category": "Новости",
+      "title": "Google выпустила ИИ-модели для синтеза речи Gemini 3.8 Flash TTS, которые умеют клонировать голос",
+      "excerpt": "Google представила Gemini 3.8 Flash TTS и Gemini 3.8 Flash-Lite TTS — две новые модели синтеза речи, которые превращают генерацию голоса из набора готовых вариантов в более гибкий инструмент для создания аудио. Модели позволяют создавать собственные ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/google-vypustila-ii-modeli-dlya-sinteza-rechi-ge-2026-09-23.webp",
+      "metaTitle": "Google выпустила ИИ-модели для синтеза речи Gemini 3.8 Flash",
+      "metaDescription": "Google представила Gemini 3.8 Flash TTS и Gemini 3.8 Flash-Lite TTS — две новые модели синтеза речи, которые превращают генерацию голоса из набора гот",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148941"
+    },
+    {
       "id": "14-dney-na-odnoy-zaryadke-datchiki-chss-i-spo2-b-2026-09-23",
       "category": "Новости",
       "title": "14 дней на одной зарядке, датчики ЧСС и SpO2, более 150 режимов тренировок, новые функции безопасности. Представлены умные часы Xiaomi Watch S5 — дешевле 200 долларов",
