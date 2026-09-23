@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "worries-about-an-ai-internet-takeover-gain-new-u-2026-09-23",
+      "category": "Новости",
+      "title": "Беспокойство по поводу захвата Интернета искусственным интеллектом приобретает новую актуальность среди сценариев Судного дня",
+      "excerpt": "Идея о том, что ИИ может отделиться и работать над достижением своей собственной цели, кажется исследователям и экспертам все более правдоподобной. Пост «Беспокойство по поводу захвата Интернета ИИ приобретает новую актуальность среди сценариев Судно",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/worries-about-an-ai-internet-takeover-gain-new-u-2026-09-23.webp",
+      "metaTitle": "Беспокойство по поводу захвата Интернета искусственным интел",
+      "metaDescription": "Идея о том, что ИИ может отделиться и работать над достижением своей собственной цели, кажется исследователям и экспертам все более правдоподобной. По",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/"
+    },
+    {
+      "id": "attackers-use-malicious-terraform-providers-to-d-2026-09-23",
+      "category": "Новости",
+      "title": "Злоумышленники используют вредоносных поставщиков Terraform для доставки вредоносного ПО Go через реестр HashiCorp",
+      "excerpt": "Исследователи кибербезопасности обнаружили вредоносное ПО на основе Go, распространяемое через два модуля Go и двух поставщиков Terraform. Это первый раз, когда злоумышленники используют централизованный репозиторий, размещенный на HashiCorp, в качес",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/attackers-use-malicious-terraform-providers-to-d-2026-09-23.webp",
+      "metaTitle": "Злоумышленники используют вредоносных поставщиков Terraform ",
+      "metaDescription": "Исследователи кибербезопасности обнаружили вредоносное ПО на основе Go, распространяемое через два модуля Go и двух поставщиков Terraform. Это первый ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
+    },
+    {
+      "id": "tehnologii-orbitalnoy-stantsii-haven-perenosyat--2026-09-23",
+      "category": "Новости",
+      "title": "Технологии орбитальной станции Haven переносят на Луну: Vast открыла лунное подразделение",
+      "excerpt": "Компания Vast, разрабатывающая коммерческую орбитальную станцию Haven, объявила о создании подразделения Lunar Programs. Производитель намерен использовать опыт создания космических станций и спутников для участия в лунной программе NASA.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tehnologii-orbitalnoy-stantsii-haven-perenosyat--2026-09-23.webp",
+      "metaTitle": "Технологии орбитальной станции Haven переносят на Луну: Vast",
+      "metaDescription": "Компания Vast, разрабатывающая коммерческую орбитальную станцию Haven, объявила о создании подразделения Lunar Programs. Производитель намерен использ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437895-texnologii-orbitalnoi-stancii-haven-perenosiat-na-lunu-vast-otkryla-lunnoe-podrazdelenie.html"
+    },
+    {
+      "id": "poisk-vody-na-lune-doverili-kartografam-nedr-ast-2026-09-23",
+      "category": "Новости",
+      "title": "Поиск воды на Луне доверили картографам недр: Astrolab и Interstellar Mapping объединились",
+      "excerpt": "Компания Astrolab заключила партнёрство с Interstellar Mapping для поиска воды на лунной поверхности в рамках подготовки NASA к строительству базы Moon Base. Специалисты Interstellar Mapping проведут анализ подповерхностного слоя грунта, чтобы выявит",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/poisk-vody-na-lune-doverili-kartografam-nedr-ast-2026-09-23.webp",
+      "metaTitle": "Поиск воды на Луне доверили картографам недр: Astrolab и Int",
+      "metaDescription": "Компания Astrolab заключила партнёрство с Interstellar Mapping для поиска воды на лунной поверхности в рамках подготовки NASA к строительству базы Moo",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437899-poisk-vody-na-lune-doverili-kartografam-nedr-astrolab-i-interstellar-mapping-obieedinilis.html"
+    },
+    {
+      "id": "hackers-start-exploiting-critical-wordpress-flaw-2026-09-23",
+      "category": "Новости",
+      "title": "Хакеры начинают использовать критический недостаток WordPress для выполнения кода",
+      "excerpt": "Злоумышленники перешли от проверки сайтов WordPress, уязвимых к CVE-2026-87902, к использованию уязвимости для записи на диск файлов, которые при доступе выполняют команды оболочки. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hackers-start-exploiting-critical-wordpress-flaw-2026-09-23.webp",
+      "metaTitle": "Хакеры начинают использовать критический недостаток WordPres",
+      "metaDescription": "Злоумышленники перешли от проверки сайтов WordPress, уязвимых к CVE-2026-87902, к использованию уязвимости для записи на диск файлов, которые при дост",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+    },
+    {
+      "id": "astronomy-podtverdili-samuyu-moloduyu-ekzoplanet-2026-09-23",
+      "category": "Новости",
+      "title": "Астрономы подтвердили самую молодую экзопланету из известных: Elias 2-24b младше миллиона лет, в 454 световых годах от Земли",
+      "excerpt": "Международная группа астрономов подтвердила открытие самой молодой экзопланеты из когда-либо обнаруженных. Объект назван Elias 2-24b и расположен в области звездообразования Змееносца на расстоянии примерно 454 световых лет от Земли. Экзопланета имее",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/astronomy-podtverdili-samuyu-moloduyu-ekzoplanet-2026-09-23.webp",
+      "metaTitle": "Астрономы подтвердили самую молодую экзопланету из известных",
+      "metaDescription": "Международная группа астрономов подтвердила открытие самой молодой экзопланеты из когда-либо обнаруженных. Объект назван Elias 2-24b и расположен в об",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437901-astronomy-podtverdili-samuiu-moloduiu-ekzoplanetu-iz-izvestnyx-elias-2-24b-mladse-milliona-let-v-454-svetovyx-godax-ot-zemli.html"
+    },
+    {
+      "id": "nadeyus-vy-pereputali-kadry-mestami-cdpr-hotela--2026-09-23",
+      "category": "Новости",
+      "title": "«Надеюсь, вы перепутали кадры местами»: CDPR хотела показать преимущества ремастера The Witcher 3 над оригинальной игрой, но что-то пошло не так",
+      "excerpt": "Польская студия CD Projekt Red решила продемонстрировать преимущества ремастера нашумевшего ролевого боевика с открытым миром The Witcher 3: Wild Hunt на примере оригинальной игры, но сравнение вышло не в пользу новой версии. Источник изображений: CD",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nadeyus-vy-pereputali-kadry-mestami-cdpr-hotela--2026-09-23.webp",
+      "metaTitle": "«Надеюсь, вы перепутали кадры местами»: CDPR хотела показать",
+      "metaDescription": "Польская студия CD Projekt Red решила продемонстрировать преимущества ремастера нашумевшего ролевого боевика с открытым миром The Witcher 3: Wild Hunt",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148942"
+    },
+    {
+      "id": "product-red-ot-xiaomi-predstavleny-prozrachnye-x-2026-09-23",
+      "category": "Новости",
+      "title": "Product Red от Xiaomi: представлены «прозрачные» Xiaomi 18 Pro и Xiaomi 18 Pro Max",
+      "excerpt": "Xiaomi представила специальное издание флагманов Xiaomi 18 Pro и Xiaomi 18 Pro Max — Transparent Special Edition. Смартфоны получили красный полупрозрачный корпус со стилизованной внутренней структурой, а также комплект аксессуаров в едином оформлени",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/product-red-ot-xiaomi-predstavleny-prozrachnye-x-2026-09-23.webp",
+      "metaTitle": "Product Red от Xiaomi: представлены «прозрачные» Xiaomi 18 P",
+      "metaDescription": "Xiaomi представила специальное издание флагманов Xiaomi 18 Pro и Xiaomi 18 Pro Max — Transparent Special Edition. Смартфоны получили красный полупрозр",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437903-product-red-ot-xiaomi-predstavleny-prozracnye-xiaomi-18-pro-i-xiaomi-18-pro-max.html"
+    },
+    {
+      "id": "geely-pereigrala-byd-na-ee-zhe-pole-geely-predst-2026-09-23",
+      "category": "Новости",
+      "title": "Geely переиграла BYD на её же поле: Geely представила мегазарядку 2,25 МВт, которая заряжает батарею электромобиля на 87% за 8,5 минуты",
+      "excerpt": "Geely представила новую систему сверхбыстрой зарядки Geely Smart Charging с пиковой мощностью до 2,25 МВт на один коннектор. Компания называет разработку отраслевым рекордом и планирует развернуть к концу 2027 года более 15 тысяч фирменных станций но",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/geely-pereigrala-byd-na-ee-zhe-pole-geely-predst-2026-09-23.webp",
+      "metaTitle": "Geely переиграла BYD на её же поле: Geely представила мегаза",
+      "metaDescription": "Geely представила новую систему сверхбыстрой зарядки Geely Smart Charging с пиковой мощностью до 2,25 МВт на один коннектор. Компания называет разрабо",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437904-geely-pereigrala-byd-na-ee-ze-pole-geely-predstavila-megazariadku-225-mvt-kotoraia-zariazaet-batareiu-elektromobilia-na-87-za-85-minuty.html"
+    },
+    {
+      "id": "no-evidence-of-successful-foreign-meddling-in-20-2026-09-23",
+      "category": "Новости",
+      "title": "Шпионские службы не обнаружили никаких доказательств успешного иностранного вмешательства в выборы 2024 года",
+      "excerpt": "По словам источников, знакомых с результатами секретной оценки, представители американской разведки не обнаружили никаких доказательств того, что какой-либо иностранный противник успешно вмешался в президентские выборы 2024 года.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/no-evidence-of-successful-foreign-meddling-in-20-2026-09-23.webp",
+      "metaTitle": "Шпионские службы не обнаружили никаких доказательств успешно",
+      "metaDescription": "По словам источников, знакомых с результатами секретной оценки, представители американской разведки не обнаружили никаких доказательств того, что како",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/trump-harris-election-meddling-russia"
+    },
+    {
+      "id": "qualcomm-predstavila-platformu-snapdragon-sound--2026-09-23",
+      "category": "Новости",
+      "title": "Qualcomm представила платформу Snapdragon Sound Elite Gen 2 для автономных наушников с ИИ и Wi-Fi 6E",
+      "excerpt": "Qualcomm официально анонсировала Snapdragon Sound Elite Gen 2 — новая флагманская платформа предназначена для компактных полностью беспроводных наушников, полноразмерных гарнитур, аудиоочков и других носимых устройств, которые смогут работать в полно",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/qualcomm-predstavila-platformu-snapdragon-sound--2026-09-23.webp",
+      "metaTitle": "Qualcomm представила платформу Snapdragon Sound Elite Gen 2 ",
+      "metaDescription": "Qualcomm официально анонсировала Snapdragon Sound Elite Gen 2 — новая флагманская платформа предназначена для компактных полностью беспроводных наушни",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148864"
+    },
+    {
+      "id": "ionq-targets-quantum-error-correction-bottleneck-2026-09-23",
+      "category": "Новости",
+      "title": "IonQ устраняет узкое место квантовой коррекции ошибок с помощью однопроцессорного декодераIonQ заявляет о грехе",
+      "excerpt": "Новый однопроцессорный декодер квантовых ошибок IonQ минимизирует затраты на классические вычисления при квантовой коррекции ошибок. Сообщение IonQ устраняет узкое место в квантовой коррекции ошибок с помощью однопроцессорного декодераIonQ говорит, ч",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ionq-targets-quantum-error-correction-bottleneck-2026-09-23.webp",
+      "metaTitle": "IonQ устраняет узкое место квантовой коррекции ошибок с помо",
+      "metaDescription": "Новый однопроцессорный декодер квантовых ошибок IonQ минимизирует затраты на классические вычисления при квантовой коррекции ошибок. Сообщение IonQ ус",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/"
+    },
+    {
+      "id": "kitayskiy-dalnemagistralnyy-layner-comac-c929-po-2026-09-23",
+      "category": "Новости",
+      "title": "Китайский дальнемагистральный лайнер COMAC C929 получил козырь в потенциальной борьбе с Boeing 787-9 Dreamliner и Airbus A330 — сертифицирован прочный композит",
+      "excerpt": "Китайский дальнемагистральный самолет C929 может получить углепластик на основе высокопрочного углеродного волокна отечественного производства класса T1100. Материал уже прошел важный этап сертификации и получил право войти в цепочку поставок проекта",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskiy-dalnemagistralnyy-layner-comac-c929-po-2026-09-23.webp",
+      "metaTitle": "Китайский дальнемагистральный лайнер COMAC C929 получил козы",
+      "metaDescription": "Китайский дальнемагистральный самолет C929 может получить углепластик на основе высокопрочного углеродного волокна отечественного производства класса ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437907-kitaiskii-dalnemagistralnyi-lainer-comac-c929-polucil-kozyr-v-potencialnoi-borbe-s-boeing-787-9-dreamliner-i-airbus-a330-sertificirovan-procnyi-kompozit.html"
+    },
+    {
+      "id": "check-point-warns-of-hackers-exploiting-security-2026-09-23",
+      "category": "Новости",
+      "title": "Check Point предупреждает о хакерах, использующих уязвимость Security Gateway VPN RCE",
+      "excerpt": "Компания Check Point, занимающаяся кибербезопасностью, подтвердила активное использование CVE-2026-85102, уязвимости удаленного выполнения кода (RCE) перед аутентификацией в функции обработки сертификатов VPN своего продукта шлюза безопасности. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/check-point-warns-of-hackers-exploiting-security-2026-09-23.webp",
+      "metaTitle": "Check Point предупреждает о хакерах, использующих уязвимость",
+      "metaDescription": "Компания Check Point, занимающаяся кибербезопасностью, подтвердила активное использование CVE-2026-85102, уязвимости удаленного выполнения кода (RCE) ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+    },
+    {
+      "id": "anthropic-obyavila-o-pervom-otkrytii-sdelannom-e-2026-09-23",
+      "category": "Новости",
+      "title": "Anthropic объявила о первом открытии, сделанном её биолабораторией, и сравнивает открытие с CRISPR",
+      "excerpt": "Компания Anthropic объявила о первом открытии, сделанном в её недавно запущенной лаборатории: модель Claude автономно обнаружила в генетических данных новую ферментную систему, напоминающую механизм редактирования генов CRISPR. Участие людей в процес",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-obyavila-o-pervom-otkrytii-sdelannom-e-2026-09-23.webp",
+      "metaTitle": "Anthropic объявила о первом открытии, сделанном её биолабора",
+      "metaDescription": "Компания Anthropic объявила о первом открытии, сделанном в её недавно запущенной лаборатории: модель Claude автономно обнаружила в генетических данных",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437908-anthropic-obieiavila-o-pervom-otkrytii-sdelannom-ee-biolaboratoriei-i-sravnivaet-otkrytie-s-crispr.html"
+    },
+    {
       "id": "10-000-ma-ch-v-smartfone-v-rossii-startovali-pro-2026-09-23",
       "category": "Новости",
       "title": "10 000 мА·ч в смартфоне: в России стартовали продажи Redmi Note 17, Redmi Note 17 Pro 5G и дебютный Redmi Note 17 Pro Max 5G",
