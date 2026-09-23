@@ -1,6 +1,291 @@
 {
   "articles": [
     {
+      "id": "kitayskaya-ymtc-dobilas-zapreta-dlya-micron-v-ge-2026-09-23",
+      "category": "Новости",
+      "title": "Китайская YMTC добилась запрета для Micron в Германии — под угрозой поставки 3D NAND",
+      "excerpt": "Китайская компания YMTC добилась судебных запретов против американской компании Micron в Германии в рамках продолжающегося около трёх лет патентного спора. Немецкий суд признал, что Micron нарушила два патента YMTC, связанные с технологией 3D NAND. И",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-ymtc-dobilas-zapreta-dlya-micron-v-ge-2026-09-23.webp",
+      "metaTitle": "Китайская YMTC добилась запрета для Micron в Германии — под ",
+      "metaDescription": "Китайская компания YMTC добилась судебных запретов против американской компании Micron в Германии в рамках продолжающегося около трёх лет патентного с",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148944"
+    },
+    {
+      "id": "indiya-i-esa-prodlili-partnerstvo-do-2032-goda-v-2026-09-23",
+      "category": "Новости",
+      "title": "Индия и ESA продлили партнёрство до 2032 года: в планах — космическая погода и роботизированные миссии",
+      "excerpt": "Индийская организация космических исследований (ISRO) и Европейское космическое агентство (ESA) продлили соглашение о сотрудничестве до 2032 года.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/indiya-i-esa-prodlili-partnerstvo-do-2032-goda-v-2026-09-23.webp",
+      "metaTitle": "Индия и ESA продлили партнёрство до 2032 года: в планах — ко",
+      "metaDescription": "Индийская организация космических исследований (ISRO) и Европейское космическое агентство (ESA) продлили соглашение о сотрудничестве до 2032 года.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437913-indiia-i-esa-prodlili-partnerstvo-do-2032-goda-v-planax-kosmiceskaia-pogoda-i-robotizirovannye-missii.html"
+    },
+    {
+      "id": "haker-poruchil-ii-agentam-vzlamyvat-internet-mag-2026-09-23",
+      "category": "Новости",
+      "title": "Хакер поручил ИИ-агентам взламывать интернет-магазины — украдены данные более 600 тыс. банковских карт",
+      "excerpt": "Неустановленный злоумышленник, движимый по всей видимости финансовыми мотивами, использует фреймворки для создания ИИ-агентов с открытым исходным кодом для масштабных атак на сотни интернет-магазинов. Хакер уже похитил данные более 600 тыс. банковски",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/haker-poruchil-ii-agentam-vzlamyvat-internet-mag-2026-09-23.webp",
+      "metaTitle": "Хакер поручил ИИ-агентам взламывать интернет-магазины — укра",
+      "metaDescription": "Неустановленный злоумышленник, движимый по всей видимости финансовыми мотивами, использует фреймворки для создания ИИ-агентов с открытым исходным кодо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148945"
+    },
+    {
+      "id": "ii-biolaboratoriya-anthropic-sdelala-pervoe-otkr-2026-09-23",
+      "category": "Новости",
+      "title": "ИИ-биолаборатория Anthropic сделала первое открытие — найденную ферментную систему уже сравнивают с CRISPR",
+      "excerpt": "Компания Anthropic заявила, что её ИИ Claude «самостоятельно обнаружил» новую ферментную систему, схожую с механизмом, лежащим в основе мощного инструмента редактирования генов CRISPR. Об этом пишет The Verge. Источник изображения: Anthropic",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-biolaboratoriya-anthropic-sdelala-pervoe-otkr-2026-09-23.webp",
+      "metaTitle": "ИИ-биолаборатория Anthropic сделала первое открытие — найден",
+      "metaDescription": "Компания Anthropic заявила, что её ИИ Claude «самостоятельно обнаружил» новую ферментную систему, схожую с механизмом, лежащим в основе мощного инстру",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148946"
+    },
+    {
+      "id": "predstavlen-novyy-geely-ex5-333-l-s-635-km-hoda--2026-09-23",
+      "category": "Новости",
+      "title": "Представлен новый Geely EX5: 333 л.с., 635 км хода, 23 динамика, холодильник — всего 147,8 тыс. юаней (1,87 млн рублей)",
+      "excerpt": "Geely представила обновленный электрический кроссовер Galaxy E5 (в России, Белоруссии и других странах Европы он известен как Geely EX5). Модель переехала на 800-вольтовую архитектуру, получила поддержку более мощной зарядки и лидар. В Китае автомоби",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-novyy-geely-ex5-333-l-s-635-km-hoda--2026-09-23.webp",
+      "metaTitle": "Представлен новый Geely EX5: 333 л.с., 635 км хода, 23 динам",
+      "metaDescription": "Geely представила обновленный электрический кроссовер Galaxy E5 (в России, Белоруссии и других странах Европы он известен как Geely EX5). Модель перее",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437915-predstavlen-novyi-geely-ex5-333-ls-635-km-xoda23-dinamika-xolodilnik-vsego-1478-tys-iuanei-187-mln-rublei.html"
+    },
+    {
+      "id": "100-dyuymov-6000-nit-i-7560-zon-podsvetki-hisens-2026-09-23",
+      "category": "Новости",
+      "title": "100 дюймов, 6000 нит и 7560 зон подсветки: Hisense представила продвинутые телевизоры RGB-Mini LED серии E7S Pro+",
+      "excerpt": "Hisense представила серию телевизоров E7S Pro+ с подсветкой RGB-Mini LED. В линейку вошли модели с диагоналями 75, 85 и 100 дюймов. В зависимости от версии они получили до 7560 зон локального затемнения, пиковую яркость до 6000 нит и поддержку Dolby ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/100-dyuymov-6000-nit-i-7560-zon-podsvetki-hisens-2026-09-23.webp",
+      "metaTitle": "100 дюймов, 6000 нит и 7560 зон подсветки: Hisense представи",
+      "metaDescription": "Hisense представила серию телевизоров E7S Pro+ с подсветкой RGB-Mini LED. В линейку вошли модели с диагоналями 75, 85 и 100 дюймов. В зависимости от в",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437916-100-diuimov-6000-nit-i-7560-zon-podsvetki-hisense-predstavila-prodvinutye-televizory-rgb-mini-led-serii-e7s-pro.html"
+    },
+    {
+      "id": "novaya-statya-obzor-i-test-protsessornogo-kulera-2026-09-23",
+      "category": "Новости",
+      "title": "Новая статья: Обзор и тест процессорного кулера Scythe FUMA 3: а что там в Японии?",
+      "excerpt": "Возвращаться на рынок всегда непросто, а уж тем более, когда этот рынок уже заполнен новыми брендами и десятками кулеров от каждого из них. В этом случае нужно не только установить на товар более выгодную цену, но и предложить больше остальных за эти",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-obzor-i-test-protsessornogo-kulera-2026-09-23.webp",
+      "metaTitle": "Новая статья: Обзор и тест процессорного кулера Scythe FUMA ",
+      "metaDescription": "Возвращаться на рынок всегда непросто, а уж тем более, когда этот рынок уже заполнен новыми брендами и десятками кулеров от каждого из них. В этом слу",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148723"
+    },
+    {
+      "id": "edr-evasion-stack-helps-process-injection-slip-p-2026-09-23",
+      "category": "Новости",
+      "title": "Стек EDR Evasion помогает процессу внедрения обойти защиту",
+      "excerpt": "Метод отравления параметров процесса позволяет избежать EDR путем внедрения кода в структуры инициализации процесса без использования API-интерфейсов Windows, за которыми обычно следят инструменты EDR.",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Стек EDR Evasion помогает процессу внедрения обойти защиту",
+      "metaDescription": "Метод отравления параметров процесса позволяет избежать EDR путем внедрения кода в структуры инициализации процесса без использования API-интерфейсов ",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses"
+    },
+    {
+      "id": "openai-predostavit-kievu-dostup-k-svoey-programm-2026-09-23",
+      "category": "Новости",
+      "title": "OpenAI предоставит Киеву доступ к своей программе кибербезопасности",
+      "excerpt": "OpenAI предоставит Киеву доступ к своей программе кибербезопасности",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-predostavit-kievu-dostup-k-svoey-programm-2026-09-23.webp",
+      "metaTitle": "OpenAI предоставит Киеву доступ к своей программе кибербезоп",
+      "metaDescription": "OpenAI предоставит Киеву доступ к своей программе кибербезопасности",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/23/openai-predostavit-kievu-dostup-k-svoey-programme-kiberbezopasnosti/"
+    },
+    {
+      "id": "bentley-nakonets-sdelala-elektromobil-i-srazu-na-2026-09-23",
+      "category": "Новости",
+      "title": "Bentley наконец сделала электромобиль — и сразу на 888 л.с. Представлен Bentley Torcal",
+      "excerpt": "После нескольких лет разработки Bentley представила Torcal — свой первый серийный электромобиль. Пятиметровый кроссовер стал не электрической версией Bentayga, а полностью самостоятельной моделью и четвертой линейкой в гамме британской марки. В топов",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bentley-nakonets-sdelala-elektromobil-i-srazu-na-2026-09-23.webp",
+      "metaTitle": "Bentley наконец сделала электромобиль — и сразу на 888 л.с. ",
+      "metaDescription": "После нескольких лет разработки Bentley представила Torcal — свой первый серийный электромобиль. Пятиметровый кроссовер стал не электрической версией ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/bentley-nakonec-sdelala-elektromobil-i-srazu-na-888-ls-predstavlen-bentley-torcal.html"
+    },
+    {
+      "id": "pakistanskie-astronavty-vskore-otpravyatsya-na-o-2026-09-23",
+      "category": "Новости",
+      "title": "Пакистанские астронавты вскоре отправятся на орбитальную станцию Китая",
+      "excerpt": "Два пакистанских астронавта приступили к тренировкам в Китайском центре подготовки космонавтов и в ближайшее время примут участие в миссиях на борту китайской орбитальной станции. Об этом на брифинге Госсовета КНР сообщил заместитель главного констру",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pakistanskie-astronavty-vskore-otpravyatsya-na-o-2026-09-23.webp",
+      "metaTitle": "Пакистанские астронавты вскоре отправятся на орбитальную ста",
+      "metaDescription": "Два пакистанских астронавта приступили к тренировкам в Китайском центре подготовки космонавтов и в ближайшее время примут участие в миссиях на борту к",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437914-pakistanskie-astronavty-vskore-otpraviatsia-na-orbitalnuiu-stanciiu-kitaia.html"
+    },
+    {
+      "id": "new-remcontrol-android-banking-malware-targets-u-2026-09-23",
+      "category": "Новости",
+      "title": "Новое банковское вредоносное ПО RemControl для Android нацелено на пользователей в Европе и Канаде",
+      "excerpt": "Новая платформа Android «вредоносное ПО как услуга» (MaaS) под названием RemControl нацелена на пользователей с помощью вредоносных рекламных кампаний, выдающих себя за приложение TVTap IPTV. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-remcontrol-android-banking-malware-targets-u-2026-09-23.webp",
+      "metaTitle": "Новое банковское вредоносное ПО RemControl для Android нацел",
+      "metaDescription": "Новая платформа Android «вредоносное ПО как услуга» (MaaS) под названием RemControl нацелена на пользователей с помощью вредоносных рекламных кампаний",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/"
+    },
+    {
+      "id": "rossiya-lokalizuet-oborudovanie-dlya-5g-otechest-2026-09-23",
+      "category": "Новости",
+      "title": "Россия локализует оборудование для 5G: отечественные радиомодули для сетей LTE и 5G запустят в серийное производство осенью 2026 года",
+      "excerpt": "Осенью 2026 года в России начнется серийное производство отечественных радиомодулей для базовых станций LTE и 5G. Выпуск оборудования развернут на предприятии «Yadro Фаб Дубна» в особой экономической зоне «Дубна» Московской области. В разработку ново",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiya-lokalizuet-oborudovanie-dlya-5g-otechest-2026-09-23.webp",
+      "metaTitle": "Россия локализует оборудование для 5G: отечественные радиомо",
+      "metaDescription": "Осенью 2026 года в России начнется серийное производство отечественных радиомодулей для базовых станций LTE и 5G. Выпуск оборудования развернут на пре",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437918-rossiia-lokalizuet-oborudovanie-dlia-5g-otecestvennye-radiomoduli-dlia-setei-lte-i-5g-zapustiat-v-seriinoe-proizvodstvo-oseniu-2026-goda.html"
+    },
+    {
+      "id": "uchenye-nauchilis-delat-ekrany-oled-pochti-tak-z-2026-09-23",
+      "category": "Новости",
+      "title": "Ученые научились делать экраны OLED почти так же, как микросхемы — при помощи фотолитографии",
+      "excerpt": "Ученые Швейцарской высшей технической школы Цюриха (ETH Zurich) разработали новый класс органических светящихся материалов, совместимых с фотолитографией — технологией, которая широко используется при производстве современных микросхем. В перспективе",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uchenye-nauchilis-delat-ekrany-oled-pochti-tak-z-2026-09-23.webp",
+      "metaTitle": "Ученые научились делать экраны OLED почти так же, как микрос",
+      "metaDescription": "Ученые Швейцарской высшей технической школы Цюриха (ETH Zurich) разработали новый класс органических светящихся материалов, совместимых с фотолитограф",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437919-ucenye-naucilis-delat-ekrany-oled-pocti-tak-ze-kak-mikrosxemy-pri-pomoshhi-fotolitografii.html"
+    },
+    {
       "id": "worries-about-an-ai-internet-takeover-gain-new-u-2026-09-23",
       "category": "Новости",
       "title": "Беспокойство по поводу захвата Интернета искусственным интеллектом приобретает новую актуальность среди сценариев Судного дня",
