@@ -1,6 +1,317 @@
 {
   "articles": [
     {
+      "id": "anthropic-predstavila-claude-opus-5-5-flagmanski-2026-09-23",
+      "category": "Новости",
+      "title": "Anthropic представила Claude Opus 5.5 — флагманский ИИ для всех, который дешевле и во многом не хуже Fable 5.1",
+      "excerpt": "Anthropic анонсировала языковую модель Claude Opus 5.5 — первую в новом семействе Claude 5.5. Компания называет её своим новым флагманом: модель должна заметно превосходить Claude Opus 5 в агентном программировании, работе с компьютером и прикладных ",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-predstavila-claude-opus-5-5-flagmanski-2026-09-23.webp",
+      "metaTitle": "Anthropic представила Claude Opus 5.5 — флагманский ИИ для в",
+      "metaDescription": "Anthropic анонсировала языковую модель Claude Opus 5.5 — первую в новом семействе Claude 5.5. Компания называет её своим новым флагманом: модель должн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148883"
+    },
+    {
+      "id": "nvidia-vkladyvaet-esche-1-5-mlrd-v-sb-energy-so--2026-09-23",
+      "category": "Новости",
+      "title": "Nvidia вкладывает ещё $1,5 млрд в SB Energy со скидкой 90% от цены IPO",
+      "excerpt": "Nvidia приобретает дополнительную долю в разработчике дата-центров SB Energy на $1,5 миллиарда. За эту стоимость Nvidia получает неголосующие акции нового класса N через частное размещение — экономический интерес без права голоса.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nvidia-vkladyvaet-esche-1-5-mlrd-v-sb-energy-so--2026-09-23.webp",
+      "metaTitle": "Nvidia вкладывает ещё $1,5 млрд в SB Energy со скидкой 90% о",
+      "metaDescription": "Nvidia приобретает дополнительную долю в разработчике дата-центров SB Energy на $1,5 миллиарда. За эту стоимость Nvidia получает неголосующие акции но",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437646-nvidia-vkladyvaet-eshhe-15-mlrd-v-sb-energy-so-skidkoi-90-ot-ceny-ipo.html"
+    },
+    {
+      "id": "roskosmos-ne-sobiraetsya-otkazyvatsya-ot-rakety--2026-09-23",
+      "category": "Новости",
+      "title": "Роскосмос не собирается отказываться от ракеты «Союз-2.1а» — даже несмотря на то, что «Союз-2.1а» мощнее",
+      "excerpt": "Роскосмос продолжит использовать ракеты-носители «Союз-2.1а» для пилотируемых полетов к Международной космической станции и запусков автоматических аппаратов. Адаптация более современной и энергоэффективной версии «Союз-2.1б» не означает отказ от сущ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/roskosmos-ne-sobiraetsya-otkazyvatsya-ot-rakety--2026-09-23.webp",
+      "metaTitle": "Роскосмос не собирается отказываться от ракеты «Союз-2.1а» —",
+      "metaDescription": "Роскосмос продолжит использовать ракеты-носители «Союз-2.1а» для пилотируемых полетов к Международной космической станции и запусков автоматических ап",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437649-roskosmos-ne-sobiraetsia-otkazyvatsia-ot-rakety-soiuz-21a-daze-nesmotria-na-to-cto-soiuz-21a-moshhnee.html"
+    },
+    {
+      "id": "plachu-slezami-schastya-modder-dobavil-v-dark-so-2026-09-23",
+      "category": "Новости",
+      "title": "«Плачу слезами счастья»: моддер добавил в Dark Souls 2 бесшовный кооператив на шестерых, и фанаты в восторге",
+      "excerpt": "Горячо ожидаемый мод Seamless Co-op от Yui (он же LukeYui), который снабжает ролевой экшен Dark Souls 2 в издании Scholar of the First Sin бесшовным кооперативом, спустя полтора года разработки добрался до первого публичного релиза. Источник изображе",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/plachu-slezami-schastya-modder-dobavil-v-dark-so-2026-09-23.webp",
+      "metaTitle": "«Плачу слезами счастья»: моддер добавил в Dark Souls 2 бесшо",
+      "metaDescription": "Горячо ожидаемый мод Seamless Co-op от Yui (он же LukeYui), который снабжает ролевой экшен Dark Souls 2 в издании Scholar of the First Sin бесшовным к",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148881"
+    },
+    {
+      "id": "osnova-buduschih-flagmanov-qualcomm-predstavila--2026-09-23",
+      "category": "Новости",
+      "title": "Основа будущих флагманов: Qualcomm представила мобильные процессоры Snapdragon 8 Elite Gen 6 и Elite Extreme Gen 6",
+      "excerpt": "Компания Qualcomm официально представила флагманские мобильные процессоры нового поколения: массовый Snapdragon 8 Elite Gen 6 и более мощный Snapdragon 8 Elite Extreme Gen 6 с расширенными возможностями искусственного интеллекта. Источник изображений",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/osnova-buduschih-flagmanov-qualcomm-predstavila--2026-09-23.webp",
+      "metaTitle": "Основа будущих флагманов: Qualcomm представила мобильные про",
+      "metaDescription": "Компания Qualcomm официально представила флагманские мобильные процессоры нового поколения: массовый Snapdragon 8 Elite Gen 6 и более мощный Snapdrago",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148844"
+    },
+    {
+      "id": "predstavlen-motorola-signature-27-pervyy-smartfo-2026-09-23",
+      "category": "Новости",
+      "title": "Представлен Motorola Signature 27 — первый смартфон на чипе Snapdragon 8 Elite Extreme Gen 6",
+      "excerpt": "На конференции Snapdragon Summit компания Motorola представила Signature 27. Это первый смартфон, работающий на процессоре Qualcomm Snapdragon 8 Elite Extreme Gen 6, который был анонсирован на том же мероприятии. Источник изображений: Motorola",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-motorola-signature-27-pervyy-smartfo-2026-09-23.webp",
+      "metaTitle": "Представлен Motorola Signature 27 — первый смартфон на чипе ",
+      "metaDescription": "На конференции Snapdragon Summit компания Motorola представила Signature 27. Это первый смартфон, работающий на процессоре Qualcomm Snapdragon 8 Elite",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148872"
+    },
+    {
+      "id": "openai-vypustila-gpt-6-sol-i-luna-oni-deshevle-p-2026-09-23",
+      "category": "Новости",
+      "title": "OpenAI выпустила GPT-6 Sol и Luna — они дешевле предшественниц и делают меньше ошибок",
+      "excerpt": "В начале текущего месяца OpenAI выпустила GPT-6 Astra — самую мощную и функциональную ИИ-модель компании, которую она без лишней скромности называет «лучшей в мире моделью» для выполнения широкого спектра задач, включая работу за компьютером и написа",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-vypustila-gpt-6-sol-i-luna-oni-deshevle-p-2026-09-23.webp",
+      "metaTitle": "OpenAI выпустила GPT-6 Sol и Luna — они дешевле предшественн",
+      "metaDescription": "В начале текущего месяца OpenAI выпустила GPT-6 Astra — самую мощную и функциональную ИИ-модель компании, которую она без лишней скромности называет «",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148885"
+    },
+    {
+      "id": "microsoft-disrupts-eviltokens-device-code-phishi-2026-09-23",
+      "category": "Новости",
+      "title": "Microsoft прекращает работу службы фишинга кода устройств EvilTokens",
+      "excerpt": "Microsoft конфисковала 50 веб-сайтов и отключила более 150 доменов в рамках скоординированных усилий по борьбе с платформой «фишинг как услуга», нацеленной на учетные записи Microsoft 365.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Microsoft прекращает работу службы фишинга кода устройств Ev",
+      "metaDescription": "Microsoft конфисковала 50 веб-сайтов и отключила более 150 доменов в рамках скоординированных усилий по борьбе с платформой «фишинг как услуга», нацел",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
+    },
+    {
+      "id": "veduschie-matematiki-sozdali-nezavisimuyu-gruppu-2026-09-23",
+      "category": "Новости",
+      "title": "Ведущие математики создали независимую группу для работы с ИИ-компаниями",
+      "excerpt": "21 сентября объявила о создании Консультативная группа по математике и искусственному интеллекту (Advisory Group on Mathematics and Artificial Intelligence), которая будет консультировать ИИ-компании по вопросам взаимодействия с математическими иссле",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/veduschie-matematiki-sozdali-nezavisimuyu-gruppu-2026-09-23.webp",
+      "metaTitle": "Ведущие математики создали независимую группу для работы с И",
+      "metaDescription": "21 сентября объявила о создании Консультативная группа по математике и искусственному интеллекту (Advisory Group on Mathematics and Artificial Intelli",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437662-vedushhie-matematiki-sozdali-nezavisimuiu-gruppu-dlia-raboty-s-ii-kompaniiami.html"
+    },
+    {
+      "id": "apple-gotovit-svoy-analog-whoop-populyarnogo-bio-2026-09-23",
+      "category": "Новости",
+      "title": "Apple готовит свой аналог Whoop — популярного био-трекера без экрана",
+      "excerpt": "Apple разрабатывает фитнес-трекер без экрана, который по формату будет похож на носимое устройство Whoop. Компания уже создала несколько прототипов, однако пока не решила, станет ли выпускать этот продукт. Если проект получит продолжение, его появлен",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-gotovit-svoy-analog-whoop-populyarnogo-bio-2026-09-23.webp",
+      "metaTitle": "Apple готовит свой аналог Whoop — популярного био-трекера бе",
+      "metaDescription": "Apple разрабатывает фитнес-трекер без экрана, который по формату будет похож на носимое устройство Whoop. Компания уже создала несколько прототипов, о",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148884"
+    },
+    {
+      "id": "openai-blizka-k-resheniyu-esche-odnoy-zadachi-ty-2026-09-23",
+      "category": "Новости",
+      "title": "OpenAI близка к решению ещё одной задачи тысячелетия — гипотезы Ходжа",
+      "excerpt": "OpenAI близка к решению ещё одной задачи тысячелетия — гипотезы Ходжа, сообщает The Information со ссылкой на источник внутри компании.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-blizka-k-resheniyu-esche-odnoy-zadachi-ty-2026-09-23.webp",
+      "metaTitle": "OpenAI близка к решению ещё одной задачи тысячелетия — гипот",
+      "metaDescription": "OpenAI близка к решению ещё одной задачи тысячелетия — гипотезы Ходжа, сообщает The Information со ссылкой на источник внутри компании.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437663-openai-blizka-k-reseniiu-eshhe-odnoi-zadaci-tysiaceletiia-gipotezy-xodza.html"
+    },
+    {
+      "id": "kitaytsy-pokazali-lexus-lm-chto-takoe-roskosh-pr-2026-09-23",
+      "category": "Новости",
+      "title": "Китайцы показали Lexus LM, что такое роскошь. Представлен Voyah Dreamer 9: 761 л.с., полный привод, полноуправляемое шасси, 1500 км на баке бензина — 520 тыс. юаней (6,6 млн рублей)",
+      "excerpt": "Бренд Voyah сегодня официально представил новый флагманский минивэн Dreamer 9. Модель доступна с подключаемой гибридной и полностью электрической силовыми установками, причем обе используют 800-вольтовую архитектуру. Цены стартуют с 420 тыс. юаней (5",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitaytsy-pokazali-lexus-lm-chto-takoe-roskosh-pr-2026-09-23.webp",
+      "metaTitle": "Китайцы показали Lexus LM, что такое роскошь. Представлен Vo",
+      "metaDescription": "Бренд Voyah сегодня официально представил новый флагманский минивэн Dreamer 9. Модель доступна с подключаемой гибридной и полностью электрической сило",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437665-kitaicy-pokazali-lexus-lm-cto-takoe-roskos-predstavlen-voyah-dreamer-9-761-ls-polnyi-privod-polnoupravliaemoe-sassi-1500-km-na-bake-benzina-520-tys-iuanei-66-mln-rublei.html"
+    },
+    {
+      "id": "chto-to-poshlo-ne-tak-samsung-ubrala-datu-global-2026-09-23",
+      "category": "Новости",
+      "title": "Что-то пошло не так: Samsung убрала дату глобального релиза One UI 9.0 для Galaxy S26, Galaxy S26 Plus и Galaxy S26 Ultra",
+      "excerpt": "Samsung пока не начала глобальное распространение стабильной One UI 9.0 на базе Android 17 для смартфонов Galaxy S26: апдейт вышел еще 16 сентября, но доступен только в Южной Корее. Изначально Samsung сообщила, что в Таиланде One UI 9.0 станет доступ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chto-to-poshlo-ne-tak-samsung-ubrala-datu-global-2026-09-23.webp",
+      "metaTitle": "Что-то пошло не так: Samsung убрала дату глобального релиза ",
+      "metaDescription": "Samsung пока не начала глобальное распространение стабильной One UI 9.0 на базе Android 17 для смартфонов Galaxy S26: апдейт вышел еще 16 сентября, но",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437668-cto-to-poslo-ne-tak-samsung-ubrala-datu-globalnogo-reliza-one-ui-90-dlia-galaxy-s26-galaxy-s26-plus-i-galaxy-s26-ultra.html"
+    },
+    {
+      "id": "novaya-statya-obzor-msi-mpg-infinite-z3-x3d-etot-2026-09-23",
+      "category": "Новости",
+      "title": "Новая статья: Обзор MSI MPG Infinite Z3 X3D: этот ПК готов к GTA VI «на максималках» (в отличие от PS5)",
+      "excerpt": "Готовый игровой системный блок MSI, побывавший в тестовой лаборатории 3DNews, легко описать одной фразой: предел мечтаний — особенно в эпоху дефицита чипов памяти. В этом обзоре вы познакомитесь с мощным ПК, игровой производительности которого с запа",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/novaya-statya-obzor-msi-mpg-infinite-z3-x3d-etot-2026-09-23.webp",
+      "metaTitle": "Новая статья: Обзор MSI MPG Infinite Z3 X3D: этот ПК готов к",
+      "metaDescription": "Готовый игровой системный блок MSI, побывавший в тестовой лаборатории 3DNews, легко описать одной фразой: предел мечтаний — особенно в эпоху дефицита ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148404"
+    },
+    {
+      "id": "u-dilerov-lada-mozhno-budet-zakazat-bronevik-za--2026-09-23",
+      "category": "Новости",
+      "title": "У дилеров Lada можно будет заказать броневик — за 16 млн рублей",
+      "excerpt": "На выставке Comtrans в Казани представили SKM M9 — новый коммерческий автомобиль марки АвтоВАЗа, который до конца 2026 года должен поступить в продажу. Одной из самых необычных модификаций стал бронированный семиместный минивэн стоимостью около 16 мл",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/u-dilerov-lada-mozhno-budet-zakazat-bronevik-za--2026-09-23.webp",
+      "metaTitle": "У дилеров Lada можно будет заказать броневик — за 16 млн руб",
+      "metaDescription": "На выставке Comtrans в Казани представили SKM M9 — новый коммерческий автомобиль марки АвтоВАЗа, который до конца 2026 года должен поступить в продажу",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437680-u-dilerov-lada-mozno-budet-zakazat-bronevik-za-16-mln-rublei.html"
+    },
+    {
       "id": "avstraliya-prisoedinilas-k-prizyvu-22-stran-vves-2026-09-22",
       "category": "Новости",
       "title": "Австралия присоединилась к призыву 22 стран ввести международные меры безопасности для ИИ",
