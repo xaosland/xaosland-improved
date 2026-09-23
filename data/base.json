@@ -1,6 +1,316 @@
 {
   "articles": [
     {
+      "id": "vpervye-v-rossii-sber-zapustil-oformlenie-semeyn-2026-09-23",
+      "category": "Новости",
+      "title": "Впервые в России: Сбер запустил оформление семейной налоговой выплаты через банковское приложение",
+      "excerpt": "Сбер запустил пилотный сервис для оформления семейной налоговой выплаты через «СберБанк Онлайн». Как подчеркнули в пресс-службе, банк стал первым среди российских кредитных организаций, где появился такой цифровой сценарий.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/vpervye-v-rossii-sber-zapustil-oformlenie-semeyn-2026-09-23.webp",
+      "metaTitle": "Впервые в России: Сбер запустил оформление семейной налогово",
+      "metaDescription": "Сбер запустил пилотный сервис для оформления семейной налоговой выплаты через «СберБанк Онлайн». Как подчеркнули в пресс-службе, банк стал первым сред",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437848-vpervye-v-rossii-sber-zapustil-oformlenie-semeinoi-nalogovoi-vyplaty-cerez-bankovskoe-prilozenie.html"
+    },
+    {
+      "id": "latvia-arrests-suspected-hacker-for-electronics--2026-09-23",
+      "category": "Новости",
+      "title": "В Латвии арестован подозреваемый хакер за взлом компании по ремонту электроники",
+      "excerpt": "Латвийская полиция арестовала 23-летнего мужчину, подозреваемого во взломе как минимум двух компаний, краже личной информации и попытке вымогательства денег у жертв.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/latvia-arrests-suspected-hacker-for-electronics--2026-09-23.webp",
+      "metaTitle": "В Латвии арестован подозреваемый хакер за взлом компании по ",
+      "metaDescription": "Латвийская полиция арестовала 23-летнего мужчину, подозреваемого во взломе как минимум двух компаний, краже личной информации и попытке вымогательства",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/latvia-hacker-arrest-cyberattack"
+    },
+    {
+      "id": "zabytyy-pin-kod-bolshe-ne-prigovor-android-17-po-2026-09-23",
+      "category": "Новости",
+      "title": "Забытый PIN-код больше не приговор: Android 17 позволит разблокировать смартфон через аккаунт Google",
+      "excerpt": "В пятой бета-версии обновления Android 17 QPR2 обнаружилась новая функция — пользователи, которые забыли PIN-код, пароль или графический ключ на смартфоне, смогут разблокировать устройство через учётную запись Google. Соответствующая опция появилась ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/zabytyy-pin-kod-bolshe-ne-prigovor-android-17-po-2026-09-23.webp",
+      "metaTitle": "Забытый PIN-код больше не приговор: Android 17 позволит разб",
+      "metaDescription": "В пятой бета-версии обновления Android 17 QPR2 обнаружилась новая функция — пользователи, которые забыли PIN-код, пароль или графический ключ на смарт",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148924"
+    },
+    {
+      "id": "sipearl-postavila-pervye-obraztsy-evropeyskogo-s-2026-09-23",
+      "category": "Новости",
+      "title": "SiPearl поставила первые образцы европейского серверного процессора Rhea1 для суперкомпьютера JUPITER",
+      "excerpt": "Французский разработчик процессоров SiPearl предоставил образцы своего первого процессора Rhea1 компании Bull, которая приступила к интеграции чипа в свою платформу BullSequana XH3000 для первого в Европе суперкомпьютера экзафлопсного класса JUPITER ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sipearl-postavila-pervye-obraztsy-evropeyskogo-s-2026-09-23.webp",
+      "metaTitle": "SiPearl поставила первые образцы европейского серверного про",
+      "metaDescription": "Французский разработчик процессоров SiPearl предоставил образцы своего первого процессора Rhea1 компании Bull, которая приступила к интеграции чипа в ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148925"
+    },
+    {
+      "id": "fake-claude-max-giveaway-tricks-users-into-handi-2026-09-23",
+      "category": "Новости",
+      "title": "Поддельная раздача Claude Max вынуждает пользователей передать свои учетные данные Google.",
+      "excerpt": "Исследователи Malwarebytes обнаружили, что фальшивая раздача Claude Max использует поддельное окно входа в Google для кражи учетных данных пользователей. «Браузер в браузере» — не новая технология. Исследователи документировали это с 2022 года, а в и",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fake-claude-max-giveaway-tricks-users-into-handi-2026-09-23.webp",
+      "metaTitle": "Поддельная раздача Claude Max вынуждает пользователей переда",
+      "metaDescription": "Исследователи Malwarebytes обнаружили, что фальшивая раздача Claude Max использует поддельное окно входа в Google для кражи учетных данных пользовател",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/"
+    },
+    {
+      "id": "lookout-targets-smishing-voice-cloning-and-vishi-2026-09-23",
+      "category": "Новости",
+      "title": "Lookout нацелен на смишинг, клонирование голоса и вишинг с помощью защиты мобильных устройств в реальном времени.",
+      "excerpt": "Lookout запустил Social Engineering Protection (SEP), новый модуль в рамках платформы Lookout Mobile AI Security. SEP обеспечивает автоматическую защиту в режиме реального времени от мобильных угроз следующего поколения, основанных на искусственном и",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "мобильное",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/lookout-targets-smishing-voice-cloning-and-vishi-2026-09-23.webp",
+      "metaTitle": "Lookout нацелен на смишинг, клонирование голоса и вишинг с п",
+      "metaDescription": "Lookout запустил Social Engineering Protection (SEP), новый модуль в рамках платформы Lookout Mobile AI Security. SEP обеспечивает автоматическую защи",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/lookout-unveils-social-engineering-protection/"
+    },
+    {
+      "id": "distributiv-peppermint-os-perehodit-s-x-org-serv-2026-09-23",
+      "category": "Новости",
+      "title": "Дистрибутив Peppermint OS переходит с X.Org Server на XLibre",
+      "excerpt": "Разработчики Linux-дистрибутива Peppermint OS, построенного на пакетной базе Debian GNU/Linux и предлагающего пользовательское окружение на основе рабочего стола Xfce и файлового менеджера Thunar, анонсировали переход на использование по умолчанию XL",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Дистрибутив Peppermint OS переходит с X.Org Server на XLibre",
+      "metaDescription": "Разработчики Linux-дистрибутива Peppermint OS, построенного на пакетной базе Debian GNU/Linux и предлагающего пользовательское окружение на основе раб",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66329"
+    },
+    {
+      "id": "barracuda-brings-ai-security-and-governance-with-2026-09-23",
+      "category": "Новости",
+      "title": "Barracuda делает безопасность и управление ИИ доступными для небольших организаций",
+      "excerpt": "Компания Barracuda Networks выпустила Barracuda AI Data Security, решение для обеспечения безопасности и управления с использованием искусственного интеллекта, специально созданное для организаций с ограниченными ресурсами и поставщиков управляемых у",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/barracuda-brings-ai-security-and-governance-with-2026-09-23.webp",
+      "metaTitle": "Barracuda делает безопасность и управление ИИ доступными для",
+      "metaDescription": "Компания Barracuda Networks выпустила Barracuda AI Data Security, решение для обеспечения безопасности и управления с использованием искусственного ин",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/barracuda-ai-data-security/"
+    },
+    {
+      "id": "darkme-rat-trades-zero-days-for-plain-phishing-e-2026-09-23",
+      "category": "Новости",
+      "title": "DarkMe RAT меняет нулевой день на обычные фишинговые письма",
+      "excerpt": "DarkMe, троян удаленного доступа и похититель информации, который ранее был связан с группой угроз, нацеленной на трейдеров финансового рынка и пользователей криптовалют, был снова обнаружен. На этот раз его распространение было упрощено: вместо испо",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/darkme-rat-trades-zero-days-for-plain-phishing-e-2026-09-23.webp",
+      "metaTitle": "DarkMe RAT меняет нулевой день на обычные фишинговые письма",
+      "metaDescription": "DarkMe, троян удаленного доступа и похититель информации, который ранее был связан с группой угроз, нацеленной на трейдеров финансового рынка и пользо",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/"
+    },
+    {
+      "id": "airbus-doverila-steam-deck-upravlenie-prototipom-2026-09-23",
+      "category": "Новости",
+      "title": "Airbus доверила Steam Deck управление прототипом ровера ExoMars",
+      "excerpt": "При испытаниях прототипа марсохода ExoMars в условиях, имитирующих среду Красной планеты, инженеры Airbus воспользовались портативной игровой консолью Valve Steam Deck. Эксперимент демонстрирует, что игровое устройство может служить практичным инстру",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/airbus-doverila-steam-deck-upravlenie-prototipom-2026-09-23.webp",
+      "metaTitle": "Airbus доверила Steam Deck управление прототипом ровера ExoM",
+      "metaDescription": "При испытаниях прототипа марсохода ExoMars в условиях, имитирующих среду Красной планеты, инженеры Airbus воспользовались портативной игровой консолью",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148926"
+    },
+    {
+      "id": "predstavlen-xiaomi-18-pro-kompaktnyy-flagman-na--2026-09-23",
+      "category": "Новости",
+      "title": "Представлен Xiaomi 18 Pro. Компактный флагман на Snapdragon 8 Elite Extreme Gen 6 с батареей емкостью 7000 мАч и 200-мегапиксельной камерой Leica — за 895 долларов",
+      "excerpt": "Вместе со смартфоном Xiaomi 18 Pro Max сегодня представили модель подешевле и покомпактнее — Xiaomi 18 Pro. Цены — от 895 долларов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-xiaomi-18-pro-kompaktnyy-flagman-na--2026-09-23.webp",
+      "metaTitle": "Представлен Xiaomi 18 Pro. Компактный флагман на Snapdragon ",
+      "metaDescription": "Вместе со смартфоном Xiaomi 18 Pro Max сегодня представили модель подешевле и покомпактнее — Xiaomi 18 Pro. Цены — от 895 долларов.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437857-predstavlen-xiaomi-18-pro-kompaktnyi-flagman-na-snapdragon-8-elite-extreme-gen-6-s-batareei-emkostiu-7000-mac-i-200-megapikselnoi-kameroi-leica-za-895-dollarov.html"
+    },
+    {
+      "id": "kitay-sdelal-pervyy-shag-k-kosmicheskim-tsod-ii--2026-09-23",
+      "category": "Новости",
+      "title": "Китай сделал первый шаг к космическим ЦОД — ИИ-спутник Supercomputing-1 начал обрабатывать данные на орбите",
+      "excerpt": "Китай вывел на орбиту девять спутников, в том числе первый аппарат, предназначенный для локальной обработки алгоритмов искусственного интеллекта. Ракета Kinetica 1 Y18, управляемая китайской космической компанией CAS Space, стартовала 20 сентября, со",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-sdelal-pervyy-shag-k-kosmicheskim-tsod-ii--2026-09-23.webp",
+      "metaTitle": "Китай сделал первый шаг к космическим ЦОД — ИИ-спутник Super",
+      "metaDescription": "Китай вывел на орбиту девять спутников, в том числе первый аппарат, предназначенный для локальной обработки алгоритмов искусственного интеллекта. Раке",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148927"
+    },
+    {
+      "id": "network-solutions-dark-web-monitoring-alerts-sma-2026-09-23",
+      "category": "Новости",
+      "title": "Сетевые решения Dark Web Monitoring предупреждают малый бизнес о раскрытии данных, связанных с доменом",
+      "excerpt": "Network Solutions запустила Dark Web Monitoring, новую функцию безопасности, которая предупреждает малые предприятия, когда информация, связанная с их доменом, появляется в известных данных об утечках, и предлагает шаги, которые они могут предпринять",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/network-solutions-dark-web-monitoring-alerts-sma-2026-09-23.webp",
+      "metaTitle": "Сетевые решения Dark Web Monitoring предупреждают малый бизн",
+      "metaDescription": "Network Solutions запустила Dark Web Monitoring, новую функцию безопасности, которая предупреждает малые предприятия, когда информация, связанная с их",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/"
+    },
+    {
+      "id": "portnox-detects-and-removes-unauthorized-ai-appl-2026-09-23",
+      "category": "Новости",
+      "title": "Portnox обнаруживает и удаляет несанкционированные приложения искусственного интеллекта с управляемых устройств.",
+      "excerpt": "Portnox объявила о новых возможностях обнаружения несанкционированных приложений и агентов искусственного интеллекта на управляемых устройствах и автоматического применения политики безопасности, ограничения, помещения в карантин или удаления неутвер",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/portnox-detects-and-removes-unauthorized-ai-appl-2026-09-23.webp",
+      "metaTitle": "Portnox обнаруживает и удаляет несанкционированные приложени",
+      "metaDescription": "Portnox объявила о новых возможностях обнаружения несанкционированных приложений и агентов искусственного интеллекта на управляемых устройствах и авто",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/portnox-shadow-ai-control-and-visibility/"
+    },
+    {
+      "id": "80-000-relay-servers-help-users-in-china-slip-pa-2026-09-23",
+      "category": "Новости",
+      "title": "80 000 ретрансляционных серверов помогают пользователям в Китае обойти запреты региона AI в США",
+      "excerpt": "По данным Team Cymru, более 80 000 ретрансляционных серверов помогают пользователям в Китае обходить географические ограничения на ведущие американские модели искусственного интеллекта. «То, что мы обнаружили, — это целая экосистема, созданная специа",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/80-000-relay-servers-help-users-in-china-slip-pa-2026-09-23.webp",
+      "metaTitle": "80 000 ретрансляционных серверов помогают пользователям в Ки",
+      "metaDescription": "По данным Team Cymru, более 80 000 ретрансляционных серверов помогают пользователям в Китае обходить географические ограничения на ведущие американски",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/china-ai-relay-frontier-model-abuse/"
+    },
+    {
       "id": "kitayskaya-hygon-predstavila-chetyrehyadernye-x8-2026-09-23",
       "category": "Новости",
       "title": "Китайская Hygon представила четырёхъядерные x86-процессоры для промышленных систем и робототехники",
