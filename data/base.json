@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "xiaomi-18-pro-i-18-pro-max-pervymi-poluchat-snap-2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi 18 Pro и 18 Pro Max первыми получат Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Extreme Gen 6",
+      "excerpt": "Президент Xiaomi Лу Вэйбин подтвердил, что линейка Xiaomi 18 Pro станет мировым дебютом нового поколения флагманских мобильных платформ Qualcomm. Презентация состоится сегодня, 23 октября.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-pro-i-18-pro-max-pervymi-poluchat-snap-2026-09-23.webp",
+      "metaTitle": "Xiaomi 18 Pro и 18 Pro Max первыми получат Snapdragon 8 Elit",
+      "metaDescription": "Президент Xiaomi Лу Вэйбин подтвердил, что линейка Xiaomi 18 Pro станет мировым дебютом нового поколения флагманских мобильных платформ Qualcomm. През",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437712-xiaomi-18-pro-i-18-pro-max-pervymi-polucat-snapdragon-8-elite-gen-6-i-snapdragon-8-elite-extreme-gen-6.html"
+    },
+    {
+      "id": "xiaomi-vypustila-kompaktnuyu-posudomoyku-za-250--2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi выпустила компактную посудомойку за 250 долларов — горячая сушка при 80 °C и УФ-хранение",
+      "excerpt": "Xiaomi начала продажи Mijia Smart Dishwasher Countertop 5-Setting Pot в Китае. Устройство получило белый корпус со скруглёнными углами и передний LED-дисплей. Габариты составляют 550 × 598 × 350 мм, глубина дверцы — 600 мм, а внутри достаточно места ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-kompaktnuyu-posudomoyku-za-250--2026-09-23.webp",
+      "metaTitle": "Xiaomi выпустила компактную посудомойку за 250 долларов — го",
+      "metaDescription": "Xiaomi начала продажи Mijia Smart Dishwasher Countertop 5-Setting Pot в Китае. Устройство получило белый корпус со скруглёнными углами и передний LED-",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437713-xiaomi-vypustila-kompaktnuiu-posudomoiku-za-250-dollarov-goriacaia-suska-pri-80-c-i-uf-xranenie.html"
+    },
+    {
+      "id": "kofevarka-polnogo-tsikla-xiaomi-s-pomolom-vzvesh-2026-09-23",
+      "category": "Новости",
+      "title": "Кофеварка полного цикла Xiaomi с помолом, взвешиванием, экстракцией и сотней рецептов доступна для предзаказа в Китае",
+      "excerpt": "Xiaomi Mijia Smart Italian Semi-Automatic Coffee Maker Pro открыла предварительные заказы в Китае. Официальная цена устройства составляет 4999 юаней, на этапе предзаказа — 4439 юаней, а с учётом государственной субсидии стоимость снижается до 3395,84",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kofevarka-polnogo-tsikla-xiaomi-s-pomolom-vzvesh-2026-09-23.webp",
+      "metaTitle": "Кофеварка полного цикла Xiaomi с помолом, взвешиванием, экст",
+      "metaDescription": "Xiaomi Mijia Smart Italian Semi-Automatic Coffee Maker Pro открыла предварительные заказы в Китае. Официальная цена устройства составляет 4999 юаней, ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437714-kofevarka-polnogo-cikla-xiaomi-s-pomolom-vzvesivaniem-ekstrakciei-i-sotnei-receptov-dostupna-dlia-predzakaza-v-kitae.html"
+    },
+    {
+      "id": "product-showcase-scamwise-checks-the-red-flags-b-2026-09-23",
+      "category": "Новости",
+      "title": "Демонстрация продукта: Scamwise проверяет красные флажки, прежде чем вы клюнете на удочку",
+      "excerpt": "Scamwise — это бесплатная служба проверки мошенничества от Savi, которая проверяет подозрительные сообщения, электронные письма, веб-сайты, номера телефонов, изображения и реальные ситуации на предмет признаков мошенничества. Сервис работает в любом ",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/product-showcase-scamwise-checks-the-red-flags-b-2026-09-23.webp",
+      "metaTitle": "Демонстрация продукта: Scamwise проверяет красные флажки, пр",
+      "metaDescription": "Scamwise — это бесплатная служба проверки мошенничества от Savi, которая проверяет подозрительные сообщения, электронные письма, веб-сайты, номера тел",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/"
+    },
+    {
+      "id": "52-zubtsa-kontrol-temperatury-500-raz-v-sekundu--2026-09-23",
+      "category": "Новости",
+      "title": "52 зубца, контроль температуры 500 раз в секунду, плазма и 70 минут работы. Xiaomi представила беспроводной выпрямитель",
+      "excerpt": "Xiaomi представила Mijia Wireless Hair Straightener 2 — обновлённый беспроводной выпрямитель для волос, который получил улучшенную систему нагрева и увеличенное число зубцов расчёски.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/52-zubtsa-kontrol-temperatury-500-raz-v-sekundu--2026-09-23.webp",
+      "metaTitle": "52 зубца, контроль температуры 500 раз в секунду, плазма и 7",
+      "metaDescription": "Xiaomi представила Mijia Wireless Hair Straightener 2 — обновлённый беспроводной выпрямитель для волос, который получил улучшенную систему нагрева и у",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437716-52-zubca-kontrol-temperatury-500-raz-v-sekundu-plazma-i-70-minut-raboty-xiaomi-predstavila-besprovodnoi-vypriamitel.html"
+    },
+    {
+      "id": "xiaomi-vypustila-posudomoyku-na-20-komplektov-52-2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi выпустила посудомойку на 20 комплектов — 52 000 Па и паровая сушка при 115 °C",
+      "excerpt": "Xiaomi начала продажи встраиваемой посудомоечной машины Mijia Smart Dishwasher Built-in 20-Set Container в Китае. Рекомендованная цена составляет 4599 юаней, но на старте устройство можно приобрести за 3999 юаней или 600 долларов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-posudomoyku-na-20-komplektov-52-2026-09-23.webp",
+      "metaTitle": "Xiaomi выпустила посудомойку на 20 комплектов — 52 000 Па и ",
+      "metaDescription": "Xiaomi начала продажи встраиваемой посудомоечной машины Mijia Smart Dishwasher Built-in 20-Set Container в Китае. Рекомендованная цена составляет 4599",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437718-xiaomi-vypustila-posudomoiku-na-20-komplektov-52-000-pa-i-parovaia-suska-pri-115-c.html"
+    },
+    {
+      "id": "12-sposobov-razblokirovki-raspoznavanie-litsa-i--2026-09-23",
+      "category": "Новости",
+      "title": "12 способов разблокировки, распознавание лица и вен ладони, год без подзарядки. Умный замок Xiaomi с 2K-камерой поступает в продажу в Китае",
+      "excerpt": "Xiaomi сегодня начинает продажи Smart Lock 5 Max в Китае. Базовая версия стоит 3529 юаней, а с учётом государственной субсидии — 2999,65 юаня. Версия Dual Camera предлагается за 4352 юаня или 3699,2 юаня с субсидией.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/12-sposobov-razblokirovki-raspoznavanie-litsa-i--2026-09-23.webp",
+      "metaTitle": "12 способов разблокировки, распознавание лица и вен ладони, ",
+      "metaDescription": "Xiaomi сегодня начинает продажи Smart Lock 5 Max в Китае. Базовая версия стоит 3529 юаней, а с учётом государственной субсидии — 2999,65 юаня. Версия ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437719-12-sposobov-razblokirovki-raspoznavanie-lica-i-ven-ladoni-god-bez-podzariadki-umnyi-zamok-xiaomi-s-2k-kameroi-postupaet-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "predstavleny-novye-svetilniki-xiaomi-660-lm-ra97-2026-09-23",
+      "category": "Новости",
+      "title": "Представлены новые светильники Xiaomi — 660 лм, Ra97 и автоматическое включение/отключение",
+      "excerpt": "Xiaomi представила три новые модели потолочных светильников Mijia Downlight 3 Pro. Устройства получили изогнутую интегрированную конструкцию, которая практически сливается с потолком.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavleny-novye-svetilniki-xiaomi-660-lm-ra97-2026-09-23.webp",
+      "metaTitle": "Представлены новые светильники Xiaomi — 660 лм, Ra97 и автом",
+      "metaDescription": "Xiaomi представила три новые модели потолочных светильников Mijia Downlight 3 Pro. Устройства получили изогнутую интегрированную конструкцию, которая ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437720-predstavleny-novye-svetilniki-xiaomi-660-lm-ra97-i-avtomaticeskoe-vkliucenieotkliucenie.html"
+    },
+    {
+      "id": "wi-fi-7-5000-mbit-s-dva-2-5g-porta-i-rezervnyy-i-2026-09-23",
+      "category": "Новости",
+      "title": "Wi-Fi 7, 5000 Мбит/с, два 2,5G-порта и резервный интернет. Представлен роутер Asus ProArt PRT-BE5000",
+      "excerpt": "Asus вывела на китайский рынок новый маршрутизатор ProArt PRT-BE5000 с поддержкой Wi-Fi 7. На JD.com устройство предлагается по стартовой цене 999 юаней при обычной стоимости 1499 юаней.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wi-fi-7-5000-mbit-s-dva-2-5g-porta-i-rezervnyy-i-2026-09-23.webp",
+      "metaTitle": "Wi-Fi 7, 5000 Мбит/с, два 2,5G-порта и резервный интернет. П",
+      "metaDescription": "Asus вывела на китайский рынок новый маршрутизатор ProArt PRT-BE5000 с поддержкой Wi-Fi 7. На JD.com устройство предлагается по стартовой цене 999 юан",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437721-wi-fi-7-5000-mbits-dva-25g-porta-i-rezervnyi-internet-predstavlen-router-asus-proart-prt-be5000.html"
+    },
+    {
+      "id": "10-2-dyuymovyy-3k-ekran-2-tb-pamyati-stilus-cheh-2026-09-23",
+      "category": "Новости",
+      "title": "10,2-дюймовый 3K-экран, 2 ТБ памяти, стилус, чехлы и 100-ваттное зарядное устройство. Новая версия Huawei Mate XT 2 поступила в продажу в Китае",
+      "excerpt": "Huawei начала продажи специального комплекта Mate XT 2 Extraordinary Master Tri-fold Phone Stylus Set в Китае.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/10-2-dyuymovyy-3k-ekran-2-tb-pamyati-stilus-cheh-2026-09-23.webp",
+      "metaTitle": "10,2-дюймовый 3K-экран, 2 ТБ памяти, стилус, чехлы и 100-ват",
+      "metaDescription": "Huawei начала продажи специального комплекта Mate XT 2 Extraordinary Master Tri-fold Phone Stylus Set в Китае.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437722-102-diuimovyi-3k-ekran-2-tb-pamiati-stilus-cexly-i-100-vattnoe-zariadnoe-ustroistvo-novaia-versiia-huawei-mate-xt-2-postupila-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "prismor-open-source-runtime-control-plane-for-ai-2026-09-23",
+      "category": "Новости",
+      "title": "Prismor: плоскость управления средой выполнения с открытым исходным кодом для агентов ИИ.",
+      "excerpt": "Prismor — это бесплатный уровень безопасности с открытым исходным кодом для агентов кодирования ИИ. Он находится между агентом, таким как Claude Code, Codex или Cursor, и действиями, которые агент хочет предпринять, и проверяет каждый вызов инструмен",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/prismor-open-source-runtime-control-plane-for-ai-2026-09-23.webp",
+      "metaTitle": "Prismor: плоскость управления средой выполнения с открытым и",
+      "metaDescription": "Prismor — это бесплатный уровень безопасности с открытым исходным кодом для агентов кодирования ИИ. Он находится между агентом, таким как Claude Code,",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/"
+    },
+    {
+      "id": "ih-ne-upominali-na-prezentatsii-vivo-x500-pro-i--2026-09-23",
+      "category": "Новости",
+      "title": "Их не упоминали на презентации: Vivo X500 Pro и Pro Max сразу после анонса получили новые версии",
+      "excerpt": "Сразу после анонса Vivo расширила линейку X500 Pro и X500 Pro Max новыми вариантами памяти, которые не были представлены во время официальной презентации.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ih-ne-upominali-na-prezentatsii-vivo-x500-pro-i--2026-09-23.webp",
+      "metaTitle": "Их не упоминали на презентации: Vivo X500 Pro и Pro Max сраз",
+      "metaDescription": "Сразу после анонса Vivo расширила линейку X500 Pro и X500 Pro Max новыми вариантами памяти, которые не были представлены во время официальной презента",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437724-ix-ne-upominali-na-prezentacii-vivo-x500-pro-i-pro-max-srazu-posle-anonsa-polucili-novye-versii.html"
+    },
+    {
+      "id": "xiaomi-vypustila-vazhnoe-obnovlenie-hyperos-ispr-2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi выпустила важное обновление HyperOS — исправлены 180 уязвимостей",
+      "excerpt": "Xiaomi приступила к распространению сентябрьского обновления безопасности 2026 года для своих смартфонов и планшетов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-vazhnoe-obnovlenie-hyperos-ispr-2026-09-23.webp",
+      "metaTitle": "Xiaomi выпустила важное обновление HyperOS — исправлены 180 ",
+      "metaDescription": "Xiaomi приступила к распространению сентябрьского обновления безопасности 2026 года для своих смартфонов и планшетов.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437728-xiaomi-vypustila-vaznoe-obnovlenie-hyperos-ispravleny-180-uiazvimostei.html"
+    },
+    {
+      "id": "ekran-bez-vyrezov-s-ramkoy-shirinoy-menee-1-mm-r-2026-09-23",
+      "category": "Новости",
+      "title": "Экран без вырезов, с рамкой шириной менее 1 мм. Red Magic 12 Pro+ получит Snapdragon 8 Elite Extreme Gen 6",
+      "excerpt": "Red Magic подтвердила, что новый игровой смартфон 12 Pro+ станет одним из первых устройств с флагманской платформой Snapdragon 8 Elite Extreme Gen 6.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ekran-bez-vyrezov-s-ramkoy-shirinoy-menee-1-mm-r-2026-09-23.webp",
+      "metaTitle": "Экран без вырезов, с рамкой шириной менее 1 мм. Red Magic 12",
+      "metaDescription": "Red Magic подтвердила, что новый игровой смартфон 12 Pro+ станет одним из первых устройств с флагманской платформой Snapdragon 8 Elite Extreme Gen 6.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437731-ekran-bez-vyrezov-s-ramkoi-sirinoi-menee-1-mm-red-magic-12-pro-polucit-snapdragon-8-elite-extreme-gen-6.html"
+    },
+    {
+      "id": "taktika-vse-esche-v-mode-analitiki-raskryli-prod-2026-09-23",
+      "category": "Новости",
+      "title": "Тактика всё ещё в моде: аналитики раскрыли продажи Star Wars Zero Company",
+      "excerpt": "Тактическая стратегия Star Wars Zero Company, выпущенная возглавляемой бывшим арт-директором XCOM Грегом Фёрчем (Greg Foertsch) студией Bit Reactor при поддержке издателя Electronic Arts, похоже, стала хитом. Источник изображения: Steam (Kilervi)",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/taktika-vse-esche-v-mode-analitiki-raskryli-prod-2026-09-23.webp",
+      "metaTitle": "Тактика всё ещё в моде: аналитики раскрыли продажи Star Wars",
+      "metaDescription": "Тактическая стратегия Star Wars Zero Company, выпущенная возглавляемой бывшим арт-директором XCOM Грегом Фёрчем (Greg Foertsch) студией Bit Reactor пр",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148891"
+    },
+    {
       "id": "ii-gonka-vyzhigaet-spetsialistov-po-bezopasnosti-2026-09-23",
       "category": "Новости",
       "title": "ИИ-гонка выжигает специалистов по безопасности — они массово жалуются на истощение и увольняются",
