@@ -1,6 +1,309 @@
 {
   "articles": [
     {
+      "id": "kitayskaya-hygon-predstavila-chetyrehyadernye-x8-2026-09-23",
+      "category": "Новости",
+      "title": "Китайская Hygon представила четырёхъядерные x86-процессоры для промышленных систем и робототехники",
+      "excerpt": "Китайский производитель чипов Hygon Information Technology представила линейку центральных процессоров Hygon 1000 для робототехники и промышленных устройств. Компания решила не ограничиваться облачным направлением и вышла на интенсивно развивающийся ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-hygon-predstavila-chetyrehyadernye-x8-2026-09-23.webp",
+      "metaTitle": "Китайская Hygon представила четырёхъядерные x86-процессоры д",
+      "metaDescription": "Китайский производитель чипов Hygon Information Technology представила линейку центральных процессоров Hygon 1000 для робототехники и промышленных уст",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148918"
+    },
+    {
+      "id": "drony-geoskana-poluchili-navigatsiyu-dlya-poleto-2026-09-23",
+      "category": "Новости",
+      "title": "Дроны «Геоскана» получили навигацию для полетов внутри стадионов и залов",
+      "excerpt": "«Геоскан» разработал российскую коммерческую систему навигации дронов, предназначенную для использования в крупных закрытых пространствах. Технологию компания продемонстрировала на церемонии вручения премии Российского экспортного центра «Экспортер г",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/drony-geoskana-poluchili-navigatsiyu-dlya-poleto-2026-09-23.webp",
+      "metaTitle": "Дроны «Геоскана» получили навигацию для полетов внутри стади",
+      "metaDescription": "«Геоскан» разработал российскую коммерческую систему навигации дронов, предназначенную для использования в крупных закрытых пространствах. Технологию ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437819-drony-geoskana-polucili-navigaciiu-dlia-poletov-vnutri-stadionov-i-zalov.html"
+    },
+    {
+      "id": "router-v-kotoryy-mozhno-vstavit-ssd-netcraze-pre-2026-09-23",
+      "category": "Новости",
+      "title": "Роутер, в который можно вставить SSD: Netcraze представила интернет-центр Titan SE с Wi-Fi 7 и 2.5G Ethernet",
+      "excerpt": "Компания Netcraze анонсировала высокопроизводительный интернет-центр Titan SE NC-4210 с поддержкой Wi‑Fi 7, слотом M.2 NVMe, портами Ethernet 2.5G, USB 3.2 и USB 2.0, предназначенный для использования как в городских квартирах, так и в загородных дом",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/router-v-kotoryy-mozhno-vstavit-ssd-netcraze-pre-2026-09-23.webp",
+      "metaTitle": "Роутер, в который можно вставить SSD: Netcraze представила и",
+      "metaDescription": "Компания Netcraze анонсировала высокопроизводительный интернет-центр Titan SE NC-4210 с поддержкой Wi‑Fi 7, слотом M.2 NVMe, портами Ethernet 2.5G, US",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148916"
+    },
+    {
+      "id": "tehsbor-na-rossiyskie-smartfony-i-noutbuki-mogut-2026-09-23",
+      "category": "Новости",
+      "title": "Техсбор на российские смартфоны и ноутбуки могут снизить на треть",
+      "excerpt": "Технологический сбор на смартфоны, ноутбуки и другую маркированную электронику в России может оказаться на 33% ниже базовой ставки. Такой механизм сейчас обсуждается при подготовке правил нового платежа, сообщает «Коммерсантъ» со ссылкой на источники",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tehsbor-na-rossiyskie-smartfony-i-noutbuki-mogut-2026-09-23.webp",
+      "metaTitle": "Техсбор на российские смартфоны и ноутбуки могут снизить на ",
+      "metaDescription": "Технологический сбор на смартфоны, ноутбуки и другую маркированную электронику в России может оказаться на 33% ниже базовой ставки. Такой механизм сей",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437828-texsbor-na-rossiiskie-smartfony-i-noutbuki-mogut-snizit-na-tret.html"
+    },
+    {
+      "id": "microsoft-september-windows-updates-break-always-2026-09-23",
+      "category": "Новости",
+      "title": "Microsoft: сентябрьские обновления Windows нарушают соединения Always On VPN",
+      "excerpt": "Microsoft предупредила, что обновления безопасности за сентябрь 2026 года также могут нарушить соединения Always On VPN в некоторых системах Windows 11. [...]",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-september-windows-updates-break-always-2026-09-23.webp",
+      "metaTitle": "Microsoft: сентябрьские обновления Windows нарушают соединен",
+      "metaDescription": "Microsoft предупредила, что обновления безопасности за сентябрь 2026 года также могут нарушить соединения Always On VPN в некоторых системах Windows 1",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/"
+    },
+    {
+      "id": "ai-powered-phishing-platform-eviltokens-disrupte-2026-09-23",
+      "category": "Новости",
+      "title": "Фишинговая платформа EvilTokens на основе искусственного интеллекта нарушена Microsoft",
+      "excerpt": "Платформа киберпреступности использовала ИИ на каждом этапе цепочки атак, включая написание сообщений социальной инженерии и определение целей. Публикация «Фишинговая платформа EvilTokens, основанная на искусственном интеллекте, разрушена Microsoft» ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-powered-phishing-platform-eviltokens-disrupte-2026-09-23.webp",
+      "metaTitle": "Фишинговая платформа EvilTokens на основе искусственного инт",
+      "metaDescription": "Платформа киберпреступности использовала ИИ на каждом этапе цепочки атак, включая написание сообщений социальной инженерии и определение целей. Публик",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/"
+    },
+    {
+      "id": "do-50-gb-v-150-stranah-gazprombank-mobayl-zapust-2026-09-23",
+      "category": "Новости",
+      "title": "До 50 ГБ в 150 странах: «Газпромбанк Мобайл» запустил eSIM для туристов",
+      "excerpt": "«Газпромбанк Мобайл» запустил туристические eSIM для подключения мобильного интернета за рубежом. Сервис работает более чем в 150 странах и позволяет подготовить подключение еще до поездки, чтобы выйти в интернет сразу после прибытия.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/do-50-gb-v-150-stranah-gazprombank-mobayl-zapust-2026-09-23.webp",
+      "metaTitle": "До 50 ГБ в 150 странах: «Газпромбанк Мобайл» запустил eSIM д",
+      "metaDescription": "«Газпромбанк Мобайл» запустил туристические eSIM для подключения мобильного интернета за рубежом. Сервис работает более чем в 150 странах и позволяет ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437832-do-50-gb-v-150-stranax-gazprombank-mobail-zapustil-esim-dlia-turistov.html"
+    },
+    {
+      "id": "holodilniki-samsung-massovo-umerli-posle-obnovle-2026-09-23",
+      "category": "Новости",
+      "title": "Холодильники Samsung массово «умерли» после обновления SmartThings — компании пришлось извиняться",
+      "excerpt": "Samsung остановила распространение обновления SmartThings для холодильников после того, как часть устройств полностью перестала работать. Сбой начался 22 сентября в Южной Корее и затронул преимущественно модели Bespoke AI 4-Door, выпущенные с 2024 го",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/holodilniki-samsung-massovo-umerli-posle-obnovle-2026-09-23.webp",
+      "metaTitle": "Холодильники Samsung массово «умерли» после обновления Smart",
+      "metaDescription": "Samsung остановила распространение обновления SmartThings для холодильников после того, как часть устройств полностью перестала работать. Сбой начался",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437834-xolodilniki-samsung-massovo-umerli-posle-obnovleniia-smartthings-kompanii-prislos-izviniatsia.html"
+    },
+    {
+      "id": "graveyard-keeper-2-startovala-v-steam-s-ochen-po-2026-09-23",
+      "category": "Новости",
+      "title": "Graveyard Keeper 2 стартовала в Steam с «очень положительными» отзывами и уже обогнала первую часть по пиковому онлайну",
+      "excerpt": "Симулятор смотрителя средневекового кладбища Graveyard Keeper 2 от издателя tinyBuild и разработчиков из литовской студии Lazy Bear Games (серия Punch Club) добрался до релиза и заслужил одобрение первых покупателей. Источник изображений: tinyBuild",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/graveyard-keeper-2-startovala-v-steam-s-ochen-po-2026-09-23.webp",
+      "metaTitle": "Graveyard Keeper 2 стартовала в Steam с «очень положительным",
+      "metaDescription": "Симулятор смотрителя средневекового кладбища Graveyard Keeper 2 от издателя tinyBuild и разработчиков из литовской студии Lazy Bear Games (серия Punch",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148913"
+    },
+    {
+      "id": "adobe-patches-critical-flaws-in-connect-aem-form-2026-09-23",
+      "category": "Новости",
+      "title": "Adobe исправляет критические ошибки в формах Connect и AEM",
+      "excerpt": "Девять критических дефектов безопасности могут быть использованы для выполнения произвольного кода и повышения привилегий. Пост Adobe исправляет критические ошибки в Connect, AEM Forms впервые появился на SecurityWeek.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/adobe-patches-critical-flaws-in-connect-aem-form-2026-09-23.webp",
+      "metaTitle": "Adobe исправляет критические ошибки в формах Connect и AEM",
+      "metaDescription": "Девять критических дефектов безопасности могут быть использованы для выполнения произвольного кода и повышения привилегий. Пост Adobe исправляет крити",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/"
+    },
+    {
+      "id": "valorant-poluchil-krupnyy-patch-13-06-novoe-oruz-2026-09-23",
+      "category": "Новости",
+      "title": "Valorant получил крупный патч 13.06: новое оружие, временный режим, улучшенный интерфейс и точная оценка эффективности игроков",
+      "excerpt": "Разработчики из Riot Games выпустили масштабное обновление 13.06 для сетевого шутера Valorant. Апдейт добавил новое оружие и временный режим, внёс многочисленные изменения в интерфейс и внедрил новую систему оценки эффективности участников матча. Ист",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/valorant-poluchil-krupnyy-patch-13-06-novoe-oruz-2026-09-23.webp",
+      "metaTitle": "Valorant получил крупный патч 13.06: новое оружие, временный",
+      "metaDescription": "Разработчики из Riot Games выпустили масштабное обновление 13.06 для сетевого шутера Valorant. Апдейт добавил новое оружие и временный режим, внёс мно",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148919"
+    },
+    {
+      "id": "rosatom-izgotovil-vtoroy-reaktor-dlya-plavuchey--2026-09-23",
+      "category": "Новости",
+      "title": "«Росатом» изготовил второй реактор для плавучей АЭС на Чукотке",
+      "excerpt": "На заводе «ЗиО-Подольск» изготовили вторую реакторную установку РИТМ-200С для плавучего энергоблока ПЭБ-106. Он предназначен для электроснабжения медного промышленного кластера на Чукотке. Установка прошла гидравлические испытания и контрольную сборк",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rosatom-izgotovil-vtoroy-reaktor-dlya-plavuchey--2026-09-23.webp",
+      "metaTitle": "«Росатом» изготовил второй реактор для плавучей АЭС на Чукот",
+      "metaDescription": "На заводе «ЗиО-Подольск» изготовили вторую реакторную установку РИТМ-200С для плавучего энергоблока ПЭБ-106. Он предназначен для электроснабжения медн",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437838-rosatom-izgotovil-vtoroi-reaktor-dlia-plavucei-aes-na-cukotke.html"
+    },
+    {
+      "id": "appetity-ii-razognali-atomnuyu-energetiku-kitaya-2026-09-23",
+      "category": "Новости",
+      "title": "Аппетиты ИИ разогнали атомную энергетику Китая — в стране строят АЭС и SMR, и готовят термоядерный прорыв",
+      "excerpt": "Свежая передовица Financial Times посвящена лидерству Китая в области атомных электростанций, малых модульных реакторов и перспективных термоядерных установок для удовлетворения растущих потребностей искусственного интеллекта. Находясь под санкциями ",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/appetity-ii-razognali-atomnuyu-energetiku-kitaya-2026-09-23.webp",
+      "metaTitle": "Аппетиты ИИ разогнали атомную энергетику Китая — в стране ст",
+      "metaDescription": "Свежая передовица Financial Times посвящена лидерству Китая в области атомных электростанций, малых модульных реакторов и перспективных термоядерных у",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148920"
+    },
+    {
+      "id": "uaz-gotovit-sovershenno-novuyu-buhanku-2026-09-23",
+      "category": "Новости",
+      "title": "УАЗ готовит совершенно новую «Буханку»",
+      "excerpt": "УАЗ начал прорабатывать варианты создания нового поколения «Буханки». Компания рассматривает сразу несколько концепций — от полностью нового кузова на существующей платформе до использования архитектуры «Патриота» или локализованной платформы Sollers",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/uaz-gotovit-sovershenno-novuyu-buhanku-2026-09-23.webp",
+      "metaTitle": "УАЗ готовит совершенно новую «Буханку»",
+      "metaDescription": "УАЗ начал прорабатывать варианты создания нового поколения «Буханки». Компания рассматривает сразу несколько концепций — от полностью нового кузова на",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437839-uaz-gotovit-soversenno-novuiu-buxanku.html"
+    },
+    {
+      "id": "uae-saudi-arabia-face-onslaught-of-increasingly--2026-09-23",
+      "category": "Новости",
+      "title": "ОАЭ и Саудовская Аравия столкнулись с натиском все более сложных кибератак",
+      "excerpt": "Объединенные Арабские Эмираты и Королевство Саудовская Аравия вместе поглотили 50% всех кибератак, зафиксированных в регионе Персидского залива в первой половине 2026 года.",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "ОАЭ и Саудовская Аравия столкнулись с натиском все более сло",
+      "metaDescription": "Объединенные Арабские Эмираты и Королевство Саудовская Аравия вместе поглотили 50% всех кибератак, зафиксированных в регионе Персидского залива в перв",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks"
+    },
+    {
       "id": "claude-opus-5-5-cuts-costs-and-adds-safeguards-f-2026-09-23",
       "category": "Новости",
       "title": "Claude Opus 5.5 сокращает расходы и добавляет меры безопасности для автономного ИИ",
