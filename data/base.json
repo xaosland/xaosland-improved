@@ -1,6 +1,315 @@
 {
   "articles": [
     {
+      "id": "claude-opus-5-5-cuts-costs-and-adds-safeguards-f-2026-09-23",
+      "category": "Новости",
+      "title": "Claude Opus 5.5 сокращает расходы и добавляет меры безопасности для автономного ИИ",
+      "excerpt": "Claude Opus 5.5 доступен на платформах Anthropic, Amazon Web Services, Google Cloud и Microsoft Azure. Разработчики могут получить к нему доступ через платформу Claude, используя имя модели claude-opus-5-5. Он включает меры по нанесению водяных знако",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/claude-opus-5-5-cuts-costs-and-adds-safeguards-f-2026-09-23.webp",
+      "metaTitle": "Claude Opus 5.5 сокращает расходы и добавляет меры безопасно",
+      "metaDescription": "Claude Opus 5.5 доступен на платформах Anthropic, Amazon Web Services, Google Cloud и Microsoft Azure. Разработчики могут получить к нему доступ через",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/anthropic-claude-opus-5-5/"
+    },
+    {
+      "id": "arista-urges-immediate-patching-of-exploited-vco-2026-09-23",
+      "category": "Новости",
+      "title": "Arista призывает немедленно исправить эксплуатируемый VCO Zero-Day",
+      "excerpt": "Удаленные злоумышленники могут вызвать критическую уязвимость для доступа к привилегированным внутренним функциям. Пост Arista призывает к немедленному исправлению эксплуатируемого VCO Zero-Day впервые появился на SecurityWeek.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/arista-urges-immediate-patching-of-exploited-vco-2026-09-23.webp",
+      "metaTitle": "Arista призывает немедленно исправить эксплуатируемый VCO Ze",
+      "metaDescription": "Удаленные злоумышленники могут вызвать критическую уязвимость для доступа к привилегированным внутренним функциям. Пост Arista призывает к немедленном",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/"
+    },
+    {
+      "id": "microsoft-disrupts-eviltokens-phishing-service-t-2026-09-23",
+      "category": "Новости",
+      "title": "Microsoft разрушила фишинговый сервис EvilTokens, который предоставил преступникам доступ к 12 000 почтовым ящикам",
+      "excerpt": "Фишинговая служба EvilTokens, которая скомпрометировала более 12 000 почтовых ящиков в более чем 10 000 организаций, была остановлена ​​коалицией правоохранительных органов и партнеров из частного сектора во главе с Microsoft. С разрешения Окружного ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-disrupts-eviltokens-phishing-service-t-2026-09-23.webp",
+      "metaTitle": "Microsoft разрушила фишинговый сервис EvilTokens, который пр",
+      "metaDescription": "Фишинговая служба EvilTokens, которая скомпрометировала более 12 000 почтовых ящиков в более чем 10 000 организаций, была остановлена ​​коалицией прав",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/microsoft-eviltokens-phishing-service-disrupted/"
+    },
+    {
+      "id": "minyust-ssha-vstal-na-storonu-apple-v-spore-s-ep-2026-09-23",
+      "category": "Новости",
+      "title": "Минюст США встал на сторону Apple в споре с Epic Games — Верховный суд призвали отменить запрет на комиссии с покупок вне App Store",
+      "excerpt": "Правительство США, а также несколько других организаций направили в Верховный суд документы по делу Apple против Epic Games, призывая судей отменить, по крайней мере частично, решение о признании Apple виновной в неуважении к суду. После этого решени",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/minyust-ssha-vstal-na-storonu-apple-v-spore-s-ep-2026-09-23.webp",
+      "metaTitle": "Минюст США встал на сторону Apple в споре с Epic Games — Вер",
+      "metaDescription": "Правительство США, а также несколько других организаций направили в Верховный суд документы по делу Apple против Epic Games, призывая судей отменить, ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148903"
+    },
+    {
+      "id": "ot-furgonov-k-vnedorozhnikam-belorusskiy-avior-a-2026-09-23",
+      "category": "Новости",
+      "title": "От фургонов к внедорожникам: белорусский Avior анонсировал новый автомобиль в России",
+      "excerpt": "Автобренд Avior объявил о планах расширить модельный ряд за пределы сегмента фургонов и автобусов. Компания намерена выйти на рынок внедорожников, где новинке предстоит конкурировать с автомобилями высокой проходимости.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ot-furgonov-k-vnedorozhnikam-belorusskiy-avior-a-2026-09-23.webp",
+      "metaTitle": "От фургонов к внедорожникам: белорусский Avior анонсировал н",
+      "metaDescription": "Автобренд Avior объявил о планах расширить модельный ряд за пределы сегмента фургонов и автобусов. Компания намерена выйти на рынок внедорожников, где",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437772-ot-furgonov-k-vnedoroznikam-belorusskii-avior-anonsiroval-novyi-avtomobil-v-rossii.html"
+    },
+    {
+      "id": "seriynyy-ohotnik-za-uyazvimostyami-microsoft-zab-2026-09-23",
+      "category": "Новости",
+      "title": "Серийный охотник за уязвимостями Microsoft заблокировал автообновления антивируса Defender",
+      "excerpt": "Исследователь в области кибербезопасности, известный под псевдонимом NightmareEclipse, который регулярно раскрывает информацию об уязвимостях нулевого дня в продуктах Microsoft, нашёл новый способ вмешаться в работу антивируса Microsoft Defender — он",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/seriynyy-ohotnik-za-uyazvimostyami-microsoft-zab-2026-09-23.webp",
+      "metaTitle": "Серийный охотник за уязвимостями Microsoft заблокировал авто",
+      "metaDescription": "Исследователь в области кибербезопасности, известный под псевдонимом NightmareEclipse, который регулярно раскрывает информацию об уязвимостях нулевого",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148906"
+    },
+    {
+      "id": "kitayskie-vuzy-reshili-uchit-studentov-tomu-chto-2026-09-23",
+      "category": "Новости",
+      "title": "Китайские вузы решили учить студентов тому, что нужно ИИ: переводчиков и дизайнеров заменяют промт-инженеры",
+      "excerpt": "С появлением передовых систем искусственного интеллекта и сопутствующих решений в китайской системе образования стали за ненадобностью закрываться целые направления подготовки специалистов. Но вместе с тем начали появляться и новые специальности. Ист",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskie-vuzy-reshili-uchit-studentov-tomu-chto-2026-09-23.webp",
+      "metaTitle": "Китайские вузы решили учить студентов тому, что нужно ИИ: пе",
+      "metaDescription": "С появлением передовых систем искусственного интеллекта и сопутствующих решений в китайской системе образования стали за ненадобностью закрываться цел",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148909"
+    },
+    {
+      "id": "amoled-8340-mach-i-zaschita-ip69k-poco-x8-postup-2026-09-23",
+      "category": "Новости",
+      "title": "AMOLED, 8340 мАч и защита IP69K: Poco X8 поступил в продажу в России",
+      "excerpt": "Команда российского AliExpress объявила о запуске продаж нового смартфона Poco X8. Устройство получило крупный AMOLED-экран, ёмкий аккумулятор и защиту корпуса от воды и пыли.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amoled-8340-mach-i-zaschita-ip69k-poco-x8-postup-2026-09-23.webp",
+      "metaTitle": "AMOLED, 8340 мАч и защита IP69K: Poco X8 поступил в продажу ",
+      "metaDescription": "Команда российского AliExpress объявила о запуске продаж нового смартфона Poco X8. Устройство получило крупный AMOLED-экран, ёмкий аккумулятор и защит",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437779-amoled-8340-mac-i-zashhita-ip69k-poco-x8-postupil-v-prodazu-v-rossii.html"
+    },
+    {
+      "id": "v-kitae-sozdayut-pervoe-v-mire-hranilische-energ-2026-09-23",
+      "category": "Новости",
+      "title": "В Китае создают первое в мире хранилище энергии на расплаве солей и CO2 в сверхкритическом состоянии",
+      "excerpt": "Китай лидирует в передовых методах производства энергии, но всё ещё не справляется с её распределением. При этом вариант коммунальных систем хранения энергии на литиевых аккумуляторах почти не рассматривается. Предпочтение отдаётся невероятным по мер",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-kitae-sozdayut-pervoe-v-mire-hranilische-energ-2026-09-23.webp",
+      "metaTitle": "В Китае создают первое в мире хранилище энергии на расплаве ",
+      "metaDescription": "Китай лидирует в передовых методах производства энергии, но всё ещё не справляется с её распределением. При этом вариант коммунальных систем хранения ",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148907"
+    },
+    {
+      "id": "wordpress-7-1-2-fixes-critical-unauthenticated-p-2026-09-23",
+      "category": "Новости",
+      "title": "WordPress 7.1.2 исправляет критическую уязвимость обхода пути без аутентификации (CVE-2026-87902)",
+      "excerpt": "WordPress выпустил версию 7.1.2, чтобы исправить критическую ошибку, которая позволяет неаутентифицированному злоумышленнику заставить программное обеспечение загружать PHP-файл по выбору злоумышленника из-за пределов папок активных тем сайта. На сай",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wordpress-7-1-2-fixes-critical-unauthenticated-p-2026-09-23.webp",
+      "metaTitle": "WordPress 7.1.2 исправляет критическую уязвимость обхода пут",
+      "metaDescription": "WordPress выпустил версию 7.1.2, чтобы исправить критическую ошибку, которая позволяет неаутентифицированному злоумышленнику заставить программное обе",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/cve-2026-87902-wordpress-7-1-2-security-release/"
+    },
+    {
+      "id": "vypusk-muzykalnogo-proigryvatelya-fooyin-0-13-2026-09-23",
+      "category": "Новости",
+      "title": "Выпуск музыкального проигрывателя Fooyin 0.13",
+      "excerpt": "Состоялся выпуск музыкального проигрывателя Fooyin 0.13, нацеленного на предоставление расширенных возможностей по настройке и адаптации программы под свои предпочтения. В Fooyin предложен набор виджетов с реализацией различных режимов управления муз",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск музыкального проигрывателя Fooyin 0.13",
+      "metaDescription": "Состоялся выпуск музыкального проигрывателя Fooyin 0.13, нацеленного на предоставление расширенных возможностей по настройке и адаптации программы под",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66320"
+    },
+    {
+      "id": "activision-natselilas-vypustit-velichayshuyu-hal-2026-09-23",
+      "category": "Новости",
+      "title": "Activision нацелилась выпустить «величайшую Halo в истории», и это будет не ремейк Halo 2",
+      "excerpt": "Найденный пользователями тизер ремейка Halo 2 в секретной концовке Halo: Campaign Evolved так и останется тизером. Новая игра в знаковой серии научно-фантастических шутеров от Xbox, похоже, пойдёт другим путём. Источник изображений: Xbox",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/activision-natselilas-vypustit-velichayshuyu-hal-2026-09-23.webp",
+      "metaTitle": "Activision нацелилась выпустить «величайшую Halo в истории»,",
+      "metaDescription": "Найденный пользователями тизер ремейка Halo 2 в секретной концовке Halo: Campaign Evolved так и останется тизером. Новая игра в знаковой серии научно-",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148908"
+    },
+    {
+      "id": "pervuyu-orbitalnuyu-raketu-starship-sobrali-i-us-2026-09-23",
+      "category": "Новости",
+      "title": "Первую орбитальную ракету Starship собрали и установили на стартовую площадку",
+      "excerpt": "На Starbase завершилась сборка следующей ракеты Starship: в ночь на 23 сентября корабль Ship 41 установили на первую ступень Booster 21. Вся связка для Flight 14 вновь собрана и готова перейти к финальной серии предстартовых проверок.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pervuyu-orbitalnuyu-raketu-starship-sobrali-i-us-2026-09-23.webp",
+      "metaTitle": "Первую орбитальную ракету Starship собрали и установили на с",
+      "metaDescription": "На Starbase завершилась сборка следующей ракеты Starship: в ночь на 23 сентября корабль Ship 41 установили на первую ступень Booster 21. Вся связка дл",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437804-pervuiu-orbitalnuiu-raketu-starship-sobrali-i-ustanovili-na-startovuiu-ploshhadku.html"
+    },
+    {
+      "id": "smozhet-prevzoyti-starlink-amazon-leo-prihodit-v-2026-09-23",
+      "category": "Новости",
+      "title": "Сможет превзойти Starlink? Amazon Leo приходит в Узбекистан при помощи Uztelecom",
+      "excerpt": "Uztelecom и его дочерняя компания UZ-SAT заключили соглашение с Amazon Leo и получили статус авторизованного дистрибутора спутниковой системы в Узбекистане.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/smozhet-prevzoyti-starlink-amazon-leo-prihodit-v-2026-09-23.webp",
+      "metaTitle": "Сможет превзойти Starlink? Amazon Leo приходит в Узбекистан ",
+      "metaDescription": "Uztelecom и его дочерняя компания UZ-SAT заключили соглашение с Amazon Leo и получили статус авторизованного дистрибутора спутниковой системы в Узбеки",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437805-smozet-prevzoiti-starlink-amazon-leo-prixodit-v-uzbekistan-pri-pomoshhi-uztelecom.html"
+    },
+    {
+      "id": "outerlimit-raises-16-million-to-stop-rogue-ai-ag-2026-09-23",
+      "category": "Новости",
+      "title": "Outerlimit собирает 16 миллионов долларов, чтобы не дать мошенническим агентам искусственного интеллекта причинить вред",
+      "excerpt": "Outerlimit, появившийся из скрытой ситуации с предварительным финансированием в размере 16 миллионов долларов, предлагает децентрализованный уровень авторизации, предназначенный для обнаружения, наблюдения и блокировки вредоносных действий автономног",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/outerlimit-raises-16-million-to-stop-rogue-ai-ag-2026-09-23.webp",
+      "metaTitle": "Outerlimit собирает 16 миллионов долларов, чтобы не дать мош",
+      "metaDescription": "Outerlimit, появившийся из скрытой ситуации с предварительным финансированием в размере 16 миллионов долларов, предлагает децентрализованный уровень а",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/"
+    },
+    {
       "id": "critical-next-js-imageresponse-flaw-can-lead-to--2026-09-23",
       "category": "Новости",
       "title": "Критическая ошибка Next.js ImageResponse может привести к выполнению серверного кода через специально созданный ввод SVG",
