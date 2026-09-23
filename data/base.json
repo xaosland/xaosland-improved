@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "ii-gonka-vyzhigaet-spetsialistov-po-bezopasnosti-2026-09-23",
+      "category": "Новости",
+      "title": "ИИ-гонка выжигает специалистов по безопасности — они массово жалуются на истощение и увольняются",
+      "excerpt": "Разного рода неприятные инциденты с причинением вреда инфраструктуре компаний вышедшими из-под контроля ИИ-моделями только подчеркнули важность проверки новейших разработок на безопасность. Поскольку этой работой заняты живые люди, растущая нагрузка ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ii-gonka-vyzhigaet-spetsialistov-po-bezopasnosti-2026-09-23.webp",
+      "metaTitle": "ИИ-гонка выжигает специалистов по безопасности — они массово",
+      "metaDescription": "Разного рода неприятные инциденты с причинением вреда инфраструктуре компаний вышедшими из-под контроля ИИ-моделями только подчеркнули важность провер",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148852"
+    },
+    {
+      "id": "sharepoint-flaw-initially-listed-as-spoofing-by--2026-09-23",
+      "category": "Новости",
+      "title": "Недостаток SharePoint, первоначально указанный Microsoft как спуфинг, позволяет использовать RCE с проверкой подлинности",
+      "excerpt": "Уязвимость SharePoint Server, которую Microsoft первоначально классифицировала как спуфинг с оценкой CVSS 6,5, на самом деле обеспечивает удаленное выполнение кода с проверкой подлинности, согласно полной технической информации, опубликованной сегодн",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/sharepoint-flaw-initially-listed-as-spoofing-by--2026-09-23.webp",
+      "metaTitle": "Недостаток SharePoint, первоначально указанный Microsoft как",
+      "metaDescription": "Уязвимость SharePoint Server, которую Microsoft первоначально классифицировала как спуфинг с оценкой CVSS 6,5, на самом деле обеспечивает удаленное вы",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
+    },
+    {
+      "id": "the-next-intellectual-property-thief-may-sound-l-2026-09-23",
+      "category": "Новости",
+      "title": "Следующий вор интеллектуальной собственности может выглядеть как ваш генеральный директор",
+      "excerpt": "Согласно отчету CSC «Состояние онлайн-рисков интеллектуальной собственности в 2026 году», выдача себя за другое лицо, фишинг и злоупотребление доменными именами являются наиболее опасными видами нарушения прав интеллектуальной собственности в Интерне",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/the-next-intellectual-property-thief-may-sound-l-2026-09-23.webp",
+      "metaTitle": "Следующий вор интеллектуальной собственности может выглядеть",
+      "metaDescription": "Согласно отчету CSC «Состояние онлайн-рисков интеллектуальной собственности в 2026 году», выдача себя за другое лицо, фишинг и злоупотребление доменны",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/"
+    },
+    {
+      "id": "the-latest-deepfake-numbers-give-cisos-plenty-to-2026-09-23",
+      "category": "Новости",
+      "title": "Последние данные о дипфейках дают директорам по информационной безопасности повод для беспокойства.",
+      "excerpt": "Искусственный интеллект позволяет киберпреступникам проникать в организации глубже, чем когда-либо могло бы сделать фишинговое электронное письмо. По данным Gartner, 41% директоров по информационной безопасности сообщили как минимум об одном инцидент",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/the-latest-deepfake-numbers-give-cisos-plenty-to-2026-09-23.webp",
+      "metaTitle": "Последние данные о дипфейках дают директорам по информационн",
+      "metaDescription": "Искусственный интеллект позволяет киберпреступникам проникать в организации глубже, чем когда-либо могло бы сделать фишинговое электронное письмо. По ",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/22/cisos-deepfake-incidents-social-engineering-survey/"
+    },
+    {
+      "id": "only-13-of-ot-network-segments-are-fully-isolate-2026-09-23",
+      "category": "Новости",
+      "title": "Только 13% сегментов OT-сети полностью изолированы: анализ",
+      "excerpt": "Новое исследование сегментации сети Forescout показывает, что ОТ и медицинские устройства часто делят сегменты сети с другими активами предприятия. Сообщение «Только 13% сегментов OT-сети полностью изолированы: анализ» впервые появился на SecurityWee",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/only-13-of-ot-network-segments-are-fully-isolate-2026-09-23.webp",
+      "metaTitle": "Только 13% сегментов OT-сети полностью изолированы: анализ",
+      "metaDescription": "Новое исследование сегментации сети Forescout показывает, что ОТ и медицинские устройства часто делят сегменты сети с другими активами предприятия. Со",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/"
+    },
+    {
+      "id": "new-cvss-10-0-velocloud-orchestrator-flaw-active-2026-09-23",
+      "category": "Новости",
+      "title": "Новый недостаток CVSS 10.0 VeloCloud Orchestrator активно используется в настройках на основе сертификатов",
+      "excerpt": "Злоумышленники используют новую уязвимость в локальном VeloCloud Orchestrator (VCO), сервере, который управляет Edge-устройствами в VeloCloud SD-WAN, сообщила Ариста 22 сентября. Уязвимость, отслеживаемая как CVE-2026-93952, может позволить удаленном",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-cvss-10-0-velocloud-orchestrator-flaw-active-2026-09-23.webp",
+      "metaTitle": "Новый недостаток CVSS 10.0 VeloCloud Orchestrator активно ис",
+      "metaDescription": "Злоумышленники используют новую уязвимость в локальном VeloCloud Orchestrator (VCO), сервере, который управляет Edge-устройствами в VeloCloud SD-WAN, ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html"
+    },
+    {
+      "id": "ai-agents-are-rewriting-the-rules-of-lateral-mov-2026-09-23",
+      "category": "Новости",
+      "title": "Агенты ИИ переписывают правила бокового движения",
+      "excerpt": "Команды безопасности потратили десятилетия, задаваясь вопросом, не имеет ли личность слишком большого доступа. Агенты ИИ поднимают более сложный вопрос: как мы можем определить, какие пути может обнаружить автономная система, учитывая уже имеющийся у",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ai-agents-are-rewriting-the-rules-of-lateral-mov-2026-09-23.webp",
+      "metaTitle": "Агенты ИИ переписывают правила бокового движения",
+      "metaDescription": "Команды безопасности потратили десятилетия, задаваясь вопросом, не имеет ли личность слишком большого доступа. Агенты ИИ поднимают более сложный вопро",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html"
+    },
+    {
+      "id": "kitay-gotovit-tihiy-sverhzvukovoy-avialayner-tms-2026-09-23",
+      "category": "Новости",
+      "title": "Китай готовит тихий сверхзвуковой авиалайнер — TMS-10 доставит пассажиров из Пекина в Шанхай за полчаса",
+      "excerpt": "Группа компаний китайского авиапрома приступила к финальной сборке демонстрационного сверхзвукового самолёта TMS-10, который должен стать платформой для отработки технологий будущего сверхзвукового пассажирского транспорта. Машина создаётся как тихий",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitay-gotovit-tihiy-sverhzvukovoy-avialayner-tms-2026-09-23.webp",
+      "metaTitle": "Китай готовит тихий сверхзвуковой авиалайнер — TMS-10 достав",
+      "metaDescription": "Группа компаний китайского авиапрома приступила к финальной сборке демонстрационного сверхзвукового самолёта TMS-10, который должен стать платформой д",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148859"
+    },
+    {
+      "id": "xiaomi-predstavila-flagmanskuyu-ii-model-mimo-v2-2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi представила флагманскую ИИ-модель MiMo-V2.6 Pro и быструю MiMo-V2.6-Flash",
+      "excerpt": "Китайский производитель электроники Xiaomi представил две мультимодальные модели искусственного интеллекта серии MiMo-V2.6. Они способны конкурировать с разработками ведущих мировых лабораторий, в том числе DeepSeek, OpenAI, Anthropic и Google, завер",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-predstavila-flagmanskuyu-ii-model-mimo-v2-2026-09-23.webp",
+      "metaTitle": "Xiaomi представила флагманскую ИИ-модель MiMo-V2.6 Pro и быс",
+      "metaDescription": "Китайский производитель электроники Xiaomi представил две мультимодальные модели искусственного интеллекта серии MiMo-V2.6. Они способны конкурировать",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148861"
+    },
+    {
+      "id": "d-link-warns-of-max-severity-zero-day-bug-in-dir-2026-09-23",
+      "category": "Новости",
+      "title": "D-Link предупреждает об ошибке нулевого дня максимальной серьезности в маршрутизаторах DIR-822A",
+      "excerpt": "D-Link предупредила клиентов об уязвимости максимальной серьезности (CVE-2026-86296) с общедоступным кодом проверки концепции (PoC) и без исправлений, затрагивающей устаревшие двухдиапазонные маршрутизаторы Wi-Fi DIR-822A. [...]",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/d-link-warns-of-max-severity-zero-day-bug-in-dir-2026-09-23.webp",
+      "metaTitle": "D-Link предупреждает об ошибке нулевого дня максимальной сер",
+      "metaDescription": "D-Link предупредила клиентов об уязвимости максимальной серьезности (CVE-2026-86296) с общедоступным кодом проверки концепции (PoC) и без исправлений,",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/"
+    },
+    {
+      "id": "besplatnaya-versiya-adobe-premiere-dlya-android--2026-09-23",
+      "category": "Новости",
+      "title": "Бесплатная версия Adobe Premiere для Android предлагает широкие возможности редактирования видео",
+      "excerpt": "Обработка видеоматериалов никогда не была сильной стороной устройств под управлением Google Android, но главным образом из-за отсутствия простого и доступного программного обеспечения. При новом генеральном директоре Adobe решила исправить это упущен",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/besplatnaya-versiya-adobe-premiere-dlya-android--2026-09-23.webp",
+      "metaTitle": "Бесплатная версия Adobe Premiere для Android предлагает широ",
+      "metaDescription": "Обработка видеоматериалов никогда не была сильной стороной устройств под управлением Google Android, но главным образом из-за отсутствия простого и до",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148888"
+    },
+    {
+      "id": "razer-predstavila-kompaktnye-nastolnye-komplekty-2026-09-23",
+      "category": "Новости",
+      "title": "Razer представила компактные настольные комплекты колонок Mako и Mako X мощностью до 60 Вт",
+      "excerpt": "Компания Razer представила два комплекта настольных колонок — Mako и Mako X. Ключевое отличие между ними заключается в том, что комплект Mako выполнен по акустической формуле 2.1: в него входят два 2,75-дюймовых широкополосных динамика и отдельный 3,",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/razer-predstavila-kompaktnye-nastolnye-komplekty-2026-09-23.webp",
+      "metaTitle": "Razer представила компактные настольные комплекты колонок Ma",
+      "metaDescription": "Компания Razer представила два комплекта настольных колонок — Mako и Mako X. Ключевое отличие между ними заключается в том, что комплект Mako выполнен",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148886"
+    },
+    {
+      "id": "netbsd-10-2-security-fixes-close-a-remote-kernel-2026-09-23",
+      "category": "Новости",
+      "title": "Исправления безопасности NetBSD 10.2 закрывают удаленную ошибку ядра в ipfilter",
+      "excerpt": "Сервер NetBSD на границе сети, фильтрующий трафик с помощью ipfilter, содержит ошибку ядра, которую может запустить кто-то за пределами машины. Ошибка заключается в удаленном разыменовании нулевого указателя в ipfilter, что означает, что ядро ​​пытае",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/netbsd-10-2-security-fixes-close-a-remote-kernel-2026-09-23.webp",
+      "metaTitle": "Исправления безопасности NetBSD 10.2 закрывают удаленную оши",
+      "metaDescription": "Сервер NetBSD на границе сети, фильтрующий трафик с помощью ipfilter, содержит ошибку ядра, которую может запустить кто-то за пределами машины. Ошибка",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/"
+    },
+    {
+      "id": "v-kitae-dolya-ugolnoy-energetiki-vpervye-opustil-2026-09-23",
+      "category": "Новости",
+      "title": "В Китае доля угольной энергетики впервые опустилась ниже 50 % по итогам первого полугодия",
+      "excerpt": "Доля электроэнергии, выработанной угольными электростанциями в Китае, впервые опустилась ниже 50 % по итогам первого полугодия. На фоне этого страна продолжает быстро наращивать мощности ветровой и солнечной энергетики, сообщает Human Progress со ссы",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-kitae-dolya-ugolnoy-energetiki-vpervye-opustil-2026-09-23.webp",
+      "metaTitle": "В Китае доля угольной энергетики впервые опустилась ниже 50 ",
+      "metaDescription": "Доля электроэнергии, выработанной угольными электростанциями в Китае, впервые опустилась ниже 50 % по итогам первого полугодия. На фоне этого страна п",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148887"
+    },
+    {
+      "id": "rabbit-8217-s-new-os-lives-in-the-cloud-and-borr-2026-09-23",
+      "category": "Новости",
+      "title": "Новая ОС Rabbit живет в облаке и использует ваш ноутбук для выполнения задач",
+      "excerpt": "Rabbit, компания из Санта-Моники, производящая карманные компьютеры r1, выпустила OS3, агентную операционную систему. Он работает в облаке Rabbit и управляет компьютерами пользователей через локальный агент, который устанавливается одной командой. По",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rabbit-8217-s-new-os-lives-in-the-cloud-and-borr-2026-09-23.webp",
+      "metaTitle": "Новая ОС Rabbit живет в облаке и использует ваш ноутбук для ",
+      "metaDescription": "Rabbit, компания из Санта-Моники, производящая карманные компьютеры r1, выпустила OS3, агентную операционную систему. Он работает в облаке Rabbit и уп",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/"
+    },
+    {
       "id": "russia-s-internet-shutdowns-disrupt-warnings-abo-2026-09-23",
       "category": "Новости",
       "title": "Отключение интернета в России нарушает предупреждения о предстоящих атаках дронов",
