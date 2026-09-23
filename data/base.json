@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "critical-next-js-imageresponse-flaw-can-lead-to--2026-09-23",
+      "category": "Новости",
+      "title": "Критическая ошибка Next.js ImageResponse может привести к выполнению серверного кода через специально созданный ввод SVG",
+      "excerpt": "По словам Верселя, новая уязвимость безопасности в Next.js может позволить злоумышленникам запустить код на сервере через ImageResponse, функцию, которая генерирует Open Graph и другие изображения для предварительного просмотра в социальных сетях. Ри",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-next-js-imageresponse-flaw-can-lead-to--2026-09-23.webp",
+      "metaTitle": "Критическая ошибка Next.js ImageResponse может привести к вы",
+      "metaDescription": "По словам Верселя, новая уязвимость безопасности в Next.js может позволить злоумышленникам запустить код на сервере через ImageResponse, функцию, кото",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html"
+    },
+    {
+      "id": "vypusk-sistemnogo-menedzhera-systemd-262-2026-09-23",
+      "category": "Новости",
+      "title": "Выпуск системного менеджера systemd 262",
+      "excerpt": "После трёх месяцев разработки доступен релиз системного менеджера systemd 262. В новой версии реализовано встраивание в процесс минимального набора unit-файлов, обеспечена поддержка сборки со статическим связыванием, проведена интеграция c dm-clone д",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск системного менеджера systemd 262",
+      "metaDescription": "После трёх месяцев разработки доступен релиз системного менеджера systemd 262. В новой версии реализовано встраивание в процесс минимального набора un",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66326"
+    },
+    {
+      "id": "nedootsenennyy-proryv-huawei-kirin-9050-pro-obos-2026-09-23",
+      "category": "Новости",
+      "title": "Недооценённый прорыв: Huawei Kirin 9050 Pro обошёл 3-нм SoC Apple A17 Pro в Geekbench",
+      "excerpt": "Исследование Bernstein показывает, что Huawei сократила технологический разрыв с зарубежными конкурентами даже при использовании более старого техпроцесса.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nedootsenennyy-proryv-huawei-kirin-9050-pro-obos-2026-09-23.webp",
+      "metaTitle": "Недооценённый прорыв: Huawei Kirin 9050 Pro обошёл 3-нм SoC ",
+      "metaDescription": "Исследование Bernstein показывает, что Huawei сократила технологический разрыв с зарубежными конкурентами даже при использовании более старого техпроц",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437749-nedoocenennyi-proryv-huawei-kirin-9050-pro-obosel-3-nm-soc-apple-a17-pro-v-geekbench.html"
+    },
+    {
+      "id": "shinyhunters-claims-fbi-hack-demands-retraction--2026-09-23",
+      "category": "Новости",
+      "title": "ShinyHunters заявляет о взломе ФБР и требует опровержения отчета об угрозах",
+      "excerpt": "Группа киберпреступников недовольна своим описанием в отчете ФБР и угрожает раскрыть украденную информацию. Пост ShinyHunters заявляет о взломе ФБР и требует опровержения отчета об угрозах впервые появился на SecurityWeek.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/shinyhunters-claims-fbi-hack-demands-retraction--2026-09-23.webp",
+      "metaTitle": "ShinyHunters заявляет о взломе ФБР и требует опровержения от",
+      "metaDescription": "Группа киберпреступников недовольна своим описанием в отчете ФБР и угрожает раскрыть украденную информацию. Пост ShinyHunters заявляет о взломе ФБР и ",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/"
+    },
+    {
+      "id": "samsung-nachala-razdachu-finalnoy-stabilnoy-one--2026-09-23",
+      "category": "Новости",
+      "title": "Samsung начала раздачу финальной стабильной One UI 9 для Galaxy S26 в США",
+      "excerpt": "Первые пользователи T-Mobile в США уже получают новую оболочку на базе Android 17 с сентябрьским патчем безопасности 2026 года.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samsung-nachala-razdachu-finalnoy-stabilnoy-one--2026-09-23.webp",
+      "metaTitle": "Samsung начала раздачу финальной стабильной One UI 9 для Gal",
+      "metaDescription": "Первые пользователи T-Mobile в США уже получают новую оболочку на базе Android 17 с сентябрьским патчем безопасности 2026 года.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437751-samsung-nacala-razdacu-finalnoi-stabilnoi-one-ui-9-dlia-galaxy-s26-v-ssa.html"
+    },
+    {
+      "id": "m-a-nauchila-ii-agenta-muse-zvonit-ot-imeni-polz-2026-09-23",
+      "category": "Новости",
+      "title": "M**a научила ИИ-агента Muse звонить от имени пользователей — но иногда вместо него звонят люди",
+      "excerpt": "M**a Platforms делает ставку на развитие агентского ИИ, который позволяет пользователю делегировать профильному программному обеспечению выполнение функций по взаимодействию с внешними интернет-сервисами потребительского уровня. Как выяснило агентств",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/m-a-nauchila-ii-agenta-muse-zvonit-ot-imeni-polz-2026-09-23.webp",
+      "metaTitle": "M**a научила ИИ-агента Muse звонить от имени пользователей —",
+      "metaDescription": "M**a Platforms делает ставку на развитие агентского ИИ, который позволяет пользователю делегировать профильному программному обеспечению выполнение фу",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148892"
+    },
+    {
+      "id": "hakery-shinyhunters-zayavili-o-vzlome-fbr-ukrade-2026-09-23",
+      "category": "Новости",
+      "title": "Хакеры ShinyHunters заявили о взломе ФБР — украдены данные «почти всех» агентов и соискателей",
+      "excerpt": "Хакерская группировка ShinyHunters, получившая известность в связи с серией крупных взломов и инцидентов с вымогательством, заявила, что взломала системы ФБР США и похитила информацию о нескольких тысячах агентов и соискателей. Киберпреступники сообщ",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/hakery-shinyhunters-zayavili-o-vzlome-fbr-ukrade-2026-09-23.webp",
+      "metaTitle": "Хакеры ShinyHunters заявили о взломе ФБР — украдены данные «",
+      "metaDescription": "Хакерская группировка ShinyHunters, получившая известность в связи с серией крупных взломов и инцидентов с вымогательством, заявила, что взломала сист",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148897"
+    },
+    {
+      "id": "f5-patches-big-ip-apm-zero-day-flaw-exploited-in-2026-09-23",
+      "category": "Новости",
+      "title": "F5 исправляет уязвимость нулевого дня BIG-IP APM, использованную в атаках RCE",
+      "excerpt": "F5 выпустила обновления безопасности для устранения критической уязвимости нулевого дня BIG-IP APM, которая используется при атаках с удаленным выполнением кода. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/f5-patches-big-ip-apm-zero-day-flaw-exploited-in-2026-09-23.webp",
+      "metaTitle": "F5 исправляет уязвимость нулевого дня BIG-IP APM, использова",
+      "metaDescription": "F5 выпустила обновления безопасности для устранения критической уязвимости нулевого дня BIG-IP APM, которая используется при атаках с удаленным выполн",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+    },
+    {
+      "id": "one-more-thing-xiaomi-ne-stesnyaetsya-ispolzovat-2026-09-23",
+      "category": "Новости",
+      "title": "One more thing. Xiaomi не стесняется использовать легендарную фразу Стива Джобса для анонса нового смартфона",
+      "excerpt": "Компания объявила о специальном анонса перед сегодняшней презентацией, намекнув на возвращение необычного дизайна, которого не было в линейке Xiaomi с 2020 года.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/one-more-thing-xiaomi-ne-stesnyaetsya-ispolzovat-2026-09-23.webp",
+      "metaTitle": "One more thing. Xiaomi не стесняется использовать легендарну",
+      "metaDescription": "Компания объявила о специальном анонса перед сегодняшней презентацией, намекнув на возвращение необычного дизайна, которого не было в линейке Xiaomi с",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437753-one-more-thing-xiaomi-ne-stesniaetsia-ispolzovat-legendarnuiu-frazu-stiva-dzobsa-dlia-anonsa-novogo-smartfona.html"
+    },
+    {
+      "id": "rtk-tsod-zapustil-programmu-kompleksnoy-moderniz-2026-09-23",
+      "category": "Новости",
+      "title": "РТК-ЦОД запустил программу комплексной модернизации дата-центров без влияния на SLA клиентов",
+      "excerpt": "РТК-ЦОД, ИТ-сервис-провайдер полного цикла, запустил комплексную модернизацию инженерной инфраструктуры своей сети дата-центров. Работы будут выполняться по принципу «горячей замены» (hot-swap), что позволит обновлять оборудование и системы без сниже",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rtk-tsod-zapustil-programmu-kompleksnoy-moderniz-2026-09-23.webp",
+      "metaTitle": "РТК-ЦОД запустил программу комплексной модернизации дата-цен",
+      "metaDescription": "РТК-ЦОД, ИТ-сервис-провайдер полного цикла, запустил комплексную модернизацию инженерной инфраструктуры своей сети дата-центров. Работы будут выполнят",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148866"
+    },
+    {
+      "id": "xiaomi-vypustila-moschneyshuyu-vytyazhku-1700-pa-2026-09-23",
+      "category": "Новости",
+      "title": "Xiaomi выпустила мощнейшую вытяжку — 1700 Па, 17,5 м/с и ИИ-контроль дыма и перелива",
+      "excerpt": "Официальные продажи новой вытяжки Xiaomi стартуют сегодня, 23 сентября. Цена с учётом государственной субсидии составит 4598,5 юаня в Китае.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-vypustila-moschneyshuyu-vytyazhku-1700-pa-2026-09-23.webp",
+      "metaTitle": "Xiaomi выпустила мощнейшую вытяжку — 1700 Па, 17,5 м/с и ИИ-",
+      "metaDescription": "Официальные продажи новой вытяжки Xiaomi стартуют сегодня, 23 сентября. Цена с учётом государственной субсидии составит 4598,5 юаня в Китае.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437756-xiaomi-vypustila-moshhneisuiu-vytiazku-1700-pa-175-ms-i-ii-kontrol-dyma-i-pereliva.html"
+    },
+    {
+      "id": "critical-f5-big-ip-vulnerability-exploited-as-ze-2026-09-23",
+      "category": "Новости",
+      "title": "Критическая уязвимость F5 BIG-IP используется как нулевой день",
+      "excerpt": "Злоумышленники, не прошедшие проверку подлинности, могут отправлять вредоносный трафик на BIG-IP для удаленного выполнения кода. Пост «Критическая уязвимость BIG-IP F5, использованная как нулевой день», впервые появился на SecurityWeek.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-f5-big-ip-vulnerability-exploited-as-ze-2026-09-23.webp",
+      "metaTitle": "Критическая уязвимость F5 BIG-IP используется как нулевой де",
+      "metaDescription": "Злоумышленники, не прошедшие проверку подлинности, могут отправлять вредоносный трафик на BIG-IP для удаленного выполнения кода. Пост «Критическая уяз",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/"
+    },
+    {
+      "id": "500-c-5200-vt-ii-zaschita-ot-suhogo-goreniya-i-a-2026-09-23",
+      "category": "Новости",
+      "title": "500 °C, 5200 Вт, ИИ-защита от сухого горения и автоматическое отключение. Газовая плита Xiaomi поступила в продажу в Китае",
+      "excerpt": "Xiaomi Mijia Smart Gas Stove 3 Max стала первой газовой плитой бренда с искусственным интеллектом. Она умеет следить за температурой посуды, присутствием человека и самостоятельно отключать газ в опасных ситуациях.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/500-c-5200-vt-ii-zaschita-ot-suhogo-goreniya-i-a-2026-09-23.webp",
+      "metaTitle": "500 °C, 5200 Вт, ИИ-защита от сухого горения и автоматическо",
+      "metaDescription": "Xiaomi Mijia Smart Gas Stove 3 Max стала первой газовой плитой бренда с искусственным интеллектом. Она умеет следить за температурой посуды, присутств",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437757-500-c-5200-vt-ii-zashhita-ot-suxogo-goreniia-i-avtomaticeskoe-otkliucenie-gazovaia-plita-xiaomi-postupila-v-prodazu-v-kitae.html"
+    },
+    {
+      "id": "pitomtsy-novyy-rezhim-i-besshumnaya-perezaryadka-2026-09-23",
+      "category": "Новости",
+      "title": "Питомцы, новый режим и бесшумная перезарядка: для Counter-Strike 2 вышло крупное обновление",
+      "excerpt": "Не теряющий популярность условно-бесплатный соревновательный шутер Counter-Strike 2 от Valve получил крупное обновление. Основной особенностью патча стал по-настоящему новый режим. Источник изображений: Valve",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/pitomtsy-novyy-rezhim-i-besshumnaya-perezaryadka-2026-09-23.webp",
+      "metaTitle": "Питомцы, новый режим и бесшумная перезарядка: для Counter-St",
+      "metaDescription": "Не теряющий популярность условно-бесплатный соревновательный шутер Counter-Strike 2 от Valve получил крупное обновление. Основной особенностью патча с",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148900"
+    },
+    {
+      "id": "tehsbor-na-elektroniku-hotyat-sdelat-na-tret-niz-2026-09-23",
+      "category": "Новости",
+      "title": "Техсбор на электронику хотят сделать на треть ниже — но только для обладателей «Честного знака»",
+      "excerpt": "Производителям и поставщикам электроники, чья продукция получает маркировку по программе «Честный знак», могут ввести пониженную ставку технологического сбора, который будет взиматься с 1 декабря 2026 года — соответствующая инициатива сейчас обсуждае",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tehsbor-na-elektroniku-hotyat-sdelat-na-tret-niz-2026-09-23.webp",
+      "metaTitle": "Техсбор на электронику хотят сделать на треть ниже — но толь",
+      "metaDescription": "Производителям и поставщикам электроники, чья продукция получает маркировку по программе «Честный знак», могут ввести пониженную ставку технологическо",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148894"
+    },
+    {
       "id": "xiaomi-18-pro-i-18-pro-max-pervymi-poluchat-snap-2026-09-23",
       "category": "Новости",
       "title": "Xiaomi 18 Pro и 18 Pro Max первыми получат Snapdragon 8 Elite Gen 6 и Snapdragon 8 Elite Extreme Gen 6",
