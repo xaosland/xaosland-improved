@@ -1,6 +1,320 @@
 {
   "articles": [
     {
+      "id": "russia-s-internet-shutdowns-disrupt-warnings-abo-2026-09-23",
+      "category": "Новости",
+      "title": "Отключение интернета в России нарушает предупреждения о предстоящих атаках дронов",
+      "excerpt": "Растущие ограничения России на мобильный интернет и сотовую связь затрудняют получение людьми предупреждений о приближающихся украинских дронах и ракетных атаках.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/russia-s-internet-shutdowns-disrupt-warnings-abo-2026-09-23.webp",
+      "metaTitle": "Отключение интернета в России нарушает предупреждения о пред",
+      "metaDescription": "Растущие ограничения России на мобильный интернет и сотовую связь затрудняют получение людьми предупреждений о приближающихся украинских дронах и раке",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks"
+    },
+    {
+      "id": "nvidia-vypustila-drayver-s-podderzhkoy-aion-2-co-2026-09-23",
+      "category": "Новости",
+      "title": "Nvidia выпустила драйвер с поддержкой Aion 2, Control Resonant и The Witcher 3: Wild Hunt — Remastered",
+      "excerpt": "Nvidia выпустила драйвер GeForce Game Ready 617.14 WHQL. Он обеспечивает поддержку многопользовательской ролевой игры Aion 2, ролевого боевика Control Resonant и ремастера The Witcher 3: Wild Hunt. Источник изображения: Nvidia",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nvidia-vypustila-drayver-s-podderzhkoy-aion-2-co-2026-09-23.webp",
+      "metaTitle": "Nvidia выпустила драйвер с поддержкой Aion 2, Control Resona",
+      "metaDescription": "Nvidia выпустила драйвер GeForce Game Ready 617.14 WHQL. Он обеспечивает поддержку многопользовательской ролевой игры Aion 2, ролевого боевика Control",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148876"
+    },
+    {
+      "id": "researcher-drops-bigdiskbuster-zero-day-poc-that-2026-09-23",
+      "category": "Новости",
+      "title": "Исследователь отказался от PoC нулевого дня BigDiskBuster, который блокирует обновления Microsoft Defender",
+      "excerpt": "Инструмент нулевого дня для проверки концепции, который не позволяет Microsoft Defender устанавливать обновления платформы и сигнатур, заполняя все доступное дисковое пространство, был опубликован на GitHub 19 сентября. Инструмент под названием BigDi",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/researcher-drops-bigdiskbuster-zero-day-poc-that-2026-09-23.webp",
+      "metaTitle": "Исследователь отказался от PoC нулевого дня BigDiskBuster, к",
+      "metaDescription": "Инструмент нулевого дня для проверки концепции, который не позволяет Microsoft Defender устанавливать обновления платформы и сигнатур, заполняя все до",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
+    },
+    {
+      "id": "check-point-warns-of-management-server-zero-day--2026-09-23",
+      "category": "Новости",
+      "title": "Check Point предупреждает об использовании «нулевого дня» Management Server в атаках",
+      "excerpt": "Check Point Software выпустила экстренные исправления для устранения критической уязвимости сервера управления безопасностью, которая могла позволить злоумышленникам запускать произвольные сценарии. [...]",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/check-point-warns-of-management-server-zero-day--2026-09-23.webp",
+      "metaTitle": "Check Point предупреждает об использовании «нулевого дня» Ma",
+      "metaDescription": "Check Point Software выпустила экстренные исправления для устранения критической уязвимости сервера управления безопасностью, которая могла позволить ",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/"
+    },
+    {
+      "id": "critical-bifrost-ai-gateway-flaw-lets-attackers--2026-09-23",
+      "category": "Новости",
+      "title": "Критическая ошибка шлюза AI Bifrost позволяет злоумышленникам выполнять команды без учетных данных",
+      "excerpt": "Критическая уязвимость в Bifrost, AI-шлюзе с открытым исходным кодом, который направляет запросы более чем 20 провайдерам LLM, позволяет неаутентифицированному злоумышленнику запускать произвольные команды на сервере шлюза с помощью одного HTTP-запро",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/critical-bifrost-ai-gateway-flaw-lets-attackers--2026-09-23.webp",
+      "metaTitle": "Критическая ошибка шлюза AI Bifrost позволяет злоумышленника",
+      "metaDescription": "Критическая уязвимость в Bifrost, AI-шлюзе с открытым исходным кодом, который направляет запросы более чем 20 провайдерам LLM, позволяет неаутентифици",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
+    },
+    {
+      "id": "apple-predstavila-beats-360-pervye-polnorazmerny-2026-09-23",
+      "category": "Новости",
+      "title": "Apple представила Beats 360 — первые полноразмерные наушники с возможностью персонализации",
+      "excerpt": "Принадлежащая Apple компания Beats сегодня анонсировала Beats 360 — совершенно новую флагманскую модель полноразмерных наушников, предлагающую пользователям максимально индивидуальный подход к прослушиванию. Впервые в истории бренда наушники получили",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/apple-predstavila-beats-360-pervye-polnorazmerny-2026-09-23.webp",
+      "metaTitle": "Apple представила Beats 360 — первые полноразмерные наушники",
+      "metaDescription": "Принадлежащая Apple компания Beats сегодня анонсировала Beats 360 — совершенно новую флагманскую модель полноразмерных наушников, предлагающую пользов",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148877"
+    },
+    {
+      "id": "predstavlen-smartfon-oppo-find-x10-s-paroy-200-m-2026-09-23",
+      "category": "Новости",
+      "title": "Представлен смартфон Oppo Find X10 с парой 200-Мп камер и версия Find X10 E с 50-Мп трио",
+      "excerpt": "Компания Oppo представила флагманские смартфоны Oppo Find X10 и Oppo Find X10 E. Обе модели оснащены ёмкими кремний-углеродными аккумуляторами, процессорами MediaTek Dimensity и системами камер, разработанными совместно с Hasselblad. Смартфон Oppo Fi",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-smartfon-oppo-find-x10-s-paroy-200-m-2026-09-23.webp",
+      "metaTitle": "Представлен смартфон Oppo Find X10 с парой 200-Мп камер и ве",
+      "metaDescription": "Компания Oppo представила флагманские смартфоны Oppo Find X10 и Oppo Find X10 E. Обе модели оснащены ёмкими кремний-углеродными аккумуляторами, процес",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148878"
+    },
+    {
+      "id": "neyrogastarbaytery-openai-uvolila-sotrudnikov-za-2026-09-23",
+      "category": "Новости",
+      "title": "Нейрогастарбайтеры: OpenAI уволила сотрудников за использование ИИ при обучении ИИ",
+      "excerpt": "OpenAI нанимает сотни людей для анализа запросов пользователей к ChatGPT. Их задача — улучшить качество ответов, которые ChatGPT выдаёт пользователям: люди оценивают и анализируют сгенерированные ботом реплики. Издание 404 Media выяснило, что многих ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/neyrogastarbaytery-openai-uvolila-sotrudnikov-za-2026-09-23.webp",
+      "metaTitle": "Нейрогастарбайтеры: OpenAI уволила сотрудников за использова",
+      "metaDescription": "OpenAI нанимает сотни людей для анализа запросов пользователей к ChatGPT. Их задача — улучшить качество ответов, которые ChatGPT выдаёт пользователям:",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148880"
+    },
+    {
+      "id": "malicious-npm-package-poses-as-twilio-bug-bounty-2026-09-23",
+      "category": "Новости",
+      "title": "Вредоносный пакет npm выдает себя за зонд Twilio Bug Bounty и может похитить учетные данные",
+      "excerpt": "Исследователи кибербезопасности раскрыли подробности вредоносного пакета npm под названием «tw-pkgprobe-7731», который маскируется под инструмент безопасности, нацеленный на разработчиков, интегрирующих Twilio в свои приложения, одновременно пытаясь ",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/malicious-npm-package-poses-as-twilio-bug-bounty-2026-09-23.webp",
+      "metaTitle": "Вредоносный пакет npm выдает себя за зонд Twilio Bug Bounty ",
+      "metaDescription": "Исследователи кибербезопасности раскрыли подробности вредоносного пакета npm под названием «tw-pkgprobe-7731», который маскируется под инструмент безо",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
+    },
+    {
+      "id": "wordpress-issues-patch-for-critical-flaw-that-ca-2026-09-23",
+      "category": "Новости",
+      "title": "WordPress выпускает исправление для критической ошибки, которая может сделать возможным выполнение кода на некоторых серверах",
+      "excerpt": "WordPress исправил критическую ошибку в своем основном программном обеспечении, которая позволяет злоумышленнику без учетной записи заставить сайт загружать файл PHP из-за пределов папок его тем. На некоторых серверах это может пойти еще дальше, позв",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/wordpress-issues-patch-for-critical-flaw-that-ca-2026-09-23.webp",
+      "metaTitle": "WordPress выпускает исправление для критической ошибки, кото",
+      "metaDescription": "WordPress исправил критическую ошибку в своем основном программном обеспечении, которая позволяет злоумышленнику без учетной записи заставить сайт заг",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
+    },
+    {
+      "id": "new-closedquorum-windows-malware-uses-ai-for-att-2026-09-23",
+      "category": "Новости",
+      "title": "Новое вредоносное ПО ClosedQuorum для Windows использует искусственный интеллект для принятия решений об атаке",
+      "excerpt": "Новое вредоносное ПО для Windows под названием ClosedQuorum использует модели искусственного интеллекта Google Gemini, DeepSeek, Qwen и Mistral для автономного определения действий, которые необходимо предпринять на этапах атаки после компрометации. ",
+      "date": "2026-09-22",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-closedquorum-windows-malware-uses-ai-for-att-2026-09-23.webp",
+      "metaTitle": "Новое вредоносное ПО ClosedQuorum для Windows использует иск",
+      "metaDescription": "Новое вредоносное ПО для Windows под названием ClosedQuorum использует модели искусственного интеллекта Google Gemini, DeepSeek, Qwen и Mistral для ав",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/"
+    },
+    {
+      "id": "nu-teper-to-tochno-geforce-rtx-50-perestanut-gor-2026-09-23",
+      "category": "Новости",
+      "title": "Ну теперь то точно GeForce RTX 50 перестанут гореть? Карты Asus научились отключаться сразу, как только ток превысит пороговое значение",
+      "excerpt": "Видеокарты Asus, оснащённые фирменной технологией защиты Power Detector+, теперь смогут полностью отключаться сразу же, как только будет зафиксировано превышение порогового значения в системе питания.",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/nu-teper-to-tochno-geforce-rtx-50-perestanut-gor-2026-09-23.webp",
+      "metaTitle": "Ну теперь то точно GeForce RTX 50 перестанут гореть? Карты A",
+      "metaDescription": "Видеокарты Asus, оснащённые фирменной технологией защиты Power Detector+, теперь смогут полностью отключаться сразу же, как только будет зафиксировано",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437643-nu-teper-to-tocno-geforce-rtx-50-perestanut-goret-karty-asus-naucilis-otkliucatsia-srazu-kak-tolko-tok-prevysit-porogovoe-znacenie.html"
+    },
+    {
+      "id": "yandeks-otkryl-80-milliardnuyu-yazykovuyu-model--2026-09-23",
+      "category": "Новости",
+      "title": "Яндекс открыл 80-миллиардную языковую модель, обученную с нуля: AliceAI обходит DeepSeek и Nemotron по коду и олимпиадной математике при вдвое меньшем числе активных параметров",
+      "excerpt": "Яндекс опубликовал в открытом доступе языковую модель AliceAI-Foundation-80B-A3B-Base — эксперимент на пути к единой рассуждающей модели (ЕРМ), которая ляжет в основу агентных возможностей «Алисы AI».",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/yandeks-otkryl-80-milliardnuyu-yazykovuyu-model--2026-09-23.webp",
+      "metaTitle": "Яндекс открыл 80-миллиардную языковую модель, обученную с ну",
+      "metaDescription": "Яндекс опубликовал в открытом доступе языковую модель AliceAI-Foundation-80B-A3B-Base — эксперимент на пути к единой рассуждающей модели (ЕРМ), котора",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/22/437626-iandeks-otkryl-80-milliardnuiu-iazykovuiu-model-obucennuiu-s-nulia-aliceai-obxodit-deepseek-i-nemotron-po-kodu-i-olimpiadnoi-matematike-pri-vdvoe-mensem-cisle-aktivnyx-parametrov.html"
+    },
+    {
+      "id": "vypusk-mediapleera-vlc-3-0-24-s-ustraneniem-130--2026-09-23",
+      "category": "Новости",
+      "title": "Выпуск медиаплеера VLC 3.0.24 с устранением 130 уязвимостей",
+      "excerpt": "Представлен выпуск мультимедийного проигрывателя VLC 3.0.24. Код написан на языке Си и распространяется под лицензией LGPLv2.1. В VLC и во встроенных библиотеках устранено более 130 проблем с безопасностью, вызванных переполнениями буфера, обращением",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "игры",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Выпуск медиаплеера VLC 3.0.24 с устранением 130 уязвимостей",
+      "metaDescription": "Представлен выпуск мультимедийного проигрывателя VLC 3.0.24. Код написан на языке Си и распространяется под лицензией LGPLv2.1. В VLC и во встроенных ",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66322"
+    },
+    {
+      "id": "check-point-warns-of-management-server-zero-day--2026-09-23",
+      "category": "Новости",
+      "title": "Check Point предупреждает об использовании сервера управления нулевого дня в целевых атаках",
+      "excerpt": "Злоумышленники воспользовались ранее неизвестной уязвимостью в сервере управления безопасностью Check Point в ходе нескольких целевых атак 23 июля, сообщила компания. Уязвимость CVE-2026-93616 позволяет злоумышленнику, имеющему доступ к веб-службе се",
+      "date": "2026-09-22",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/check-point-warns-of-management-server-zero-day--2026-09-23.webp",
+      "metaTitle": "Check Point предупреждает об использовании сервера управлени",
+      "metaDescription": "Злоумышленники воспользовались ранее неизвестной уязвимостью в сервере управления безопасностью Check Point в ходе нескольких целевых атак 23 июля, со",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
+    },
+    {
       "id": "anthropic-predstavila-claude-opus-5-5-flagmanski-2026-09-23",
       "category": "Новости",
       "title": "Anthropic представила Claude Opus 5.5 — флагманский ИИ для всех, который дешевле и во многом не хуже Fable 5.1",
