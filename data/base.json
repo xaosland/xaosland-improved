@@ -1,6 +1,313 @@
 {
   "articles": [
     {
+      "id": "14-dney-na-odnoy-zaryadke-datchiki-chss-i-spo2-b-2026-09-23",
+      "category": "Новости",
+      "title": "14 дней на одной зарядке, датчики ЧСС и SpO2, более 150 режимов тренировок, новые функции безопасности. Представлены умные часы Xiaomi Watch S5 — дешевле 200 долларов",
+      "excerpt": "Вместе с новыми флагманскими смартфонами Xiaomi 18 Pro и Xiaomi 18 Pro Max сегодня компания Xiaomi представила умные часы Xiaomi Watch S5. Версия с фторэластомерным ремешком стоит 195 долларов, с ремешком из натуральной кожи — 225 долларов, а необычн",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/14-dney-na-odnoy-zaryadke-datchiki-chss-i-spo2-b-2026-09-23.webp",
+      "metaTitle": "14 дней на одной зарядке, датчики ЧСС и SpO2, более 150 режи",
+      "metaDescription": "Вместе с новыми флагманскими смартфонами Xiaomi 18 Pro и Xiaomi 18 Pro Max сегодня компания Xiaomi представила умные часы Xiaomi Watch S5. Версия с фт",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437864-14-dnei-na-odnoi-zariadke-datciki-css-i-spo2-bolee-150-rezimov-trenirovok-novye-funkcii-bezopasnosti-predstavleny-umnye-casy-xiaomi-watch-s5-desevle-200-dollarov.html"
+    },
+    {
+      "id": "v-steam-vyshla-demoversiya-dopros-nelineynogo-si-2026-09-23",
+      "category": "Новости",
+      "title": "В Steam вышла демоверсия Dopros — нелинейного симулятора допроса в тоталитарной антиутопии",
+      "excerpt": "Возглавляемая «увлечёнными техноведьмами» армянская студия с российскими корнями The Witches Circle объявила о выходе в цифровом магазине Steam демоверсии своего симулятора допроса с упором на сюжет Dopros. Источник изображений: The Witches Circle",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-steam-vyshla-demoversiya-dopros-nelineynogo-si-2026-09-23.webp",
+      "metaTitle": "В Steam вышла демоверсия Dopros — нелинейного симулятора доп",
+      "metaDescription": "Возглавляемая «увлечёнными техноведьмами» армянская студия с российскими корнями The Witches Circle объявила о выходе в цифровом магазине Steam демове",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148931"
+    },
+    {
+      "id": "infratrust-report-warns-network-management-syste-2026-09-23",
+      "category": "Новости",
+      "title": "Отчет InfraTrust предупреждает, что системы управления сетью подвергаются атакам",
+      "excerpt": "Злоумышленники все чаще нападают на системы управления, используемые для контроля корпоративной инфраструктуры, при этом несколько критических уязвимостей активно эксплуатируются до или вскоре после того, как поставщики раскрыли их. [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/infratrust-report-warns-network-management-syste-2026-09-23.webp",
+      "metaTitle": "Отчет InfraTrust предупреждает, что системы управления сетью",
+      "metaDescription": "Злоумышленники все чаще нападают на системы управления, используемые для контроля корпоративной инфраструктуры, при этом несколько критических уязвимо",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+    },
+    {
+      "id": "attackers-manipulate-ai-chatbots-in-mass-disinfo-2026-09-23",
+      "category": "Новости",
+      "title": "Злоумышленники манипулируют чат-ботами с искусственным интеллектом в ходе массовой дезинформации и фишинговой кампании",
+      "excerpt": "Злоумышленники отравляют ответы ChatGPT, Gemini и Google AI Review, заполняя Интернет вредоносными ссылками и данными, а затем оптимизируя контент.",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "dark reading"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Злоумышленники манипулируют чат-ботами с искусственным интел",
+      "metaDescription": "Злоумышленники отравляют ответы ChatGPT, Gemini и Google AI Review, заполняя Интернет вредоносными ссылками и данными, а затем оптимизируя контент.",
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign"
+    },
+    {
+      "id": "igrovoy-pk-za-14-tys-kotoryy-rastsvetaet-ot-nagr-2026-09-23",
+      "category": "Новости",
+      "title": "Игровой ПК за $14 тыс., который расцветает от нагрева: внутри Cherry Bloom посадили сакуру с 70 титановыми цветками",
+      "excerpt": "Все виды RGB-подсветки и других украшательств ПК меркнут перед компьютером Cherry Bloom от австралийской компании Aftershock PC. Этот игровой ПК с жидкостным охлаждением оснащён моделью дерева сакуры с 70 изготовленными вручную цветками из титанового",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/igrovoy-pk-za-14-tys-kotoryy-rastsvetaet-ot-nagr-2026-09-23.webp",
+      "metaTitle": "Игровой ПК за $14 тыс., который расцветает от нагрева: внутр",
+      "metaDescription": "Все виды RGB-подсветки и других украшательств ПК меркнут перед компьютером Cherry Bloom от австралийской компании Aftershock PC. Этот игровой ПК с жид",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148932"
+    },
+    {
+      "id": "bystraya-pochinka-korablya-crew-dragon-pozvolit--2026-09-23",
+      "category": "Новости",
+      "title": "Быстрая починка корабля Crew Dragon позволит отправить на МКС экипаж Crew-13 с россиянином уже 1 октября",
+      "excerpt": "NASA и SpaceX назначили на 1 октября запуск пилотируемой миссии Crew-13 к Международной космической станции. Старт c площадки SL40 на космодроме во Флориде намечен на 18:10 по московскому времени. Ранее миссию планировали запустить 12 сентября, однак",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "космос",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bystraya-pochinka-korablya-crew-dragon-pozvolit--2026-09-23.webp",
+      "metaTitle": "Быстрая починка корабля Crew Dragon позволит отправить на МК",
+      "metaDescription": "NASA и SpaceX назначили на 1 октября запуск пилотируемой миссии Crew-13 к Международной космической станции. Старт c площадки SL40 на космодроме во Фл",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148933"
+    },
+    {
+      "id": "amazon-pytaetsya-vernut-spetsialistov-po-ii-i-ob-2026-09-23",
+      "category": "Новости",
+      "title": "Amazon пытается вернуть специалистов по ИИ и облакам, которых недавно уволила",
+      "excerpt": "Компания Amazon предлагает бывшим сотрудникам вернуться на вновь открывшиеся вакансии, в том числе в подразделениях облачных вычислений и искусственного интеллекта. Об этом пишет издание Business Insider со ссылкой на электронные письма менеджеров по",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amazon-pytaetsya-vernut-spetsialistov-po-ii-i-ob-2026-09-23.webp",
+      "metaTitle": "Amazon пытается вернуть специалистов по ИИ и облакам, которы",
+      "metaDescription": "Компания Amazon предлагает бывшим сотрудникам вернуться на вновь открывшиеся вакансии, в том числе в подразделениях облачных вычислений и искусственно",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148934"
+    },
+    {
+      "id": "tsifrovye-rubli-nachali-ispolzovat-dlya-shtrafov-2026-09-23",
+      "category": "Новости",
+      "title": "Цифровые рубли начали использовать для штрафов",
+      "excerpt": "Цифровые рубли начали использовать для штрафов",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tsifrovye-rubli-nachali-ispolzovat-dlya-shtrafov-2026-09-23.webp",
+      "metaTitle": "Цифровые рубли начали использовать для штрафов",
+      "metaDescription": "Цифровые рубли начали использовать для штрафов",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/23/rubl/"
+    },
+    {
+      "id": "dostupna-detsentralizovannaya-sistema-otslezhiva-2026-09-23",
+      "category": "Новости",
+      "title": "Доступна децентрализованная система отслеживания ошибок git-bug 0.11",
+      "excerpt": "Опубликован выпуск проекта git-bug 0.11.0, развивающего систему отслеживания ошибок, хранящую информацию об проблемах и комментарии в форме объектов в репозитории Git. По аналогии с изменениями в исходном коде инструментарий git-bug позволяет помещат",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "opennet"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Доступна децентрализованная система отслеживания ошибок git-",
+      "metaDescription": "Опубликован выпуск проекта git-bug 0.11.0, развивающего систему отслеживания ошибок, хранящую информацию об проблемах и комментарии в форме объектов в",
+      "source": "OpenNET",
+      "sourceUrl": "https://www.opennet.ru/opennews/art.shtml?num=66330"
+    },
+    {
+      "id": "bryussel-nakonets-zapustit-sistemu-otsenki-ekous-2026-09-23",
+      "category": "Новости",
+      "title": "Брюссель наконец запустит систему оценки экоустойчивости дата-центров Евросоюза",
+      "excerpt": "Власти Евросоюза наконец утвердили давно обещанную систему присвоения экологических рейтингов дата-центрам. Весьма вероятно, что на следующем этапе будут введены и стандарты их минимальной эффективности, сообщает The Register. Еврокомиссия представил",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/bryussel-nakonets-zapustit-sistemu-otsenki-ekous-2026-09-23.webp",
+      "metaTitle": "Брюссель наконец запустит систему оценки экоустойчивости дат",
+      "metaDescription": "Власти Евросоюза наконец утвердили давно обещанную систему присвоения экологических рейтингов дата-центрам. Весьма вероятно, что на следующем этапе бу",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148923"
+    },
+    {
+      "id": "ryuk-ransomware-operator-gets-2-year-sentence-af-2026-09-23",
+      "category": "Новости",
+      "title": "Оператор программы-вымогателя Ryuk приговорен к 2 годам лишения свободы за вымогательство у жертв 1,2 миллиона долларов",
+      "excerpt": "Гражданин Армении и член банды-вымогателя Ryuk был приговорен к двум годам лишения свободы в федеральной тюрьме за участие в организации атак.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ryuk-ransomware-operator-gets-2-year-sentence-af-2026-09-23.webp",
+      "metaTitle": "Оператор программы-вымогателя Ryuk приговорен к 2 годам лише",
+      "metaDescription": "Гражданин Армении и член банды-вымогателя Ryuk был приговорен к двум годам лишения свободы в федеральной тюрьме за участие в организации атак.",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/ransomware-ryuk-sentenced-DOJ"
+    },
+    {
+      "id": "geely-predstavila-sverhbystruyu-ii-zaryadku-dlya-2026-09-23",
+      "category": "Новости",
+      "title": "Geely представила сверхбыструю ИИ-зарядку для электромобилей — с 10 до 70 % менее чем за пять минут",
+      "excerpt": "Компания Geely Automobile Holdings представила технологию зарядки электромобилей на базе искусственного интеллекта, которая, по её данным, позволяет зарядить аккумулятор с 10 % до 70 % менее чем за пять минут. Эта технология, использующая алгоритмы д",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/geely-predstavila-sverhbystruyu-ii-zaryadku-dlya-2026-09-23.webp",
+      "metaTitle": "Geely представила сверхбыструю ИИ-зарядку для электромобилей",
+      "metaDescription": "Компания Geely Automobile Holdings представила технологию зарядки электромобилей на базе искусственного интеллекта, которая, по её данным, позволяет з",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148935"
+    },
+    {
+      "id": "obnovlenie-windows-nachalo-lomat-kompyutery-2026-09-23",
+      "category": "Новости",
+      "title": "Обновление Windows начало ломать компьютеры",
+      "excerpt": "Обновление Windows начало ломать компьютеры",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/obnovlenie-windows-nachalo-lomat-kompyutery-2026-09-23.webp",
+      "metaTitle": "Обновление Windows начало ломать компьютеры",
+      "metaDescription": "Обновление Windows начало ломать компьютеры",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/23/gaming-windows/"
+    },
+    {
+      "id": "rossiyskim-shkolnikam-i-studentam-predlozhili-po-2026-09-23",
+      "category": "Новости",
+      "title": "Российским школьникам и студентам предложили попробовать себя в роли хакеров",
+      "excerpt": "Российским школьникам и студентам предложили попробовать себя в роли хакеров",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "lenta.ru"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskim-shkolnikam-i-studentam-predlozhili-po-2026-09-23.webp",
+      "metaTitle": "Российским школьникам и студентам предложили попробовать себ",
+      "metaDescription": "Российским школьникам и студентам предложили попробовать себя в роли хакеров",
+      "source": "Lenta.ru",
+      "sourceUrl": "https://lenta.ru/news/2026/09/23/rossiyskim-shkolnikam-i-studentam-predlozhili-poprobovat-sebya-v-roli-hakerov/"
+    },
+    {
+      "id": "openai-rasskazala-kak-budet-rabotat-s-nezavisimo-2026-09-23",
+      "category": "Новости",
+      "title": "OpenAI рассказала, как будет работать с независимой группой математиков",
+      "excerpt": "OpenAI впервые подробно рассказала о сотрудничестве с независимой Консультативной группой по математике и искусственному интеллекту (Advisory Group on Mathematics and Artificial Intelligence), о создании которой мы писали 22 сентября. Группа, созданн",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/openai-rasskazala-kak-budet-rabotat-s-nezavisimo-2026-09-23.webp",
+      "metaTitle": "OpenAI рассказала, как будет работать с независимой группой ",
+      "metaDescription": "OpenAI впервые подробно рассказала о сотрудничестве с независимой Консультативной группой по математике и искусственному интеллекту (Advisory Group on",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437863-openai-rasskazala-kak-budet-rabotat-s-nezavisimoi-gruppoi-matematikov.html"
+    },
+    {
       "id": "vpervye-v-rossii-sber-zapustil-oformlenie-semeyn-2026-09-23",
       "category": "Новости",
       "title": "Впервые в России: Сбер запустил оформление семейной налоговой выплаты через банковское приложение",
