@@ -1,6 +1,318 @@
 {
   "articles": [
     {
+      "id": "attackers-hit-check-point-management-servers-and-2026-09-24",
+      "category": "Новости",
+      "title": "Злоумышленники атаковали серверы управления Check Point и межсетевые экраны Spark, а также экземпляры F5 BIG-IP APM.",
+      "excerpt": "Check Point Software выпустила экстренные исправления критической уязвимости сервера управления Check Point (CVE-2026-93616), которая была использована еще 23 июля 2026 года. Компания также подтвердила, что уязвимость удаленного выполнения кода (RCE)",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/attackers-hit-check-point-management-servers-and-2026-09-24.webp",
+      "metaTitle": "Злоумышленники атаковали серверы управления Check Point и ме",
+      "metaDescription": "Check Point Software выпустила экстренные исправления критической уязвимости сервера управления Check Point (CVE-2026-93616), которая была использован",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/"
+    },
+    {
+      "id": "kitayskaya-deepseek-budet-aktivnee-perehodit-na--2026-09-24",
+      "category": "Новости",
+      "title": "Китайская DeepSeek будет активнее переходить на ИИ-ускорители Huawei",
+      "excerpt": "Власти КНР, если верить прежним публикациям, уже давно толкают компании с государственным участием к более активному использованию ИИ-чипов местного происхождения в собственной вычислительной инфраструктуре. Частные китайские компании могут пользоват",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "ИИ",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskaya-deepseek-budet-aktivnee-perehodit-na--2026-09-24.webp",
+      "metaTitle": "Китайская DeepSeek будет активнее переходить на ИИ-ускорител",
+      "metaDescription": "Власти КНР, если верить прежним публикациям, уже давно толкают компании с государственным участием к более активному использованию ИИ-чипов местного п",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148915"
+    },
+    {
+      "id": "po-samoy-nizhney-granitse-glava-avtovaza-raskryl-2026-09-24",
+      "category": "Новости",
+      "title": "«По самой нижней границе». Глава АвтоВАЗа раскрыл подробности о цене Lada Azimut",
+      "excerpt": "АвтоВАЗ намерен установить цену нового кроссовера Lada Azimut по нижней границе рыночного сегмента. Об этом сообщил глава компании Максим Соколов. Конкретную стоимость автомобиля производитель пока не называет.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/po-samoy-nizhney-granitse-glava-avtovaza-raskryl-2026-09-24.webp",
+      "metaTitle": "«По самой нижней границе». Глава АвтоВАЗа раскрыл подробност",
+      "metaDescription": "АвтоВАЗ намерен установить цену нового кроссовера Lada Azimut по нижней границе рыночного сегмента. Об этом сообщил глава компании Максим Соколов. Кон",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437813-po-samoi-niznei-granice-glava-avtovaza-raskryl-podrobnosti-o-cene-lada-azimut.html"
+    },
+    {
+      "id": "chrome-154-patches-108-vulnerabilities-2026-09-24",
+      "category": "Новости",
+      "title": "Chrome 154 исправляет 108 уязвимостей",
+      "excerpt": "Обновление браузера устраняет несколько критических проблем с безопасностью памяти и повреждением памяти. Пост Chrome 154 исправляет 108 уязвимостей впервые появился на SecurityWeek.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "железо",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/chrome-154-patches-108-vulnerabilities-2026-09-24.webp",
+      "metaTitle": "Chrome 154 исправляет 108 уязвимостей",
+      "metaDescription": "Обновление браузера устраняет несколько критических проблем с безопасностью памяти и повреждением памяти. Пост Chrome 154 исправляет 108 уязвимостей в",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/"
+    },
+    {
+      "id": "rossiyskaya-sputnikovaya-navigatsiya-stanet-poch-2026-09-24",
+      "category": "Новости",
+      "title": "Российская спутниковая навигация станет почти в три раза точнее: в 2027 году точность ГЛОНАСС вырастет до 2,8 метра",
+      "excerpt": "Точность российской спутниковой навигационной системы ГЛОНАСС в 2027 году должна повыситься почти втрое — с нынешних 8 до 2,8 метра. Об этом, как пишет ТАСС, сообщил генеральный директор Роскосмоса Дмитрий Баканов",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/rossiyskaya-sputnikovaya-navigatsiya-stanet-poch-2026-09-24.webp",
+      "metaTitle": "Российская спутниковая навигация станет почти в три раза точ",
+      "metaDescription": "Точность российской спутниковой навигационной системы ГЛОНАСС в 2027 году должна повыситься почти втрое — с нынешних 8 до 2,8 метра. Об этом, как пише",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437814-rossiiskaia-sputnikovaia-navigaciia-stanet-pocti-v-tri-raza-tocnee-v-2027-godu-tocnost-glonass-vyrastet-do-28-metra.html"
+    },
+    {
+      "id": "exploit-released-for-unpatched-ubuntu-linux-flaw-2026-09-24",
+      "category": "Новости",
+      "title": "Выпущен эксплойт для неисправленной уязвимости Ubuntu Linux, позволяющей выйти из корневого контейнера хоста",
+      "excerpt": "Функция use-after-free в подсистеме сокетов AF_UNIX ядра Linux может использоваться для выхода из контейнера и получения root-прав на хосте, сообщила охранная компания DepthFirst в исследовании, опубликованном 22 сентября. Уязвимость, отслеживаемая к",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/exploit-released-for-unpatched-ubuntu-linux-flaw-2026-09-24.webp",
+      "metaTitle": "Выпущен эксплойт для неисправленной уязвимости Ubuntu Linux,",
+      "metaDescription": "Функция use-after-free в подсистеме сокетов AF_UNIX ядра Linux может использоваться для выхода из контейнера и получения root-прав на хосте, сообщила ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html"
+    },
+    {
+      "id": "anthropic-and-openai-models-still-attempt-restri-2026-09-24",
+      "category": "Новости",
+      "title": "Антропные модели и модели OpenAI все еще пытаются ограничивать действия в тестах на безопасность",
+      "excerpt": "Во вторник Anthropic и OpenAI анонсировали новые модели, при этом обе компании, занимающиеся искусственным интеллектом (ИИ), отметили, что продолжают инвестировать в улучшение согласованности действий для борьбы с рискованным поведением. Opus 5.5, со",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "ИИ",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/anthropic-and-openai-models-still-attempt-restri-2026-09-24.webp",
+      "metaTitle": "Антропные модели и модели OpenAI все еще пытаются ограничива",
+      "metaDescription": "Во вторник Anthropic и OpenAI анонсировали новые модели, при этом обе компании, занимающиеся искусственным интеллектом (ИИ), отметили, что продолжают ",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html"
+    },
+    {
+      "id": "545-hackers-tested-it-first-now-xranges-for-ai-s-2026-09-24",
+      "category": "Новости",
+      "title": "545 хакеров протестировали его первыми. Теперь XRanges for AI оценивает вашего агента безопасности",
+      "excerpt": "Автономные агенты безопасности становятся все лучше в поиске ошибок. Ни у кого нет хорошего способа измерить, насколько хорошо. Направьте первый взгляд на реалистичную цель, и в результате вы получите отчет, который агент написал о себе: уверенная пр",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/545-hackers-tested-it-first-now-xranges-for-ai-s-2026-09-24.webp",
+      "metaTitle": "545 хакеров протестировали его первыми. Теперь XRanges for A",
+      "metaDescription": "Автономные агенты безопасности становятся все лучше в поиске ошибок. Ни у кого нет хорошего способа измерить, насколько хорошо. Направьте первый взгля",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html"
+    },
+    {
+      "id": "slishkom-mnogo-ii-chipov-slishkom-malo-pokupatel-2026-09-24",
+      "category": "Новости",
+      "title": "Слишком много ИИ-чипов, слишком мало покупателей: конкурентам Nvidia предрекли массовый исход с рынка",
+      "excerpt": "Эксперты Jon Peddie Research, которые исторически специализировались на анализе динамики рынка графических процессоров, в своём новом исследовании взялись за изучение судьбы многочисленных конкурентов Nvidia, которых в последние годы на волне ажиотаж",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/slishkom-mnogo-ii-chipov-slishkom-malo-pokupatel-2026-09-24.webp",
+      "metaTitle": "Слишком много ИИ-чипов, слишком мало покупателей: конкурента",
+      "metaDescription": "Эксперты Jon Peddie Research, которые исторически специализировались на анализе динамики рынка графических процессоров, в своём новом исследовании взя",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148921"
+    },
+    {
+      "id": "new-cpanel-flaw-lets-a-hosting-account-run-code--2026-09-24",
+      "category": "Новости",
+      "title": "Новый недостаток cPanel позволяет учетной записи хостинга запускать код от имени пользователя root и получать полный контроль над сервером",
+      "excerpt": "Ошибка в сервисах CalDAV и CardDAV cPanel позволяет любому, у кого есть учетная запись хостинга cPanel, запускать код от имени пользователя root и получать «полный контроль над сервером», заявила компания 22 сентября. Вторая ошибка в плагине WP Toolk",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "сети",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/new-cpanel-flaw-lets-a-hosting-account-run-code--2026-09-24.webp",
+      "metaTitle": "Новый недостаток cPanel позволяет учетной записи хостинга за",
+      "metaDescription": "Ошибка в сервисах CalDAV и CardDAV cPanel позволяет любому, у кого есть учетная запись хостинга cPanel, запускать код от имени пользователя root и пол",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html"
+    },
+    {
+      "id": "honeywell-ot-security-teams-embrace-ai-but-auton-2026-09-24",
+      "category": "Новости",
+      "title": "Honeywell: команды безопасности OT используют ИИ, но автономия все еще редка",
+      "excerpt": "Лишь 21% руководителей промышленной безопасности сообщают о полной инвентаризации ОТ-активов, хотя 88% называют свои программы зрелыми. Сообщение Honeywell: команды безопасности OT используют ИИ, но автономия все еще редка, впервые появилась на Secur",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "securityweek"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/honeywell-ot-security-teams-embrace-ai-but-auton-2026-09-24.webp",
+      "metaTitle": "Honeywell: команды безопасности OT используют ИИ, но автоном",
+      "metaDescription": "Лишь 21% руководителей промышленной безопасности сообщают о полной инвентаризации ОТ-активов, хотя 88% называют свои программы зрелыми. Сообщение Hone",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/"
+    },
+    {
+      "id": "svezhee-obnovlenie-windows-11-mozhet-vyzyvat-vyl-2026-09-24",
+      "category": "Новости",
+      "title": "Свежее обновление Windows 11 может вызывать вылеты Battlefield 6 и других игр",
+      "excerpt": "Обновление Windows 11 KB5124010 может вызывать сбои в ряде игр с системами противодействия мошенничеству. Пользователи сообщают, что после его установки Battlefield 6, Wardogs и некоторые другие проекты неожиданно завершают работу.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/svezhee-obnovlenie-windows-11-mozhet-vyzyvat-vyl-2026-09-24.webp",
+      "metaTitle": "Свежее обновление Windows 11 может вызывать вылеты Battlefie",
+      "metaDescription": "Обновление Windows 11 KB5124010 может вызывать сбои в ряде игр с системами противодействия мошенничеству. Пользователи сообщают, что после его установ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437844-svezee-obnovlenie-windows-11-vyzyvaet-vylety-battlefield-6-i-drugix-igr.html"
+    },
+    {
+      "id": "8500-mach-ip69-dva-ekrana-kamera-leica-s-dvumya--2026-09-24",
+      "category": "Новости",
+      "title": "8500 мАч, IP69, два экрана, камера Leica с двумя 200-мегапиксельными сенсорами — $1045. Представлен Xiaomi 18 Pro Max, первый в мире смартфон на Snapdragon 8 Elite Extreme Gen 6",
+      "excerpt": "Xiaomi представила флагманский смартфон Xiaomi 18 Pro Max. Это первый в мире смартфон на базе новейшей однокристальной системы Qualcomm Snapdragon 8 Elite Extreme Gen 6. Также это первый в мире смартфон с камерой Leica на базе сразу двух 200-мегапикс",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/8500-mach-ip69-dva-ekrana-kamera-leica-s-dvumya--2026-09-24.webp",
+      "metaTitle": "8500 мАч, IP69, два экрана, камера Leica с двумя 200-мегапик",
+      "metaDescription": "Xiaomi представила флагманский смартфон Xiaomi 18 Pro Max. Это первый в мире смартфон на базе новейшей однокристальной системы Qualcomm Snapdragon 8 E",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/8500-mac-ip69-dva-ekrana-kamera-leica-s-dvumia-200-megapikselnym-sensorami-1045-predstavlen-xiaomi-18-pro-max-pervyi-v-mire-smartfon-na-snapdragon-8-elite-extreme-gen-6.html"
+    },
+    {
+      "id": "v-moskve-ustanovyat-550-novyh-zaryadnyh-stantsiy-2026-09-24",
+      "category": "Новости",
+      "title": "В Москве установят 550 новых зарядных станций для электромобилей",
+      "excerpt": "В Москве установят еще 550 зарядных станций для электромобилей. Оборудование появится во всех административных округах столицы, сообщил заместитель мэра Москвы по вопросам транспорта и промышленности Максим Ликсутов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/v-moskve-ustanovyat-550-novyh-zaryadnyh-stantsiy-2026-09-24.webp",
+      "metaTitle": "В Москве установят 550 новых зарядных станций для электромоб",
+      "metaDescription": "В Москве установят еще 550 зарядных станций для электромобилей. Оборудование появится во всех административных округах столицы, сообщил заместитель мэ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437846-v-moskve-ustanoviat-550-novyx-zariadnyx-stancii-dlia-elektromobilei.html"
+    },
+    {
+      "id": "mark-tsukerberg-predstavil-umnyy-brelok-muse-cha-2026-09-24",
+      "category": "Новости",
+      "title": "Марк Цукерберг представил умный брелок Muse Charm, который может работать с ИИ-агентом Muse",
+      "excerpt": "Ощущение того, что спектр формфакторов умных устройств надо расширять, уже давно подогревалось представителями OpenAI, поэтому M**a Platforms решила действовать на опережение, представив на этой неделе ИИ-брелок Muse Charm, который позволяет пользова",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ИИ",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/mark-tsukerberg-predstavil-umnyy-brelok-muse-cha-2026-09-24.webp",
+      "metaTitle": "Марк Цукерберг представил умный брелок Muse Charm, который м",
+      "metaDescription": "Ощущение того, что спектр формфакторов умных устройств надо расширять, уже давно подогревалось представителями OpenAI, поэтому M**a Platforms решила д",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148949"
+    },
+    {
       "id": "arista-patches-actively-exploited-velocloud-orch-2026-09-24",
       "category": "Новости",
       "title": "Патчи Arista активно эксплуатировали нулевой день VeloCloud Orchestrator",
