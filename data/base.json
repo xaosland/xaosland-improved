@@ -1,6 +1,314 @@
 {
   "articles": [
     {
+      "id": "arista-patches-actively-exploited-velocloud-orch-2026-09-24",
+      "category": "Новости",
+      "title": "Патчи Arista активно эксплуатировали нулевой день VeloCloud Orchestrator",
+      "excerpt": "Arista Networks выпустила исправления безопасности для уязвимости нулевого дня, которая активно используется и влияет на локальные развертывания VeloCloud Orchestrator (VCO). [...]",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/arista-patches-actively-exploited-velocloud-orch-2026-09-24.webp",
+      "metaTitle": "Патчи Arista активно эксплуатировали нулевой день VeloCloud ",
+      "metaDescription": "Arista Networks выпустила исправления безопасности для уязвимости нулевого дня, которая активно используется и влияет на локальные развертывания VeloC",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/"
+    },
+    {
+      "id": "microsoft-udalit-tri-mini-prilozheniya-kotorye-e-2026-09-24",
+      "category": "Новости",
+      "title": "Microsoft удалит три мини-приложения, которые ещё недавно автоматически устанавливала в Windows 11 с Microsoft 365",
+      "excerpt": "Поддержка мини-приложений Calendar, People и Files прекратится 16 декабря 2026 года, сообщила Microsoft. В конце 2025 года они начали автоматически устанавливаться на компьютеры под Windows 11 с привязанными учётными записями Microsoft 365. Источник ",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/microsoft-udalit-tri-mini-prilozheniya-kotorye-e-2026-09-24.webp",
+      "metaTitle": "Microsoft удалит три мини-приложения, которые ещё недавно ав",
+      "metaDescription": "Поддержка мини-приложений Calendar, People и Files прекратится 16 декабря 2026 года, сообщила Microsoft. В конце 2025 года они начали автоматически ус",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148922"
+    },
+    {
+      "id": "compromised-memtensor-packages-deliver-sckit-cre-2026-09-24",
+      "category": "Новости",
+      "title": "Скомпрометированные пакеты MemTensor доставляют sckit Credential Stealer через npm и PyPI",
+      "excerpt": "Неизвестным злоумышленникам удалось скомпрометировать два законных пакета MemTensor в репозиториях npm и Python Package Index (PyPI), чтобы внедрить специфичный для платформы имплант на основе Go, получивший название sckit, предназначенный для Window",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/compromised-memtensor-packages-deliver-sckit-cre-2026-09-24.webp",
+      "metaTitle": "Скомпрометированные пакеты MemTensor доставляют sckit Creden",
+      "metaDescription": "Неизвестным злоумышленникам удалось скомпрометировать два законных пакета MemTensor в репозиториях npm и Python Package Index (PyPI), чтобы внедрить с",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
+    },
+    {
+      "id": "predstavleny-flagmany-xiaomi-18-pro-i-pro-max-s--2026-09-24",
+      "category": "Новости",
+      "title": "Представлены флагманы Xiaomi 18 Pro и Pro Max с новейшими Snapdragon, двойными 200-Мп камерами и тыльными экранами",
+      "excerpt": "Компания Xiaomi представила в Китае смартфоны Xiaomi 18 Pro и 18 Pro Max. Оба устройства получили новейшие флагманские процессоры Qualcomm, по две 200-Мп камеры Leica, аккумуляторы большой ёмкости, улучшенные основные экраны с функцией конфиденциальн",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavleny-flagmany-xiaomi-18-pro-i-pro-max-s--2026-09-24.webp",
+      "metaTitle": "Представлены флагманы Xiaomi 18 Pro и Pro Max с новейшими Sn",
+      "metaDescription": "Компания Xiaomi представила в Китае смартфоны Xiaomi 18 Pro и 18 Pro Max. Оба устройства получили новейшие флагманские процессоры Qualcomm, по две 200",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148928"
+    },
+    {
+      "id": "how-one-kubernetes-yaml-can-hand-over-a-gcp-orga-2026-09-24",
+      "category": "Новости",
+      "title": "Как один Kubernetes YAML может передать организацию GCP",
+      "excerpt": "Пользователь Kubernetes с ограниченными разрешениями потенциально может получить контроль над всей организацией Google Cloud, воспользовавшись полномочиями, предоставленными Google Kubernetes Config Connector. Варонис объясняет, как эта запутанная пр",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "bleepingcomputer"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/how-one-kubernetes-yaml-can-hand-over-a-gcp-orga-2026-09-24.webp",
+      "metaTitle": "Как один Kubernetes YAML может передать организацию GCP",
+      "metaDescription": "Пользователь Kubernetes с ограниченными разрешениями потенциально может получить контроль над всей организацией Google Cloud, воспользовавшись полномо",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/"
+    },
+    {
+      "id": "cofense-measures-employee-readiness-against-real-2026-09-24",
+      "category": "Новости",
+      "title": "Cofense измеряет готовность сотрудников к реальным фишинговым угрозам",
+      "excerpt": "Компания Cofense объявила о расширении своей платформы защиты от фишинга на основе искусственного интеллекта через командный центр Cofense, уровень оркестровки для измерения и отчетности. Новая панель компетенций измеряет, как сотрудники распознают ф",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/cofense-measures-employee-readiness-against-real-2026-09-24.webp",
+      "metaTitle": "Cofense измеряет готовность сотрудников к реальным фишинговы",
+      "metaDescription": "Компания Cofense объявила о расширении своей платформы защиты от фишинга на основе искусственного интеллекта через командный центр Cofense, уровень ор",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/23/cofense-command-center/"
+    },
+    {
+      "id": "tri-barabana-14-kg-belya-i-ii-xiaomi-vypustila-n-2026-09-24",
+      "category": "Новости",
+      "title": "Три барабана, 14 кг белья и ИИ: Xiaomi выпустила необычную умную стиральную машину, и она стоит всего 600 долларов",
+      "excerpt": "Xiaomi представила стиральную машину Mijia Healthy Wash Pro на 14 кг с тремя барабанами. Новинка дебютировала в двух версиях: обычная модель стоит 600 долларов, а вариант со встроенной сушкой — 745 долларов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/tri-barabana-14-kg-belya-i-ii-xiaomi-vypustila-n-2026-09-24.webp",
+      "metaTitle": "Три барабана, 14 кг белья и ИИ: Xiaomi выпустила необычную у",
+      "metaDescription": "Xiaomi представила стиральную машину Mijia Healthy Wash Pro на 14 кг с тремя барабанами. Новинка дебютировала в двух версиях: обычная модель стоит 600",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437858-tri-barabana-14-kg-belia-i-ii-xiaomi-vypustila-neobycnuiu-umnuiu-stiralnuiu-masinu-i-ona-stoit-vsego-600-dollarov.html"
+    },
+    {
+      "id": "titan-quest-2-ne-vyrvetsya-iz-rannego-dostupa-st-2026-09-24",
+      "category": "Новости",
+      "title": "Titan Quest 2 не вырвется из раннего доступа Steam и Epic Games Store в 2026 году — новый трейлер и дата выхода версии 1.0",
+      "excerpt": "Издательство THQ Nordic и разработчики из немецкой студии Grimlore Games наконец объявили точную дату выхода релизной версии своего мифологического ролевого экшена Titan Quest 2, находящегося в раннем доступе. Источник изображения: THQ Nordic",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "софт",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/titan-quest-2-ne-vyrvetsya-iz-rannego-dostupa-st-2026-09-24.webp",
+      "metaTitle": "Titan Quest 2 не вырвется из раннего доступа Steam и Epic Ga",
+      "metaDescription": "Издательство THQ Nordic и разработчики из немецкой студии Grimlore Games наконец объявили точную дату выхода релизной версии своего мифологического ро",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148929"
+    },
+    {
+      "id": "this-windows-malware-is-built-to-let-up-to-four--2026-09-24",
+      "category": "Новости",
+      "title": "Это вредоносное ПО для Windows создано, чтобы позволить до четырех моделей искусственного интеллекта голосовать за его следующий шаг",
+      "excerpt": "Вредоносное ПО для Windows под названием CLOSEDQUORUM создано для того, чтобы принимать заказы на основе голосования четырех моделей искусственного интеллекта, а не сервера злоумышленника, заявила Cisco Talos 22 сентября. Модели могут по своему выбор",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the hacker news"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/this-windows-malware-is-built-to-let-up-to-four--2026-09-24.webp",
+      "metaTitle": "Это вредоносное ПО для Windows создано, чтобы позволить до ч",
+      "metaDescription": "Вредоносное ПО для Windows под названием CLOSEDQUORUM создано для того, чтобы принимать заказы на основе голосования четырех моделей искусственного ин",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
+    },
+    {
+      "id": "kitayskie-proizvoditeli-pamyati-bolshe-ne-hotyat-2026-09-24",
+      "category": "Новости",
+      "title": "Китайские производители памяти больше не хотят просто собирать SSD — Biwin вложит $672 млн в передовую упаковку чипов",
+      "excerpt": "Китайские производители накопителей долгое время ограничивались сборкой SSD из готовых чипов и модулей. Но в последние годы они начали и самостоятельно упаковывать чипы памяти, а теперь осваивают более сложные технологии упаковки и тестирования микро",
+      "date": "2026-09-23",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/kitayskie-proizvoditeli-pamyati-bolshe-ne-hotyat-2026-09-24.webp",
+      "metaTitle": "Китайские производители памяти больше не хотят просто собира",
+      "metaDescription": "Китайские производители накопителей долгое время ограничивались сборкой SSD из готовых чипов и модулей. Но в последние годы они начали и самостоятельн",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148930"
+    },
+    {
+      "id": "deshevle-tolko-darom-xiaomi-vypustila-98-dyuymov-2026-09-24",
+      "category": "Новости",
+      "title": "Дешевле только даром? Xiaomi выпустила 98-дюймовый телевизор RGB-Mini LED за 1715 долларов, но в линейке Xiaomi S Pro RGB 2027 есть модели еще дешевле",
+      "excerpt": "Xiaomi представила свой первый телевизор с RGB-Mini LED — S Pro RGB 2027. Линейка представлена четырьмя моделями с диагоналями 65, 75, 85 и 98 дюймов. С учетом государственных субсидий в Китае их стоимость составляет 760, 890, 1115 и 1715 долларов.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/deshevle-tolko-darom-xiaomi-vypustila-98-dyuymov-2026-09-24.webp",
+      "metaTitle": "Дешевле только даром? Xiaomi выпустила 98-дюймовый телевизор",
+      "metaDescription": "Xiaomi представила свой первый телевизор с RGB-Mini LED — S Pro RGB 2027. Линейка представлена четырьмя моделями с диагоналями 65, 75, 85 и 98 дюймов.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437862-desevle-tolko-darom-xiaomi-vypustila-98-diuimovyi-televizor-rgb-mini-led-za-1715-dollarov-no-v-lineike-xiaomi-s-pro-rgb-2027-est-modeli-eshhe-desevle.html"
+    },
+    {
+      "id": "fbi-investigating-alleged-shinyhunters-breach-of-2026-09-24",
+      "category": "Новости",
+      "title": "ФБР расследует предполагаемое нарушение ShinyHunters своего сайта вакансий",
+      "excerpt": "Киберпреступная организация ShinyHunters во вторник заменила изображения агентства на сайте FBIjobs.gov фотографией покемона, который де-факто стал талисманом группировки.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "сети",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/fbi-investigating-alleged-shinyhunters-breach-of-2026-09-24.webp",
+      "metaTitle": "ФБР расследует предполагаемое нарушение ShinyHunters своего ",
+      "metaDescription": "Киберпреступная организация ShinyHunters во вторник заменила изображения агентства на сайте FBIjobs.gov фотографией покемона, который де-факто стал та",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach"
+    },
+    {
+      "id": "amazon-zovet-obratno-sotrudnikov-kotoryh-sama-uv-2026-09-24",
+      "category": "Новости",
+      "title": "Amazon зовёт обратно сотрудников, которых сама уволила",
+      "excerpt": "Amazon связывается с бывшими сотрудниками и предлагает им вернуться на открытые позиции по всей компании. В отдельных случаях рекрутеры предлагают сокращённый процесс собеседований перед офером. Один из рекрутеров AWS назвал такую инициативу \"Boomera",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/amazon-zovet-obratno-sotrudnikov-kotoryh-sama-uv-2026-09-24.webp",
+      "metaTitle": "Amazon зовёт обратно сотрудников, которых сама уволила",
+      "metaDescription": "Amazon связывается с бывшими сотрудниками и предлагает им вернуться на открытые позиции по всей компании. В отдельных случаях рекрутеры предлагают сок",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/23/437860-amazon-zovet-obratno-sotrudnikov-kotoryx-sama-uvolila.html"
+    },
+    {
+      "id": "ryuk-ransomware-operator-gets-2-year-sentence-af-2026-09-24",
+      "category": "Новости",
+      "title": "Оператор программы-вымогателя Ryuk приговорен к 2 годам лишения свободы за вымогательство у жертв 1,2 миллиона долларов",
+      "excerpt": "Гражданин Армении и член банды-вымогателя Ryuk был приговорен к двум годам лишения свободы в федеральной тюрьме за участие в организации атак.",
+      "date": "2026-09-23",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "софт",
+        "the record"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/ryuk-ransomware-operator-gets-2-year-sentence-af-2026-09-24.webp",
+      "metaTitle": "Оператор программы-вымогателя Ryuk приговорен к 2 годам лише",
+      "metaDescription": "Гражданин Армении и член банды-вымогателя Ryuk был приговорен к двум годам лишения свободы в федеральной тюрьме за участие в организации атак.",
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/ransomware-ryuk-sentenced-doj"
+    },
+    {
+      "id": "gigabyte-predstavila-igrovoy-32-dyuymovyy-monito-2026-09-24",
+      "category": "Новости",
+      "title": "Gigabyte представила игровой 32-дюймовый монитор Aorus Elite FO32U24G на базе Tandem WOLED с 4K@240 Гц и 1080p@480 Гц",
+      "excerpt": "Компания Gigabyte опубликовала полные технические характеристики игрового монитора Aorus Elite FO32U24G с диагональю 31,5 дюйма, оснащённого панелью LG Display типа Tandem WOLED четвёртого поколения. Монитор поддерживает двойной режим работы: разреше",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/gigabyte-predstavila-igrovoy-32-dyuymovyy-monito-2026-09-24.webp",
+      "metaTitle": "Gigabyte представила игровой 32-дюймовый монитор Aorus Elite",
+      "metaDescription": "Компания Gigabyte опубликовала полные технические характеристики игрового монитора Aorus Elite FO32U24G с диагональю 31,5 дюйма, оснащённого панелью L",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148948"
+    },
+    {
       "id": "control-resonant-okazalas-na-torrentah-za-den-do-2026-09-24",
       "category": "Новости",
       "title": "Control Resonant оказалась на торрентах за день до официального релиза",
