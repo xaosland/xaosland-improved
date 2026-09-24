@@ -1,6 +1,318 @@
 {
   "articles": [
     {
+      "id": "samaya-bolshaya-raketa-v-istorii-chelovechestva--2026-09-24",
+      "category": "Новости",
+      "title": "Самая большая ракета в истории человечества Starship готовится к старту: появились эффектные официальные фото",
+      "excerpt": "SpaceX продолжает подготовку Starship к 14-му испытательному полету. Полностью собранная система уже установлена на стартовой башне Starbase в Техасе.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/samaya-bolshaya-raketa-v-istorii-chelovechestva--2026-09-24.webp",
+      "metaTitle": "Самая большая ракета в истории человечества Starship готовит",
+      "metaDescription": "SpaceX продолжает подготовку Starship к 14-му испытательному полету. Полностью собранная система уже установлена на стартовой башне Starbase в Техасе.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437956-samaia-bolsaia-raketa-v-istorii-celovecestva-starship-gotovitsia-k-startu-poiavilis-effektnye-oficialnye-foto.html"
+    },
+    {
+      "id": "predstavlen-xiaomi-tv-s-pro-rgb-mini-led-2027-55-2026-09-24",
+      "category": "Новости",
+      "title": "Представлен Xiaomi TV S Pro RGB-Mini LED 2027: 5500 нит, 170 Вт звука и 360 Гц",
+      "excerpt": "Xiaomi представила в Китае телевизор TV S Pro RGB-Mini LED 2027 Supreme Edition — улучшенную версию стандартной модели с акцентом на яркость изображения и звук.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/predstavlen-xiaomi-tv-s-pro-rgb-mini-led-2027-55-2026-09-24.webp",
+      "metaTitle": "Представлен Xiaomi TV S Pro RGB-Mini LED 2027: 5500 нит, 170",
+      "metaDescription": "Xiaomi представила в Китае телевизор TV S Pro RGB-Mini LED 2027 Supreme Edition — улучшенную версию стандартной модели с акцентом на яркость изображен",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437959-predstavlen-xiaomi-tv-s-pro-rgb-mini-led-2027-5500-nit-170-vt-zvuka-i-360-gc.html"
+    },
+    {
+      "id": "oneplus-16-poluchit-periskop-i-novye-rezhimy-kam-2026-09-24",
+      "category": "Новости",
+      "title": "OnePlus 16 получит перископ и новые режимы камеры",
+      "excerpt": "OnePlus продолжает раскрывать характеристики флагманского OnePlus 16, презентация которого состоится в Китае в октябре. На этот раз компания подтвердила параметры камер и новые режимы съемки, которые должны стать одним из главных отличий модели от пр",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/oneplus-16-poluchit-periskop-i-novye-rezhimy-kam-2026-09-24.webp",
+      "metaTitle": "OnePlus 16 получит перископ и новые режимы камеры",
+      "metaDescription": "OnePlus продолжает раскрывать характеристики флагманского OnePlus 16, презентация которого состоится в Китае в октябре. На этот раз компания подтверди",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437961-oneplus-16-polucit-periskop-i-novye-rezimy-kamery.html"
+    },
+    {
+      "id": "xiaomi-18-pro-vyhodit-ne-tolko-v-kitae-no-i-na-m-2026-09-24",
+      "category": "Новости",
+      "title": "Xiaomi 18 Pro выходит не только в Китае, но и на мировом рынке, в отличие от предшественника",
+      "excerpt": "Xiaomi объявила о международном релизе серии Xiaomi 18 Pro, представленной накануне в Китае. Компания подтвердила, что Xiaomi 18 Pro Series выйдет на мировой рынок до конца 2026 года. Это заметное изменение стратегии: Xiaomi 17 Pro и 17 Pro Max, пред",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-pro-vyhodit-ne-tolko-v-kitae-no-i-na-m-2026-09-24.webp",
+      "metaTitle": "Xiaomi 18 Pro выходит не только в Китае, но и на мировом рын",
+      "metaDescription": "Xiaomi объявила о международном релизе серии Xiaomi 18 Pro, представленной накануне в Китае. Компания подтвердила, что Xiaomi 18 Pro Series выйдет на ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437964-xiaomi-18-pro-vyxodit-ne-tolko-v-kitae-no-i-mirovom-rynke-v-otlicie-ot-predsestvennika.html"
+    },
+    {
+      "id": "m-a-predstavila-oblegchennye-vr-ochki-za-1299-i--2026-09-24",
+      "category": "Новости",
+      "title": "M**a представила облегчённые VR-очки за $1299 и ИИ-очки без камер за $349",
+      "excerpt": "Для компании M**a Platforms проходящее на этой неделе мероприятие Connect должно было стать местом анонса новых носимых устройств, и самыми ожидаемыми новинками были VR-гарнитура Phoenix и лишённые камер ИИ-очки Luna. Эти ожидания компания оправдала,",
+      "date": "2026-09-24",
+      "readTime": 2,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/m-a-predstavila-oblegchennye-vr-ochki-za-1299-i--2026-09-24.webp",
+      "metaTitle": "M**a представила облегчённые VR-очки за $1299 и ИИ-очки без ",
+      "metaDescription": "Для компании M**a Platforms проходящее на этой неделе мероприятие Connect должно было стать местом анонса новых носимых устройств, и самыми ожидаемыми",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148952"
+    },
+    {
+      "id": "what-to-do-first-when-you-get-90-days-to-secure--2026-09-24",
+      "category": "Новости",
+      "title": "Что делать в первую очередь, когда у вас есть 90 дней на защиту данных ИИ-агента",
+      "excerpt": "В этом интервью Help Net Security Келли Херрелл, генеральный директор Nol8, объясняет, как агенты ИИ создают уязвимость внутри организаций. Первое, что нужно изучить, — это путь к данным: чего может достичь агент, что входит в его контекст и куда иду",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "безопасность",
+        "help net security"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/what-to-do-first-when-you-get-90-days-to-secure--2026-09-24.webp",
+      "metaTitle": "Что делать в первую очередь, когда у вас есть 90 дней на защ",
+      "metaDescription": "В этом интервью Help Net Security Келли Херрелл, генеральный директор Nol8, объясняет, как агенты ИИ создают уязвимость внутри организаций. Первое, чт",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security/"
+    },
+    {
+      "id": "200-megapikselnaya-kamera-zeiss-novogo-pokoleniy-2026-09-24",
+      "category": "Новости",
+      "title": "200-мегапиксельная камера Zeiss нового поколения, 8000 мА·ч, 90 Вт и 2K OLED на 144 Гц — $1300. Флагман Vivo X500 Pro Max уже предлагают с доставкой по миру",
+      "excerpt": "Задолго до анонса глобальной версии Vivo X500 Pro Max стал доступен для международных покупателей с доставкой во многие страны мира (России в списке нет) по цене от $1300.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/200-megapikselnaya-kamera-zeiss-novogo-pokoleniy-2026-09-24.webp",
+      "metaTitle": "200-мегапиксельная камера Zeiss нового поколения, 8000 мА·ч,",
+      "metaDescription": "Задолго до анонса глобальной версии Vivo X500 Pro Max стал доступен для международных покупателей с доставкой во многие страны мира (России в списке н",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437965-200-megapikselnaia-kamera-zeiss-novogo-pokoleniia-8000-mac-90-vt-i-2k-oled-na-144-gc-1300-flagman-vivo-x500-pro-max-uze-predlagaiut-s-dostavkoi-po-miru.html"
+    },
+    {
+      "id": "quake-champions-spustya-devyat-let-stala-eksklyu-2026-09-24",
+      "category": "Новости",
+      "title": "Quake Champions спустя девять лет стала эксклюзивом Steam — теперь за игру надо платить",
+      "excerpt": "Условно-бесплатный соревновательный шутер Quake Champions от разработчиков из студий id Software и Saber Interactive спустя четыре года после выхода из раннего доступа сменил модель распространения. Источник изображений: Bethesda Softworks",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "3dnews"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/quake-champions-spustya-devyat-let-stala-eksklyu-2026-09-24.webp",
+      "metaTitle": "Quake Champions спустя девять лет стала эксклюзивом Steam — ",
+      "metaDescription": "Условно-бесплатный соревновательный шутер Quake Champions от разработчиков из студий id Software и Saber Interactive спустя четыре года после выхода и",
+      "source": "3DNews",
+      "sourceUrl": "https://3dnews.ru/1148951"
+    },
+    {
+      "id": "starlink-ubiraet-glavnyy-barer-domashniy-komplek-2026-09-24",
+      "category": "Новости",
+      "title": "Starlink убирает главный барьер: домашний комплект Mini сделали бесплатным в Японии",
+      "excerpt": "Starlink объявила о новых условиях подключения спутникового домашнего интернета в Японии.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "сети",
+        "космос",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/starlink-ubiraet-glavnyy-barer-domashniy-komplek-2026-09-24.webp",
+      "metaTitle": "Starlink убирает главный барьер: домашний комплект Mini сдел",
+      "metaDescription": "Starlink объявила о новых условиях подключения спутникового домашнего интернета в Японии.",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437966-starlink-ubiraet-glavnyi-barer-domasnii-komplekt-mini-sdelali-besplatnym-v-iaponii.html"
+    },
+    {
+      "id": "staruyu-tehniku-mozhno-sdelat-umnoy-poyavilas-no-2026-09-24",
+      "category": "Новости",
+      "title": "Старую технику можно сделать «умной». Появилась новейшая розетка Xiaomi с Wi-Fi 6 за $9",
+      "excerpt": "Xiaomi Smart Socket 4 поступила в продажу в Китае по цене 59 юаней или 9 долларов. Новинка получила поддержку Wi-Fi 6 и интеграцию с экосистемой Xiaomi Hyper Smart Connect. Через приложение Mi Home можно удаленно включать и выключать подключенные уст",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "сети",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/staruyu-tehniku-mozhno-sdelat-umnoy-poyavilas-no-2026-09-24.webp",
+      "metaTitle": "Старую технику можно сделать «умной». Появилась новейшая роз",
+      "metaDescription": "Xiaomi Smart Socket 4 поступила в продажу в Китае по цене 59 юаней или 9 долларов. Новинка получила поддержку Wi-Fi 6 и интеграцию с экосистемой Xiaom",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437969-liubuiu-texniku-mozno-sdelat-umnoi-poiavilas-noveisaia-rozetka-xiaomi-s-wi-fi-6-za-9.html"
+    },
+    {
+      "id": "topovyy-xiaomi-18-pro-max-v-prozrachnom-korpuse--2026-09-24",
+      "category": "Новости",
+      "title": "Топовый Xiaomi 18 Pro Max в прозрачном корпусе показали вживую",
+      "excerpt": "Специальную прозрачную версию флагмана Xiaomi 18 Pro Max показали на живых фотографиях. Модель с 16 ГБ оперативной и 1 ТБ встроенной памяти оценена в 10 999 юаней.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "игры",
+        "железо",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/topovyy-xiaomi-18-pro-max-v-prozrachnom-korpuse--2026-09-24.webp",
+      "metaTitle": "Топовый Xiaomi 18 Pro Max в прозрачном корпусе показали вжив",
+      "metaDescription": "Специальную прозрачную версию флагмана Xiaomi 18 Pro Max показали на живых фотографиях. Модель с 16 ГБ оперативной и 1 ТБ встроенной памяти оценена в ",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437971-topovyi-xiaomi-18-pro-max-v-prozracnom-korpuse-pokazali-vzivuiu.html"
+    },
+    {
+      "id": "teper-kak-iphone-xiaomi-18-pro-podruzhili-s-appl-2026-09-24",
+      "category": "Новости",
+      "title": "Теперь как iPhone: Xiaomi 18 Pro подружили с Apple Watch — поддерживаются звонки, уведомления и данные о здоровье",
+      "excerpt": "На осенней презентации Xiaomi объявила, что смартфоны серии Xiaomi 18 Pro теперь могут подключаться к Apple Watch. Пользователи смогут принимать на часах звонки и уведомления, а также синхронизировать со смартфоном данные о физической активности и со",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/teper-kak-iphone-xiaomi-18-pro-podruzhili-s-appl-2026-09-24.webp",
+      "metaTitle": "Теперь как iPhone: Xiaomi 18 Pro подружили с Apple Watch — п",
+      "metaDescription": "На осенней презентации Xiaomi объявила, что смартфоны серии Xiaomi 18 Pro теперь могут подключаться к Apple Watch. Пользователи смогут принимать на ча",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437973-teper-kak-iphone-xiaomi-18-pro-podruzili-s-apple-watch-podderzivaiutsia-zvonki-uvedomleniia-i-dannye-o-zdorove.html"
+    },
+    {
+      "id": "xiaomi-18-fold-stal-samym-bystroprodavaemym-skla-2026-09-24",
+      "category": "Новости",
+      "title": "Xiaomi 18 Fold стал самым быстропродаваемым складным смартфоном компании и обошел предшественника на 300%",
+      "excerpt": "По словам главы Xiaomi Лу Вэйбина, в первый день продаж Xiaomi 18 Fold стартовые продажи смартфона оказались на 300% выше показателя его предшественника — более крупного складного аппарата.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/xiaomi-18-fold-stal-samym-bystroprodavaemym-skla-2026-09-24.webp",
+      "metaTitle": "Xiaomi 18 Fold стал самым быстропродаваемым складным смартфо",
+      "metaDescription": "По словам главы Xiaomi Лу Вэйбина, в первый день продаж Xiaomi 18 Fold стартовые продажи смартфона оказались на 300% выше показателя его предшественни",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437976-xiaomi-18-fold-stal-samym-bystroprodavaemym-skladnym-smartfonom-kompanii-i-obosel-predsestvennika-na-300.html"
+    },
+    {
+      "id": "prozrachnye-xiaomi-18-pro-smeli-s-prilavkov-perv-2026-09-24",
+      "category": "Новости",
+      "title": "Прозрачные Xiaomi 18 Pro смели с прилавков: первая партия смартфона быстро закончилась",
+      "excerpt": "На осенней презентации компания представила специальные прозрачные версии Xiaomi 18 Pro и Xiaomi 18 Pro Max. По словам Лу Вэйбина, первая партия смартфонов была быстро распродана. Особый интерес вызывает дизайн устройств с прозрачной задней панелью и",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "железо",
+        "софт",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "/images/news/prozrachnye-xiaomi-18-pro-smeli-s-prilavkov-perv-2026-09-24.webp",
+      "metaTitle": "Прозрачные Xiaomi 18 Pro смели с прилавков: первая партия см",
+      "metaDescription": "На осенней презентации компания представила специальные прозрачные версии Xiaomi 18 Pro и Xiaomi 18 Pro Max. По словам Лу Вэйбина, первая партия смарт",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437977-prozracnye-xiaomi-18-pro-smeli-s-prilavkov-pervaia-partiia-smartfona-bystro-zakoncilas.html"
+    },
+    {
+      "id": "tesla-sluchayno-pokazala-robota-optimus-gen-3-do-2026-09-24",
+      "category": "Новости",
+      "title": "Tesla случайно показала робота Optimus Gen 3 до официального анонса",
+      "excerpt": "Компания Tesla случайно показала изображения новейшего человекоподобного робота Optimus Gen 3, которые были обнаружены в приложении Tesla для смартфонов.",
+      "date": "2026-09-24",
+      "readTime": 1,
+      "tags": [
+        "новости",
+        "софт",
+        "мобильное",
+        "ixbt"
+      ],
+      "featured": false,
+      "popular": false,
+      "image": "",
+      "metaTitle": "Tesla случайно показала робота Optimus Gen 3 до официального",
+      "metaDescription": "Компания Tesla случайно показала изображения новейшего человекоподобного робота Optimus Gen 3, которые были обнаружены в приложении Tesla для смартфон",
+      "source": "IXBT",
+      "sourceUrl": "https://www.ixbt.com/news/2026/09/24/437980-tesla-slucaino-pokazala-robota-optimus-gen-3-do-oficialnogo-anonsa.html"
+    },
+    {
       "id": "attackers-hit-check-point-management-servers-and-2026-09-24",
       "category": "Новости",
       "title": "Злоумышленники атаковали серверы управления Check Point и межсетевые экраны Spark, а также экземпляры F5 BIG-IP APM.",
